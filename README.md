@@ -1,152 +1,372 @@
 # List of Papers
+- (2023/09) - Point-Bind &amp; Point-LLM: Aligning Point Cloud with Multi-modality for 3D   Understanding, Generation, and Instruction Following - [[Arxiv](https://arxiv.org/abs/2309.00615)] [[QA](./papers/2309.00615.md)].
+- (2023/09) - CityDreamer: Compositional Generative Model of Unbounded 3D Cities - [[Arxiv](https://arxiv.org/abs/2309.00610)] [[QA](./papers/2309.00610.md)].
+- (2023/09) - VideoGen: A Reference-Guided Latent Diffusion Approach for High   Definition Text-to-Video Generation - [[Arxiv](https://arxiv.org/abs/2309.00398)] [[QA](./papers/2309.00398.md)].
+- (2023/09) - Large Content And Behavior Models To Understand, Simulate, And Optimize   Content And Behavior - [[Arxiv](https://arxiv.org/abs/2309.00359)] [[QA](./papers/2309.00359.md)].
+- (2023/09) - RLAIF: Scaling Reinforcement Learning from Human Feedback with AI   Feedback - [[Arxiv](https://arxiv.org/abs/2309.00267)] [[QA](./papers/2309.00267.md)].
 - (2023/08) - YaRN: Efficient Context Window Extension of Large Language Models - [[Arxiv](https://arxiv.org/abs/2309.00071)] [[QA](./papers/2309.00071.md)].
-- (2023/07) - Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech
-  Prompts - [[Arxiv](https://arxiv.org/abs/2307.07218)] [[QA](./papers/2307.07218.md)].
+- (2023/08) - FACET: Fairness in Computer Vision Evaluation Benchmark - [[Arxiv](https://arxiv.org/abs/2309.00035)] [[QA](./papers/2309.00035.md)].
+- (2023/08) - GNFactor: Multi-Task Real Robot Learning with Generalizable Neural   Feature Fields - [[Arxiv](https://arxiv.org/abs/2308.16891)] [[QA](./papers/2308.16891.md)].
+- (2023/08) - The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122   Language Variants - [[Arxiv](https://arxiv.org/abs/2308.16884)] [[QA](./papers/2308.16884.md)].
+- (2023/08) - SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame   Interpolation - [[Arxiv](https://arxiv.org/abs/2308.16876)] [[QA](./papers/2308.16876.md)].
+- (2023/08) - Can Programming Languages Boost Each Other via Instruction Tuning? - [[Arxiv](https://arxiv.org/abs/2308.16824)] [[QA](./papers/2308.16824.md)].
+- (2023/08) - Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size   HD Images - [[Arxiv](https://arxiv.org/abs/2308.16582)] [[QA](./papers/2308.16582.md)].
+- (2023/08) - MVDream: Multi-view Diffusion for 3D Generation - [[Arxiv](https://arxiv.org/abs/2308.16512)] [[QA](./papers/2308.16512.md)].
+- (2023/08) - BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual   Pragmatic Knowledge - [[Arxiv](https://arxiv.org/abs/2308.16458)] [[QA](./papers/2308.16458.md)].
+- (2023/08) - Emergence of Segmentation with Minimalistic White-Box Transformers - [[Arxiv](https://arxiv.org/abs/2308.16271)] [[QA](./papers/2308.16271.md)].
+- (2023/08) - Active Neural Mapping - [[Arxiv](https://arxiv.org/abs/2308.16246)] [[QA](./papers/2308.16246.md)].
+- (2023/08) - Learning Vision-based Pursuit-Evasion Robot Policies - [[Arxiv](https://arxiv.org/abs/2308.16185)] [[QA](./papers/2308.16185.md)].
+- (2023/08) - LM-Infinite: Simple On-the-Fly Length Generalization for Large Language   Models - [[Arxiv](https://arxiv.org/abs/2308.16137)] [[QA](./papers/2308.16137.md)].
+- (2023/08) - RoboTAP: Tracking Arbitrary Points for Few-Shot Visual Imitation - [[Arxiv](https://arxiv.org/abs/2308.15975)] [[QA](./papers/2308.15975.md)].
+- (2023/08) - WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model - [[Arxiv](https://arxiv.org/abs/2308.15962)] [[QA](./papers/2308.15962.md)].
+- (2023/08) - LLaSM: Large Language and Speech Model - [[Arxiv](https://arxiv.org/abs/2308.15930)] [[QA](./papers/2308.15930.md)].
+- (2023/08) - WeatherBench 2: A benchmark for the next generation of data-driven   global weather models - [[Arxiv](https://arxiv.org/abs/2308.15560)] [[QA](./papers/2308.15560.md)].
+- (2023/08) - Evaluation and Analysis of Hallucination in Large Vision-Language Models - [[Arxiv](https://arxiv.org/abs/2308.15126)] [[QA](./papers/2308.15126.md)].
+- (2023/08) - LLM-Based Human-Robot Collaboration Framework for Manipulation Tasks - [[Arxiv](https://arxiv.org/abs/2308.14972)] [[QA](./papers/2308.14972.md)].
+- (2023/08) - MedAlign: A Clinician-Generated Dataset for Instruction Following with   Electronic Medical Records - [[Arxiv](https://arxiv.org/abs/2308.14089)] [[QA](./papers/2308.14089.md)].
+- (2023/08) - ORES: Open-vocabulary Responsible Visual Synthesis - [[Arxiv](https://arxiv.org/abs/2308.13785)] [[QA](./papers/2308.13785.md)].
+- (2023/08) - ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon   Sequential Task Planning - [[Arxiv](https://arxiv.org/abs/2308.13724)] [[QA](./papers/2308.13724.md)].
+- (2023/08) - Eventful Transformers: Leveraging Temporal Redundancy in Vision   Transformers - [[Arxiv](https://arxiv.org/abs/2308.13494)] [[QA](./papers/2308.13494.md)].
+- (2023/08) - Position-Enhanced Visual Instruction Tuning for Multimodal Large   Language Models - [[Arxiv](https://arxiv.org/abs/2308.13437)] [[QA](./papers/2308.13437.md)].
+- (2023/08) - Nougat: Neural Optical Understanding for Academic Documents - [[Arxiv](https://arxiv.org/abs/2308.13418)] [[QA](./papers/2308.13418.md)].
+- (2023/08) - SoTaNa: The Open-Source Software Development Assistant - [[Arxiv](https://arxiv.org/abs/2308.13416)] [[QA](./papers/2308.13416.md)].
+- (2023/08) - Relighting Neural Radiance Fields with Shadow and Highlight Hints - [[Arxiv](https://arxiv.org/abs/2308.13404)] [[QA](./papers/2308.13404.md)].
+- (2023/08) - OmniQuant: Omnidirectionally Calibrated Quantization for Large Language   Models - [[Arxiv](https://arxiv.org/abs/2308.13137)] [[QA](./papers/2308.13137.md)].
+- (2023/08) - MLLM-DataEngine: An Iterative Refinement Approach for MLLM - [[Arxiv](https://arxiv.org/abs/2308.13566)] [[QA](./papers/2308.13566.md)].
+- (2023/08) - Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities - [[Arxiv](https://arxiv.org/abs/2308.12966)] [[QA](./papers/2308.12966.md)].
+- (2023/08) - Towards Realistic Zero-Shot Classification via Self Structural Semantic   Alignment - [[Arxiv](https://arxiv.org/abs/2308.12960)] [[QA](./papers/2308.12960.md)].
+- (2023/08) - Can Linguistic Knowledge Improve Multimodal Alignment in Vision-Language   Pretraining? - [[Arxiv](https://arxiv.org/abs/2308.12898)] [[QA](./papers/2308.12898.md)].
+- (2023/08) - VIGC: Visual Instruction Generation and Correction - [[Arxiv](https://arxiv.org/abs/2308.12714)] [[QA](./papers/2308.12714.md)].
+- (2023/08) - CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from   Unbounded Synthesized Images - [[Arxiv](https://arxiv.org/abs/2308.12288)] [[QA](./papers/2308.12288.md)].
+- (2023/08) - Diffusion Language Models Can Perform Many Tasks with Scaling and   Instruction-Finetuning - [[Arxiv](https://arxiv.org/abs/2308.12219)] [[QA](./papers/2308.12219.md)].
+- (2023/08) - StoryBench: A Multifaceted Benchmark for Continuous Story Visualization - [[Arxiv](https://arxiv.org/abs/2308.11606)] [[QA](./papers/2308.11606.md)].
+- (2023/08) - ProAgent: Building Proactive Cooperative AI with Large Language Models - [[Arxiv](https://arxiv.org/abs/2308.11339)] [[QA](./papers/2308.11339.md)].
+- (2023/08) - ROSGPT_Vision: Commanding Robots Using Only Language Models' Prompts - [[Arxiv](https://arxiv.org/abs/2308.11236)] [[QA](./papers/2308.11236.md)].
+- (2023/08) - WanJuan: A Comprehensive Multimodal Dataset for Advancing English and   Chinese Large Models - [[Arxiv](https://arxiv.org/abs/2308.10755)] [[QA](./papers/2308.10755.md)].
+- (2023/08) - On the Adversarial Robustness of Multi-Modal Foundation Models - [[Arxiv](https://arxiv.org/abs/2308.10741)] [[QA](./papers/2308.10741.md)].
+- (2023/08) - StableLLaVA: Enhanced Visual Instruction Tuning with Synthesized   Image-Dialogue Data - [[Arxiv](https://arxiv.org/abs/2308.10253)] [[QA](./papers/2308.10253.md)].
+- (2023/08) - ViT-Lens: Towards Omni-modal Representations - [[Arxiv](https://arxiv.org/abs/2308.10185)] [[QA](./papers/2308.10185.md)].
+- (2023/08) - ExpeL: LLM Agents Are Experiential Learners - [[Arxiv](https://arxiv.org/abs/2308.10144)] [[QA](./papers/2308.10144.md)].
+- (2023/08) - March in Chat: Interactive Prompting for Remote Embodied Referring   Expression - [[Arxiv](https://arxiv.org/abs/2308.10141)] [[QA](./papers/2308.10141.md)].
+- (2023/08) - Tackling Vision Language Tasks Through Learning Inner Monologues - [[Arxiv](https://arxiv.org/abs/2308.09970)] [[QA](./papers/2308.09970.md)].
+- (2023/08) - BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual   Questions - [[Arxiv](https://arxiv.org/abs/2308.09936)] [[QA](./papers/2308.09936.md)].
+- (2023/08) - PUMGPT: A Large Vision-Language Model for Product Understanding - [[Arxiv](https://arxiv.org/abs/2308.09568)] [[QA](./papers/2308.09568.md)].
+- (2023/08) - TeCH: Text-guided Reconstruction of Lifelike Clothed Humans - [[Arxiv](https://arxiv.org/abs/2308.08545)] [[QA](./papers/2308.08545.md)].
+- (2023/08) - Dual-Stream Diffusion Net for Text-to-Video Generation - [[Arxiv](https://arxiv.org/abs/2308.08316)] [[QA](./papers/2308.08316.md)].
+- (2023/08) - SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes - [[Arxiv](https://arxiv.org/abs/2308.08258)] [[QA](./papers/2308.08258.md)].
+- (2023/08) - DragNUWA: Fine-grained Control in Video Generation by Integrating Text,   Image, and Trajectory - [[Arxiv](https://arxiv.org/abs/2308.08089)] [[QA](./papers/2308.08089.md)].
+- (2023/08) - Teach LLMs to Personalize -- An Approach inspired by Writing Education - [[Arxiv](https://arxiv.org/abs/2308.07968)] [[QA](./papers/2308.07968.md)].
+- (2023/08) - CoDeF: Content Deformation Fields for Temporally Consistent Video   Processing - [[Arxiv](https://arxiv.org/abs/2308.07926)] [[QA](./papers/2308.07926.md)].
+- (2023/08) - RAVEN: In-Context Learning with Retrieval Augmented Encoder-Decoder   Language Models - [[Arxiv](https://arxiv.org/abs/2308.07922)] [[QA](./papers/2308.07922.md)].
+- (2023/08) - Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with   Code-based Self-Verification - [[Arxiv](https://arxiv.org/abs/2308.07921)] [[QA](./papers/2308.07921.md)].
+- (2023/08) - Relightable and Animatable Neural Avatar from Sparse-View Video - [[Arxiv](https://arxiv.org/abs/2308.07903)] [[QA](./papers/2308.07903.md)].
+- (2023/08) - Link-Context Learning for Multimodal LLMs - [[Arxiv](https://arxiv.org/abs/2308.07891)] [[QA](./papers/2308.07891.md)].
+- (2023/08) - Learning to Identify Critical States for Reinforcement Learning from   Videos - [[Arxiv](https://arxiv.org/abs/2308.07795)] [[QA](./papers/2308.07795.md)].
+- (2023/08) - Text Injection for Capitalization and Turn-Taking Prediction in Speech   Models - [[Arxiv](https://arxiv.org/abs/2308.07395)] [[QA](./papers/2308.07395.md)].
+- (2023/08) - Platypus: Quick, Cheap, and Powerful Refinement of LLMs - [[Arxiv](https://arxiv.org/abs/2308.07317)] [[QA](./papers/2308.07317.md)].
+- (2023/08) - Jurassic World Remake: Bringing Ancient Fossils Back to Life via   Zero-Shot Long Image-to-Image Translation - [[Arxiv](https://arxiv.org/abs/2308.07316)] [[QA](./papers/2308.07316.md)].
+- (2023/08) - The Devil is in the Errors: Leveraging Large Language Models for   Fine-grained Machine Translation Evaluation - [[Arxiv](https://arxiv.org/abs/2308.07286)] [[QA](./papers/2308.07286.md)].
+- (2023/08) - RestoreFormer++: Towards Real-World Blind Face Restoration from   Undegraded Key-Value Pairs - [[Arxiv](https://arxiv.org/abs/2308.07228)] [[QA](./papers/2308.07228.md)].
+- (2023/08) - OctoPack: Instruction Tuning Code Large Language Models - [[Arxiv](https://arxiv.org/abs/2308.07124)] [[QA](./papers/2308.07124.md)].
+- (2023/08) - CausalLM is not optimal for in-context learning - [[Arxiv](https://arxiv.org/abs/2308.06912)] [[QA](./papers/2308.06912.md)].
+- (2023/08) - SpeechX: Neural Codec Language Model as a Versatile Speech Transformer - [[Arxiv](https://arxiv.org/abs/2308.06873)] [[QA](./papers/2308.06873.md)].
+- (2023/08) - IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image   Diffusion Models - [[Arxiv](https://arxiv.org/abs/2308.06721)] [[QA](./papers/2308.06721.md)].
+- (2023/08) - VisIT-Bench: A Benchmark for Vision-Language Instruction Following   Inspired by Real-World Use - [[Arxiv](https://arxiv.org/abs/2308.06595)] [[QA](./papers/2308.06595.md)].
+- (2023/08) - Detecting and Preventing Hallucinations in Large Vision Language Models - [[Arxiv](https://arxiv.org/abs/2308.06394)] [[QA](./papers/2308.06394.md)].
+- (2023/08) - Enhancing Network Management Using Code Generated by Large Language   Models - [[Arxiv](https://arxiv.org/abs/2308.06261)] [[QA](./papers/2308.06261.md)].
+- (2023/08) - Self-Alignment with Instruction Backtranslation - [[Arxiv](https://arxiv.org/abs/2308.06259)] [[QA](./papers/2308.06259.md)].
+- (2023/08) - Improving Joint Speech-Text Representations Without Alignment - [[Arxiv](https://arxiv.org/abs/2308.06125)] [[QA](./papers/2308.06125.md)].
+- (2023/08) - Composable Function-preserving Expansions for Transformer Architectures - [[Arxiv](https://arxiv.org/abs/2308.06103)] [[QA](./papers/2308.06103.md)].
+- (2023/08) - BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents - [[Arxiv](https://arxiv.org/abs/2308.05960)] [[QA](./papers/2308.05960.md)].
+- (2023/08) - PIPPA: A Partially Synthetic Conversational Dataset - [[Arxiv](https://arxiv.org/abs/2308.05884)] [[QA](./papers/2308.05884.md)].
+- (2023/08) - Follow Anything: Open-set detection, tracking, and following in   real-time - [[Arxiv](https://arxiv.org/abs/2308.05737)] [[QA](./papers/2308.05737.md)].
+- (2023/08) - AudioLDM 2: Learning Holistic Audio Generation with Self-supervised   Pretraining - [[Arxiv](https://arxiv.org/abs/2308.05734)] [[QA](./papers/2308.05734.md)].
+- (2023/08) - PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers - [[Arxiv](https://arxiv.org/abs/2308.05732)] [[QA](./papers/2308.05732.md)].
+- (2023/08) - Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language   Models' Alignment - [[Arxiv](https://arxiv.org/abs/2308.05374)] [[QA](./papers/2308.05374.md)].
+- (2023/08) - Flexible Isosurface Extraction for Gradient-Based Mesh Optimization - [[Arxiv](https://arxiv.org/abs/2308.05371)] [[QA](./papers/2308.05371.md)].
+- (2023/08) - OpenProteinSet: Training data for structural biology at scale - [[Arxiv](https://arxiv.org/abs/2308.05326)] [[QA](./papers/2308.05326.md)].
+- (2023/08) - Alexa, play with robot: Introducing the First Alexa Prize SimBot   Challenge on Embodied AI - [[Arxiv](https://arxiv.org/abs/2308.05221)] [[QA](./papers/2308.05221.md)].
+- (2023/08) - LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image   Generation - [[Arxiv](https://arxiv.org/abs/2308.05095)] [[QA](./papers/2308.05095.md)].
+- (2023/08) - JEN-1: Text-Guided Universal Music Generation with Omnidirectional   Diffusion Models - [[Arxiv](https://arxiv.org/abs/2308.04729)] [[QA](./papers/2308.04729.md)].
+- (2023/08) - Accelerating LLM Inference with Staged Speculative Decoding - [[Arxiv](https://arxiv.org/abs/2308.04623)] [[QA](./papers/2308.04623.md)].
+- (2023/08) - Shepherd: A Critic for Language Model Generation - [[Arxiv](https://arxiv.org/abs/2308.04592)] [[QA](./papers/2308.04592.md)].
+- (2023/08) - FocalFormer3D : Focusing on Hard Instance for 3D Object Detection - [[Arxiv](https://arxiv.org/abs/2308.04556)] [[QA](./papers/2308.04556.md)].
+- (2023/08) - 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment - [[Arxiv](https://arxiv.org/abs/2308.04352)] [[QA](./papers/2308.04352.md)].
+- (2023/08) - Empowering Vision-Language Models to Follow Interleaved Vision-Language   Instructions - [[Arxiv](https://arxiv.org/abs/2308.04152)] [[QA](./papers/2308.04152.md)].
+- (2023/08) - OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion   and Infinite Data Generation - [[Arxiv](https://arxiv.org/abs/2308.04126)] [[QA](./papers/2308.04126.md)].
+- (2023/08) - Gentopia: A Collaborative Platform for Tool-Augmented LLMs - [[Arxiv](https://arxiv.org/abs/2308.04030)] [[QA](./papers/2308.04030.md)].
+- (2023/08) - Tiny LVLM-eHub: Early Multimodal Experiments with Bard - [[Arxiv](https://arxiv.org/abs/2308.03729)] [[QA](./papers/2308.03729.md)].
+- (2023/08) - AgentBench: Evaluating LLMs as Agents - [[Arxiv](https://arxiv.org/abs/2308.03688)] [[QA](./papers/2308.03688.md)].
+- (2023/08) - Learning Concise and Descriptive Attributes for Visual Recognition - [[Arxiv](https://arxiv.org/abs/2308.03685)] [[QA](./papers/2308.03685.md)].
+- (2023/08) - Foundation Model based Open Vocabulary Task Planning and Executive   System for General Purpose Service Robots - [[Arxiv](https://arxiv.org/abs/2308.03357)] [[QA](./papers/2308.03357.md)].
+- (2023/08) - MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities - [[Arxiv](https://arxiv.org/abs/2308.02490)] [[QA](./papers/2308.02490.md)].
+- (2023/08) - The All-Seeing Project: Towards Panoptic Visual Recognition and   Understanding of the Open World - [[Arxiv](https://arxiv.org/abs/2308.01907)] [[QA](./papers/2308.01907.md)].
+- (2023/08) - DETR Doesn't Need Multi-Scale or Locality Design - [[Arxiv](https://arxiv.org/abs/2308.01904)] [[QA](./papers/2308.01904.md)].
+- (2023/08) - Scaling Relationship on Learning Mathematical Reasoning with Large   Language Models - [[Arxiv](https://arxiv.org/abs/2308.01825)] [[QA](./papers/2308.01825.md)].
+- (2023/08) - RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic   and Regional Comprehension - [[Arxiv](https://arxiv.org/abs/2308.02299)] [[QA](./papers/2308.02299.md)].
+- (2023/08) - Ambient Adventures: Teaching ChatGPT on Developing Complex Stories - [[Arxiv](https://arxiv.org/abs/2308.01734)] [[QA](./papers/2308.01734.md)].
+- (2023/08) - MusicLDM: Enhancing Novelty in Text-to-Music Generation Using   Beat-Synchronous Mixup Strategies - [[Arxiv](https://arxiv.org/abs/2308.01546)] [[QA](./papers/2308.01546.md)].
+- (2023/08) - Multimodal Neurons in Pretrained Text-Only Transformers - [[Arxiv](https://arxiv.org/abs/2308.01544)] [[QA](./papers/2308.01544.md)].
+- (2023/08) - TDMD: A Database for Dynamic Color Mesh Subjective and Objective Quality   Explorations - [[Arxiv](https://arxiv.org/abs/2308.01499)] [[QA](./papers/2308.01499.md)].
+- (2023/08) - HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose   Annotations, Affordances, and Reconstructions - [[Arxiv](https://arxiv.org/abs/2308.01477)] [[QA](./papers/2308.01477.md)].
+- (2023/08) - OpenFlamingo: An Open-Source Framework for Training Large Autoregressive   Vision-Language Models - [[Arxiv](https://arxiv.org/abs/2308.01390)] [[QA](./papers/2308.01390.md)].
+- (2023/08) - DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like   Models at All Scales - [[Arxiv](https://arxiv.org/abs/2308.01320)] [[QA](./papers/2308.01320.md)].
+- (2023/08) - Computational Long Exposure Mobile Photography - [[Arxiv](https://arxiv.org/abs/2308.01379)] [[QA](./papers/2308.01379.md)].
+- (2023/08) - More Context, Less Distraction: Visual Classification by Inferring and   Conditioning on Contextual Attributes - [[Arxiv](https://arxiv.org/abs/2308.01313)] [[QA](./papers/2308.01313.md)].
+- (2023/08) - Revisiting DETR Pre-training for Object Detection - [[Arxiv](https://arxiv.org/abs/2308.01300)] [[QA](./papers/2308.01300.md)].
+- (2023/08) - From Sparse to Soft Mixtures of Experts - [[Arxiv](https://arxiv.org/abs/2308.00951)] [[QA](./papers/2308.00951.md)].
+- (2023/08) - ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based   Image Manipulation - [[Arxiv](https://arxiv.org/abs/2308.00906)] [[QA](./papers/2308.00906.md)].
+- (2023/08) - LISA: Reasoning Segmentation via Large Language Model - [[Arxiv](https://arxiv.org/abs/2308.00692)] [[QA](./papers/2308.00692.md)].
+- (2023/08) - Tool Documentation Enables Zero-Shot Tool-Usage with Large Language   Models - [[Arxiv](https://arxiv.org/abs/2308.00675)] [[QA](./papers/2308.00675.md)].
+- (2023/08) - SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step   Reasoning - [[Arxiv](https://arxiv.org/abs/2308.00436)] [[QA](./papers/2308.00436.md)].
+- (2023/08) - Skills-in-Context Prompting: Unlocking Compositionality in Large   Language Models - [[Arxiv](https://arxiv.org/abs/2308.00304)] [[QA](./papers/2308.00304.md)].
+- (2023/07) - Predicting masked tokens in stochastic locations improves masked image   modeling - [[Arxiv](https://arxiv.org/abs/2308.00566)] [[QA](./papers/2308.00566.md)].
+- (2023/07) - Learning to Model the World with Language - [[Arxiv](https://arxiv.org/abs/2308.01399)] [[QA](./papers/2308.01399.md)].
+- (2023/07) - Discovering Adaptable Symbolic Algorithms from Scratch - [[Arxiv](https://arxiv.org/abs/2307.16890)] [[QA](./papers/2307.16890.md)].
+- (2023/07) - Virtual Prompt Injection for Instruction-Tuned Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.16888)] [[QA](./papers/2307.16888.md)].
+- (2023/07) - ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world   APIs - [[Arxiv](https://arxiv.org/abs/2307.16789)] [[QA](./papers/2307.16789.md)].
+- (2023/07) - UniVTG: Towards Unified Video-Language Temporal Grounding - [[Arxiv](https://arxiv.org/abs/2307.16715)] [[QA](./papers/2307.16715.md)].
+- (2023/07) - Guiding Image Captioning Models Toward More Specific Captions - [[Arxiv](https://arxiv.org/abs/2307.16686)] [[QA](./papers/2307.16686.md)].
+- (2023/07) - MovieChat: From Dense Token to Sparse Memory for Long Video   Understanding - [[Arxiv](https://arxiv.org/abs/2307.16449)] [[QA](./papers/2307.16449.md)].
+- (2023/07) - Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for   Complex Visual Reasoning Tasks - [[Arxiv](https://arxiv.org/abs/2307.16395)] [[QA](./papers/2307.16395.md)].
+- (2023/07) - LP-MusicCaps: LLM-Based Pseudo Music Captioning - [[Arxiv](https://arxiv.org/abs/2307.16372)] [[QA](./papers/2307.16372.md)].
+- (2023/07) - AntGPT: Can Large Language Models Help Long-term Action Anticipation   from Videos? - [[Arxiv](https://arxiv.org/abs/2307.16368)] [[QA](./papers/2307.16368.md)].
+- (2023/07) - Evaluating ChatGPT and GPT-4 for Visual Programming - [[Arxiv](https://arxiv.org/abs/2308.02522)] [[QA](./papers/2308.02522.md)].
+- (2023/07) - Unified Model for Image, Video, Audio and Language Tasks - [[Arxiv](https://arxiv.org/abs/2307.16184)] [[QA](./papers/2307.16184.md)].
+- (2023/07) - SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension - [[Arxiv](https://arxiv.org/abs/2307.16125)] [[QA](./papers/2307.16125.md)].
+- (2023/07) - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic   Control - [[Arxiv](https://arxiv.org/abs/2307.15818)] [[QA](./papers/2307.15818.md)].
+- (2023/07) - The Hydra Effect: Emergent Self-repair in Language Model Computations - [[Arxiv](https://arxiv.org/abs/2307.15771)] [[QA](./papers/2307.15771.md)].
+- (2023/07) - Robust Distortion-free Watermarks for Language Models - [[Arxiv](https://arxiv.org/abs/2307.15593)] [[QA](./papers/2307.15593.md)].
+- (2023/07) - Exploring Format Consistency for Instruction Tuning - [[Arxiv](https://arxiv.org/abs/2307.15504)] [[QA](./papers/2307.15504.md)].
+- (2023/07) - Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding - [[Arxiv](https://arxiv.org/abs/2307.15337)] [[QA](./papers/2307.15337.md)].
+- (2023/07) - Open Problems and Fundamental Limitations of Reinforcement Learning from   Human Feedback - [[Arxiv](https://arxiv.org/abs/2307.15217)] [[QA](./papers/2307.15217.md)].
+- (2023/07) - PromptStyler: Prompt-driven Style Generation for Source-free Domain   Generalization - [[Arxiv](https://arxiv.org/abs/2307.15199)] [[QA](./papers/2307.15199.md)].
+- (2023/07) - Med-Flamingo: a Multimodal Medical Few-shot Learner - [[Arxiv](https://arxiv.org/abs/2307.15189)] [[QA](./papers/2307.15189.md)].
+- (2023/07) - Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields - [[Arxiv](https://arxiv.org/abs/2307.15131)] [[QA](./papers/2307.15131.md)].
+- (2023/07) - To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation - [[Arxiv](https://arxiv.org/abs/2307.15063)] [[QA](./papers/2307.15063.md)].
+- (2023/07) - Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation - [[Arxiv](https://arxiv.org/abs/2308.07931)] [[QA](./papers/2308.07931.md)].
+- (2023/07) - TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis - [[Arxiv](https://arxiv.org/abs/2307.15042)] [[QA](./papers/2307.15042.md)].
+- (2023/07) - How Good is Google Bard's Visual Understanding? An Empirical Study on   Open Challenges - [[Arxiv](https://arxiv.org/abs/2307.15016)] [[QA](./papers/2307.15016.md)].
+- (2023/07) - Scaling TransNormer to 175 Billion Parameters - [[Arxiv](https://arxiv.org/abs/2307.14995)] [[QA](./papers/2307.14995.md)].
+- (2023/07) - PanGu-Coder2: Boosting Large Language Models for Code with Ranking   Feedback - [[Arxiv](https://arxiv.org/abs/2307.14936)] [[QA](./papers/2307.14936.md)].
+- (2023/07) - NeRF-Det: Learning Geometry-Aware Volumetric Representation for   Multi-View 3D Object Detection - [[Arxiv](https://arxiv.org/abs/2307.14620)] [[QA](./papers/2307.14620.md)].
+- (2023/07) - Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition - [[Arxiv](https://arxiv.org/abs/2307.14535)] [[QA](./papers/2307.14535.md)].
+- (2023/07) - MiDaS v3.1 -- A Model Zoo for Robust Monocular Relative Depth Estimation - [[Arxiv](https://arxiv.org/abs/2307.14460)] [[QA](./papers/2307.14460.md)].
+- (2023/07) - Three Bricks to Consolidate Watermarks for Large Language Models - [[Arxiv](https://arxiv.org/abs/2308.00113)] [[QA](./papers/2308.00113.md)].
+- (2023/07) - WavJourney: Compositional Audio Creation with Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.14335)] [[QA](./papers/2307.14335.md)].
+- (2023/07) - Towards Generalist Biomedical AI - [[Arxiv](https://arxiv.org/abs/2307.14334)] [[QA](./papers/2307.14334.md)].
+- (2023/07) - Large Language Models are Competitive Near Cold-start Recommenders for   Language- and Item-based Preferences - [[Arxiv](https://arxiv.org/abs/2307.14225)] [[QA](./papers/2307.14225.md)].
+- (2023/07) - Leveraging Implicit Feedback from Deployment Data in Dialogue - [[Arxiv](https://arxiv.org/abs/2307.14117)] [[QA](./papers/2307.14117.md)].
+- (2023/07) - Adaptive Frequency Filters As Efficient Global Token Mixers - [[Arxiv](https://arxiv.org/abs/2307.14008)] [[QA](./papers/2307.14008.md)].
+- (2023/07) - Tracking Anything in High Quality - [[Arxiv](https://arxiv.org/abs/2307.13974)] [[QA](./papers/2307.13974.md)].
+- (2023/07) - trajdata: A Unified Interface to Multiple Human Trajectory Datasets - [[Arxiv](https://arxiv.org/abs/2307.13924)] [[QA](./papers/2307.13924.md)].
+- (2023/07) - Points-to-3D: Bridging the Gap between Sparse Points and   Shape-Controllable Text-to-3D Generation - [[Arxiv](https://arxiv.org/abs/2307.13908)] [[QA](./papers/2307.13908.md)].
+- (2023/07) - WebArena: A Realistic Web Environment for Building Autonomous Agents - [[Arxiv](https://arxiv.org/abs/2307.13854)] [[QA](./papers/2307.13854.md)].
+- (2023/07) - How to Scale Your EMA - [[Arxiv](https://arxiv.org/abs/2307.13813)] [[QA](./papers/2307.13813.md)].
+- (2023/07) - Composite Diffusion | whole &gt;= Σparts - [[Arxiv](https://arxiv.org/abs/2307.13720)] [[QA](./papers/2307.13720.md)].
+- (2023/07) - ARB: Advanced Reasoning Benchmark for Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.13692)] [[QA](./papers/2307.13692.md)].
+- (2023/07) - Predicting Code Coverage without Execution - [[Arxiv](https://arxiv.org/abs/2307.13383)] [[QA](./papers/2307.13383.md)].
+- (2023/07) - LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA   Composition - [[Arxiv](https://arxiv.org/abs/2307.13269)] [[QA](./papers/2307.13269.md)].
+- (2023/07) - Strivec: Sparse Tri-Vector Radiance Fields - [[Arxiv](https://arxiv.org/abs/2307.13226)] [[QA](./papers/2307.13226.md)].
+- (2023/07) - GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for   Task-Oriented Grasping - [[Arxiv](https://arxiv.org/abs/2307.13204)] [[QA](./papers/2307.13204.md)].
+- (2023/07) - Contrastive Example-Based Control - [[Arxiv](https://arxiv.org/abs/2307.13101)] [[QA](./papers/2307.13101.md)].
+- (2023/07) - LLM-Rec: Personalized Recommendation via Prompting Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.15780)] [[QA](./papers/2307.15780.md)].
+- (2023/07) - 3D-LLM: Injecting the 3D World into Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.12981)] [[QA](./papers/2307.12981.md)].
+- (2023/07) - Evaluating the Ripple Effects of Knowledge Editing in Language Models - [[Arxiv](https://arxiv.org/abs/2307.12976)] [[QA](./papers/2307.12976.md)].
+- (2023/07) - RLCD: Reinforcement Learning from Contrast Distillation for Language   Model Alignment - [[Arxiv](https://arxiv.org/abs/2307.12950)] [[QA](./papers/2307.12950.md)].
+- (2023/07) - A Real-World WebAgent with Planning, Long Context Understanding, and   Program Synthesis - [[Arxiv](https://arxiv.org/abs/2307.12856)] [[QA](./papers/2307.12856.md)].
+- (2023/07) - Multiscale Video Pretraining for Long-Term Activity Forecasting - [[Arxiv](https://arxiv.org/abs/2307.12854)] [[QA](./papers/2307.12854.md)].
+- (2023/07) - MC-JEPA: A Joint-Embedding Predictive Architecture for Self-Supervised   Learning of Motion and Content Features - [[Arxiv](https://arxiv.org/abs/2307.12698)] [[QA](./papers/2307.12698.md)].
+- (2023/07) - Less is More: Focus Attention for Efficient DETR - [[Arxiv](https://arxiv.org/abs/2307.12612)] [[QA](./papers/2307.12612.md)].
+- (2023/07) - Interpolating between Images with Diffusion Models - [[Arxiv](https://arxiv.org/abs/2307.12560)] [[QA](./papers/2307.12560.md)].
+- (2023/07) - PUMA: Secure Inference of LLaMA-7B in Five Minutes - [[Arxiv](https://arxiv.org/abs/2307.12533)] [[QA](./papers/2307.12533.md)].
+- (2023/07) - Optimized Network Architectures for Large Language Model Training with   Billions of Parameters - [[Arxiv](https://arxiv.org/abs/2307.12169)] [[QA](./papers/2307.12169.md)].
+- (2023/07) - CARTIER: Cartographic lAnguage Reasoning Targeted at Instruction   Execution for Robots - [[Arxiv](https://arxiv.org/abs/2307.11865)] [[QA](./papers/2307.11865.md)].
+- (2023/07) - Enhancing CLIP with GPT-4: Harnessing Visual Descriptions as Prompts - [[Arxiv](https://arxiv.org/abs/2307.11661)] [[QA](./papers/2307.11661.md)].
+- (2023/07) - CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields - [[Arxiv](https://arxiv.org/abs/2307.11526)] [[QA](./papers/2307.11526.md)].
+- (2023/07) - Prompting Large Language Models with Speech Recognition Abilities - [[Arxiv](https://arxiv.org/abs/2307.11795)] [[QA](./papers/2307.11795.md)].
+- (2023/07) - FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural   Radiance Fields - [[Arxiv](https://arxiv.org/abs/2307.11418)] [[QA](./papers/2307.11418.md)].
+- (2023/07) - Subject-Diffusion:Open Domain Personalized Text-to-Image Generation   without Test-time Fine-tuning - [[Arxiv](https://arxiv.org/abs/2307.11410)] [[QA](./papers/2307.11410.md)].
+- (2023/07) - Brain2Music: Reconstructing Music from Human Brain Activity - [[Arxiv](https://arxiv.org/abs/2307.11078)] [[QA](./papers/2307.11078.md)].
+- (2023/07) - PASTA: Pretrained Action-State Transformer Agents - [[Arxiv](https://arxiv.org/abs/2307.10936)] [[QA](./papers/2307.10936.md)].
+- (2023/07) - FLASK: Fine-grained Language Model Evaluation based on Alignment Skill   Sets - [[Arxiv](https://arxiv.org/abs/2307.10928)] [[QA](./papers/2307.10928.md)].
+- (2023/07) - Diffusion Sampling with Momentum for Mitigating Divergence Artifacts - [[Arxiv](https://arxiv.org/abs/2307.11118)] [[QA](./papers/2307.11118.md)].
+- (2023/07) - The Role of Entropy and Reconstruction in Multi-View Self-Supervised   Learning - [[Arxiv](https://arxiv.org/abs/2307.10907)] [[QA](./papers/2307.10907.md)].
+- (2023/07) - Meta-Transformer: A Unified Framework for Multimodal Learning - [[Arxiv](https://arxiv.org/abs/2307.10802)] [[QA](./papers/2307.10802.md)].
+- (2023/07) - SciBench: Evaluating College-Level Scientific Problem-Solving Abilities   of Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.10635)] [[QA](./papers/2307.10635.md)].
+- (2023/07) - Instruction-following Evaluation through Verbalizer Manipulation - [[Arxiv](https://arxiv.org/abs/2307.10558)] [[QA](./papers/2307.10558.md)].
+- (2023/07) - TokenFlow: Consistent Diffusion Features for Consistent Video Editing - [[Arxiv](https://arxiv.org/abs/2307.10373)] [[QA](./papers/2307.10373.md)].
+- (2023/07) - DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity   Human-centric Rendering - [[Arxiv](https://arxiv.org/abs/2307.10173)] [[QA](./papers/2307.10173.md)].
+- (2023/07) - DialogStudio: Towards Richest and Most Diverse Unified Dataset   Collection for Conversational AI - [[Arxiv](https://arxiv.org/abs/2307.10172)] [[QA](./papers/2307.10172.md)].
+- (2023/07) - Challenges and Applications of Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.10169)] [[QA](./papers/2307.10169.md)].
+- (2023/07) - LLMs as Workers in Human-Computational Algorithms? Replicating   Crowdsourcing Pipelines with LLMs - [[Arxiv](https://arxiv.org/abs/2307.10168)] [[QA](./papers/2307.10168.md)].
+- (2023/07) - Improving Multimodal Datasets with Image Captioning - [[Arxiv](https://arxiv.org/abs/2307.10350)] [[QA](./papers/2307.10350.md)].
+- (2023/07) - FABRIC: Personalizing Diffusion Models with Iterative Feedback - [[Arxiv](https://arxiv.org/abs/2307.10159)] [[QA](./papers/2307.10159.md)].
+- (2023/07) - Android in the Wild: A Large-Scale Dataset for Android Device Control - [[Arxiv](https://arxiv.org/abs/2307.10088)] [[QA](./papers/2307.10088.md)].
+- (2023/07) - Text2Layer: Layered Image Generation using Latent Diffusion Model - [[Arxiv](https://arxiv.org/abs/2307.09781)] [[QA](./papers/2307.09781.md)].
+- (2023/07) - Towards A Unified Agent with Foundation Models - [[Arxiv](https://arxiv.org/abs/2307.09668)] [[QA](./papers/2307.09668.md)].
+- (2023/07) - Promoting Exploration in Memory-Augmented Adam using Critical Momenta - [[Arxiv](https://arxiv.org/abs/2307.09638)] [[QA](./papers/2307.09638.md)].
+- (2023/07) - ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring   Instruction Tuning - [[Arxiv](https://arxiv.org/abs/2307.09474)] [[QA](./papers/2307.09474.md)].
+- (2023/07) - Does Circuit Analysis Interpretability Scale? Evidence from Multiple   Choice Capabilities in Chinchilla - [[Arxiv](https://arxiv.org/abs/2307.09458)] [[QA](./papers/2307.09458.md)].
+- (2023/07) - Biomaker CA: a Biome Maker project using Cellular Automata - [[Arxiv](https://arxiv.org/abs/2307.09320)] [[QA](./papers/2307.09320.md)].
+- (2023/07) - Llama 2: Open Foundation and Fine-Tuned Chat Models - [[Arxiv](https://arxiv.org/abs/2307.09288)] [[QA](./papers/2307.09288.md)].
+- (2023/07) - Augmenting CLIP with Improved Visio-Linguistic Reasoning - [[Arxiv](https://arxiv.org/abs/2307.09233)] [[QA](./papers/2307.09233.md)].
+- (2023/07) - NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and   Repulsive UDF - [[Arxiv](https://arxiv.org/abs/2307.09112)] [[QA](./papers/2307.09112.md)].
+- (2023/07) - How is ChatGPT's behavior changing over time? - [[Arxiv](https://arxiv.org/abs/2307.09009)] [[QA](./papers/2307.09009.md)].
+- (2023/07) - Diffusion Models Beat GANs on Image Classification - [[Arxiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
+- (2023/07) - AlpaGasus: Training A Better Alpaca with Fewer Data - [[Arxiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
+- (2023/07) - TableGPT: Towards Unifying Tables, Nature Language and Commands into One   GPT - [[Arxiv](https://arxiv.org/abs/2307.08674)] [[QA](./papers/2307.08674.md)].
+- (2023/07) - Retentive Network: A Successor to Transformer for Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.08621)] [[QA](./papers/2307.08621.md)].
+- (2023/07) - BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs - [[Arxiv](https://arxiv.org/abs/2307.08581)] [[QA](./papers/2307.08581.md)].
+- (2023/07) - Scale-Aware Modulation Meet Transformer - [[Arxiv](https://arxiv.org/abs/2307.08579)] [[QA](./papers/2307.08579.md)].
+- (2023/07) - Does Visual Pretraining Help End-to-End Reasoning? - [[Arxiv](https://arxiv.org/abs/2307.08506)] [[QA](./papers/2307.08506.md)].
+- (2023/07) - Measuring Faithfulness in Chain-of-Thought Reasoning - [[Arxiv](https://arxiv.org/abs/2307.13702)] [[QA](./papers/2307.13702.md)].
+- (2023/07) - Question Decomposition Improves the Faithfulness of Model-Generated   Reasoning - [[Arxiv](https://arxiv.org/abs/2307.11768)] [[QA](./papers/2307.11768.md)].
+- (2023/07) - Planting a SEED of Vision in Large Language Model - [[Arxiv](https://arxiv.org/abs/2307.08041)] [[QA](./papers/2307.08041.md)].
+- (2023/07) - Language Conditioned Traffic Generation - [[Arxiv](https://arxiv.org/abs/2307.07947)] [[QA](./papers/2307.07947.md)].
+- (2023/07) - INVE: Interactive Neural Video Editing - [[Arxiv](https://arxiv.org/abs/2307.07663)] [[QA](./papers/2307.07663.md)].
+- (2023/07) - CoTracker: It is Better to Track Together - [[Arxiv](https://arxiv.org/abs/2307.07635)] [[QA](./papers/2307.07635.md)].
+- (2023/07) - NIFTY: Neural Object Interaction Fields for Guided Human Motion   Synthesis - [[Arxiv](https://arxiv.org/abs/2307.07511)] [[QA](./papers/2307.07511.md)].
+- (2023/07) - DreamTeacher: Pretraining Image Backbones with Deep Generative Models - [[Arxiv](https://arxiv.org/abs/2307.07487)] [[QA](./papers/2307.07487.md)].
+- (2023/07) - Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech   Prompts - [[Arxiv](https://arxiv.org/abs/2307.07218)] [[QA](./papers/2307.07218.md)].
 - (2023/07) - Learning to Retrieve In-Context Examples for Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.07164)] [[QA](./papers/2307.07164.md)].
-- (2023/07) - DIALGEN: Collaborative Human-LM Generated Dialogues for Improved
-  Understanding of Human-Human Conversations - [[Arxiv](https://arxiv.org/abs/2307.07047)] [[QA](./papers/2307.07047.md)].
-- (2023/07) - HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image
-  Models - [[Arxiv](https://arxiv.org/abs/2307.06949)] [[QA](./papers/2307.06949.md)].
+- (2023/07) - Bootstrapping Vision-Language Learning with Decoupled Language   Pre-training - [[Arxiv](https://arxiv.org/abs/2307.07063)] [[QA](./papers/2307.07063.md)].
+- (2023/07) - DIALGEN: Collaborative Human-LM Generated Dialogues for Improved   Understanding of Human-Human Conversations - [[Arxiv](https://arxiv.org/abs/2307.07047)] [[QA](./papers/2307.07047.md)].
+- (2023/07) - HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image   Models - [[Arxiv](https://arxiv.org/abs/2307.06949)] [[QA](./papers/2307.06949.md)].
 - (2023/07) - In-context Autoencoder for Context Compression in a Large Language Model - [[Arxiv](https://arxiv.org/abs/2307.06945)] [[QA](./papers/2307.06945.md)].
-- (2023/07) - InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding
-  and Generation - [[Arxiv](https://arxiv.org/abs/2307.06942)] [[QA](./papers/2307.06942.md)].
+- (2023/07) - InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding   and Generation - [[Arxiv](https://arxiv.org/abs/2307.06942)] [[QA](./papers/2307.06942.md)].
 - (2023/07) - Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation - [[Arxiv](https://arxiv.org/abs/2307.06940)] [[QA](./papers/2307.06940.md)].
-- (2023/07) - Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image
-  Models - [[Arxiv](https://arxiv.org/abs/2307.06925)] [[QA](./papers/2307.06925.md)].
+- (2023/07) - mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs - [[Arxiv](https://arxiv.org/abs/2307.06930)] [[QA](./papers/2307.06930.md)].
+- (2023/07) - Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image   Models - [[Arxiv](https://arxiv.org/abs/2307.06925)] [[QA](./papers/2307.06925.md)].
 - (2023/07) - Generating Benchmarks for Factuality Evaluation of Language Models - [[Arxiv](https://arxiv.org/abs/2307.06908)] [[QA](./papers/2307.06908.md)].
 - (2023/07) - Copy Is All You Need - [[Arxiv](https://arxiv.org/abs/2307.06962)] [[QA](./papers/2307.06962.md)].
-- (2023/07) - Distilling Large Language Models for Biomedical Knowledge Extraction: A
-  Case Study on Adverse Drug Events - [[Arxiv](https://arxiv.org/abs/2307.06439)] [[QA](./papers/2307.06439.md)].
-- (2023/07) - T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional
-  Text-to-image Generation - [[Arxiv](https://arxiv.org/abs/2307.06350)] [[QA](./papers/2307.06350.md)].
-- (2023/07) - Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and
-  Resolution - [[Arxiv](https://arxiv.org/abs/2307.06304)] [[QA](./papers/2307.06304.md)].
-- (2023/07) - Instruction Mining: High-Quality Instruction Data Selection for Large
-  Language Models - [[Arxiv](https://arxiv.org/abs/2307.06290)] [[QA](./papers/2307.06290.md)].
-- (2023/07) - SayPlan: Grounding Large Language Models using 3D Scene Graphs for
-  Scalable Task Planning - [[Arxiv](https://arxiv.org/abs/2307.06135)] [[QA](./papers/2307.06135.md)].
+- (2023/07) - Distilling Large Language Models for Biomedical Knowledge Extraction: A   Case Study on Adverse Drug Events - [[Arxiv](https://arxiv.org/abs/2307.06439)] [[QA](./papers/2307.06439.md)].
+- (2023/07) - T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional   Text-to-image Generation - [[Arxiv](https://arxiv.org/abs/2307.06350)] [[QA](./papers/2307.06350.md)].
+- (2023/07) - Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and   Resolution - [[Arxiv](https://arxiv.org/abs/2307.06304)] [[QA](./papers/2307.06304.md)].
+- (2023/07) - Instruction Mining: High-Quality Instruction Data Selection for Large   Language Models - [[Arxiv](https://arxiv.org/abs/2307.06290)] [[QA](./papers/2307.06290.md)].
+- (2023/07) - SayPlan: Grounding Large Language Models using 3D Scene Graphs for   Scalable Task Planning - [[Arxiv](https://arxiv.org/abs/2307.06135)] [[QA](./papers/2307.06135.md)].
+- (2023/07) - VELMA: Verbalization Embodiment of LLM Agents for Vision and Language   Navigation in Street View - [[Arxiv](https://arxiv.org/abs/2307.06082)] [[QA](./papers/2307.06082.md)].
 - (2023/07) - PolyLM: An Open Source Polyglot Large Language Model - [[Arxiv](https://arxiv.org/abs/2307.06018)] [[QA](./papers/2307.06018.md)].
-- (2023/07) - VoxPoser: Composable 3D Value Maps for Robotic Manipulation with
-  Language Models - [[Arxiv](https://arxiv.org/abs/2307.05973)] [[QA](./papers/2307.05973.md)].
-- (2023/07) - Giving Robots a Hand: Learning Generalizable Manipulation with
-  Eye-in-Hand Human Video Demonstrations - [[Arxiv](https://arxiv.org/abs/2307.05959)] [[QA](./papers/2307.05959.md)].
+- (2023/07) - VoxPoser: Composable 3D Value Maps for Robotic Manipulation with   Language Models - [[Arxiv](https://arxiv.org/abs/2307.05973)] [[QA](./papers/2307.05973.md)].
+- (2023/07) - Giving Robots a Hand: Learning Generalizable Manipulation with   Eye-in-Hand Human Video Demonstrations - [[Arxiv](https://arxiv.org/abs/2307.05959)] [[QA](./papers/2307.05959.md)].
 - (2023/07) - Towards Robust and Efficient Continual Language Learning - [[Arxiv](https://arxiv.org/abs/2307.05741)] [[QA](./papers/2307.05741.md)].
-- (2023/07) - Stack More Layers Differently: High-Rank Training Through Low-Rank
-  Updates - [[Arxiv](https://arxiv.org/abs/2307.05695)] [[QA](./papers/2307.05695.md)].
-- (2023/07) - Differentiable Blocks World: Qualitative 3D Decomposition by Rendering
-  Primitives - [[Arxiv](https://arxiv.org/abs/2307.05473)] [[QA](./papers/2307.05473.md)].
+- (2023/07) - Stack More Layers Differently: High-Rank Training Through Low-Rank   Updates - [[Arxiv](https://arxiv.org/abs/2307.05695)] [[QA](./papers/2307.05695.md)].
+- (2023/07) - Differentiable Blocks World: Qualitative 3D Decomposition by Rendering   Primitives - [[Arxiv](https://arxiv.org/abs/2307.05473)] [[QA](./papers/2307.05473.md)].
 - (2023/07) - Self-consistency for open-ended generations - [[Arxiv](https://arxiv.org/abs/2307.06857)] [[QA](./papers/2307.06857.md)].
-- (2023/07) - EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the
-  Backbone - [[Arxiv](https://arxiv.org/abs/2307.05463)] [[QA](./papers/2307.05463.md)].
+- (2023/07) - EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the   Backbone - [[Arxiv](https://arxiv.org/abs/2307.05463)] [[QA](./papers/2307.05463.md)].
 - (2023/07) - Efficient 3D Articulated Human Generation with Layered Surface Volumes - [[Arxiv](https://arxiv.org/abs/2307.05462)] [[QA](./papers/2307.05462.md)].
-- (2023/07) - Empowering Cross-lingual Behavioral Testing of NLP Models with
-  Typological Features - [[Arxiv](https://arxiv.org/abs/2307.05454)] [[QA](./papers/2307.05454.md)].
-- (2023/07) - Self-Supervised Learning with Lie Symmetries for Partial Differential
-  Equations - [[Arxiv](https://arxiv.org/abs/2307.05432)] [[QA](./papers/2307.05432.md)].
-- (2023/07) - Unleashing Cognitive Synergy in Large Language Models: A Task-Solving
-  Agent through Multi-Persona Self-Collaboration - [[Arxiv](https://arxiv.org/abs/2307.05300)] [[QA](./papers/2307.05300.md)].
+- (2023/07) - Empowering Cross-lingual Behavioral Testing of NLP Models with   Typological Features - [[Arxiv](https://arxiv.org/abs/2307.05454)] [[QA](./papers/2307.05454.md)].
+- (2023/07) - Self-Supervised Learning with Lie Symmetries for Partial Differential   Equations - [[Arxiv](https://arxiv.org/abs/2307.05432)] [[QA](./papers/2307.05432.md)].
+- (2023/07) - Unleashing Cognitive Synergy in Large Language Models: A Task-Solving   Agent through Multi-Persona Self-Collaboration - [[Arxiv](https://arxiv.org/abs/2307.05300)] [[QA](./papers/2307.05300.md)].
 - (2023/07) - Generative Pretraining in Multimodality - [[Arxiv](https://arxiv.org/abs/2307.05222)] [[QA](./papers/2307.05222.md)].
-- (2023/07) - DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence
-  Analysis Tasks - [[Arxiv](https://arxiv.org/abs/2307.05628)] [[QA](./papers/2307.05628.md)].
+- (2023/07) - DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence   Analysis Tasks - [[Arxiv](https://arxiv.org/abs/2307.05628)] [[QA](./papers/2307.05628.md)].
 - (2023/07) - Test-Time Training on Video Streams - [[Arxiv](https://arxiv.org/abs/2307.05014)] [[QA](./papers/2307.05014.md)].
 - (2023/07) - Secrets of RLHF in Large Language Models Part I: PPO - [[Arxiv](https://arxiv.org/abs/2307.04964)] [[QA](./papers/2307.04964.md)].
 - (2023/07) - Semantic-SAM: Segment and Recognize Anything at Any Granularity - [[Arxiv](https://arxiv.org/abs/2307.04767)] [[QA](./papers/2307.04767.md)].
 - (2023/07) - SITTA: A Semantic Image-Text Alignment for Image Captioning - [[Arxiv](https://arxiv.org/abs/2307.05591)] [[QA](./papers/2307.05591.md)].
-- (2023/07) - Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal
-  Rearrangement - [[Arxiv](https://arxiv.org/abs/2307.04751)] [[QA](./papers/2307.04751.md)].
-- (2023/07) - AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models
-  without Specific Tuning - [[Arxiv](https://arxiv.org/abs/2307.04725)] [[QA](./papers/2307.04725.md)].
+- (2023/07) - Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal   Rearrangement - [[Arxiv](https://arxiv.org/abs/2307.04751)] [[QA](./papers/2307.04751.md)].
+- (2023/07) - AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models   without Specific Tuning - [[Arxiv](https://arxiv.org/abs/2307.04725)] [[QA](./papers/2307.04725.md)].
 - (2023/07) - Large Language Models as General Pattern Machines - [[Arxiv](https://arxiv.org/abs/2307.04721)] [[QA](./papers/2307.04721.md)].
 - (2023/07) - International Institutions for Advanced AI - [[Arxiv](https://arxiv.org/abs/2307.04699)] [[QA](./papers/2307.04699.md)].
 - (2023/07) - VampNet: Music Generation via Masked Acoustic Token Modeling - [[Arxiv](https://arxiv.org/abs/2307.04686)] [[QA](./papers/2307.04686.md)].
-- (2023/07) - AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation
-  System - [[Arxiv](https://arxiv.org/abs/2307.04577)] [[QA](./papers/2307.04577.md)].
+- (2023/07) - AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation   System - [[Arxiv](https://arxiv.org/abs/2307.04577)] [[QA](./papers/2307.04577.md)].
 - (2023/07) - RLTF: Reinforcement Learning from Unit Test Feedback - [[Arxiv](https://arxiv.org/abs/2307.04349)] [[QA](./papers/2307.04349.md)].
 - (2023/07) - SVIT: Scaling up Visual Instruction Tuning - [[Arxiv](https://arxiv.org/abs/2307.04087)] [[QA](./papers/2307.04087.md)].
 - (2023/07) - Toward Interactive Dictation - [[Arxiv](https://arxiv.org/abs/2307.04008)] [[QA](./papers/2307.04008.md)].
-- (2023/07) - On decoder-only architecture for speech-to-text and large language model
-  integration - [[Arxiv](https://arxiv.org/abs/2307.03917)] [[QA](./papers/2307.03917.md)].
+- (2023/07) - On decoder-only architecture for speech-to-text and large language model   integration - [[Arxiv](https://arxiv.org/abs/2307.03917)] [[QA](./papers/2307.03917.md)].
 - (2023/07) - Large Language Models for Supply Chain Optimization - [[Arxiv](https://arxiv.org/abs/2307.03875)] [[QA](./papers/2307.03875.md)].
 - (2023/07) - Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation - [[Arxiv](https://arxiv.org/abs/2307.03869)] [[QA](./papers/2307.03869.md)].
 - (2023/07) - AutoDecoding Latent 3D Diffusion Models - [[Arxiv](https://arxiv.org/abs/2307.05445)] [[QA](./papers/2307.05445.md)].
+- (2023/07) - GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest - [[Arxiv](https://arxiv.org/abs/2307.03601)] [[QA](./papers/2307.03601.md)].
 - (2023/07) - Solvent: A Framework for Protein Folding - [[Arxiv](https://arxiv.org/abs/2307.04603)] [[QA](./papers/2307.04603.md)].
+- (2023/07) - Building Cooperative Embodied Agents Modularly with Large Language   Models - [[Arxiv](https://arxiv.org/abs/2307.02485)] [[QA](./papers/2307.02485.md)].
+- (2023/07) - What Matters in Training a GPT4-Style Language Model with Multimodal   Inputs? - [[Arxiv](https://arxiv.org/abs/2307.02469)] [[QA](./papers/2307.02469.md)].
+- (2023/07) - Robots That Ask For Help: Uncertainty Alignment for Large Language Model   Planners - [[Arxiv](https://arxiv.org/abs/2307.01928)] [[QA](./papers/2307.01928.md)].
+- (2023/07) - Embodied Task Planning with Large Language Models - [[Arxiv](https://arxiv.org/abs/2307.01848)] [[QA](./papers/2307.01848.md)].
 - (2023/07) - Collaborative Score Distillation for Consistent Visual Synthesis - [[Arxiv](https://arxiv.org/abs/2307.04787)] [[QA](./papers/2307.04787.md)].
+- (2023/07) - SCITUNE: Aligning Large Language Models with Scientific Multimodal   Instructions - [[Arxiv](https://arxiv.org/abs/2307.01139)] [[QA](./papers/2307.01139.md)].
+- (2023/07) - Visual Instruction Tuning with Polite Flamingo - [[Arxiv](https://arxiv.org/abs/2307.01003)] [[QA](./papers/2307.01003.md)].
+- (2023/07) - Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset - [[Arxiv](https://arxiv.org/abs/2307.00818)] [[QA](./papers/2307.00818.md)].
+- (2023/07) - JourneyDB: A Benchmark for Generative Image Understanding - [[Arxiv](https://arxiv.org/abs/2307.00716)] [[QA](./papers/2307.00716.md)].
+- (2023/07) - DoReMi: Grounding Language Model by Detecting and Recovering from   Plan-Execution Misalignment - [[Arxiv](https://arxiv.org/abs/2307.00329)] [[QA](./papers/2307.00329.md)].
+- (2023/06) - SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen   LLMs - [[Arxiv](https://arxiv.org/abs/2306.17842)] [[QA](./papers/2306.17842.md)].
+- (2023/06) - Statler: State-Maintaining Language Models for Embodied Reasoning - [[Arxiv](https://arxiv.org/abs/2306.17840)] [[QA](./papers/2306.17840.md)].
+- (2023/06) - LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image   Understanding - [[Arxiv](https://arxiv.org/abs/2306.17107)] [[QA](./papers/2306.17107.md)].
+- (2023/06) - KITE: Keypoint-Conditioned Policies for Semantic Manipulation - [[Arxiv](https://arxiv.org/abs/2306.16605)] [[QA](./papers/2306.16605.md)].
+- (2023/06) - Towards Language Models That Can See: Computer Vision Through the LENS   of Natural Language - [[Arxiv](https://arxiv.org/abs/2306.16410)] [[QA](./papers/2306.16410.md)].
 - (2023/06) - Kosmos-2: Grounding Multimodal Large Language Models to the World - [[Arxiv](https://arxiv.org/abs/2306.14824)] [[QA](./papers/2306.14824.md)].
+- (2023/06) - Aligning Large Multi-Modal Model with Robust Instruction Tuning - [[Arxiv](https://arxiv.org/abs/2306.14565)] [[QA](./papers/2306.14565.md)].
 - (2023/06) - DesCo: Learning Object Recognition with Rich Language Descriptions - [[Arxiv](https://arxiv.org/abs/2306.14060)] [[QA](./papers/2306.14060.md)].
-- (2023/05) - Towards Generalist Robots: A Promising Paradigm via Generative
-  Simulation - [[Arxiv](https://arxiv.org/abs/2305.10455)] [[QA](./papers/2305.10455.md)].
+- (2023/06) - MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language   Models - [[Arxiv](https://arxiv.org/abs/2306.13394)] [[QA](./papers/2306.13394.md)].
+- (2023/06) - SoftGPT: Learn Goal-oriented Soft Object Manipulation Skills by   Generative Pre-trained Heterogeneous Graph Transformer - [[Arxiv](https://arxiv.org/abs/2306.12677)] [[QA](./papers/2306.12677.md)].
+- (2023/06) - Mass-Producing Failures of Multimodal Systems with Language Models - [[Arxiv](https://arxiv.org/abs/2306.12105)] [[QA](./papers/2306.12105.md)].
+- (2023/06) - SPRINT: Scalable Policy Pre-Training via Language Instruction Relabeling - [[Arxiv](https://arxiv.org/abs/2306.11886)] [[QA](./papers/2306.11886.md)].
+- (2023/06) - Improving Image Captioning Descriptiveness by Ranking and LLM-based   Fusion - [[Arxiv](https://arxiv.org/abs/2306.11593)] [[QA](./papers/2306.11593.md)].
+- (2023/06) - RM-PRT: Realistic Robotic Manipulation Simulator and Benchmark with   Progressive Reasoning Tasks - [[Arxiv](https://arxiv.org/abs/2306.11335)] [[QA](./papers/2306.11335.md)].
+- (2023/06) - MotionGPT: Finetuned LLMs are General-Purpose Motion Generators - [[Arxiv](https://arxiv.org/abs/2306.10900)] [[QA](./papers/2306.10900.md)].
+- (2023/06) - CLARA: Classifying and Disambiguating User Commands for Reliable   Interactive Robotic Agents - [[Arxiv](https://arxiv.org/abs/2306.10376)] [[QA](./papers/2306.10376.md)].
+- (2023/06) - Investigating Prompting Techniques for Zero- and Few-Shot Visual   Question Answering - [[Arxiv](https://arxiv.org/abs/2306.09996)] [[QA](./papers/2306.09996.md)].
+- (2023/06) - LVLM-eHub: A Comprehensive Evaluation Benchmark for Large   Vision-Language Models - [[Arxiv](https://arxiv.org/abs/2306.09265)] [[QA](./papers/2306.09265.md)].
+- (2023/06) - Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and   Text Integration - [[Arxiv](https://arxiv.org/abs/2306.09093)] [[QA](./papers/2306.09093.md)].
+- (2023/06) - Toward Grounded Social Reasoning - [[Arxiv](https://arxiv.org/abs/2306.08651)] [[QA](./papers/2306.08651.md)].
+- (2023/06) - Language to Rewards for Robotic Skill Synthesis - [[Arxiv](https://arxiv.org/abs/2306.08647)] [[QA](./papers/2306.08647.md)].
+- (2023/06) - Towards AGI in Computer Vision: Lessons Learned from GPT and Large   Language Models - [[Arxiv](https://arxiv.org/abs/2306.08641)] [[QA](./papers/2306.08641.md)].
+- (2023/06) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute,   Inspect, and Learn - [[Arxiv](https://arxiv.org/abs/2306.08640)] [[QA](./papers/2306.08640.md)].
+- (2023/06) - MIMIC-IT: Multi-Modal In-Context Instruction Tuning - [[Arxiv](https://arxiv.org/abs/2306.05425)] [[QA](./papers/2306.05425.md)].
+- (2023/05) - Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL   Models - [[Arxiv](https://arxiv.org/abs/2305.19595)] [[QA](./papers/2305.19595.md)].
+- (2023/05) - Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions   with Large Language Model - [[Arxiv](https://arxiv.org/abs/2305.11176)] [[QA](./papers/2305.11176.md)].
+- (2023/05) - VisionLLM: Large Language Model is also an Open-Ended Decoder for   Vision-Centric Tasks - [[Arxiv](https://arxiv.org/abs/2305.11175)] [[QA](./papers/2305.11175.md)].
+- (2023/05) - LLMScore: Unveiling the Power of Large Language Models in Text-to-Image   Synthesis Evaluation - [[Arxiv](https://arxiv.org/abs/2305.11116)] [[QA](./papers/2305.11116.md)].
+- (2023/05) - An Android Robot Head as Embodied Conversational Agent - [[Arxiv](https://arxiv.org/abs/2305.10945)] [[QA](./papers/2305.10945.md)].
+- (2023/05) - OpenShape: Scaling Up 3D Shape Representation Towards Open-World   Understanding - [[Arxiv](https://arxiv.org/abs/2305.10764)] [[QA](./papers/2305.10764.md)].
+- (2023/05) - Towards Generalist Robots: A Promising Paradigm via Generative   Simulation - [[Arxiv](https://arxiv.org/abs/2305.10455)] [[QA](./papers/2305.10455.md)].
 - (2023/05) - TidyBot: Personalized Robot Assistance with Large Language Models - [[Arxiv](https://arxiv.org/abs/2305.05658)] [[QA](./papers/2305.05658.md)].
-- (2023/05) - Principle-Driven Self-Alignment of Language Models from Scratch with
-  Minimal Human Supervision - [[Arxiv](https://arxiv.org/abs/2305.03047)] [[QA](./papers/2305.03047.md)].
+- (2023/05) - Principle-Driven Self-Alignment of Language Models from Scratch with   Minimal Human Supervision - [[Arxiv](https://arxiv.org/abs/2305.03047)] [[QA](./papers/2305.03047.md)].
 - (2023/05) - Multimodal Procedural Planning via Dual Text-Image Prompting - [[Arxiv](https://arxiv.org/abs/2305.01795)] [[QA](./papers/2305.01795.md)].
 - (2023/05) - ArK: Augmented Reality with Knowledge Interactive Emergent Ability - [[Arxiv](https://arxiv.org/abs/2305.00970)] [[QA](./papers/2305.00970.md)].
 - (2023/04) - LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model - [[Arxiv](https://arxiv.org/abs/2304.15010)] [[QA](./papers/2304.15010.md)].
-- (2023/04) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video
-  Understanding System - [[Arxiv](https://arxiv.org/abs/2304.14407)] [[QA](./papers/2304.14407.md)].
-- (2023/04) - mPLUG-Owl: Modularization Empowers Large Language Models with
-  Multimodality - [[Arxiv](https://arxiv.org/abs/2304.14178)] [[QA](./papers/2304.14178.md)].
-- (2023/04) - Multimodal Grounding for Embodied AI via Augmented Reality Headsets for
-  Natural Language Driven Task Planning - [[Arxiv](https://arxiv.org/abs/2304.13676)] [[QA](./papers/2304.13676.md)].
-- (2023/04) - ChatABL: Abductive Learning via Natural Language Interaction with
-  ChatGPT - [[Arxiv](https://arxiv.org/abs/2304.11107)] [[QA](./papers/2304.11107.md)].
+- (2023/04) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video   Understanding System - [[Arxiv](https://arxiv.org/abs/2304.14407)] [[QA](./papers/2304.14407.md)].
+- (2023/04) - mPLUG-Owl: Modularization Empowers Large Language Models with   Multimodality - [[Arxiv](https://arxiv.org/abs/2304.14178)] [[QA](./papers/2304.14178.md)].
+- (2023/04) - Multimodal Grounding for Embodied AI via Augmented Reality Headsets for   Natural Language Driven Task Planning - [[Arxiv](https://arxiv.org/abs/2304.13676)] [[QA](./papers/2304.13676.md)].
+- (2023/04) - ChatABL: Abductive Learning via Natural Language Interaction with   ChatGPT - [[Arxiv](https://arxiv.org/abs/2304.11107)] [[QA](./papers/2304.11107.md)].
 - (2023/04) - Can GPT-4 Perform Neural Architecture Search? - [[Arxiv](https://arxiv.org/abs/2304.10970)] [[QA](./papers/2304.10970.md)].
-- (2023/04) - MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large
-  Language Models - [[Arxiv](https://arxiv.org/abs/2304.10592)] [[QA](./papers/2304.10592.md)].
-- (2023/04) - SINC: Spatial Composition of 3D Human Motions for Simultaneous Action
-  Generation - [[Arxiv](https://arxiv.org/abs/2304.10417)] [[QA](./papers/2304.10417.md)].
-- (2023/04) - Chameleon: Plug-and-Play Compositional Reasoning with Large Language
-  Models - [[Arxiv](https://arxiv.org/abs/2304.09842)] [[QA](./papers/2304.09842.md)].
+- (2023/04) - MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large   Language Models - [[Arxiv](https://arxiv.org/abs/2304.10592)] [[QA](./papers/2304.10592.md)].
+- (2023/04) - SINC: Spatial Composition of 3D Human Motions for Simultaneous Action   Generation - [[Arxiv](https://arxiv.org/abs/2304.10417)] [[QA](./papers/2304.10417.md)].
+- (2023/04) - Chameleon: Plug-and-Play Compositional Reasoning with Large Language   Models - [[Arxiv](https://arxiv.org/abs/2304.09842)] [[QA](./papers/2304.09842.md)].
 - (2023/04) - Visual Instruction Tuning - [[Arxiv](https://arxiv.org/abs/2304.08485)] [[QA](./papers/2304.08485.md)].
-- (2023/04) - Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved with
-  Text - [[Arxiv](https://arxiv.org/abs/2304.06939)] [[QA](./papers/2304.06939.md)].
+- (2023/04) - Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved with   Text - [[Arxiv](https://arxiv.org/abs/2304.06939)] [[QA](./papers/2304.06939.md)].
 - (2023/04) - RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment - [[Arxiv](https://arxiv.org/abs/2304.06767)] [[QA](./papers/2304.06767.md)].
-- (2023/04) - Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via
-  Prompt Augmented by ChatGPT - [[Arxiv](https://arxiv.org/abs/2304.11116)] [[QA](./papers/2304.11116.md)].
+- (2023/04) - Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via   Prompt Augmented by ChatGPT - [[Arxiv](https://arxiv.org/abs/2304.11116)] [[QA](./papers/2304.11116.md)].
 - (2023/04) - OpenAGI: When LLM Meets Domain Experts - [[Arxiv](https://arxiv.org/abs/2304.04370)] [[QA](./papers/2304.04370.md)].
 - (2023/04) - Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions - [[Arxiv](https://arxiv.org/abs/2304.04227)] [[QA](./papers/2304.04227.md)].
-- (2023/04) - ChatGPT Empowered Long-Step Robot Control in Various Environments: A
-  Case Application - [[Arxiv](https://arxiv.org/abs/2304.03893)] [[QA](./papers/2304.03893.md)].
-- (2023/04) - ERRA: An Embodied Representation and Reasoning Architecture for
-  Long-horizon Language-conditioned Manipulation Tasks - [[Arxiv](https://arxiv.org/abs/2304.02251)] [[QA](./papers/2304.02251.md)].
-- (2023/03) - HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging
-  Face - [[Arxiv](https://arxiv.org/abs/2303.17580)] [[QA](./papers/2303.17580.md)].
-- (2023/03) - ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with
-  GPT and Prototype Guidance - [[Arxiv](https://arxiv.org/abs/2303.16894)] [[QA](./papers/2303.16894.md)].
-- (2023/03) - LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init
-  Attention - [[Arxiv](https://arxiv.org/abs/2303.16199)] [[QA](./papers/2303.16199.md)].
+- (2023/04) - ChatGPT Empowered Long-Step Robot Control in Various Environments: A   Case Application - [[Arxiv](https://arxiv.org/abs/2304.03893)] [[QA](./papers/2304.03893.md)].
+- (2023/04) - ERRA: An Embodied Representation and Reasoning Architecture for   Long-horizon Language-conditioned Manipulation Tasks - [[Arxiv](https://arxiv.org/abs/2304.02251)] [[QA](./papers/2304.02251.md)].
+- (2023/03) - HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging   Face - [[Arxiv](https://arxiv.org/abs/2303.17580)] [[QA](./papers/2303.17580.md)].
+- (2023/03) - ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with   GPT and Prototype Guidance - [[Arxiv](https://arxiv.org/abs/2303.16894)] [[QA](./papers/2303.16894.md)].
+- (2023/03) - LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init   Attention - [[Arxiv](https://arxiv.org/abs/2303.16199)] [[QA](./papers/2303.16199.md)].
 - (2023/03) - Learning video embedding space with Natural Language Supervision - [[Arxiv](https://arxiv.org/abs/2303.14584)] [[QA](./papers/2303.14584.md)].
-- (2023/03) - Errors are Useful Prompts: Instruction Guided Task Programming with
-  Verifier-Assisted Iterative Prompting - [[Arxiv](https://arxiv.org/abs/2303.14100)] [[QA](./papers/2303.14100.md)].
+- (2023/03) - Errors are Useful Prompts: Instruction Guided Task Programming with   Verifier-Assisted Iterative Prompting - [[Arxiv](https://arxiv.org/abs/2303.14100)] [[QA](./papers/2303.14100.md)].
 - (2023/03) - eP-ALM: Efficient Perceptual Augmentation of Language Models - [[Arxiv](https://arxiv.org/abs/2303.11403)] [[QA](./papers/2303.11403.md)].
 - (2023/03) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action - [[Arxiv](https://arxiv.org/abs/2303.11381)] [[QA](./papers/2303.11381.md)].
 - (2023/03) - DialogPaint: A Dialog-based Image Editing Model - [[Arxiv](https://arxiv.org/abs/2303.10073)] [[QA](./papers/2303.10073.md)].
-- (2023/03) - MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action
-  Recognition with Language Knowledge - [[Arxiv](https://arxiv.org/abs/2303.08914)] [[QA](./papers/2303.08914.md)].
+- (2023/03) - MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action   Recognition with Language Knowledge - [[Arxiv](https://arxiv.org/abs/2303.08914)] [[QA](./papers/2303.08914.md)].
 - (2023/03) - Can Large Language Models design a Robot? - [[Arxiv](https://arxiv.org/abs/2303.15324)] [[QA](./papers/2303.15324.md)].
-- (2023/03) - Chat with the Environment: Interactive Multimodal Perception Using Large
-  Language Models - [[Arxiv](https://arxiv.org/abs/2303.08268)] [[QA](./papers/2303.08268.md)].
+- (2023/03) - Chat with the Environment: Interactive Multimodal Perception Using Large   Language Models - [[Arxiv](https://arxiv.org/abs/2303.08268)] [[QA](./papers/2303.08268.md)].
 - (2023/03) - ViperGPT: Visual Inference via Python Execution for Reasoning - [[Arxiv](https://arxiv.org/abs/2303.08128)] [[QA](./papers/2303.08128.md)].
-- (2023/03) - RE-MOVE: An Adaptive Policy Design Approach for Dynamic Environments via
-  Language-Based Feedback - [[Arxiv](https://arxiv.org/abs/2303.07622)] [[QA](./papers/2303.07622.md)].
+- (2023/03) - RE-MOVE: An Adaptive Policy Design Approach for Dynamic Environments via   Language-Based Feedback - [[Arxiv](https://arxiv.org/abs/2303.07622)] [[QA](./papers/2303.07622.md)].
 - (2023/03) - Audio Visual Language Maps for Robot Navigation - [[Arxiv](https://arxiv.org/abs/2303.07522)] [[QA](./papers/2303.07522.md)].
-- (2023/03) - ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched
-  Visual Descriptions - [[Arxiv](https://arxiv.org/abs/2303.06594)] [[QA](./papers/2303.06594.md)].
-- (2023/03) - Task and Motion Planning with Large Language Models for Object
-  Rearrangement - [[Arxiv](https://arxiv.org/abs/2303.06247)] [[QA](./papers/2303.06247.md)].
-- (2023/03) - Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation
-  Models - [[Arxiv](https://arxiv.org/abs/2303.04671)] [[QA](./papers/2303.04671.md)].
-- (2023/03) - Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Based Zero-Shot
-  Object Navigation - [[Arxiv](https://arxiv.org/abs/2303.03480)] [[QA](./papers/2303.03480.md)].
-- (2023/03) - Prompting Large Language Models with Answer Heuristics for
-  Knowledge-based Visual Question Answering - [[Arxiv](https://arxiv.org/abs/2303.01903)] [[QA](./papers/2303.01903.md)].
+- (2023/03) - ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched   Visual Descriptions - [[Arxiv](https://arxiv.org/abs/2303.06594)] [[QA](./papers/2303.06594.md)].
+- (2023/03) - Task and Motion Planning with Large Language Models for Object   Rearrangement - [[Arxiv](https://arxiv.org/abs/2303.06247)] [[QA](./papers/2303.06247.md)].
+- (2023/03) - Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation   Models - [[Arxiv](https://arxiv.org/abs/2303.04671)] [[QA](./papers/2303.04671.md)].
+- (2023/03) - Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Based Zero-Shot   Object Navigation - [[Arxiv](https://arxiv.org/abs/2303.03480)] [[QA](./papers/2303.03480.md)].
+- (2023/03) - Prompting Large Language Models with Answer Heuristics for   Knowledge-based Visual Question Answering - [[Arxiv](https://arxiv.org/abs/2303.01903)] [[QA](./papers/2303.01903.md)].
 - (2023/03) - Open-World Object Manipulation using Pre-trained Vision-Language Models - [[Arxiv](https://arxiv.org/abs/2303.00905)] [[QA](./papers/2303.00905.md)].
-- (2023/03) - Grounded Decoding: Guiding Text Generation with Grounded Models for
-  Robot Control - [[Arxiv](https://arxiv.org/abs/2303.00855)] [[QA](./papers/2303.00855.md)].
+- (2023/03) - Grounded Decoding: Guiding Text Generation with Grounded Models for   Robot Control - [[Arxiv](https://arxiv.org/abs/2303.00855)] [[QA](./papers/2303.00855.md)].
 - (2023/02) - Internet Explorer: Targeted Representation Learning on the Open Web - [[Arxiv](https://arxiv.org/abs/2302.14051)] [[QA](./papers/2302.14051.md)].
 - (2023/02) - Language Is Not All You Need: Aligning Perception with Language Models - [[Arxiv](https://arxiv.org/abs/2302.14045)] [[QA](./papers/2302.14045.md)].
+- (2023/02) - ChatGPT for Robotics: Design Principles and Model Abilities - [[Arxiv](https://arxiv.org/abs/2306.17582)] [[QA](./papers/2306.17582.md)].
 - (2022/11) - Visual Programming: Compositional visual reasoning without training - [[Arxiv](https://arxiv.org/abs/2211.11559)] [[QA](./papers/2211.11559.md)].
 - (2022/10) - VIMA: General Robot Manipulation with Multimodal Prompts - [[Arxiv](https://arxiv.org/abs/2210.03094)] [[QA](./papers/2210.03094.md)].
 - (2022/10) - Multimodal Analogical Reasoning over Knowledge Graphs - [[Arxiv](https://arxiv.org/abs/2210.00312)] [[QA](./papers/2210.00312.md)].
-- (2022/07) - LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language,
-  Vision, and Action - [[Arxiv](https://arxiv.org/abs/2207.04429)] [[QA](./papers/2207.04429.md)].
+- (2022/07) - LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language,   Vision, and Action - [[Arxiv](https://arxiv.org/abs/2207.04429)] [[QA](./papers/2207.04429.md)].
 - (2022/06) - Language Models are General-Purpose Interfaces - [[Arxiv](https://arxiv.org/abs/2206.06336)] [[QA](./papers/2206.06336.md)].
