@@ -3,6 +3,7 @@
 ## 2023
 
 ### September 2023
+- Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields - [[ArXiv](https://arxiv.org/abs/2309.03185)] [[QA](./papers/2309.03185.md)].
 - Point-Bind &amp; Point-LLM: Aligning Point Cloud with Multi-modality for 3D   Understanding, Generation, and Instruction Following - [[ArXiv](https://arxiv.org/abs/2309.00615)] [[QA](./papers/2309.00615.md)].
 - CityDreamer: Compositional Generative Model of Unbounded 3D Cities - [[ArXiv](https://arxiv.org/abs/2309.00610)] [[QA](./papers/2309.00610.md)].
 - VideoGen: A Reference-Guided Latent Diffusion Approach for High   Definition Text-to-Video Generation - [[ArXiv](https://arxiv.org/abs/2309.00398)] [[QA](./papers/2309.00398.md)].
