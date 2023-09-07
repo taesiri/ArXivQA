@@ -3,7 +3,13 @@
 ## 2023
 
 ### September 2023
+- Matcha-TTS: A fast TTS architecture with conditional flow matching - [[ArXiv](https://arxiv.org/abs/2309.03199)] [[QA](./papers/2309.03199.md)].
 - Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields - [[ArXiv](https://arxiv.org/abs/2309.03185)] [[QA](./papers/2309.03185.md)].
+- SLiMe: Segment Like Me - [[ArXiv](https://arxiv.org/abs/2309.03179)] [[QA](./papers/2309.03179.md)].
+- ResFields: Residual Neural Fields for Spatiotemporal Signals - [[ArXiv](https://arxiv.org/abs/2309.03160)] [[QA](./papers/2309.03160.md)].
+- MyoDex: A Generalizable Prior for Dexterous Manipulation - [[ArXiv](https://arxiv.org/abs/2309.03130)] [[QA](./papers/2309.03130.md)].
+- Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction   Tuning - [[ArXiv](https://arxiv.org/abs/2309.02591)] [[QA](./papers/2309.02591.md)].
+- Physically Grounded Vision-Language Models for Robotic Manipulation - [[ArXiv](https://arxiv.org/abs/2309.02561)] [[QA](./papers/2309.02561.md)].
 - Point-Bind &amp; Point-LLM: Aligning Point Cloud with Multi-modality for 3D   Understanding, Generation, and Instruction Following - [[ArXiv](https://arxiv.org/abs/2309.00615)] [[QA](./papers/2309.00615.md)].
 - CityDreamer: Compositional Generative Model of Unbounded 3D Cities - [[ArXiv](https://arxiv.org/abs/2309.00610)] [[QA](./papers/2309.00610.md)].
 - VideoGen: A Reference-Guided Latent Diffusion Approach for High   Definition Text-to-Video Generation - [[ArXiv](https://arxiv.org/abs/2309.00398)] [[QA](./papers/2309.00398.md)].
@@ -244,8 +250,8 @@
 - NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and   Repulsive UDF - [[ArXiv](https://arxiv.org/abs/2307.09112)] [[QA](./papers/2307.09112.md)].
 - How is ChatGPT's behavior changing over time? - [[ArXiv](https://arxiv.org/abs/2307.09009)] [[QA](./papers/2307.09009.md)].
 - GEAR: Augmenting Language Models with Generalizable and Efficient Tool   Resolution - [[ArXiv](https://arxiv.org/abs/2307.08775)] [[QA](./papers/2307.08775.md)].
-- Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
 - AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
+- Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
 - TableGPT: Towards Unifying Tables, Nature Language and Commands into One   GPT - [[ArXiv](https://arxiv.org/abs/2307.08674)] [[QA](./papers/2307.08674.md)].
 - Retentive Network: A Successor to Transformer for Large Language Models - [[ArXiv](https://arxiv.org/abs/2307.08621)] [[QA](./papers/2307.08621.md)].
 - BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs - [[ArXiv](https://arxiv.org/abs/2307.08581)] [[QA](./papers/2307.08581.md)].
