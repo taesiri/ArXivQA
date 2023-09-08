@@ -3,11 +3,18 @@
 ## 2023
 
 ### September 2023
+- ImageBind-LLM: Multi-modality Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2309.03905)] [[QA](./papers/2309.03905.md)].
+- DoLa: Decoding by Contrasting Layers Improves Factuality in Large   Language Models - [[ArXiv](https://arxiv.org/abs/2309.03883)] [[QA](./papers/2309.03883.md)].
+- FLM-101B: An Open LLM and How to Train It with $100K Budget - [[ArXiv](https://arxiv.org/abs/2309.03852)] [[QA](./papers/2309.03852.md)].
+- Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance   Fields using Geometry-Guided Text-to-Image Diffusion Model - [[ArXiv](https://arxiv.org/abs/2309.03550)] [[QA](./papers/2309.03550.md)].
+- Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation - [[ArXiv](https://arxiv.org/abs/2309.03549)] [[QA](./papers/2309.03549.md)].
+- Large Language Models as Optimizers - [[ArXiv](https://arxiv.org/abs/2309.03409)] [[QA](./papers/2309.03409.md)].
 - Matcha-TTS: A fast TTS architecture with conditional flow matching - [[ArXiv](https://arxiv.org/abs/2309.03199)] [[QA](./papers/2309.03199.md)].
 - Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields - [[ArXiv](https://arxiv.org/abs/2309.03185)] [[QA](./papers/2309.03185.md)].
 - SLiMe: Segment Like Me - [[ArXiv](https://arxiv.org/abs/2309.03179)] [[QA](./papers/2309.03179.md)].
 - ResFields: Residual Neural Fields for Spatiotemporal Signals - [[ArXiv](https://arxiv.org/abs/2309.03160)] [[QA](./papers/2309.03160.md)].
 - MyoDex: A Generalizable Prior for Dexterous Manipulation - [[ArXiv](https://arxiv.org/abs/2309.03130)] [[QA](./papers/2309.03130.md)].
+- GPT Can Solve Mathematical Problems Without a Calculator - [[ArXiv](https://arxiv.org/abs/2309.03241)] [[QA](./papers/2309.03241.md)].
 - Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction   Tuning - [[ArXiv](https://arxiv.org/abs/2309.02591)] [[QA](./papers/2309.02591.md)].
 - Physically Grounded Vision-Language Models for Robotic Manipulation - [[ArXiv](https://arxiv.org/abs/2309.02561)] [[QA](./papers/2309.02561.md)].
 - Point-Bind &amp; Point-LLM: Aligning Point Cloud with Multi-modality for 3D   Understanding, Generation, and Instruction Following - [[ArXiv](https://arxiv.org/abs/2309.00615)] [[QA](./papers/2309.00615.md)].
@@ -250,8 +257,8 @@
 - NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and   Repulsive UDF - [[ArXiv](https://arxiv.org/abs/2307.09112)] [[QA](./papers/2307.09112.md)].
 - How is ChatGPT's behavior changing over time? - [[ArXiv](https://arxiv.org/abs/2307.09009)] [[QA](./papers/2307.09009.md)].
 - GEAR: Augmenting Language Models with Generalizable and Efficient Tool   Resolution - [[ArXiv](https://arxiv.org/abs/2307.08775)] [[QA](./papers/2307.08775.md)].
-- AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
 - Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
+- AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
 - TableGPT: Towards Unifying Tables, Nature Language and Commands into One   GPT - [[ArXiv](https://arxiv.org/abs/2307.08674)] [[QA](./papers/2307.08674.md)].
 - Retentive Network: A Successor to Transformer for Large Language Models - [[ArXiv](https://arxiv.org/abs/2307.08621)] [[QA](./papers/2307.08621.md)].
 - BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs - [[ArXiv](https://arxiv.org/abs/2307.08581)] [[QA](./papers/2307.08581.md)].
@@ -533,6 +540,7 @@
 - ChatGPT for Robotics: Design Principles and Model Abilities - [[ArXiv](https://arxiv.org/abs/2306.17582)] [[QA](./papers/2306.17582.md)].
 - Toolformer: Language Models Can Teach Themselves to Use Tools - [[ArXiv](https://arxiv.org/abs/2302.04761)] [[QA](./papers/2302.04761.md)].
 - Describe, Explain, Plan and Select: Interactive Planning with Large   Language Models Enables Open-World Multi-Task Agents - [[ArXiv](https://arxiv.org/abs/2302.01560)] [[QA](./papers/2302.01560.md)].
+- Accelerating Large Language Model Decoding with Speculative Sampling - [[ArXiv](https://arxiv.org/abs/2302.01318)] [[QA](./papers/2302.01318.md)].
 - Multimodal Chain-of-Thought Reasoning in Language Models - [[ArXiv](https://arxiv.org/abs/2302.00923)] [[QA](./papers/2302.00923.md)].
 - Collaborating with language models for embodied reasoning - [[ArXiv](https://arxiv.org/abs/2302.00763)] [[QA](./papers/2302.00763.md)].
 
@@ -549,6 +557,7 @@
 - LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large   Language Models - [[ArXiv](https://arxiv.org/abs/2212.04088)] [[QA](./papers/2212.04088.md)].
 
 ### November 2022
+- Fast Inference from Transformers via Speculative Decoding - [[ArXiv](https://arxiv.org/abs/2211.17192)] [[QA](./papers/2211.17192.md)].
 - SuS-X: Training-Free Name-Only Transfer of Vision-Language Models - [[ArXiv](https://arxiv.org/abs/2211.16198)] [[QA](./papers/2211.16198.md)].
 - PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning - [[ArXiv](https://arxiv.org/abs/2211.11682)] [[QA](./papers/2211.11682.md)].
 - Visual Programming: Compositional visual reasoning without training - [[ArXiv](https://arxiv.org/abs/2211.11559)] [[QA](./papers/2211.11559.md)].
@@ -594,6 +603,9 @@
 - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval - [[ArXiv](https://arxiv.org/abs/2104.00650)] [[QA](./papers/2104.00650.md)].
 
 ## 2018
+
+### November 2018
+- Blockwise Parallel Decoding for Deep Autoregressive Models - [[ArXiv](https://arxiv.org/abs/1811.03115)] [[QA](./papers/1811.03115.md)].
 
 ### August 2018
 - AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale - [[ArXiv](https://arxiv.org/abs/1808.10583)] [[QA](./papers/1808.10583.md)].
