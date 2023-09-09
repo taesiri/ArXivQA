@@ -465,6 +465,7 @@
 - Improving Language Model Negotiation with Self-Play and In-Context   Learning from AI Feedback - [[ArXiv](https://arxiv.org/abs/2305.10142)] [[QA](./papers/2305.10142.md)].
 - Towards Generalist Robots: A Promising Paradigm via Generative   Simulation - [[ArXiv](https://arxiv.org/abs/2305.10455)] [[QA](./papers/2305.10455.md)].
 - Small Models are Valuable Plug-ins for Large Language Models - [[ArXiv](https://arxiv.org/abs/2305.08848)] [[QA](./papers/2305.08848.md)].
+- In Search of Verifiability: Explanations Rarely Enable Complementary   Performance in AI-Advised Decision Making - [[ArXiv](https://arxiv.org/abs/2305.07722)] [[QA](./papers/2305.07722.md)].
 - ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced   MiniGPT-4 - [[ArXiv](https://arxiv.org/abs/2305.07490)] [[QA](./papers/2305.07490.md)].
 - InstructBLIP: Towards General-purpose Vision-Language Models with   Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2305.06500)] [[QA](./papers/2305.06500.md)].
 - VideoChat: Chat-Centric Video Understanding - [[ArXiv](https://arxiv.org/abs/2305.06355)] [[QA](./papers/2305.06355.md)].
@@ -535,6 +536,7 @@
 - Reflexion: Language Agents with Verbal Reinforcement Learning - [[ArXiv](https://arxiv.org/abs/2303.11366)] [[QA](./papers/2303.11366.md)].
 - DialogPaint: A Dialog-based Image Editing Model - [[ArXiv](https://arxiv.org/abs/2303.10073)] [[QA](./papers/2303.10073.md)].
 - CoLT5: Faster Long-Range Transformers with Conditional Computation - [[ArXiv](https://arxiv.org/abs/2303.09752)] [[QA](./papers/2303.09752.md)].
+- Human-AI Collaboration: The Effect of AI Delegation on Human Task   Performance and Task Satisfaction - [[ArXiv](https://arxiv.org/abs/2303.09224)] [[QA](./papers/2303.09224.md)].
 - ART: Automatic multi-step reasoning and tool-use for large language   models - [[ArXiv](https://arxiv.org/abs/2303.09014)] [[QA](./papers/2303.09014.md)].
 - MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action   Recognition with Language Knowledge - [[ArXiv](https://arxiv.org/abs/2303.08914)] [[QA](./papers/2303.08914.md)].
 - Can Large Language Models design a Robot? - [[ArXiv](https://arxiv.org/abs/2303.15324)] [[QA](./papers/2303.15324.md)].
@@ -590,6 +592,7 @@
 - Mind's Eye: Grounded Language Model Reasoning through Simulation - [[ArXiv](https://arxiv.org/abs/2210.05359)] [[QA](./papers/2210.05359.md)].
 - VIMA: General Robot Manipulation with Multimodal Prompts - [[ArXiv](https://arxiv.org/abs/2210.03094)] [[QA](./papers/2210.03094.md)].
 - ReAct: Synergizing Reasoning and Acting in Language Models - [[ArXiv](https://arxiv.org/abs/2210.03629)] [[QA](./papers/2210.03629.md)].
+- "Help Me Help the AI": Understanding How Explainability Can Support   Human-AI Interaction - [[ArXiv](https://arxiv.org/abs/2210.03735)] [[QA](./papers/2210.03735.md)].
 - Multimodal Analogical Reasoning over Knowledge Graphs - [[ArXiv](https://arxiv.org/abs/2210.00312)] [[QA](./papers/2210.00312.md)].
 
 ### July 2022
@@ -618,28 +621,169 @@
 ### December 2021
 - WebGPT: Browser-assisted question-answering with human feedback - [[ArXiv](https://arxiv.org/abs/2112.09332)] [[QA](./papers/2112.09332.md)].
 - Rethinking Nearest Neighbors for Visual Classification - [[ArXiv](https://arxiv.org/abs/2112.08459)] [[QA](./papers/2112.08459.md)].
+- DeepFace-EMD: Re-ranking Using Patch-wise Earth Mover's Distance   Improves Out-Of-Distribution Face Identification - [[ArXiv](https://arxiv.org/abs/2112.04016)] [[QA](./papers/2112.04016.md)].
 
 ### November 2021
 - LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs - [[ArXiv](https://arxiv.org/abs/2111.02114)] [[QA](./papers/2111.02114.md)].
 
+### October 2021
+- Double Trouble: How to not explain a text classifier's decisions using   counterfactuals synthesized by masked language models? - [[ArXiv](https://arxiv.org/abs/2110.11929)] [[QA](./papers/2110.11929.md)].
+
 ### August 2021
 - FedPara: Low-Rank Hadamard Product for Communication-Efficient Federated   Learning - [[ArXiv](https://arxiv.org/abs/2108.06098)] [[QA](./papers/2108.06098.md)].
 
+### July 2021
+- When and How to Fool Explainable Models (and Humans) with Adversarial   Examples - [[ArXiv](https://arxiv.org/abs/2107.01943)] [[QA](./papers/2107.01943.md)].
+
 ### June 2021
 - Multimodal Few-Shot Learning with Frozen Language Models - [[ArXiv](https://arxiv.org/abs/2106.13884)] [[QA](./papers/2106.13884.md)].
+- IA-RED$^2$: Interpretability-Aware Redundancy Reduction for Vision   Transformers - [[ArXiv](https://arxiv.org/abs/2106.12620)] [[QA](./papers/2106.12620.md)].
+- Inverting Adversarially Robust Networks for Image Synthesis - [[ArXiv](https://arxiv.org/abs/2106.06927)] [[QA](./papers/2106.06927.md)].
 
 ### April 2021
 - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval - [[ArXiv](https://arxiv.org/abs/2104.00650)] [[QA](./papers/2104.00650.md)].
 
+### March 2021
+- Generic Attention-model Explainability for Interpreting Bi-Modal and   Encoder-Decoder Transformers - [[ArXiv](https://arxiv.org/abs/2103.15679)] [[QA](./papers/2103.15679.md)].
+- Efficient Explanations from Empirical Explainers - [[ArXiv](https://arxiv.org/abs/2103.15429)] [[QA](./papers/2103.15429.md)].
+
+### February 2021
+- Teach Me to Explain: A Review of Datasets for Explainable Natural   Language Processing - [[ArXiv](https://arxiv.org/abs/2102.12060)] [[QA](./papers/2102.12060.md)].
+
+## 2020
+
+### December 2020
+- Transformer Interpretability Beyond Attention Visualization - [[ArXiv](https://arxiv.org/abs/2012.09838)] [[QA](./papers/2012.09838.md)].
+- Challenging common interpretability assumptions in feature attribution   explanations - [[ArXiv](https://arxiv.org/abs/2012.02748)] [[QA](./papers/2012.02748.md)].
+- Neural Prototype Trees for Interpretable Fine-grained Image Recognition - [[ArXiv](https://arxiv.org/abs/2012.02046)] [[QA](./papers/2012.02046.md)].
+
+### October 2020
+- Interpretation of NLP models through input marginalization - [[ArXiv](https://arxiv.org/abs/2010.13984)] [[QA](./papers/2010.13984.md)].
+- Towards falsifiable interpretability research - [[ArXiv](https://arxiv.org/abs/2010.12016)] [[QA](./papers/2010.12016.md)].
+
+### September 2020
+- Understanding the Role of Individual Units in a Deep Neural Network - [[ArXiv](https://arxiv.org/abs/2009.05041)] [[QA](./papers/2009.05041.md)].
+
+### August 2020
+- Explainable Face Recognition - [[ArXiv](https://arxiv.org/abs/2008.00916)] [[QA](./papers/2008.00916.md)].
+
+### June 2020
+- Generative causal explanations of black-box classifiers - [[ArXiv](https://arxiv.org/abs/2006.13913)] [[QA](./papers/2006.13913.md)].
+
+### April 2020
+- Considering Likelihood in NLP Classification Explanations with Occlusion   and Language Modeling - [[ArXiv](https://arxiv.org/abs/2004.09890)] [[QA](./papers/2004.09890.md)].
+- There and Back Again: Revisiting Backpropagation Saliency Methods - [[ArXiv](https://arxiv.org/abs/2004.02866)] [[QA](./papers/2004.02866.md)].
+
+### March 2020
+- Building and Interpreting Deep Similarity Models - [[ArXiv](https://arxiv.org/abs/2003.05431)] [[QA](./papers/2003.05431.md)].
+- xCos: An Explainable Cosine Metric for Face Verification Task - [[ArXiv](https://arxiv.org/abs/2003.05383)] [[QA](./papers/2003.05383.md)].
+
+## 2019
+
+### December 2019
+- Image Processing Using Multi-Code GAN Prior - [[ArXiv](https://arxiv.org/abs/1912.07116)] [[QA](./papers/1912.07116.md)].
+
+### October 2019
+- Understanding Deep Networks via Extremal Perturbations and Smooth Masks - [[ArXiv](https://arxiv.org/abs/1910.08485)] [[QA](./papers/1910.08485.md)].
+- A cost-effective method for improving and re-purposing large,   pre-trained GANs by fine-tuning their class-embeddings - [[ArXiv](https://arxiv.org/abs/1910.04760)] [[QA](./papers/1910.04760.md)].
+- Explaining image classifiers by removing input features using generative   models - [[ArXiv](https://arxiv.org/abs/1910.04256)] [[QA](./papers/1910.04256.md)].
+
+### September 2019
+- Visual Explanation for Deep Metric Learning - [[ArXiv](https://arxiv.org/abs/1909.12977)] [[QA](./papers/1909.12977.md)].
+
+### July 2019
+- Benchmarking Attribution Methods with Relative Feature Importance - [[ArXiv](https://arxiv.org/abs/1907.09701)] [[QA](./papers/1907.09701.md)].
+- Generative Counterfactual Introspection for Explainable Deep Learning - [[ArXiv](https://arxiv.org/abs/1907.03077)] [[QA](./papers/1907.03077.md)].
+
+### June 2019
+- Improving performance of deep learning models with axiomatic attribution   priors and expected gradients - [[ArXiv](https://arxiv.org/abs/1906.10670)] [[QA](./papers/1906.10670.md)].
+- XRAI: Better Attributions Through Regions - [[ArXiv](https://arxiv.org/abs/1906.02825)] [[QA](./papers/1906.02825.md)].
+- Image Synthesis with a Single (Robust) Classifier - [[ArXiv](https://arxiv.org/abs/1906.09453)] [[QA](./papers/1906.09453.md)].
+
+### May 2019
+- Why do These Match? Explaining the Behavior of Image Similarity Models - [[ArXiv](https://arxiv.org/abs/1905.10797)] [[QA](./papers/1905.10797.md)].
+
+### February 2019
+- LS-Tree: Model Interpretation When the Data Are Linguistic - [[ArXiv](https://arxiv.org/abs/1902.04187)] [[QA](./papers/1902.04187.md)].
+- Towards Automatic Concept-based Explanations - [[ArXiv](https://arxiv.org/abs/1902.03129)] [[QA](./papers/1902.03129.md)].
+
+### January 2019
+- Automated Rationale Generation: A Technique for Explainable AI and its   Effects on Human Perceptions - [[ArXiv](https://arxiv.org/abs/1901.03729)] [[QA](./papers/1901.03729.md)].
+- Visualizing Deep Similarity Networks - [[ArXiv](https://arxiv.org/abs/1901.00536)] [[QA](./papers/1901.00536.md)].
+
 ## 2018
 
 ### November 2018
+- Strike (with) a Pose: Neural Networks Are Easily Fooled by Strange Poses   of Familiar Objects - [[ArXiv](https://arxiv.org/abs/1811.11553)] [[QA](./papers/1811.11553.md)].
+- GAN Dissection: Visualizing and Understanding Generative Adversarial   Networks - [[ArXiv](https://arxiv.org/abs/1811.10597)] [[QA](./papers/1811.10597.md)].
 - Blockwise Parallel Decoding for Deep Autoregressive Models - [[ArXiv](https://arxiv.org/abs/1811.03115)] [[QA](./papers/1811.03115.md)].
 
 ### August 2018
 - AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale - [[ArXiv](https://arxiv.org/abs/1808.10583)] [[QA](./papers/1808.10583.md)].
 
+### June 2018
+- A Benchmark for Interpretability Methods in Deep Neural Networks - [[ArXiv](https://arxiv.org/abs/1806.10758)] [[QA](./papers/1806.10758.md)].
+- This Looks Like That: Deep Learning for Interpretable Image Recognition - [[ArXiv](https://arxiv.org/abs/1806.10574)] [[QA](./papers/1806.10574.md)].
+- A Peek Into the Hidden Layers of a Convolutional Neural Network Through   a Factorization Lens - [[ArXiv](https://arxiv.org/abs/1806.02012)] [[QA](./papers/1806.02012.md)].
+
+### May 2018
+- Unsupervised Learning of Neural Networks to Explain Neural Networks - [[ArXiv](https://arxiv.org/abs/1805.07468)] [[QA](./papers/1805.07468.md)].
+- A Theoretical Explanation for Perplexing Behaviors of   Backpropagation-based Visualizations - [[ArXiv](https://arxiv.org/abs/1805.07039)] [[QA](./papers/1805.07039.md)].
+
+### April 2018
+- How convolutional neural network see the world - A survey of   convolutional neural network visualization methods - [[ArXiv](https://arxiv.org/abs/1804.11191)] [[QA](./papers/1804.11191.md)].
+
+### February 2018
+- Multimodal Explanations: Justifying Decisions and Pointing to the   Evidence - [[ArXiv](https://arxiv.org/abs/1802.08129)] [[QA](./papers/1802.08129.md)].
+- Interpreting CNNs via Decision Trees - [[ArXiv](https://arxiv.org/abs/1802.00121)] [[QA](./papers/1802.00121.md)].
+
+### January 2018
+- Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters   in Deep Neural Networks - [[ArXiv](https://arxiv.org/abs/1801.03454)] [[QA](./papers/1801.03454.md)].
+
 ## 2017
+
+### December 2017
+- Beyond saliency: understanding convolutional neural networks from   saliency prediction on layer-wise relevance propagation - [[ArXiv](https://arxiv.org/abs/1712.08268)] [[QA](./papers/1712.08268.md)].
+
+### November 2017
+- Interpretability Beyond Feature Attribution: Quantitative Testing with   Concept Activation Vectors (TCAV) - [[ArXiv](https://arxiv.org/abs/1711.11279)] [[QA](./papers/1711.11279.md)].
+- Distilling a Neural Network Into a Soft Decision Tree - [[ArXiv](https://arxiv.org/abs/1711.09784)] [[QA](./papers/1711.09784.md)].
+
+### October 2017
+- Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks - [[ArXiv](https://arxiv.org/abs/1710.11063)] [[QA](./papers/1710.11063.md)].
+- Distill-and-Compare: Auditing Black-Box Models Using Transparent Model   Distillation - [[ArXiv](https://arxiv.org/abs/1710.06169)] [[QA](./papers/1710.06169.md)].
 
 ### September 2017
 - AISHELL-1: An Open-Source Mandarin Speech Corpus and A Speech   Recognition Baseline - [[ArXiv](https://arxiv.org/abs/1709.05522)] [[QA](./papers/1709.05522.md)].
+
+### June 2017
+- SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning   Dynamics and Interpretability - [[ArXiv](https://arxiv.org/abs/1706.05806)] [[QA](./papers/1706.05806.md)].
+- SmoothGrad: removing noise by adding noise - [[ArXiv](https://arxiv.org/abs/1706.03825)] [[QA](./papers/1706.03825.md)].
+
+### May 2017
+- Learning how to explain neural networks: PatternNet and   PatternAttribution - [[ArXiv](https://arxiv.org/abs/1705.05598)] [[QA](./papers/1705.05598.md)].
+
+## 2016
+
+### October 2016
+- Grad-CAM: Visual Explanations from Deep Networks via Gradient-based   Localization - [[ArXiv](https://arxiv.org/abs/1610.02391)] [[QA](./papers/1610.02391.md)].
+
+### June 2016
+- The Mythos of Model Interpretability - [[ArXiv](https://arxiv.org/abs/1606.03490)] [[QA](./papers/1606.03490.md)].
+
+## 2015
+
+### December 2015
+- Explaining NonLinear Classification Decisions with Deep Taylor   Decomposition - [[ArXiv](https://arxiv.org/abs/1512.02479)] [[QA](./papers/1512.02479.md)].
+
+### June 2015
+- Inverting Visual Representations with Convolutional Networks - [[ArXiv](https://arxiv.org/abs/1506.02753)] [[QA](./papers/1506.02753.md)].
+- Visualizing and Understanding Recurrent Networks - [[ArXiv](https://arxiv.org/abs/1506.02078)] [[QA](./papers/1506.02078.md)].
+
+## 2014
+
+### December 2014
+- Object Detectors Emerge in Deep Scene CNNs - [[ArXiv](https://arxiv.org/abs/1412.6856)] [[QA](./papers/1412.6856.md)].
+
+### November 2014
+- Understanding Deep Image Representations by Inverting Them - [[ArXiv](https://arxiv.org/abs/1412.0035)] [[QA](./papers/1412.0035.md)].
