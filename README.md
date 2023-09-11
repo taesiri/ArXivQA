@@ -3,12 +3,16 @@
 ## 2023
 
 ### September 2023
+- Mobile V-MoEs: Scaling Down Vision Transformers via Sparse   Mixture-of-Experts - [[ArXiv](https://arxiv.org/abs/2309.04354)] [[QA](./papers/2309.04354.md)].
+- From Sparse to Dense: GPT-4 Summarization with Chain of Density   Prompting - [[ArXiv](https://arxiv.org/abs/2309.04269)] [[QA](./papers/2309.04269.md)].
+- Towards Practical Capture of High-Fidelity Relightable Avatars - [[ArXiv](https://arxiv.org/abs/2309.04247)] [[QA](./papers/2309.04247.md)].
 - ImageBind-LLM: Multi-modality Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2309.03905)] [[QA](./papers/2309.03905.md)].
 - Tracking Anything with Decoupled Video Segmentation - [[ArXiv](https://arxiv.org/abs/2309.03903)] [[QA](./papers/2309.03903.md)].
 - ProPainter: Improving Propagation and Transformer for Video Inpainting - [[ArXiv](https://arxiv.org/abs/2309.03897)] [[QA](./papers/2309.03897.md)].
 - InstructDiffusion: A Generalist Modeling Interface for Vision Tasks - [[ArXiv](https://arxiv.org/abs/2309.03895)] [[QA](./papers/2309.03895.md)].
 - DoLa: Decoding by Contrasting Layers Improves Factuality in Large   Language Models - [[ArXiv](https://arxiv.org/abs/2309.03883)] [[QA](./papers/2309.03883.md)].
 - FLM-101B: An Open LLM and How to Train It with $100K Budget - [[ArXiv](https://arxiv.org/abs/2309.03852)] [[QA](./papers/2309.03852.md)].
+- Large-Scale Automatic Audiobook Creation - [[ArXiv](https://arxiv.org/abs/2309.03926)] [[QA](./papers/2309.03926.md)].
 - Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance   Fields using Geometry-Guided Text-to-Image Diffusion Model - [[ArXiv](https://arxiv.org/abs/2309.03550)] [[QA](./papers/2309.03550.md)].
 - Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation - [[ArXiv](https://arxiv.org/abs/2309.03549)] [[QA](./papers/2309.03549.md)].
 - SyncDreamer: Generating Multiview-consistent Images from a Single-view   Image - [[ArXiv](https://arxiv.org/abs/2309.03453)] [[QA](./papers/2309.03453.md)].
@@ -279,8 +283,8 @@
 - NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and   Repulsive UDF - [[ArXiv](https://arxiv.org/abs/2307.09112)] [[QA](./papers/2307.09112.md)].
 - How is ChatGPT's behavior changing over time? - [[ArXiv](https://arxiv.org/abs/2307.09009)] [[QA](./papers/2307.09009.md)].
 - GEAR: Augmenting Language Models with Generalizable and Efficient Tool   Resolution - [[ArXiv](https://arxiv.org/abs/2307.08775)] [[QA](./papers/2307.08775.md)].
-- Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
 - AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
+- Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
 - TableGPT: Towards Unifying Tables, Nature Language and Commands into One   GPT - [[ArXiv](https://arxiv.org/abs/2307.08674)] [[QA](./papers/2307.08674.md)].
 - Retentive Network: A Successor to Transformer for Large Language Models - [[ArXiv](https://arxiv.org/abs/2307.08621)] [[QA](./papers/2307.08621.md)].
 - BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs - [[ArXiv](https://arxiv.org/abs/2307.08581)] [[QA](./papers/2307.08581.md)].
@@ -453,6 +457,7 @@
 - Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions   with Large Language Model - [[ArXiv](https://arxiv.org/abs/2305.11176)] [[QA](./papers/2305.11176.md)].
 - VisionLLM: Large Language Model is also an Open-Ended Decoder for   Vision-Centric Tasks - [[ArXiv](https://arxiv.org/abs/2305.11175)] [[QA](./papers/2305.11175.md)].
 - LLMScore: Unveiling the Power of Large Language Models in Text-to-Image   Synthesis Evaluation - [[ArXiv](https://arxiv.org/abs/2305.11116)] [[QA](./papers/2305.11116.md)].
+- DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule   Graphs - [[ArXiv](https://arxiv.org/abs/2309.03907)] [[QA](./papers/2309.03907.md)].
 - An Android Robot Head as Embodied Conversational Agent - [[ArXiv](https://arxiv.org/abs/2305.10945)] [[QA](./papers/2305.10945.md)].
 - Listen, Think, and Understand - [[ArXiv](https://arxiv.org/abs/2305.10790)] [[QA](./papers/2305.10790.md)].
 - OpenShape: Scaling Up 3D Shape Representation Towards Open-World   Understanding - [[ArXiv](https://arxiv.org/abs/2305.10764)] [[QA](./papers/2305.10764.md)].
