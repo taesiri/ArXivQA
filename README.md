@@ -3,6 +3,14 @@
 ## 2023
 
 ### September 2023
+- NExT-GPT: Any-to-Any Multimodal LLM - [[ArXiv](https://arxiv.org/abs/2309.05519)] [[QA](./papers/2309.05519.md)].
+- Optimize Weight Rounding via Signed Gradient Descent for the   Quantization of LLMs - [[ArXiv](https://arxiv.org/abs/2309.05516)] [[QA](./papers/2309.05516.md)].
+- Textbooks Are All You Need II: phi-1.5 technical report - [[ArXiv](https://arxiv.org/abs/2309.05463)] [[QA](./papers/2309.05463.md)].
+- Neurons in Large Language Models: Dead, N-gram, Positional - [[ArXiv](https://arxiv.org/abs/2309.04827)] [[QA](./papers/2309.04827.md)].
+- FIAT: Fusing learning paradigms with Instruction-Accelerated Tuning - [[ArXiv](https://arxiv.org/abs/2309.04663)] [[QA](./papers/2309.04663.md)].
+- MADLAD-400: A Multilingual And Document-Level Large Audited Dataset - [[ArXiv](https://arxiv.org/abs/2309.04662)] [[QA](./papers/2309.04662.md)].
+- Dynamic Mesh-Aware Radiance Fields - [[ArXiv](https://arxiv.org/abs/2309.04581)] [[QA](./papers/2309.04581.md)].
+- When Less is More: Investigating Data Pruning for Pretraining LLMs at   Scale - [[ArXiv](https://arxiv.org/abs/2309.04564)] [[QA](./papers/2309.04564.md)].
 - Mobile V-MoEs: Scaling Down Vision Transformers via Sparse   Mixture-of-Experts - [[ArXiv](https://arxiv.org/abs/2309.04354)] [[QA](./papers/2309.04354.md)].
 - From Sparse to Dense: GPT-4 Summarization with Chain of Density   Prompting - [[ArXiv](https://arxiv.org/abs/2309.04269)] [[QA](./papers/2309.04269.md)].
 - Towards Practical Capture of High-Fidelity Relightable Avatars - [[ArXiv](https://arxiv.org/abs/2309.04247)] [[QA](./papers/2309.04247.md)].
