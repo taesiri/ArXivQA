@@ -291,8 +291,8 @@
 - NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and   Repulsive UDF - [[ArXiv](https://arxiv.org/abs/2307.09112)] [[QA](./papers/2307.09112.md)].
 - How is ChatGPT's behavior changing over time? - [[ArXiv](https://arxiv.org/abs/2307.09009)] [[QA](./papers/2307.09009.md)].
 - GEAR: Augmenting Language Models with Generalizable and Efficient Tool   Resolution - [[ArXiv](https://arxiv.org/abs/2307.08775)] [[QA](./papers/2307.08775.md)].
-- AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
 - Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
+- AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
 - TableGPT: Towards Unifying Tables, Nature Language and Commands into One   GPT - [[ArXiv](https://arxiv.org/abs/2307.08674)] [[QA](./papers/2307.08674.md)].
 - Retentive Network: A Successor to Transformer for Large Language Models - [[ArXiv](https://arxiv.org/abs/2307.08621)] [[QA](./papers/2307.08621.md)].
 - BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs - [[ArXiv](https://arxiv.org/abs/2307.08581)] [[QA](./papers/2307.08581.md)].
@@ -621,12 +621,20 @@
 ### May 2022
 - GIT: A Generative Image-to-text Transformer for Vision and Language - [[ArXiv](https://arxiv.org/abs/2205.14100)] [[QA](./papers/2205.14100.md)].
 - TALM: Tool Augmented Language Models - [[ArXiv](https://arxiv.org/abs/2205.12255)] [[QA](./papers/2205.12255.md)].
+- Reduce Information Loss in Transformers for Pluralistic Image Inpainting - [[ArXiv](https://arxiv.org/abs/2205.05076)] [[QA](./papers/2205.05076.md)].
 
 ### April 2022
 - Flamingo: a Visual Language Model for Few-Shot Learning - [[ArXiv](https://arxiv.org/abs/2204.14198)] [[QA](./papers/2204.14198.md)].
+- Towards An End-to-End Framework for Flow-Guided Video Inpainting - [[ArXiv](https://arxiv.org/abs/2204.02663)] [[QA](./papers/2204.02663.md)].
 - Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language - [[ArXiv](https://arxiv.org/abs/2204.00598)] [[QA](./papers/2204.00598.md)].
 
+### March 2022
+- MAT: Mask-Aware Transformer for Large Hole Image Inpainting - [[ArXiv](https://arxiv.org/abs/2203.15270)] [[QA](./papers/2203.15270.md)].
+- MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image   Inpainting - [[ArXiv](https://arxiv.org/abs/2203.06304)] [[QA](./papers/2203.06304.md)].
+- Incremental Transformer Structure Enhanced Image Inpainting with Masking   Positional Encoding - [[ArXiv](https://arxiv.org/abs/2203.00867)] [[QA](./papers/2203.00867.md)].
+
 ### January 2022
+- RePaint: Inpainting using Denoising Diffusion Probabilistic Models - [[ArXiv](https://arxiv.org/abs/2201.09865)] [[QA](./papers/2201.09865.md)].
 - Language Models as Zero-Shot Planners: Extracting Actionable Knowledge   for Embodied Agents - [[ArXiv](https://arxiv.org/abs/2201.07207)] [[QA](./papers/2201.07207.md)].
 
 ## 2021
@@ -644,6 +652,7 @@
 
 ### August 2021
 - FedPara: Low-Rank Hadamard Product for Communication-Efficient Federated   Learning - [[ArXiv](https://arxiv.org/abs/2108.06098)] [[QA](./papers/2108.06098.md)].
+- Internal Video Inpainting by Implicit Long-range Propagation - [[ArXiv](https://arxiv.org/abs/2108.01912)] [[QA](./papers/2108.01912.md)].
 
 ### July 2021
 - When and How to Fool Explainable Models (and Humans) with Adversarial   Examples - [[ArXiv](https://arxiv.org/abs/2107.01943)] [[QA](./papers/2107.01943.md)].
@@ -653,12 +662,20 @@
 - IA-RED$^2$: Interpretability-Aware Redundancy Reduction for Vision   Transformers - [[ArXiv](https://arxiv.org/abs/2106.12620)] [[QA](./papers/2106.12620.md)].
 - Inverting Adversarially Robust Networks for Image Synthesis - [[ArXiv](https://arxiv.org/abs/2106.06927)] [[QA](./papers/2106.06927.md)].
 
+### May 2021
+- The DEVIL is in the Details: A Diagnostic Evaluation Benchmark for Video   Inpainting - [[ArXiv](https://arxiv.org/abs/2105.05332)] [[QA](./papers/2105.05332.md)].
+- PD-GAN: Probabilistic Diverse GAN for Image Inpainting - [[ArXiv](https://arxiv.org/abs/2105.02201)] [[QA](./papers/2105.02201.md)].
+
 ### April 2021
+- Image Inpainting with External-internal Learning and Monochromic   Bottleneck - [[ArXiv](https://arxiv.org/abs/2104.09068)] [[QA](./papers/2104.09068.md)].
+- Progressive Temporal Feature Alignment Network for Video Inpainting - [[ArXiv](https://arxiv.org/abs/2104.03507)] [[QA](./papers/2104.03507.md)].
 - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval - [[ArXiv](https://arxiv.org/abs/2104.00650)] [[QA](./papers/2104.00650.md)].
 
 ### March 2021
+- TransFill: Reference-guided Image Inpainting by Merging Multiple Color   and Spatial Transformations - [[ArXiv](https://arxiv.org/abs/2103.15982)] [[QA](./papers/2103.15982.md)].
 - Generic Attention-model Explainability for Interpreting Bi-Modal and   Encoder-Decoder Transformers - [[ArXiv](https://arxiv.org/abs/2103.15679)] [[QA](./papers/2103.15679.md)].
 - Efficient Explanations from Empirical Explainers - [[ArXiv](https://arxiv.org/abs/2103.15429)] [[QA](./papers/2103.15429.md)].
+- Generating Diverse Structure for Image Inpainting With Hierarchical   VQ-VAE - [[ArXiv](https://arxiv.org/abs/2103.10022)] [[QA](./papers/2103.10022.md)].
 
 ### February 2021
 - Teach Me to Explain: A Review of Datasets for Explainable Natural   Language Processing - [[ArXiv](https://arxiv.org/abs/2102.12060)] [[QA](./papers/2102.12060.md)].
@@ -667,6 +684,7 @@
 
 ### December 2020
 - Transformer Interpretability Beyond Attention Visualization - [[ArXiv](https://arxiv.org/abs/2012.09838)] [[QA](./papers/2012.09838.md)].
+- Image Inpainting Guided by Coherence Priors of Semantics and Textures - [[ArXiv](https://arxiv.org/abs/2012.08054)] [[QA](./papers/2012.08054.md)].
 - Challenging common interpretability assumptions in feature attribution   explanations - [[ArXiv](https://arxiv.org/abs/2012.02748)] [[QA](./papers/2012.02748.md)].
 - Neural Prototype Trees for Interpretable Fine-grained Image Recognition - [[ArXiv](https://arxiv.org/abs/2012.02046)] [[QA](./papers/2012.02046.md)].
 
@@ -680,14 +698,24 @@
 ### August 2020
 - Explainable Face Recognition - [[ArXiv](https://arxiv.org/abs/2008.00916)] [[QA](./papers/2008.00916.md)].
 
+### July 2020
+- Learning Joint Spatial-Temporal Transformations for Video Inpainting - [[ArXiv](https://arxiv.org/abs/2007.10247)] [[QA](./papers/2007.10247.md)].
+- DVI: Depth Guided Video Inpainting for Autonomous Driving - [[ArXiv](https://arxiv.org/abs/2007.08854)] [[QA](./papers/2007.08854.md)].
+- Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature   Equalizations - [[ArXiv](https://arxiv.org/abs/2007.06929)] [[QA](./papers/2007.06929.md)].
+
 ### June 2020
 - Generative causal explanations of black-box classifiers - [[ArXiv](https://arxiv.org/abs/2006.13913)] [[QA](./papers/2006.13913.md)].
+
+### May 2020
+- High-Resolution Image Inpainting with Iterative Confidence Feedback and   Guided Upsampling - [[ArXiv](https://arxiv.org/abs/2005.11742)] [[QA](./papers/2005.11742.md)].
 
 ### April 2020
 - Considering Likelihood in NLP Classification Explanations with Occlusion   and Language Modeling - [[ArXiv](https://arxiv.org/abs/2004.09890)] [[QA](./papers/2004.09890.md)].
 - There and Back Again: Revisiting Backpropagation Saliency Methods - [[ArXiv](https://arxiv.org/abs/2004.02866)] [[QA](./papers/2004.02866.md)].
 
 ### March 2020
+- Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed   Scenes - [[ArXiv](https://arxiv.org/abs/2003.06877)] [[QA](./papers/2003.06877.md)].
+- VCNet: A Robust Approach to Blind Image Inpainting - [[ArXiv](https://arxiv.org/abs/2003.06816)] [[QA](./papers/2003.06816.md)].
 - Building and Interpreting Deep Similarity Models - [[ArXiv](https://arxiv.org/abs/2003.05431)] [[QA](./papers/2003.05431.md)].
 - xCos: An Explainable Cosine Metric for Face Verification Task - [[ArXiv](https://arxiv.org/abs/2003.05383)] [[QA](./papers/2003.05383.md)].
 
@@ -696,6 +724,9 @@
 ### December 2019
 - Image Processing Using Multi-Code GAN Prior - [[ArXiv](https://arxiv.org/abs/1912.07116)] [[QA](./papers/1912.07116.md)].
 
+### November 2019
+- Region Normalization for Image Inpainting - [[ArXiv](https://arxiv.org/abs/1911.10375)] [[QA](./papers/1911.10375.md)].
+
 ### October 2019
 - Understanding Deep Networks via Extremal Perturbations and Smooth Masks - [[ArXiv](https://arxiv.org/abs/1910.08485)] [[QA](./papers/1910.08485.md)].
 - A cost-effective method for improving and re-purposing large,   pre-trained GANs by fine-tuning their class-embeddings - [[ArXiv](https://arxiv.org/abs/1910.04760)] [[QA](./papers/1910.04760.md)].
@@ -703,10 +734,19 @@
 
 ### September 2019
 - Visual Explanation for Deep Metric Learning - [[ArXiv](https://arxiv.org/abs/1909.12977)] [[QA](./papers/1909.12977.md)].
+- An Internal Learning Approach to Video Inpainting - [[ArXiv](https://arxiv.org/abs/1909.07957)] [[QA](./papers/1909.07957.md)].
+- Image Inpainting with Learnable Bidirectional Attention Maps - [[ArXiv](https://arxiv.org/abs/1909.00968)] [[QA](./papers/1909.00968.md)].
+
+### August 2019
+- Copy-and-Paste Networks for Deep Video Inpainting - [[ArXiv](https://arxiv.org/abs/1908.11587)] [[QA](./papers/1908.11587.md)].
+- Onion-Peel Networks for Deep Video Completion - [[ArXiv](https://arxiv.org/abs/1908.08718)] [[QA](./papers/1908.08718.md)].
+- StructureFlow: Image Inpainting via Structure-aware Appearance Flow - [[ArXiv](https://arxiv.org/abs/1908.03852)] [[QA](./papers/1908.03852.md)].
+- Generative Image Inpainting with Submanifold Alignment - [[ArXiv](https://arxiv.org/abs/1908.00211)] [[QA](./papers/1908.00211.md)].
 
 ### July 2019
 - Benchmarking Attribution Methods with Relative Feature Importance - [[ArXiv](https://arxiv.org/abs/1907.09701)] [[QA](./papers/1907.09701.md)].
 - Generative Counterfactual Introspection for Explainable Deep Learning - [[ArXiv](https://arxiv.org/abs/1907.03077)] [[QA](./papers/1907.03077.md)].
+- Learnable Gated Temporal Shift Module for Deep Video Inpainting - [[ArXiv](https://arxiv.org/abs/1907.01131)] [[QA](./papers/1907.01131.md)].
 
 ### June 2019
 - Improving performance of deep learning models with axiomatic attribution   priors and expected gradients - [[ArXiv](https://arxiv.org/abs/1906.10670)] [[QA](./papers/1906.10670.md)].
@@ -714,22 +754,50 @@
 - Image Synthesis with a Single (Robust) Classifier - [[ArXiv](https://arxiv.org/abs/1906.09453)] [[QA](./papers/1906.09453.md)].
 
 ### May 2019
+- Align-and-Attend Network for Globally and Locally Coherent Video   Inpainting - [[ArXiv](https://arxiv.org/abs/1905.13066)] [[QA](./papers/1905.13066.md)].
 - Why do These Match? Explaining the Behavior of Image Similarity Models - [[ArXiv](https://arxiv.org/abs/1905.10797)] [[QA](./papers/1905.10797.md)].
+- PEPSI++: Fast and Lightweight Network for Image Inpainting - [[ArXiv](https://arxiv.org/abs/1905.09010)] [[QA](./papers/1905.09010.md)].
+- Deep Flow-Guided Video Inpainting - [[ArXiv](https://arxiv.org/abs/1905.02884)] [[QA](./papers/1905.02884.md)].
+- Frame-Recurrent Video Inpainting by Robust Optical Flow Inference - [[ArXiv](https://arxiv.org/abs/1905.02882)] [[QA](./papers/1905.02882.md)].
+- Deep Video Inpainting - [[ArXiv](https://arxiv.org/abs/1905.01639)] [[QA](./papers/1905.01639.md)].
+
+### April 2019
+- Free-form Video Inpainting with 3D Gated Convolution and Temporal   PatchGAN - [[ArXiv](https://arxiv.org/abs/1904.10247)] [[QA](./papers/1904.10247.md)].
+- Deep Fusion Network for Image Completion - [[ArXiv](https://arxiv.org/abs/1904.08060)] [[QA](./papers/1904.08060.md)].
+- Learning Pyramid-Context Encoder Network for High-Quality Image   Inpainting - [[ArXiv](https://arxiv.org/abs/1904.07475)] [[QA](./papers/1904.07475.md)].
+- VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal - [[ArXiv](https://arxiv.org/abs/1904.06726)] [[QA](./papers/1904.06726.md)].
+
+### March 2019
+- Pluralistic Image Completion - [[ArXiv](https://arxiv.org/abs/1903.04227)] [[QA](./papers/1903.04227.md)].
+- Deep Reinforcement Learning of Volume-guided Progressive View Inpainting   for 3D Point Scene Completion from a Single Depth Image - [[ArXiv](https://arxiv.org/abs/1903.04019)] [[QA](./papers/1903.04019.md)].
 
 ### February 2019
+- SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch   and Color - [[ArXiv](https://arxiv.org/abs/1902.06838)] [[QA](./papers/1902.06838.md)].
 - LS-Tree: Model Interpretation When the Data Are Linguistic - [[ArXiv](https://arxiv.org/abs/1902.04187)] [[QA](./papers/1902.04187.md)].
 - Towards Automatic Concept-based Explanations - [[ArXiv](https://arxiv.org/abs/1902.03129)] [[QA](./papers/1902.03129.md)].
 
 ### January 2019
+- Foreground-aware Image Inpainting - [[ArXiv](https://arxiv.org/abs/1901.05945)] [[QA](./papers/1901.05945.md)].
 - Automated Rationale Generation: A Technique for Explainable AI and its   Effects on Human Perceptions - [[ArXiv](https://arxiv.org/abs/1901.03729)] [[QA](./papers/1901.03729.md)].
+- Detecting Overfitting of Deep Generative Networks via Latent Recovery - [[ArXiv](https://arxiv.org/abs/1901.03396)] [[QA](./papers/1901.03396.md)].
 - Visualizing Deep Similarity Networks - [[ArXiv](https://arxiv.org/abs/1901.00536)] [[QA](./papers/1901.00536.md)].
+- EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning - [[ArXiv](https://arxiv.org/abs/1901.00212)] [[QA](./papers/1901.00212.md)].
 
 ## 2018
 
+### December 2018
+- Face Completion with Semantic Knowledge and Collaborative Adversarial   Learning - [[ArXiv](https://arxiv.org/abs/1812.03252)] [[QA](./papers/1812.03252.md)].
+- Deep Inception Generative Network for Cognitive Image Inpainting - [[ArXiv](https://arxiv.org/abs/1812.01458)] [[QA](./papers/1812.01458.md)].
+
 ### November 2018
 - Strike (with) a Pose: Neural Networks Are Easily Fooled by Strange Poses   of Familiar Objects - [[ArXiv](https://arxiv.org/abs/1811.11553)] [[QA](./papers/1811.11553.md)].
+- Coordinate-based Texture Inpainting for Pose-Guided Image Generation - [[ArXiv](https://arxiv.org/abs/1811.11459)] [[QA](./papers/1811.11459.md)].
 - GAN Dissection: Visualizing and Understanding Generative Adversarial   Networks - [[ArXiv](https://arxiv.org/abs/1811.10597)] [[QA](./papers/1811.10597.md)].
+- On Hallucinating Context and Background Pixels from a Face Mask using   Multi-scale GANs - [[ArXiv](https://arxiv.org/abs/1811.07104)] [[QA](./papers/1811.07104.md)].
 - Blockwise Parallel Decoding for Deep Autoregressive Models - [[ArXiv](https://arxiv.org/abs/1811.03115)] [[QA](./papers/1811.03115.md)].
+
+### October 2018
+- Image Inpainting via Generative Multi-column Convolutional Neural   Networks - [[ArXiv](https://arxiv.org/abs/1810.08771)] [[QA](./papers/1810.08771.md)].
 
 ### August 2018
 - AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale - [[ArXiv](https://arxiv.org/abs/1808.10583)] [[QA](./papers/1808.10583.md)].
@@ -737,20 +805,30 @@
 ### June 2018
 - A Benchmark for Interpretability Methods in Deep Neural Networks - [[ArXiv](https://arxiv.org/abs/1806.10758)] [[QA](./papers/1806.10758.md)].
 - This Looks Like That: Deep Learning for Interpretable Image Recognition - [[ArXiv](https://arxiv.org/abs/1806.10574)] [[QA](./papers/1806.10574.md)].
+- Video Inpainting by Jointly Learning Temporal Structure and Spatial   Details - [[ArXiv](https://arxiv.org/abs/1806.08482)] [[QA](./papers/1806.08482.md)].
+- Free-Form Image Inpainting with Gated Convolution - [[ArXiv](https://arxiv.org/abs/1806.03589)] [[QA](./papers/1806.03589.md)].
 - A Peek Into the Hidden Layers of a Convolutional Neural Network Through   a Factorization Lens - [[ArXiv](https://arxiv.org/abs/1806.02012)] [[QA](./papers/1806.02012.md)].
 
 ### May 2018
 - Unsupervised Learning of Neural Networks to Explain Neural Networks - [[ArXiv](https://arxiv.org/abs/1805.07468)] [[QA](./papers/1805.07468.md)].
 - A Theoretical Explanation for Perplexing Behaviors of   Backpropagation-based Visualizations - [[ArXiv](https://arxiv.org/abs/1805.07039)] [[QA](./papers/1805.07039.md)].
+- SPG-Net: Segmentation Prediction and Guidance Network for Image   Inpainting - [[ArXiv](https://arxiv.org/abs/1805.03356)] [[QA](./papers/1805.03356.md)].
 
 ### April 2018
 - How convolutional neural network see the world - A survey of   convolutional neural network visualization methods - [[ArXiv](https://arxiv.org/abs/1804.11191)] [[QA](./papers/1804.11191.md)].
+- FaceShop: Deep Sketch-based Face Image Editing - [[ArXiv](https://arxiv.org/abs/1804.08972)] [[QA](./papers/1804.08972.md)].
+- Image Inpainting for Irregular Holes Using Partial Convolutions - [[ArXiv](https://arxiv.org/abs/1804.07723)] [[QA](./papers/1804.07723.md)].
+
+### March 2018
+- Structural inpainting - [[ArXiv](https://arxiv.org/abs/1803.10348)] [[QA](./papers/1803.10348.md)].
 
 ### February 2018
 - Multimodal Explanations: Justifying Decisions and Pointing to the   Evidence - [[ArXiv](https://arxiv.org/abs/1802.08129)] [[QA](./papers/1802.08129.md)].
 - Interpreting CNNs via Decision Trees - [[ArXiv](https://arxiv.org/abs/1802.00121)] [[QA](./papers/1802.00121.md)].
 
 ### January 2018
+- Shift-Net: Image Inpainting via Deep Feature Rearrangement - [[ArXiv](https://arxiv.org/abs/1801.09392)] [[QA](./papers/1801.09392.md)].
+- Generative Image Inpainting with Contextual Attention - [[ArXiv](https://arxiv.org/abs/1801.07892)] [[QA](./papers/1801.07892.md)].
 - Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters   in Deep Neural Networks - [[ArXiv](https://arxiv.org/abs/1801.03454)] [[QA](./papers/1801.03454.md)].
 
 ## 2017
@@ -760,7 +838,9 @@
 
 ### November 2017
 - Interpretability Beyond Feature Attribution: Quantitative Testing with   Concept Activation Vectors (TCAV) - [[ArXiv](https://arxiv.org/abs/1711.11279)] [[QA](./papers/1711.11279.md)].
+- Deep Image Prior - [[ArXiv](https://arxiv.org/abs/1711.10925)] [[QA](./papers/1711.10925.md)].
 - Distilling a Neural Network Into a Soft Decision Tree - [[ArXiv](https://arxiv.org/abs/1711.09784)] [[QA](./papers/1711.09784.md)].
+- Contextual-based Image Inpainting: Infer, Match, and Translate - [[ArXiv](https://arxiv.org/abs/1711.08590)] [[QA](./papers/1711.08590.md)].
 
 ### October 2017
 - Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks - [[ArXiv](https://arxiv.org/abs/1710.11063)] [[QA](./papers/1710.11063.md)].
@@ -778,11 +858,17 @@
 
 ## 2016
 
+### November 2016
+- High-Resolution Image Inpainting using Multi-Scale Neural Patch   Synthesis - [[ArXiv](https://arxiv.org/abs/1611.09969)] [[QA](./papers/1611.09969.md)].
+
 ### October 2016
 - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based   Localization - [[ArXiv](https://arxiv.org/abs/1610.02391)] [[QA](./papers/1610.02391.md)].
 
 ### June 2016
 - The Mythos of Model Interpretability - [[ArXiv](https://arxiv.org/abs/1606.03490)] [[QA](./papers/1606.03490.md)].
+
+### April 2016
+- Context Encoders: Feature Learning by Inpainting - [[ArXiv](https://arxiv.org/abs/1604.07379)] [[QA](./papers/1604.07379.md)].
 
 ## 2015
 
