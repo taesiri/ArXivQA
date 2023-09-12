@@ -426,15 +426,19 @@
 - Encouraging Divergent Thinking in Large Language Models through   Multi-Agent Debate - [[ArXiv](https://arxiv.org/abs/2305.19118)] [[QA](./papers/2305.19118.md)].
 - GPT4Tools: Teaching Large Language Model to Use Tools via   Self-instruction - [[ArXiv](https://arxiv.org/abs/2305.18752)] [[QA](./papers/2305.18752.md)].
 - Contextual Object Detection with Multimodal Large Language Models - [[ArXiv](https://arxiv.org/abs/2305.18279)] [[QA](./papers/2305.18279.md)].
+- Code Prompting: a Neural Symbolic Method for Complex Reasoning in Large   Language Models - [[ArXiv](https://arxiv.org/abs/2305.18507)] [[QA](./papers/2305.18507.md)].
 - SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex   Interactive Tasks - [[ArXiv](https://arxiv.org/abs/2305.17390)] [[QA](./papers/2305.17390.md)].
+- Chain-of-Thought Hub: A Continuous Effort to Measure Large Language   Models' Reasoning Performance - [[ArXiv](https://arxiv.org/abs/2305.17306)] [[QA](./papers/2305.17306.md)].
 - Generating Images with Multimodal Language Models - [[ArXiv](https://arxiv.org/abs/2305.17216)] [[QA](./papers/2305.17216.md)].
 - Large Language Models as Tool Makers - [[ArXiv](https://arxiv.org/abs/2305.17126)] [[QA](./papers/2305.17126.md)].
 - Mindstorms in Natural Language-Based Societies of Mind - [[ArXiv](https://arxiv.org/abs/2305.17066)] [[QA](./papers/2305.17066.md)].
 - Training Socially Aligned Language Models in Simulated Human Society - [[ArXiv](https://arxiv.org/abs/2305.16960)] [[QA](./papers/2305.16960.md)].
 - On Evaluating Adversarial Robustness of Large Vision-Language Models - [[ArXiv](https://arxiv.org/abs/2305.16934)] [[QA](./papers/2305.16934.md)].
+- MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of   Thought Prompting - [[ArXiv](https://arxiv.org/abs/2305.16896)] [[QA](./papers/2305.16896.md)].
 - Playing repeated games with Large Language Models - [[ArXiv](https://arxiv.org/abs/2305.16867)] [[QA](./papers/2305.16867.md)].
 - Randomized Positional Encodings Boost Length Generalization of   Transformers - [[ArXiv](https://arxiv.org/abs/2305.16843)] [[QA](./papers/2305.16843.md)].
 - AdaPlanner: Adaptive Planning from Feedback with Language Models - [[ArXiv](https://arxiv.org/abs/2305.16653)] [[QA](./papers/2305.16653.md)].
+- Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large   Language Models - [[ArXiv](https://arxiv.org/abs/2305.16582)] [[QA](./papers/2305.16582.md)].
 - Ghost in the Minecraft: Generally Capable Agents for Open-World   Environments via Large Language Models with Text-based Knowledge and Memory - [[ArXiv](https://arxiv.org/abs/2305.17144)] [[QA](./papers/2305.17144.md)].
 - Landmark Attention: Random-Access Infinite Context Length for   Transformers - [[ArXiv](https://arxiv.org/abs/2305.16300)] [[QA](./papers/2305.16300.md)].
 - Voyager: An Open-Ended Embodied Agent with Large Language Models - [[ArXiv](https://arxiv.org/abs/2305.16291)] [[QA](./papers/2305.16291.md)].
@@ -449,19 +453,26 @@
 - EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought - [[ArXiv](https://arxiv.org/abs/2305.15021)] [[QA](./papers/2305.15021.md)].
 - Reasoning with Language Model is Planning with World Model - [[ArXiv](https://arxiv.org/abs/2305.14992)] [[QA](./papers/2305.14992.md)].
 - IdealGPT: Iteratively Decomposing Vision and Language Reasoning via   Large Language Models - [[ArXiv](https://arxiv.org/abs/2305.14985)] [[QA](./papers/2305.14985.md)].
+- Discriminator-Guided Multi-step Reasoning with Language Models - [[ArXiv](https://arxiv.org/abs/2305.14934)] [[QA](./papers/2305.14934.md)].
 - Adapting Language Models to Compress Contexts - [[ArXiv](https://arxiv.org/abs/2305.14788)] [[QA](./papers/2305.14788.md)].
 - ExpertPrompting: Instructing Large Language Models to be Distinguished   Experts - [[ArXiv](https://arxiv.org/abs/2305.14688)] [[QA](./papers/2305.14688.md)].
+- Self-Polish: Enhance Reasoning in Large Language Models via Problem   Refinement - [[ArXiv](https://arxiv.org/abs/2305.14497)] [[QA](./papers/2305.14497.md)].
+- Automatic Model Selection with Large Language Models for Reasoning - [[ArXiv](https://arxiv.org/abs/2305.14333)] [[QA](./papers/2305.14333.md)].
 - Improving Factuality and Reasoning in Language Models through Multiagent   Debate - [[ArXiv](https://arxiv.org/abs/2305.14325)] [[QA](./papers/2305.14325.md)].
 - ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large   Language Models - [[ArXiv](https://arxiv.org/abs/2305.14323)] [[QA](./papers/2305.14323.md)].
 - RET-LLM: Towards a General Read-Write Memory for Large Language Models - [[ArXiv](https://arxiv.org/abs/2305.14322)] [[QA](./papers/2305.14322.md)].
+- CREATOR: Disentangling Abstract and Concrete Reasonings of Large   Language Models through Tool Creation - [[ArXiv](https://arxiv.org/abs/2305.14318)] [[QA](./papers/2305.14318.md)].
 - DetGPT: Detect What You Need via Reasoning - [[ArXiv](https://arxiv.org/abs/2305.14167)] [[QA](./papers/2305.14167.md)].
 - Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video   Infilling and Prediction - [[ArXiv](https://arxiv.org/abs/2305.13903)] [[QA](./papers/2305.13903.md)].
+- PaD: Program-aided Distillation Specializes Large Models in Reasoning - [[ArXiv](https://arxiv.org/abs/2305.13888)] [[QA](./papers/2305.13888.md)].
 - RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text - [[ArXiv](https://arxiv.org/abs/2305.13304)] [[QA](./papers/2305.13304.md)].
 - Training Diffusion Models with Reinforcement Learning - [[ArXiv](https://arxiv.org/abs/2305.13301)] [[QA](./papers/2305.13301.md)].
 - Interactive Natural Language Processing - [[ArXiv](https://arxiv.org/abs/2305.13246)] [[QA](./papers/2305.13246.md)].
 - LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities   and Future Opportunities - [[ArXiv](https://arxiv.org/abs/2305.13168)] [[QA](./papers/2305.13168.md)].
 - Making Language Models Better Tool Learners with Execution Feedback - [[ArXiv](https://arxiv.org/abs/2305.13068)] [[QA](./papers/2305.13068.md)].
+- CRITIC: Large Language Models Can Self-Correct with Tool-Interactive   Critiquing - [[ArXiv](https://arxiv.org/abs/2305.11738)] [[QA](./papers/2305.11738.md)].
 - ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via   Tool Embeddings - [[ArXiv](https://arxiv.org/abs/2305.11554)] [[QA](./papers/2305.11554.md)].
+- RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by   Reversing Chain-of-Thought - [[ArXiv](https://arxiv.org/abs/2305.11499)] [[QA](./papers/2305.11499.md)].
 - Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions   with Large Language Model - [[ArXiv](https://arxiv.org/abs/2305.11176)] [[QA](./papers/2305.11176.md)].
 - VisionLLM: Large Language Model is also an Open-Ended Decoder for   Vision-Centric Tasks - [[ArXiv](https://arxiv.org/abs/2305.11175)] [[QA](./papers/2305.11175.md)].
 - LLMScore: Unveiling the Power of Large Language Models in Text-to-Image   Synthesis Evaluation - [[ArXiv](https://arxiv.org/abs/2305.11116)] [[QA](./papers/2305.11116.md)].
@@ -491,6 +502,7 @@
 - Otter: A Multi-Modal Model with In-Context Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2305.03726)] [[QA](./papers/2305.03726.md)].
 - LMEye: An Interactive Perception Network for Large Language Models - [[ArXiv](https://arxiv.org/abs/2305.03701)] [[QA](./papers/2305.03701.md)].
 - T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Large   Language Model Signals for Science Question Answering - [[ArXiv](https://arxiv.org/abs/2305.03453)] [[QA](./papers/2305.03453.md)].
+- Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework - [[ArXiv](https://arxiv.org/abs/2305.03268)] [[QA](./papers/2305.03268.md)].
 - Principle-Driven Self-Alignment of Language Models from Scratch with   Minimal Human Supervision - [[ArXiv](https://arxiv.org/abs/2305.03047)] [[QA](./papers/2305.03047.md)].
 - Caption Anything: Interactive Image Description with Diverse Multimodal   Controls - [[ArXiv](https://arxiv.org/abs/2305.02677)] [[QA](./papers/2305.02677.md)].
 - Plan, Eliminate, and Track -- Language Models are Good Teachers for   Embodied Agents - [[ArXiv](https://arxiv.org/abs/2305.02412)] [[QA](./papers/2305.02412.md)].
@@ -510,6 +522,7 @@
 - Multi-Party Chat: Conversational Agents in Group Settings with Humans   and Models - [[ArXiv](https://arxiv.org/abs/2304.13835)] [[QA](./papers/2304.13835.md)].
 - Multimodal Grounding for Embodied AI via Augmented Reality Headsets for   Natural Language Driven Task Planning - [[ArXiv](https://arxiv.org/abs/2304.13676)] [[QA](./papers/2304.13676.md)].
 - Unleashing Infinite-Length Input Capacity for Large-scale Language   Models with Self-Controlled Memory System - [[ArXiv](https://arxiv.org/abs/2304.13343)] [[QA](./papers/2304.13343.md)].
+- Answering Questions by Meta-Reasoning over Multiple Chains of Thought - [[ArXiv](https://arxiv.org/abs/2304.13007)] [[QA](./papers/2304.13007.md)].
 - WizardLM: Empowering Large Language Models to Follow Complex   Instructions - [[ArXiv](https://arxiv.org/abs/2304.12244)] [[QA](./papers/2304.12244.md)].
 - ChatLLM Network: More brains, More intelligence - [[ArXiv](https://arxiv.org/abs/2304.12998)] [[QA](./papers/2304.12998.md)].
 - Emergent and Predictable Memorization in Large Language Models - [[ArXiv](https://arxiv.org/abs/2304.11158)] [[QA](./papers/2304.11158.md)].
@@ -519,6 +532,7 @@
 - SINC: Spatial Composition of 3D Human Motions for Simultaneous Action   Generation - [[ArXiv](https://arxiv.org/abs/2304.10417)] [[QA](./papers/2304.10417.md)].
 - Chameleon: Plug-and-Play Compositional Reasoning with Large Language   Models - [[ArXiv](https://arxiv.org/abs/2304.09842)] [[QA](./papers/2304.09842.md)].
 - Visual Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2304.08485)] [[QA](./papers/2304.08485.md)].
+- Tool Learning with Foundation Models - [[ArXiv](https://arxiv.org/abs/2304.08354)] [[QA](./papers/2304.08354.md)].
 - Chain of Thought Prompt Tuning in Vision Language Models - [[ArXiv](https://arxiv.org/abs/2304.07919)] [[QA](./papers/2304.07919.md)].
 - Self-collaboration Code Generation via ChatGPT - [[ArXiv](https://arxiv.org/abs/2304.07590)] [[QA](./papers/2304.07590.md)].
 - Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved with   Text - [[ArXiv](https://arxiv.org/abs/2304.06939)] [[QA](./papers/2304.06939.md)].
@@ -530,10 +544,12 @@
 - OpenAGI: When LLM Meets Domain Experts - [[ArXiv](https://arxiv.org/abs/2304.04370)] [[QA](./papers/2304.04370.md)].
 - Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions - [[ArXiv](https://arxiv.org/abs/2304.04227)] [[QA](./papers/2304.04227.md)].
 - ChatGPT Empowered Long-Step Robot Control in Various Environments: A   Case Application - [[ArXiv](https://arxiv.org/abs/2304.03893)] [[QA](./papers/2304.03893.md)].
+- Why think step by step? Reasoning emerges from the locality of   experience - [[ArXiv](https://arxiv.org/abs/2304.03843)] [[QA](./papers/2304.03843.md)].
 - Generative Agents: Interactive Simulacra of Human Behavior - [[ArXiv](https://arxiv.org/abs/2304.03442)] [[QA](./papers/2304.03442.md)].
 - ERRA: An Embodied Representation and Reasoning Architecture for   Long-horizon Language-conditioned Manipulation Tasks - [[ArXiv](https://arxiv.org/abs/2304.02251)] [[QA](./papers/2304.02251.md)].
 
 ### March 2023
+- A Survey of Large Language Models - [[ArXiv](https://arxiv.org/abs/2303.18223)] [[QA](./papers/2303.18223.md)].
 - CAMEL: Communicative Agents for "Mind" Exploration of Large Scale   Language Model Society - [[ArXiv](https://arxiv.org/abs/2303.17760)] [[QA](./papers/2303.17760.md)].
 - Self-Refine: Iterative Refinement with Self-Feedback - [[ArXiv](https://arxiv.org/abs/2303.17651)] [[QA](./papers/2303.17651.md)].
 - HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging   Face - [[ArXiv](https://arxiv.org/abs/2303.17580)] [[QA](./papers/2303.17580.md)].
@@ -541,12 +557,16 @@
 - ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with   GPT and Prototype Guidance - [[ArXiv](https://arxiv.org/abs/2303.16894)] [[QA](./papers/2303.16894.md)].
 - Plan4MC: Skill Reinforcement Learning and Planning for Open-World   Minecraft Tasks - [[ArXiv](https://arxiv.org/abs/2303.16563)] [[QA](./papers/2303.16563.md)].
 - TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with   Millions of APIs - [[ArXiv](https://arxiv.org/abs/2303.16434)] [[QA](./papers/2303.16434.md)].
+- ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of   Commonsense Problem in Large Language Models - [[ArXiv](https://arxiv.org/abs/2303.16421)] [[QA](./papers/2303.16421.md)].
 - LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init   Attention - [[ArXiv](https://arxiv.org/abs/2303.16199)] [[QA](./papers/2303.16199.md)].
+- Natural Language Reasoning, A Survey - [[ArXiv](https://arxiv.org/abs/2303.14725)] [[QA](./papers/2303.14725.md)].
 - Learning video embedding space with Natural Language Supervision - [[ArXiv](https://arxiv.org/abs/2303.14584)] [[QA](./papers/2303.14584.md)].
 - Errors are Useful Prompts: Instruction Guided Task Programming with   Verifier-Assisted Iterative Prompting - [[ArXiv](https://arxiv.org/abs/2303.14100)] [[QA](./papers/2303.14100.md)].
+- Logical Reasoning over Natural Language as Knowledge Representation: A   Survey - [[ArXiv](https://arxiv.org/abs/2303.12023)] [[QA](./papers/2303.12023.md)].
 - eP-ALM: Efficient Perceptual Augmentation of Language Models - [[ArXiv](https://arxiv.org/abs/2303.11403)] [[QA](./papers/2303.11403.md)].
 - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action - [[ArXiv](https://arxiv.org/abs/2303.11381)] [[QA](./papers/2303.11381.md)].
 - Reflexion: Language Agents with Verbal Reinforcement Learning - [[ArXiv](https://arxiv.org/abs/2303.11366)] [[QA](./papers/2303.11366.md)].
+- Is Prompt All You Need? No. A Comprehensive and Broader View of   Instruction Learning - [[ArXiv](https://arxiv.org/abs/2303.10475)] [[QA](./papers/2303.10475.md)].
 - DialogPaint: A Dialog-based Image Editing Model - [[ArXiv](https://arxiv.org/abs/2303.10073)] [[QA](./papers/2303.10073.md)].
 - CoLT5: Faster Long-Range Transformers with Conditional Computation - [[ArXiv](https://arxiv.org/abs/2303.09752)] [[QA](./papers/2303.09752.md)].
 - Human-AI Collaboration: The Effect of AI Delegation on Human Task   Performance and Task Satisfaction - [[ArXiv](https://arxiv.org/abs/2303.09224)] [[QA](./papers/2303.09224.md)].
@@ -556,8 +576,10 @@
 - Chat with the Environment: Interactive Multimodal Perception Using Large   Language Models - [[ArXiv](https://arxiv.org/abs/2303.08268)] [[QA](./papers/2303.08268.md)].
 - ViperGPT: Visual Inference via Python Execution for Reasoning - [[ArXiv](https://arxiv.org/abs/2303.08128)] [[QA](./papers/2303.08128.md)].
 - RE-MOVE: An Adaptive Policy Design Approach for Dynamic Environments via   Language-Based Feedback - [[ArXiv](https://arxiv.org/abs/2303.07622)] [[QA](./papers/2303.07622.md)].
+- The Life Cycle of Knowledge in Big Language Models: A Survey - [[ArXiv](https://arxiv.org/abs/2303.07616)] [[QA](./papers/2303.07616.md)].
 - Audio Visual Language Maps for Robot Navigation - [[ArXiv](https://arxiv.org/abs/2303.07522)] [[QA](./papers/2303.07522.md)].
 - ChatGPT Asks, BLIP-2 Answers: Automatic Questioning Towards Enriched   Visual Descriptions - [[ArXiv](https://arxiv.org/abs/2303.06594)] [[QA](./papers/2303.06594.md)].
+- ChatGPT Prompt Patterns for Improving Code Quality, Refactoring,   Requirements Elicitation, and Software Design - [[ArXiv](https://arxiv.org/abs/2303.07839)] [[QA](./papers/2303.07839.md)].
 - Task and Motion Planning with Large Language Models for Object   Rearrangement - [[ArXiv](https://arxiv.org/abs/2303.06247)] [[QA](./papers/2303.06247.md)].
 - Accountable Textual-Visual Chat Learns to Reject Human Instructions in   Image Re-creation - [[ArXiv](https://arxiv.org/abs/2303.05983)] [[QA](./papers/2303.05983.md)].
 - ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for   Document Information Extraction - [[ArXiv](https://arxiv.org/abs/2303.05063)] [[QA](./papers/2303.05063.md)].
@@ -565,6 +587,7 @@
 - Can an Embodied Agent Find Your "Cat-shaped Mug"? LLM-Based Zero-Shot   Object Navigation - [[ArXiv](https://arxiv.org/abs/2303.03480)] [[QA](./papers/2303.03480.md)].
 - PaLM-E: An Embodied Multimodal Language Model - [[ArXiv](https://arxiv.org/abs/2303.03378)] [[QA](./papers/2303.03378.md)].
 - Prismer: A Vision-Language Model with An Ensemble of Experts - [[ArXiv](https://arxiv.org/abs/2303.02506)] [[QA](./papers/2303.02506.md)].
+- MathPrompter: Mathematical Reasoning using Large Language Models - [[ArXiv](https://arxiv.org/abs/2303.05398)] [[QA](./papers/2303.05398.md)].
 - Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong   Few-shot Learners - [[ArXiv](https://arxiv.org/abs/2303.02151)] [[QA](./papers/2303.02151.md)].
 - Prompting Large Language Models with Answer Heuristics for   Knowledge-based Visual Question Answering - [[ArXiv](https://arxiv.org/abs/2303.01903)] [[QA](./papers/2303.01903.md)].
 - Open-World Object Manipulation using Pre-trained Vision-Language Models - [[ArXiv](https://arxiv.org/abs/2303.00905)] [[QA](./papers/2303.00905.md)].
@@ -573,67 +596,144 @@
 ### February 2023
 - Internet Explorer: Targeted Representation Learning on the Open Web - [[ArXiv](https://arxiv.org/abs/2302.14051)] [[QA](./papers/2302.14051.md)].
 - Language Is Not All You Need: Aligning Perception with Language Models - [[ArXiv](https://arxiv.org/abs/2302.14045)] [[QA](./papers/2302.14045.md)].
+- Automatic Prompt Augmentation and Selection with Chain-of-Thought from   Labeled Data - [[ArXiv](https://arxiv.org/abs/2302.12822)] [[QA](./papers/2302.12822.md)].
+- Active Prompting with Chain-of-Thought for Large Language Models - [[ArXiv](https://arxiv.org/abs/2302.12246)] [[QA](./papers/2302.12246.md)].
 - Can Pre-trained Vision and Language Models Answer Visual   Information-Seeking Questions? - [[ArXiv](https://arxiv.org/abs/2302.11713)] [[QA](./papers/2302.11713.md)].
 - Open-domain Visual Entity Recognition: Towards Recognizing Millions of   Wikipedia Entities - [[ArXiv](https://arxiv.org/abs/2302.11154)] [[QA](./papers/2302.11154.md)].
 - ChatGPT for Robotics: Design Principles and Model Abilities - [[ArXiv](https://arxiv.org/abs/2306.17582)] [[QA](./papers/2306.17582.md)].
+- Augmented Language Models: a Survey - [[ArXiv](https://arxiv.org/abs/2302.07842)] [[QA](./papers/2302.07842.md)].
 - Toolformer: Language Models Can Teach Themselves to Use Tools - [[ArXiv](https://arxiv.org/abs/2302.04761)] [[QA](./papers/2302.04761.md)].
+- A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on   Reasoning, Hallucination, and Interactivity - [[ArXiv](https://arxiv.org/abs/2302.04023)] [[QA](./papers/2302.04023.md)].
 - Describe, Explain, Plan and Select: Interactive Planning with Large   Language Models Enables Open-World Multi-Task Agents - [[ArXiv](https://arxiv.org/abs/2302.01560)] [[QA](./papers/2302.01560.md)].
 - Accelerating Large Language Model Decoding with Speculative Sampling - [[ArXiv](https://arxiv.org/abs/2302.01318)] [[QA](./papers/2302.01318.md)].
 - Multimodal Chain-of-Thought Reasoning in Language Models - [[ArXiv](https://arxiv.org/abs/2302.00923)] [[QA](./papers/2302.00923.md)].
 - Collaborating with language models for embodied reasoning - [[ArXiv](https://arxiv.org/abs/2302.00763)] [[QA](./papers/2302.00763.md)].
+- Synthetic Prompting: Generating Chain-of-Thought Demonstrations for   Large Language Models - [[ArXiv](https://arxiv.org/abs/2302.00618)] [[QA](./papers/2302.00618.md)].
 
 ### January 2023
+- Large Language Models Can Be Easily Distracted by Irrelevant Context - [[ArXiv](https://arxiv.org/abs/2302.00093)] [[QA](./papers/2302.00093.md)].
 - Grounding Language Models to Images for Multimodal Inputs and Outputs - [[ArXiv](https://arxiv.org/abs/2301.13823)] [[QA](./papers/2301.13823.md)].
+- Large Language Models are Versatile Decomposers: Decompose Evidence and   Questions for Table-based Reasoning - [[ArXiv](https://arxiv.org/abs/2301.13808)] [[QA](./papers/2301.13808.md)].
+- Faithful Chain-of-Thought Reasoning - [[ArXiv](https://arxiv.org/abs/2301.13379)] [[QA](./papers/2301.13379.md)].
+- Specializing Smaller Language Models towards Multi-Step Reasoning - [[ArXiv](https://arxiv.org/abs/2301.12726)] [[QA](./papers/2301.12726.md)].
 - BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image   Encoders and Large Language Models - [[ArXiv](https://arxiv.org/abs/2301.12597)] [[QA](./papers/2301.12597.md)].
 - Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making   using Language Guided World Modelling - [[ArXiv](https://arxiv.org/abs/2301.12050)] [[QA](./papers/2301.12050.md)].
+- Dissociating language and thought in large language models: a cognitive   perspective - [[ArXiv](https://arxiv.org/abs/2301.06627)] [[QA](./papers/2301.06627.md)].
+- Iterated Decomposition: Improving Science Q&amp;A by Supervising Reasoning   Processes - [[ArXiv](https://arxiv.org/abs/2301.01751)] [[QA](./papers/2301.01751.md)].
 
 ## 2022
 
 ### December 2022
+- Rethinking with Retrieval: Faithful Large Language Model Inference - [[ArXiv](https://arxiv.org/abs/2301.00303)] [[QA](./papers/2301.00303.md)].
+- A Survey on In-context Learning - [[ArXiv](https://arxiv.org/abs/2301.00234)] [[QA](./papers/2301.00234.md)].
 - MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction   Tuning - [[ArXiv](https://arxiv.org/abs/2212.10773)] [[QA](./papers/2212.10773.md)].
+- Why Can GPT Learn In-Context? Language Models Implicitly Perform   Gradient Descent as Meta-Optimizers - [[ArXiv](https://arxiv.org/abs/2212.10559)] [[QA](./papers/2212.10559.md)].
+- A Survey of Deep Learning for Mathematical Reasoning - [[ArXiv](https://arxiv.org/abs/2212.10535)] [[QA](./papers/2212.10535.md)].
+- Interleaving Retrieval with Chain-of-Thought Reasoning for   Knowledge-Intensive Multi-Step Questions - [[ArXiv](https://arxiv.org/abs/2212.10509)] [[QA](./papers/2212.10509.md)].
+- LAMBADA: Backward Chaining for Automated Reasoning in Natural Language - [[ArXiv](https://arxiv.org/abs/2212.13894)] [[QA](./papers/2212.13894.md)].
+- Towards Reasoning in Large Language Models: A Survey - [[ArXiv](https://arxiv.org/abs/2212.10403)] [[QA](./papers/2212.10403.md)].
+- Large Language Models Are Reasoning Teachers - [[ArXiv](https://arxiv.org/abs/2212.10071)] [[QA](./papers/2212.10071.md)].
+- Towards Understanding Chain-of-Thought Prompting: An Empirical Study of   What Matters - [[ArXiv](https://arxiv.org/abs/2212.10001)] [[QA](./papers/2212.10001.md)].
 - Don't Generate, Discriminate: A Proposal for Grounding Language Models   to Real-World Environments - [[ArXiv](https://arxiv.org/abs/2212.09736)] [[QA](./papers/2212.09736.md)].
+- Reasoning with Language Model Prompting: A Survey - [[ArXiv](https://arxiv.org/abs/2212.09597)] [[QA](./papers/2212.09597.md)].
+- Large Language Models are Better Reasoners with Self-Verification - [[ArXiv](https://arxiv.org/abs/2212.09561)] [[QA](./papers/2212.09561.md)].
+- Emergent Analogical Reasoning in Large Language Models - [[ArXiv](https://arxiv.org/abs/2212.09196)] [[QA](./papers/2212.09196.md)].
+- Can Retriever-Augmented Language Models Reason? The Blame Game Between   the Retriever and the Language Model - [[ArXiv](https://arxiv.org/abs/2212.09146)] [[QA](./papers/2212.09146.md)].
+- The Impact of Symbolic Representations on In-context Learning for   Few-shot Reasoning - [[ArXiv](https://arxiv.org/abs/2212.08686)] [[QA](./papers/2212.08686.md)].
+- Teaching Small Language Models to Reason - [[ArXiv](https://arxiv.org/abs/2212.08410)] [[QA](./papers/2212.08410.md)].
+- On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in   Zero-Shot Reasoning - [[ArXiv](https://arxiv.org/abs/2212.08061)] [[QA](./papers/2212.08061.md)].
+- Successive Prompting for Decomposing Complex Questions - [[ArXiv](https://arxiv.org/abs/2212.04092)] [[QA](./papers/2212.04092.md)].
 - LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large   Language Models - [[ArXiv](https://arxiv.org/abs/2212.04088)] [[QA](./papers/2212.04088.md)].
+- Distilling Reasoning Capabilities into Smaller Language Models - [[ArXiv](https://arxiv.org/abs/2212.00193)] [[QA](./papers/2212.00193.md)].
 
 ### November 2022
 - Fast Inference from Transformers via Speculative Decoding - [[ArXiv](https://arxiv.org/abs/2211.17192)] [[QA](./papers/2211.17192.md)].
 - SuS-X: Training-Free Name-Only Transfer of Vision-Language Models - [[ArXiv](https://arxiv.org/abs/2211.16198)] [[QA](./papers/2211.16198.md)].
+- TSGP: Two-Stage Generative Prompting for Unsupervised Commonsense   Question Answering - [[ArXiv](https://arxiv.org/abs/2211.13515)] [[QA](./papers/2211.13515.md)].
+- Program of Thoughts Prompting: Disentangling Computation from Reasoning   for Numerical Reasoning Tasks - [[ArXiv](https://arxiv.org/abs/2211.12588)] [[QA](./papers/2211.12588.md)].
 - PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning - [[ArXiv](https://arxiv.org/abs/2211.11682)] [[QA](./papers/2211.11682.md)].
+- PAL: Program-aided Language Models - [[ArXiv](https://arxiv.org/abs/2211.10435)] [[QA](./papers/2211.10435.md)].
 - Visual Programming: Compositional visual reasoning without training - [[ArXiv](https://arxiv.org/abs/2211.11559)] [[QA](./papers/2211.11559.md)].
+- Teaching Algorithmic Reasoning via In-context Learning - [[ArXiv](https://arxiv.org/abs/2211.09066)] [[QA](./papers/2211.09066.md)].
+- PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales - [[ArXiv](https://arxiv.org/abs/2211.01562)] [[QA](./papers/2211.01562.md)].
 
 ### October 2022
+- WikiWhy: Answering and Explaining Cause-and-Effect Questions - [[ArXiv](https://arxiv.org/abs/2210.12152)] [[QA](./papers/2210.12152.md)].
+- Large Language Models Can Self-Improve - [[ArXiv](https://arxiv.org/abs/2210.11610)] [[QA](./papers/2210.11610.md)].
+- Scaling Instruction-Finetuned Language Models - [[ArXiv](https://arxiv.org/abs/2210.11416)] [[QA](./papers/2210.11416.md)].
+- Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them - [[ArXiv](https://arxiv.org/abs/2210.09261)] [[QA](./papers/2210.09261.md)].
 - DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic   Search-Free Low-Rank Adaptation - [[ArXiv](https://arxiv.org/abs/2210.07558)] [[QA](./papers/2210.07558.md)].
+- Language Models of Code are Few-Shot Commonsense Learners - [[ArXiv](https://arxiv.org/abs/2210.07128)] [[QA](./papers/2210.07128.md)].
+- Explanations from Large Language Models Make Small Reasoners Better - [[ArXiv](https://arxiv.org/abs/2210.06726)] [[QA](./papers/2210.06726.md)].
+- Large Language Models are few(1)-shot Table Reasoners - [[ArXiv](https://arxiv.org/abs/2210.06710)] [[QA](./papers/2210.06710.md)].
 - Mind's Eye: Grounded Language Model Reasoning through Simulation - [[ArXiv](https://arxiv.org/abs/2210.05359)] [[QA](./papers/2210.05359.md)].
+- Automatic Chain of Thought Prompting in Large Language Models - [[ArXiv](https://arxiv.org/abs/2210.03493)] [[QA](./papers/2210.03493.md)].
+- Measuring and Narrowing the Compositionality Gap in Language Models - [[ArXiv](https://arxiv.org/abs/2210.03350)] [[QA](./papers/2210.03350.md)].
 - VIMA: General Robot Manipulation with Multimodal Prompts - [[ArXiv](https://arxiv.org/abs/2210.03094)] [[QA](./papers/2210.03094.md)].
+- Rainier: Reinforced Knowledge Introspector for Commonsense Question   Answering - [[ArXiv](https://arxiv.org/abs/2210.03078)] [[QA](./papers/2210.03078.md)].
+- Language Models are Multilingual Chain-of-Thought Reasoners - [[ArXiv](https://arxiv.org/abs/2210.03057)] [[QA](./papers/2210.03057.md)].
 - ReAct: Synergizing Reasoning and Acting in Language Models - [[ArXiv](https://arxiv.org/abs/2210.03629)] [[QA](./papers/2210.03629.md)].
+- Decomposed Prompting: A Modular Approach for Solving Complex Tasks - [[ArXiv](https://arxiv.org/abs/2210.02406)] [[QA](./papers/2210.02406.md)].
+- Knowledge Unlearning for Mitigating Privacy Risks in Language Models - [[ArXiv](https://arxiv.org/abs/2210.01504)] [[QA](./papers/2210.01504.md)].
+- Language Models Are Greedy Reasoners: A Systematic Formal Analysis of   Chain-of-Thought - [[ArXiv](https://arxiv.org/abs/2210.01240)] [[QA](./papers/2210.01240.md)].
+- Complexity-Based Prompting for Multi-Step Reasoning - [[ArXiv](https://arxiv.org/abs/2210.00720)] [[QA](./papers/2210.00720.md)].
 - "Help Me Help the AI": Understanding How Explainability Can Support   Human-AI Interaction - [[ArXiv](https://arxiv.org/abs/2210.03735)] [[QA](./papers/2210.03735.md)].
 - Multimodal Analogical Reasoning over Knowledge Graphs - [[ArXiv](https://arxiv.org/abs/2210.00312)] [[QA](./papers/2210.00312.md)].
+
+### September 2022
+- Compositional Semantic Parsing with Large Language Models - [[ArXiv](https://arxiv.org/abs/2209.15003)] [[QA](./papers/2209.15003.md)].
+- Dynamic Prompt Learning via Policy Gradient for Semi-structured   Mathematical Reasoning - [[ArXiv](https://arxiv.org/abs/2209.14610)] [[QA](./papers/2209.14610.md)].
+- Can Large Language Models Truly Understand Prompts? A Case Study with   Negated Prompts - [[ArXiv](https://arxiv.org/abs/2209.12711)] [[QA](./papers/2209.12711.md)].
+- Learn to Explain: Multimodal Reasoning via Thought Chains for Science   Question Answering - [[ArXiv](https://arxiv.org/abs/2209.09513)] [[QA](./papers/2209.09513.md)].
+- Psychologically-informed chain-of-thought prompts for metaphor   understanding in large language models - [[ArXiv](https://arxiv.org/abs/2209.08141)] [[QA](./papers/2209.08141.md)].
+- Selective Annotation Makes Language Models Better Few-Shot Learners - [[ArXiv](https://arxiv.org/abs/2209.01975)] [[QA](./papers/2209.01975.md)].
+
+### August 2022
+- Faithful Reasoning Using Large Language Models - [[ArXiv](https://arxiv.org/abs/2208.14271)] [[QA](./papers/2208.14271.md)].
 
 ### July 2022
 - Visual correspondence-based explanations improve AI robustness and   human-AI team accuracy - [[ArXiv](https://arxiv.org/abs/2208.00780)] [[QA](./papers/2208.00780.md)].
 - Language Model Cascades - [[ArXiv](https://arxiv.org/abs/2207.10342)] [[QA](./papers/2207.10342.md)].
+- Language models show human-like content effects on reasoning - [[ArXiv](https://arxiv.org/abs/2207.07051)] [[QA](./papers/2207.07051.md)].
 - Inner Monologue: Embodied Reasoning through Planning with Language   Models - [[ArXiv](https://arxiv.org/abs/2207.05608)] [[QA](./papers/2207.05608.md)].
 - LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language,   Vision, and Action - [[ArXiv](https://arxiv.org/abs/2207.04429)] [[QA](./papers/2207.04429.md)].
+- Rationale-Augmented Ensembles in Language Models - [[ArXiv](https://arxiv.org/abs/2207.00747)] [[QA](./papers/2207.00747.md)].
 
 ### June 2022
 - MineDojo: Building Open-Ended Embodied Agents with Internet-Scale   Knowledge - [[ArXiv](https://arxiv.org/abs/2206.08853)] [[QA](./papers/2206.08853.md)].
+- Emergent Abilities of Large Language Models - [[ArXiv](https://arxiv.org/abs/2206.07682)] [[QA](./papers/2206.07682.md)].
 - Language Models are General-Purpose Interfaces - [[ArXiv](https://arxiv.org/abs/2206.06336)] [[QA](./papers/2206.06336.md)].
+- Beyond the Imitation Game: Quantifying and extrapolating the   capabilities of language models - [[ArXiv](https://arxiv.org/abs/2206.04615)] [[QA](./papers/2206.04615.md)].
+- Making Large Language Models Better Reasoners with Step-Aware Verifier - [[ArXiv](https://arxiv.org/abs/2206.02336)] [[QA](./papers/2206.02336.md)].
 
 ### May 2022
 - GIT: A Generative Image-to-text Transformer for Vision and Language - [[ArXiv](https://arxiv.org/abs/2205.14100)] [[QA](./papers/2205.14100.md)].
 - TALM: Tool Augmented Language Models - [[ArXiv](https://arxiv.org/abs/2205.12255)] [[QA](./papers/2205.12255.md)].
+- Large Language Models are Zero-Shot Reasoners - [[ArXiv](https://arxiv.org/abs/2205.11916)] [[QA](./papers/2205.11916.md)].
+- Maieutic Prompting: Logically Consistent Reasoning with Recursive   Explanations - [[ArXiv](https://arxiv.org/abs/2205.11822)] [[QA](./papers/2205.11822.md)].
+- Least-to-Most Prompting Enables Complex Reasoning in Large Language   Models - [[ArXiv](https://arxiv.org/abs/2205.10625)] [[QA](./papers/2205.10625.md)].
+- Selection-Inference: Exploiting Large Language Models for Interpretable   Logical Reasoning - [[ArXiv](https://arxiv.org/abs/2205.09712)] [[QA](./papers/2205.09712.md)].
+- LogicSolver: Towards Interpretable Math Word Problem Solving with   Logical Prompt-enhanced Learning - [[ArXiv](https://arxiv.org/abs/2205.08232)] [[QA](./papers/2205.08232.md)].
 - Reduce Information Loss in Transformers for Pluralistic Image Inpainting - [[ArXiv](https://arxiv.org/abs/2205.05076)] [[QA](./papers/2205.05076.md)].
+- The Unreliability of Explanations in Few-shot Prompting for Textual   Reasoning - [[ArXiv](https://arxiv.org/abs/2205.03401)] [[QA](./papers/2205.03401.md)].
 
 ### April 2022
 - Flamingo: a Visual Language Model for Few-Shot Learning - [[ArXiv](https://arxiv.org/abs/2204.14198)] [[QA](./papers/2204.14198.md)].
 - Towards An End-to-End Framework for Flow-Guided Video Inpainting - [[ArXiv](https://arxiv.org/abs/2204.02663)] [[QA](./papers/2204.02663.md)].
+- Can language models learn from explanations in context? - [[ArXiv](https://arxiv.org/abs/2204.02329)] [[QA](./papers/2204.02329.md)].
+- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances - [[ArXiv](https://arxiv.org/abs/2204.01691)] [[QA](./papers/2204.01691.md)].
 - Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language - [[ArXiv](https://arxiv.org/abs/2204.00598)] [[QA](./papers/2204.00598.md)].
 
 ### March 2022
 - MAT: Mask-Aware Transformer for Large Hole Image Inpainting - [[ArXiv](https://arxiv.org/abs/2203.15270)] [[QA](./papers/2203.15270.md)].
+- STaR: Bootstrapping Reasoning With Reasoning - [[ArXiv](https://arxiv.org/abs/2203.14465)] [[QA](./papers/2203.14465.md)].
+- Self-Consistency Improves Chain of Thought Reasoning in Language Models - [[ArXiv](https://arxiv.org/abs/2203.11171)] [[QA](./papers/2203.11171.md)].
+- Iteratively Prompt Pre-trained Language Models for Chain of Thought - [[ArXiv](https://arxiv.org/abs/2203.08383)] [[QA](./papers/2203.08383.md)].
 - MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image   Inpainting - [[ArXiv](https://arxiv.org/abs/2203.06304)] [[QA](./papers/2203.06304.md)].
 - Incremental Transformer Structure Enhanced Image Inpainting with Masking   Positional Encoding - [[ArXiv](https://arxiv.org/abs/2203.00867)] [[QA](./papers/2203.00867.md)].
 
 ### January 2022
+- Chain-of-Thought Prompting Elicits Reasoning in Large Language Models - [[ArXiv](https://arxiv.org/abs/2201.11903)] [[QA](./papers/2201.11903.md)].
 - RePaint: Inpainting using Denoising Diffusion Probabilistic Models - [[ArXiv](https://arxiv.org/abs/2201.09865)] [[QA](./papers/2201.09865.md)].
 - Language Models as Zero-Shot Planners: Extracting Actionable Knowledge   for Embodied Agents - [[ArXiv](https://arxiv.org/abs/2201.07207)] [[QA](./papers/2201.07207.md)].
 
@@ -641,6 +741,7 @@
 
 ### December 2021
 - WebGPT: Browser-assisted question-answering with human feedback - [[ArXiv](https://arxiv.org/abs/2112.09332)] [[QA](./papers/2112.09332.md)].
+- Reframing Human-AI Collaboration for Generating Free-Text Explanations - [[ArXiv](https://arxiv.org/abs/2112.08674)] [[QA](./papers/2112.08674.md)].
 - Rethinking Nearest Neighbors for Visual Classification - [[ArXiv](https://arxiv.org/abs/2112.08459)] [[QA](./papers/2112.08459.md)].
 - DeepFace-EMD: Re-ranking Using Patch-wise Earth Mover's Distance   Improves Out-Of-Distribution Face Identification - [[ArXiv](https://arxiv.org/abs/2112.04016)] [[QA](./papers/2112.04016.md)].
 
@@ -648,7 +749,9 @@
 - LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs - [[ArXiv](https://arxiv.org/abs/2111.02114)] [[QA](./papers/2111.02114.md)].
 
 ### October 2021
+- Training Verifiers to Solve Math Word Problems - [[ArXiv](https://arxiv.org/abs/2110.14168)] [[QA](./papers/2110.14168.md)].
 - Double Trouble: How to not explain a text classifier's decisions using   counterfactuals synthesized by masked language models? - [[ArXiv](https://arxiv.org/abs/2110.11929)] [[QA](./papers/2110.11929.md)].
+- Generated Knowledge Prompting for Commonsense Reasoning - [[ArXiv](https://arxiv.org/abs/2110.08387)] [[QA](./papers/2110.08387.md)].
 
 ### August 2021
 - FedPara: Low-Rank Hadamard Product for Communication-Efficient Federated   Learning - [[ArXiv](https://arxiv.org/abs/2108.06098)] [[QA](./papers/2108.06098.md)].
@@ -661,6 +764,7 @@
 - Multimodal Few-Shot Learning with Frozen Language Models - [[ArXiv](https://arxiv.org/abs/2106.13884)] [[QA](./papers/2106.13884.md)].
 - IA-RED$^2$: Interpretability-Aware Redundancy Reduction for Vision   Transformers - [[ArXiv](https://arxiv.org/abs/2106.12620)] [[QA](./papers/2106.12620.md)].
 - Inverting Adversarially Robust Networks for Image Synthesis - [[ArXiv](https://arxiv.org/abs/2106.06927)] [[QA](./papers/2106.06927.md)].
+- Prompting Contrastive Explanations for Commonsense Reasoning Tasks - [[ArXiv](https://arxiv.org/abs/2106.06823)] [[QA](./papers/2106.06823.md)].
 
 ### May 2021
 - The DEVIL is in the Details: A Diagnostic Evaluation Benchmark for Video   Inpainting - [[ArXiv](https://arxiv.org/abs/2105.05332)] [[QA](./papers/2105.05332.md)].
@@ -668,6 +772,7 @@
 
 ### April 2021
 - Image Inpainting with External-internal Learning and Monochromic   Bottleneck - [[ArXiv](https://arxiv.org/abs/2104.09068)] [[QA](./papers/2104.09068.md)].
+- Explaining Answers with Entailment Trees - [[ArXiv](https://arxiv.org/abs/2104.08661)] [[QA](./papers/2104.08661.md)].
 - Progressive Temporal Feature Alignment Network for Video Inpainting - [[ArXiv](https://arxiv.org/abs/2104.03507)] [[QA](./papers/2104.03507.md)].
 - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval - [[ArXiv](https://arxiv.org/abs/2104.00650)] [[QA](./papers/2104.00650.md)].
 
@@ -683,6 +788,7 @@
 ## 2020
 
 ### December 2020
+- ProofWriter: Generating Implications, Proofs, and Abductive Statements   over Natural Language - [[ArXiv](https://arxiv.org/abs/2012.13048)] [[QA](./papers/2012.13048.md)].
 - Transformer Interpretability Beyond Attention Visualization - [[ArXiv](https://arxiv.org/abs/2012.09838)] [[QA](./papers/2012.09838.md)].
 - Image Inpainting Guided by Coherence Priors of Semantics and Textures - [[ArXiv](https://arxiv.org/abs/2012.08054)] [[QA](./papers/2012.08054.md)].
 - Challenging common interpretability assumptions in feature attribution   explanations - [[ArXiv](https://arxiv.org/abs/2012.02748)] [[QA](./papers/2012.02748.md)].
@@ -821,6 +927,7 @@
 
 ### March 2018
 - Structural inpainting - [[ArXiv](https://arxiv.org/abs/1803.10348)] [[QA](./papers/1803.10348.md)].
+- Think you have Solved Question Answering? Try ARC, the AI2 Reasoning   Challenge - [[ArXiv](https://arxiv.org/abs/1803.05457)] [[QA](./papers/1803.05457.md)].
 
 ### February 2018
 - Multimodal Explanations: Justifying Decisions and Pointing to the   Evidence - [[ArXiv](https://arxiv.org/abs/1802.08129)] [[QA](./papers/1802.08129.md)].
