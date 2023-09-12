@@ -291,8 +291,8 @@
 - NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and   Repulsive UDF - [[ArXiv](https://arxiv.org/abs/2307.09112)] [[QA](./papers/2307.09112.md)].
 - How is ChatGPT's behavior changing over time? - [[ArXiv](https://arxiv.org/abs/2307.09009)] [[QA](./papers/2307.09009.md)].
 - GEAR: Augmenting Language Models with Generalizable and Efficient Tool   Resolution - [[ArXiv](https://arxiv.org/abs/2307.08775)] [[QA](./papers/2307.08775.md)].
-- Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
 - AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
+- Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
 - TableGPT: Towards Unifying Tables, Nature Language and Commands into One   GPT - [[ArXiv](https://arxiv.org/abs/2307.08674)] [[QA](./papers/2307.08674.md)].
 - Retentive Network: A Successor to Transformer for Large Language Models - [[ArXiv](https://arxiv.org/abs/2307.08621)] [[QA](./papers/2307.08621.md)].
 - BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs - [[ArXiv](https://arxiv.org/abs/2307.08581)] [[QA](./papers/2307.08581.md)].
@@ -407,8 +407,8 @@
 - AVIS: Autonomous Visual Information Seeking with Large Language Models - [[ArXiv](https://arxiv.org/abs/2306.08129)] [[QA](./papers/2306.08129.md)].
 - LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,   Framework, and Benchmark - [[ArXiv](https://arxiv.org/abs/2306.06687)] [[QA](./papers/2306.06687.md)].
 - RestGPT: Connecting Large Language Models with Real-World RESTful APIs - [[ArXiv](https://arxiv.org/abs/2306.06624)] [[QA](./papers/2306.06624.md)].
-- MIMIC-IT: Multi-Modal In-Context Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2306.05425)] [[QA](./papers/2306.05425.md)].
 - Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and   Language Models - [[ArXiv](https://arxiv.org/abs/2306.05424)] [[QA](./papers/2306.05424.md)].
+- MIMIC-IT: Multi-Modal In-Context Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2306.05425)] [[QA](./papers/2306.05425.md)].
 - M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining   Large Language Models - [[ArXiv](https://arxiv.org/abs/2306.05179)] [[QA](./papers/2306.05179.md)].
 - M$^3$IT: A Large-Scale Dataset towards Multi-Modal Multilingual   Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2306.04387)] [[QA](./papers/2306.04387.md)].
 - Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for   Pre-training and Benchmarks - [[ArXiv](https://arxiv.org/abs/2306.04362)] [[QA](./papers/2306.04362.md)].
@@ -419,6 +419,7 @@
 - RecAgent: A Novel Simulation Paradigm for Recommender Systems - [[ArXiv](https://arxiv.org/abs/2306.02552)] [[QA](./papers/2306.02552.md)].
 - LLaVA-Med: Training a Large Language-and-Vision Assistant for   Biomedicine in One Day - [[ArXiv](https://arxiv.org/abs/2306.00890)] [[QA](./papers/2306.00890.md)].
 - GPT4Image: Can Large Pre-trained Models Help Vision Models on Perception   Tasks? - [[ArXiv](https://arxiv.org/abs/2306.00693)] [[QA](./papers/2306.00693.md)].
+- Thought Cloning: Learning to Think while Acting by Imitating Human   Thinking - [[ArXiv](https://arxiv.org/abs/2306.00323)] [[QA](./papers/2306.00323.md)].
 
 ### May 2023
 - Monotonic Location Attention for Length Generalization - [[ArXiv](https://arxiv.org/abs/2305.20019)] [[QA](./papers/2305.20019.md)].
@@ -749,6 +750,7 @@
 - LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs - [[ArXiv](https://arxiv.org/abs/2111.02114)] [[QA](./papers/2111.02114.md)].
 
 ### October 2021
+- Template Filling for Controllable Commonsense Reasoning - [[ArXiv](https://arxiv.org/abs/2111.00539)] [[QA](./papers/2111.00539.md)].
 - Training Verifiers to Solve Math Word Problems - [[ArXiv](https://arxiv.org/abs/2110.14168)] [[QA](./papers/2110.14168.md)].
 - Double Trouble: How to not explain a text classifier's decisions using   counterfactuals synthesized by masked language models? - [[ArXiv](https://arxiv.org/abs/2110.11929)] [[QA](./papers/2110.11929.md)].
 - Generated Knowledge Prompting for Commonsense Reasoning - [[ArXiv](https://arxiv.org/abs/2110.08387)] [[QA](./papers/2110.08387.md)].
