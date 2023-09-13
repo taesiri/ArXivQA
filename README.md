@@ -3,6 +3,12 @@
 ## 2023
 
 ### September 2023
+- InstaFlow: One Step is Enough for High-Quality Diffusion-Based   Text-to-Image Generation - [[ArXiv](https://arxiv.org/abs/2309.06380)] [[QA](./papers/2309.06380.md)].
+- Efficient Memory Management for Large Language Model Serving with   PagedAttention - [[ArXiv](https://arxiv.org/abs/2309.06180)] [[QA](./papers/2309.06180.md)].
+- AstroLLaMA: Towards Specialized Foundation Models in Astronomy - [[ArXiv](https://arxiv.org/abs/2309.06126)] [[QA](./papers/2309.06126.md)].
+- Uncovering mesa-optimization algorithms in Transformers - [[ArXiv](https://arxiv.org/abs/2309.05858)] [[QA](./papers/2309.05858.md)].
+- PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion   Models - [[ArXiv](https://arxiv.org/abs/2309.05793)] [[QA](./papers/2309.05793.md)].
+- Large Language Model for Science: A Study on P vs. NP - [[ArXiv](https://arxiv.org/abs/2309.05689)] [[QA](./papers/2309.05689.md)].
 - NExT-GPT: Any-to-Any Multimodal LLM - [[ArXiv](https://arxiv.org/abs/2309.05519)] [[QA](./papers/2309.05519.md)].
 - Optimize Weight Rounding via Signed Gradient Descent for the   Quantization of LLMs - [[ArXiv](https://arxiv.org/abs/2309.05516)] [[QA](./papers/2309.05516.md)].
 - Textbooks Are All You Need II: phi-1.5 technical report - [[ArXiv](https://arxiv.org/abs/2309.05463)] [[QA](./papers/2309.05463.md)].
@@ -407,8 +413,8 @@
 - AVIS: Autonomous Visual Information Seeking with Large Language Models - [[ArXiv](https://arxiv.org/abs/2306.08129)] [[QA](./papers/2306.08129.md)].
 - LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,   Framework, and Benchmark - [[ArXiv](https://arxiv.org/abs/2306.06687)] [[QA](./papers/2306.06687.md)].
 - RestGPT: Connecting Large Language Models with Real-World RESTful APIs - [[ArXiv](https://arxiv.org/abs/2306.06624)] [[QA](./papers/2306.06624.md)].
-- Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and   Language Models - [[ArXiv](https://arxiv.org/abs/2306.05424)] [[QA](./papers/2306.05424.md)].
 - MIMIC-IT: Multi-Modal In-Context Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2306.05425)] [[QA](./papers/2306.05425.md)].
+- Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and   Language Models - [[ArXiv](https://arxiv.org/abs/2306.05424)] [[QA](./papers/2306.05424.md)].
 - M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining   Large Language Models - [[ArXiv](https://arxiv.org/abs/2306.05179)] [[QA](./papers/2306.05179.md)].
 - M$^3$IT: A Large-Scale Dataset towards Multi-Modal Multilingual   Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2306.04387)] [[QA](./papers/2306.04387.md)].
 - Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for   Pre-training and Benchmarks - [[ArXiv](https://arxiv.org/abs/2306.04362)] [[QA](./papers/2306.04362.md)].
