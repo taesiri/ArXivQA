@@ -3,6 +3,8 @@
 ## 2023
 
 ### September 2023
+- Learning Disentangled Avatars with Hybrid 3D Representations - [[ArXiv](https://arxiv.org/abs/2309.06441)] [[QA](./papers/2309.06441.md)].
+- LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot   Learning - [[ArXiv](https://arxiv.org/abs/2309.06440)] [[QA](./papers/2309.06440.md)].
 - InstaFlow: One Step is Enough for High-Quality Diffusion-Based   Text-to-Image Generation - [[ArXiv](https://arxiv.org/abs/2309.06380)] [[QA](./papers/2309.06380.md)].
 - Efficient Memory Management for Large Language Model Serving with   PagedAttention - [[ArXiv](https://arxiv.org/abs/2309.06180)] [[QA](./papers/2309.06180.md)].
 - AstroLLaMA: Towards Specialized Foundation Models in Astronomy - [[ArXiv](https://arxiv.org/abs/2309.06126)] [[QA](./papers/2309.06126.md)].
@@ -40,6 +42,7 @@
 - GPT Can Solve Mathematical Problems Without a Calculator - [[ArXiv](https://arxiv.org/abs/2309.03241)] [[QA](./papers/2309.03241.md)].
 - Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction   Tuning - [[ArXiv](https://arxiv.org/abs/2309.02591)] [[QA](./papers/2309.02591.md)].
 - Physically Grounded Vision-Language Models for Robotic Manipulation - [[ArXiv](https://arxiv.org/abs/2309.02561)] [[QA](./papers/2309.02561.md)].
+- NICE: CVPR 2023 Challenge on Zero-shot Image Captioning - [[ArXiv](https://arxiv.org/abs/2309.01961)] [[QA](./papers/2309.01961.md)].
 - Are Emergent Abilities in Large Language Models just In-Context   Learning? - [[ArXiv](https://arxiv.org/abs/2309.01809)] [[QA](./papers/2309.01809.md)].
 - ModelScope-Agent: Building Your Customizable Agent System with   Open-source Large Language Models - [[ArXiv](https://arxiv.org/abs/2309.00986)] [[QA](./papers/2309.00986.md)].
 - Point-Bind &amp; Point-LLM: Aligning Point Cloud with Multi-modality for 3D   Understanding, Generation, and Instruction Following - [[ArXiv](https://arxiv.org/abs/2309.00615)] [[QA](./papers/2309.00615.md)].
@@ -297,8 +300,8 @@
 - NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and   Repulsive UDF - [[ArXiv](https://arxiv.org/abs/2307.09112)] [[QA](./papers/2307.09112.md)].
 - How is ChatGPT's behavior changing over time? - [[ArXiv](https://arxiv.org/abs/2307.09009)] [[QA](./papers/2307.09009.md)].
 - GEAR: Augmenting Language Models with Generalizable and Efficient Tool   Resolution - [[ArXiv](https://arxiv.org/abs/2307.08775)] [[QA](./papers/2307.08775.md)].
-- AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
 - Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](./papers/2307.08702.md)].
+- AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](./papers/2307.08701.md)].
 - TableGPT: Towards Unifying Tables, Nature Language and Commands into One   GPT - [[ArXiv](https://arxiv.org/abs/2307.08674)] [[QA](./papers/2307.08674.md)].
 - Retentive Network: A Successor to Transformer for Large Language Models - [[ArXiv](https://arxiv.org/abs/2307.08621)] [[QA](./papers/2307.08621.md)].
 - BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs - [[ArXiv](https://arxiv.org/abs/2307.08581)] [[QA](./papers/2307.08581.md)].
