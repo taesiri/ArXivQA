@@ -3,12 +3,19 @@
 ## 2023
 
 ### September 2023
+- Text-Guided Generation and Editing of Compositional 3D Avatars - [[ArXiv](https://arxiv.org/abs/2309.07125)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.07125.md)].
+- Tree-Structured Shading Decomposition - [[ArXiv](https://arxiv.org/abs/2309.07122)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.07122.md)].
+- DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion   Models - [[ArXiv](https://arxiv.org/abs/2309.06933)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06933.md)].
+- MagiCapture: High-Resolution Multi-Concept Portrait Customization - [[ArXiv](https://arxiv.org/abs/2309.06895)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06895.md)].
+- Dynamic NeRFs for Soccer Scenes - [[ArXiv](https://arxiv.org/abs/2309.06802)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06802.md)].
+- Statistical Rejection Sampling Improves Preference Optimization - [[ArXiv](https://arxiv.org/abs/2309.06657)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06657.md)].
 - Learning Disentangled Avatars with Hybrid 3D Representations - [[ArXiv](https://arxiv.org/abs/2309.06441)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06441.md)].
 - LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot   Learning - [[ArXiv](https://arxiv.org/abs/2309.06440)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06440.md)].
 - InstaFlow: One Step is Enough for High-Quality Diffusion-Based   Text-to-Image Generation - [[ArXiv](https://arxiv.org/abs/2309.06380)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06380.md)].
 - Efficient Memory Management for Large Language Model Serving with   PagedAttention - [[ArXiv](https://arxiv.org/abs/2309.06180)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06180.md)].
 - AstroLLaMA: Towards Specialized Foundation Models in Astronomy - [[ArXiv](https://arxiv.org/abs/2309.06126)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.06126.md)].
 - Uncovering mesa-optimization algorithms in Transformers - [[ArXiv](https://arxiv.org/abs/2309.05858)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.05858.md)].
+- Large Language Models for Compiler Optimization - [[ArXiv](https://arxiv.org/abs/2309.07062)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.07062.md)].
 - PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion   Models - [[ArXiv](https://arxiv.org/abs/2309.05793)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.05793.md)].
 - Large Language Model for Science: A Study on P vs. NP - [[ArXiv](https://arxiv.org/abs/2309.05689)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.05689.md)].
 - NExT-GPT: Any-to-Any Multimodal LLM - [[ArXiv](https://arxiv.org/abs/2309.05519)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.05519.md)].
