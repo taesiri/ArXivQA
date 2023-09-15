@@ -316,8 +316,8 @@
 - NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and   Repulsive UDF - [[ArXiv](https://arxiv.org/abs/2307.09112)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.09112.md)].
 - How is ChatGPT's behavior changing over time? - [[ArXiv](https://arxiv.org/abs/2307.09009)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.09009.md)].
 - GEAR: Augmenting Language Models with Generalizable and Efficient Tool   Resolution - [[ArXiv](https://arxiv.org/abs/2307.08775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08775.md)].
-- Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08702.md)].
 - AlpaGasus: Training A Better Alpaca with Fewer Data - [[ArXiv](https://arxiv.org/abs/2307.08701)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08701.md)].
+- Diffusion Models Beat GANs on Image Classification - [[ArXiv](https://arxiv.org/abs/2307.08702)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08702.md)].
 - TableGPT: Towards Unifying Tables, Nature Language and Commands into One   GPT - [[ArXiv](https://arxiv.org/abs/2307.08674)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08674.md)].
 - Retentive Network: A Successor to Transformer for Large Language Models - [[ArXiv](https://arxiv.org/abs/2307.08621)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08621.md)].
 - BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs - [[ArXiv](https://arxiv.org/abs/2307.08581)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08581.md)].
