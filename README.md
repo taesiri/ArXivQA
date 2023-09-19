@@ -1,20 +1,3 @@
----
-license: cc-by-4.0
-task_categories:
-- question-answering
-language:
-- en
-pretty_name: ArXiv QA
----
-
-# ArXiv QA
-
-(TBD) Automated ArXiv question answering via large language models
-
-[Github](https://github.com/taesiri/ArXivQA) | [Homepage](https://arxiv.taesiri.xyz/) | [Simple QA - Hugging Face Space](https://huggingface.co/spaces/taesiri/ClaudeReadsArxiv)
-
----
-
 # List of Papers
 
 <details open><summary><strong>2023</strong></summary><div>
