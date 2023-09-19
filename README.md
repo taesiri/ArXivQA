@@ -1,9 +1,31 @@
+---
+license: cc-by-4.0
+task_categories:
+- question-answering
+language:
+- en
+pretty_name: ArXiv QA
+---
+
+# ArXiv QA
+
+(TBD) Automated ArXiv question answering via large language models
+
+[Github](https://github.com/taesiri/ArXivQA) | [Homepage](https://arxiv.taesiri.xyz/) | [Simple QA - Hugging Face Space](https://huggingface.co/spaces/taesiri/ClaudeReadsArxiv)
+
+---
+
 # List of Papers
 
 <details open><summary><strong>2023</strong></summary><div>
 
 ### September 2023
 - An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models - [[ArXiv](https://arxiv.org/abs/2309.09958)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09958.md)].
+- CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large   Language Models in 167 Languages - [[ArXiv](https://arxiv.org/abs/2309.09400)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09400.md)].
+- Augmenting text for spoken language understanding with Large Language   Models - [[ArXiv](https://arxiv.org/abs/2309.09390)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09390.md)].
+- Contrastive Decoding Improves Reasoning in Large Language Models - [[ArXiv](https://arxiv.org/abs/2309.09117)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09117.md)].
+- Sorted LLaMA: Unlocking the Potential of Intermediate Layers of Large   Language Models for Dynamic Inference Using Sorted Fine-Tuning (SoFT) - [[ArXiv](https://arxiv.org/abs/2309.08968)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.08968.md)].
+- Struc-Bench: Are Large Language Models Really Good at Generating Complex   Structured Data? - [[ArXiv](https://arxiv.org/abs/2309.08963)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.08963.md)].
 - PDFTriage: Question Answering over Long, Structured Documents - [[ArXiv](https://arxiv.org/abs/2309.08872)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.08872.md)].
 - S3-DST: Structured Open-Domain Dialogue Segmentation and State Tracking   in the Era of LLMs - [[ArXiv](https://arxiv.org/abs/2309.08827)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.08827.md)].
 - Enhance audio generation controllability through representation   similarity regularization - [[ArXiv](https://arxiv.org/abs/2309.08773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.08773.md)].
