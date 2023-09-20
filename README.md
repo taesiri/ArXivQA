@@ -9,6 +9,7 @@
 - FoleyGen: Visually-Guided Audio Generation - [[ArXiv](https://arxiv.org/abs/2309.10537)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10537.md)].
 - Baichuan 2: Open Large-scale Language Models - [[ArXiv](https://arxiv.org/abs/2309.10305)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10305.md)].
 - Stabilizing RLHF through Advantage Model and Selective Rehearsal - [[ArXiv](https://arxiv.org/abs/2309.10202)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10202.md)].
+- Q-Transformer: Scalable Offline Reinforcement Learning via   Autoregressive Q-Functions - [[ArXiv](https://arxiv.org/abs/2309.10150)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10150.md)].
 - Multimodal Foundation Models: From Specialists to General-Purpose   Assistants - [[ArXiv](https://arxiv.org/abs/2309.10020)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10020.md)].
 - MindAgent: Emergent Gaming Interaction - [[ArXiv](https://arxiv.org/abs/2309.09971)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09971.md)].
 - An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models - [[ArXiv](https://arxiv.org/abs/2309.09958)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09958.md)].
