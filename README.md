@@ -3,12 +3,19 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### September 2023
+- SlimPajama-DC: Understanding Data Combinations for LLM Training - [[ArXiv](https://arxiv.org/abs/2309.10818)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10818.md)].
+- OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model   Pre-trained from Scratch - [[ArXiv](https://arxiv.org/abs/2309.10706)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10706.md)].
+- Language Modeling Is Compression - [[ArXiv](https://arxiv.org/abs/2309.10668)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10668.md)].
+- Baichuan 2: Open Large-scale Language Models - [[ArXiv](https://arxiv.org/abs/2309.10305)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10305.md)].
+- Stabilizing RLHF through Advantage Model and Selective Rehearsal - [[ArXiv](https://arxiv.org/abs/2309.10202)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10202.md)].
+- Multimodal Foundation Models: From Specialists to General-Purpose   Assistants - [[ArXiv](https://arxiv.org/abs/2309.10020)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10020.md)].
 - MindAgent: Emergent Gaming Interaction - [[ArXiv](https://arxiv.org/abs/2309.09971)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09971.md)].
 - An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models - [[ArXiv](https://arxiv.org/abs/2309.09958)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09958.md)].
 - Adapting Large Language Models via Reading Comprehension - [[ArXiv](https://arxiv.org/abs/2309.09530)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09530.md)].
 - LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language   Models - [[ArXiv](https://arxiv.org/abs/2309.09506)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09506.md)].
 - CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large   Language Models in 167 Languages - [[ArXiv](https://arxiv.org/abs/2309.09400)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09400.md)].
 - Augmenting text for spoken language understanding with Large Language   Models - [[ArXiv](https://arxiv.org/abs/2309.09390)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09390.md)].
+- OWL: A Large Language Model for IT Operations - [[ArXiv](https://arxiv.org/abs/2309.09298)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09298.md)].
 - Contrastive Decoding Improves Reasoning in Large Language Models - [[ArXiv](https://arxiv.org/abs/2309.09117)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09117.md)].
 - Sorted LLaMA: Unlocking the Potential of Intermediate Layers of Large   Language Models for Dynamic Inference Using Sorted Fine-Tuning (SoFT) - [[ArXiv](https://arxiv.org/abs/2309.08968)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.08968.md)].
 - Struc-Bench: Are Large Language Models Really Good at Generating Complex   Structured Data? - [[ArXiv](https://arxiv.org/abs/2309.08963)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.08963.md)].
