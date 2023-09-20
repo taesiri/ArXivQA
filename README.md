@@ -8,6 +8,7 @@
 - Language Modeling Is Compression - [[ArXiv](https://arxiv.org/abs/2309.10668)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10668.md)].
 - FoleyGen: Visually-Guided Audio Generation - [[ArXiv](https://arxiv.org/abs/2309.10537)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10537.md)].
 - Baichuan 2: Open Large-scale Language Models - [[ArXiv](https://arxiv.org/abs/2309.10305)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10305.md)].
+- 360$^\circ$ Reconstruction From a Single Image Using Space Carved   Outpainting - [[ArXiv](https://arxiv.org/abs/2309.10279)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10279.md)].
 - Stabilizing RLHF through Advantage Model and Selective Rehearsal - [[ArXiv](https://arxiv.org/abs/2309.10202)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10202.md)].
 - Q-Transformer: Scalable Offline Reinforcement Learning via   Autoregressive Q-Functions - [[ArXiv](https://arxiv.org/abs/2309.10150)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10150.md)].
 - Multimodal Foundation Models: From Specialists to General-Purpose   Assistants - [[ArXiv](https://arxiv.org/abs/2309.10020)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10020.md)].
@@ -1052,6 +1053,7 @@
 - Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic - [[ArXiv](https://arxiv.org/abs/2306.15195)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.15195.md)].
 - Kosmos-2: Grounding Multimodal Large Language Models to the World - [[ArXiv](https://arxiv.org/abs/2306.14824)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.14824.md)].
 - MotionGPT: Human Motion as a Foreign Language - [[ArXiv](https://arxiv.org/abs/2306.14795)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.14795.md)].
+- SugarCrepe: Fixing Hackable Benchmarks for Vision-Language   Compositionality - [[ArXiv](https://arxiv.org/abs/2306.14610)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.14610.md)].
 - Aligning Large Multi-Modal Model with Robust Instruction Tuning - [[ArXiv](https://arxiv.org/abs/2306.14565)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.14565.md)].
 - DesCo: Learning Object Recognition with Rich Language Descriptions - [[ArXiv](https://arxiv.org/abs/2306.14060)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.14060.md)].
 - A Survey on Multimodal Large Language Models - [[ArXiv](https://arxiv.org/abs/2306.13549)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.13549.md)].
@@ -1295,6 +1297,7 @@
 - Pythia: A Suite for Analyzing Large Language Models Across Training and   Scaling - [[ArXiv](https://arxiv.org/abs/2304.01373)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.01373.md)].
 - Asymptotic expansions for the maximum likelihood estimation errors of   the rotating parameter of the gravitational wave from core-collapse   supernovae - [[ArXiv](https://arxiv.org/abs/2304.1267)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.1267.md)].
 - Baize: An Open-Source Chat Model with Parameter-Efficient Tuning on   Self-Chat Data - [[ArXiv](https://arxiv.org/abs/2304.01196)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.01196.md)].
+- Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior   Refinement - [[ArXiv](https://arxiv.org/abs/2304.01195)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.01195.md)].
 - ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model - [[ArXiv](https://arxiv.org/abs/2304.01116)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.01116.md)].
 - 3D Semantic Segmentation in the Wild: Learning Generalized Models for   Adverse-Condition Point Clouds - [[ArXiv](https://arxiv.org/abs/2304.00690)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.00690.md)].
 - Metrological detection of multipartite entanglement through dynamical   symmetries - [[ArXiv](https://arxiv.org/abs/2304.0564)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.0564.md)].
