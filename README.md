@@ -6,6 +6,7 @@
 - SlimPajama-DC: Understanding Data Combinations for LLM Training - [[ArXiv](https://arxiv.org/abs/2309.10818)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10818.md)].
 - OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model   Pre-trained from Scratch - [[ArXiv](https://arxiv.org/abs/2309.10706)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10706.md)].
 - Language Modeling Is Compression - [[ArXiv](https://arxiv.org/abs/2309.10668)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10668.md)].
+- FoleyGen: Visually-Guided Audio Generation - [[ArXiv](https://arxiv.org/abs/2309.10537)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10537.md)].
 - Baichuan 2: Open Large-scale Language Models - [[ArXiv](https://arxiv.org/abs/2309.10305)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10305.md)].
 - Stabilizing RLHF through Advantage Model and Selective Rehearsal - [[ArXiv](https://arxiv.org/abs/2309.10202)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10202.md)].
 - Multimodal Foundation Models: From Specialists to General-Purpose   Assistants - [[ArXiv](https://arxiv.org/abs/2309.10020)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10020.md)].
