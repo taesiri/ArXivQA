@@ -3,9 +3,13 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### September 2023
+- A Large-scale Dataset for Audio-Language Representation Learning - [[ArXiv](https://arxiv.org/abs/2309.11500)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11500.md)].
 - DreamLLM: Synergistic Multimodal Comprehension and Creation - [[ArXiv](https://arxiv.org/abs/2309.11499)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11499.md)].
+- FreeU: Free Lunch in Diffusion U-Net - [[ArXiv](https://arxiv.org/abs/2309.11497)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11497.md)].
 - Chain-of-Verification Reduces Hallucination in Large Language Models - [[ArXiv](https://arxiv.org/abs/2309.11495)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11495.md)].
 - Kosmos-2.5: A Multimodal Literate Model - [[ArXiv](https://arxiv.org/abs/2309.11419)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11419.md)].
+- The Languini Kitchen: Enabling Language Modelling Research at Different   Scales of Compute - [[ArXiv](https://arxiv.org/abs/2309.11197)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11197.md)].
+- Controllable Dynamic Appearance for Neural 3D Portraits - [[ArXiv](https://arxiv.org/abs/2309.11009)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11009.md)].
 - LMDX: Language Model-based Document Information Extraction and   Localization - [[ArXiv](https://arxiv.org/abs/2309.10952)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10952.md)].
 - End-to-End Speech Recognition Contextualization with Large Language   Models - [[ArXiv](https://arxiv.org/abs/2309.10917)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10917.md)].
 - SlimPajama-DC: Understanding Data Combinations for LLM Training - [[ArXiv](https://arxiv.org/abs/2309.10818)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.10818.md)].
