@@ -3,6 +3,9 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### September 2023
+- LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language   Model as an Agent - [[ArXiv](https://arxiv.org/abs/2309.12311)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12311.md)].
+- LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models - [[ArXiv](https://arxiv.org/abs/2309.12307)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12307.md)].
+- MetaMath: Bootstrap Your Own Mathematical Questions for Large Language   Models - [[ArXiv](https://arxiv.org/abs/2309.12284)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12284.md)].
 - LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset - [[ArXiv](https://arxiv.org/abs/2309.11998)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11998.md)].
 - A Paradigm Shift in Machine Translation: Boosting Translation   Performance of Large Language Models - [[ArXiv](https://arxiv.org/abs/2309.11674)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11674.md)].
 - BTLM-3B-8K: 7B Parameter Performance in a 3B Parameter Model - [[ArXiv](https://arxiv.org/abs/2309.11568)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11568.md)].
