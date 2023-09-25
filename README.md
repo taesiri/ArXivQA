@@ -3,7 +3,11 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### September 2023
+- MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary   Instance Segmentation - [[2309.13042](https://arxiv.org/abs/2309.13042)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13042.md)].
+- Robotic Offline RL from Internet Videos via Value-Function Pre-Training - [[2309.13041](https://arxiv.org/abs/2309.13041)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13041.md)].
+- Dynamic ASR Pathways: An Adaptive Masking Approach Towards Efficient   Pruning of A Multilingual ASR Model - [[2309.13018](https://arxiv.org/abs/2309.13018)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13018.md)].
 - CodePlan: Repository-level Coding using LLMs and Planning - [[2309.12499](https://arxiv.org/abs/2309.12499)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12499.md)].
+- DualToken-ViT: Position-aware Efficient Vision Transformer with Dual   Token Fusion - [[2309.12424](https://arxiv.org/abs/2309.12424)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12424.md)].
 - LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language   Model as an Agent - [[2309.12311](https://arxiv.org/abs/2309.12311)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12311.md)].
 - LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models - [[2309.12307](https://arxiv.org/abs/2309.12307)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12307.md)].
 - The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A" - [[2309.12288](https://arxiv.org/abs/2309.12288)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12288.md)].
