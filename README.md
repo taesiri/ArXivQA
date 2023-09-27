@@ -5,10 +5,14 @@
 ### September 2023
 - LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion   Models - [[2309.15103](https://arxiv.org/abs/2309.15103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15103.md)].
 - VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided   Planning - [[2309.15091](https://arxiv.org/abs/2309.15091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15091.md)].
+- QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models - [[2309.14717](https://arxiv.org/abs/2309.14717)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14717.md)].
+- Efficient Post-training Quantization with FP8 Formats - [[2309.14592](https://arxiv.org/abs/2309.14592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14592.md)].
 - Aligning Large Multimodal Models with Factually Augmented RLHF - [[2309.14525](https://arxiv.org/abs/2309.14525)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14525.md)].
+- DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme   Long Sequence Transformer Models - [[2309.14509](https://arxiv.org/abs/2309.14509)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14509.md)].
 - Extreme Parkour with Legged Robots - [[2309.14341](https://arxiv.org/abs/2309.14341)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14341.md)].
 - Electronic properties, correlated topology and Green's function zeros - [[2309.14340](https://arxiv.org/abs/2309.14340)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14340.md)].
 - DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via   Multi-Modal Causal Attention - [[2309.14327](https://arxiv.org/abs/2309.14327)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14327.md)].
+- Physics of Language Models: Part 3.2, Knowledge Manipulation - [[2309.14402](https://arxiv.org/abs/2309.14402)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14402.md)].
 - Small-scale proxies for large-scale Transformer training instabilities - [[2309.14322](https://arxiv.org/abs/2309.14322)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14322.md)].
 - VidChapters-7M: Video Chapters at Scale - [[2309.13952](https://arxiv.org/abs/2309.13952)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13952.md)].
 - Exploring Large Language Models' Cognitive Moral Development through   Defining Issues Test - [[2309.13356](https://arxiv.org/abs/2309.13356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13356.md)].
