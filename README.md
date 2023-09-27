@@ -4,6 +4,7 @@
 
 ### September 2023
 - LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion   Models - [[2309.15103](https://arxiv.org/abs/2309.15103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15103.md)].
+- Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of   Language Models - [[2309.15098](https://arxiv.org/abs/2309.15098)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15098.md)].
 - VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided   Planning - [[2309.15091](https://arxiv.org/abs/2309.15091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15091.md)].
 - QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models - [[2309.14717](https://arxiv.org/abs/2309.14717)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14717.md)].
 - Efficient Post-training Quantization with FP8 Formats - [[2309.14592](https://arxiv.org/abs/2309.14592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14592.md)].
