@@ -16,6 +16,7 @@
 - Physics of Language Models: Part 3.2, Knowledge Manipulation - [[2309.14402](https://arxiv.org/abs/2309.14402)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14402.md)].
 - Small-scale proxies for large-scale Transformer training instabilities - [[2309.14322](https://arxiv.org/abs/2309.14322)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14322.md)].
 - VidChapters-7M: Video Chapters at Scale - [[2309.13952](https://arxiv.org/abs/2309.13952)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13952.md)].
+- Embers of Autoregression: Understanding Large Language Models Through   the Problem They are Trained to Solve - [[2309.13638](https://arxiv.org/abs/2309.13638)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13638.md)].
 - Exploring Large Language Models' Cognitive Moral Development through   Defining Issues Test - [[2309.13356](https://arxiv.org/abs/2309.13356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13356.md)].
 - Calibrating LLM-Based Evaluator - [[2309.13308](https://arxiv.org/abs/2309.13308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13308.md)].
 - Spatial-frequency channels, shape bias, and adversarial robustness - [[2309.13190](https://arxiv.org/abs/2309.13190)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13190.md)].
