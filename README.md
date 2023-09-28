@@ -7,6 +7,8 @@
 - Emu: Enhancing Image Generation Models Using Photogenic Needles in a   Haystack - [[2309.15807](https://arxiv.org/abs/2309.15807)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15807.md)].
 - Jointly Training Large Autoregressive Multimodal Models - [[2309.15564](https://arxiv.org/abs/2309.15564)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15564.md)].
 - Finite Scalar Quantization: VQ-VAE Made Simple - [[2309.15505](https://arxiv.org/abs/2309.15505)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15505.md)].
+- NeuRBF: A Neural Fields Representation with Adaptive Radial Basis   Functions - [[2309.15426](https://arxiv.org/abs/2309.15426)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15426.md)].
+- DECO: Dense Estimation of 3D Human-Scene Contact In The Wild - [[2309.15273](https://arxiv.org/abs/2309.15273)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15273.md)].
 - VPA: Fully Test-Time Visual Prompt Adaptation - [[2309.15251](https://arxiv.org/abs/2309.15251)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15251.md)].
 - Low-rank Adaptation of Large Language Model Rescoring for   Parameter-Efficient Speech Recognition - [[2309.15223](https://arxiv.org/abs/2309.15223)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15223.md)].
 - LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion   Models - [[2309.15103](https://arxiv.org/abs/2309.15103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15103.md)].
@@ -1396,8 +1398,8 @@
 - Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen   Large Language Models - [[2306.11732](https://arxiv.org/abs/2306.11732)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.11732.md)].
 - Inverse Scaling: When Bigger Isn't Better - [[2306.09479](https://arxiv.org/abs/2306.09479)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09479.md)].
 - Explore, Establish, Exploit: Red Teaming Language Models from Scratch - [[2306.09442](https://arxiv.org/abs/2306.09442)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09442.md)].
-- Seeing the World through Your Eyes - [[2306.09348](https://arxiv.org/abs/2306.09348)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09348.md)].
 - UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video - [[2306.09349](https://arxiv.org/abs/2306.09349)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09349.md)].
+- Seeing the World through Your Eyes - [[2306.09348](https://arxiv.org/abs/2306.09348)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09348.md)].
 - DreamHuman: Animatable 3D Avatars from Text - [[2306.09329](https://arxiv.org/abs/2306.09329)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09329.md)].
 - Language-Guided Music Recommendation for Video via Prompt Analogies - [[2306.09327](https://arxiv.org/abs/2306.09327)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09327.md)].
 - Neural Relighting with Subsurface Scattering by Learning the Radiance   Transfer Gradient - [[2306.09322](https://arxiv.org/abs/2306.09322)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09322.md)].
@@ -1471,8 +1473,8 @@
 - Multi-Modal Classifiers for Open-Vocabulary Object Detection - [[2306.05493](https://arxiv.org/abs/2306.05493)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05493.md)].
 - Grounded Text-to-Image Synthesis with Attention Refocusing - [[2306.05427](https://arxiv.org/abs/2306.05427)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05427.md)].
 - Background Prompting for Improved Object Depth - [[2306.05428](https://arxiv.org/abs/2306.05428)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05428.md)].
-- Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and   Language Models - [[2306.05424](https://arxiv.org/abs/2306.05424)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05424.md)].
 - MIMIC-IT: Multi-Modal In-Context Instruction Tuning - [[2306.05425](https://arxiv.org/abs/2306.05425)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05425.md)].
+- Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and   Language Models - [[2306.05424](https://arxiv.org/abs/2306.05424)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05424.md)].
 - Tracking Everything Everywhere All at Once - [[2306.05422](https://arxiv.org/abs/2306.05422)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05422.md)].
 - Scaling Spherical CNNs - [[2306.05420](https://arxiv.org/abs/2306.05420)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05420.md)].
 - R-MAE: Regions Meet Masked Autoencoders - [[2306.05411](https://arxiv.org/abs/2306.05411)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.05411.md)].
@@ -1557,8 +1559,8 @@
 - The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora   with Web Data, and Web Data Only - [[2306.01116](https://arxiv.org/abs/2306.01116)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01116.md)].
 - Reimagining Retrieval Augmented Language Models for Answering Queries - [[2306.01061](https://arxiv.org/abs/2306.01061)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01061.md)].
 - Diffusion Self-Guidance for Controllable Image Generation - [[2306.00986](https://arxiv.org/abs/2306.00986)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.00986.md)].
-- StyleDrop: Text-to-Image Generation in Any Style - [[2306.00983](https://arxiv.org/abs/2306.00983)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.00983.md)].
 - StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual   Representation Learners - [[2306.00984](https://arxiv.org/abs/2306.00984)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.00984.md)].
+- StyleDrop: Text-to-Image Generation in Any Style - [[2306.00983](https://arxiv.org/abs/2306.00983)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.00983.md)].
 - SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two   Seconds - [[2306.00980](https://arxiv.org/abs/2306.00980)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.00980.md)].
 - AWQ: Activation-aware Weight Quantization for LLM Compression and   Acceleration - [[2306.00978](https://arxiv.org/abs/2306.00978)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.00978.md)].
 - ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image   Generation - [[2306.00971](https://arxiv.org/abs/2306.00971)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.00971.md)].
