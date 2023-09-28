@@ -3,6 +3,12 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### September 2023
+- Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video   Generation - [[2309.15818](https://arxiv.org/abs/2309.15818)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15818.md)].
+- Emu: Enhancing Image Generation Models Using Photogenic Needles in a   Haystack - [[2309.15807](https://arxiv.org/abs/2309.15807)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15807.md)].
+- Jointly Training Large Autoregressive Multimodal Models - [[2309.15564](https://arxiv.org/abs/2309.15564)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15564.md)].
+- Finite Scalar Quantization: VQ-VAE Made Simple - [[2309.15505](https://arxiv.org/abs/2309.15505)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15505.md)].
+- VPA: Fully Test-Time Visual Prompt Adaptation - [[2309.15251](https://arxiv.org/abs/2309.15251)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15251.md)].
+- Low-rank Adaptation of Large Language Model Rescoring for   Parameter-Efficient Speech Recognition - [[2309.15223](https://arxiv.org/abs/2309.15223)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15223.md)].
 - LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion   Models - [[2309.15103](https://arxiv.org/abs/2309.15103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15103.md)].
 - Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of   Language Models - [[2309.15098](https://arxiv.org/abs/2309.15098)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15098.md)].
 - VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided   Planning - [[2309.15091](https://arxiv.org/abs/2309.15091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15091.md)].
@@ -16,6 +22,7 @@
 - Physics of Language Models: Part 3.2, Knowledge Manipulation - [[2309.14402](https://arxiv.org/abs/2309.14402)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14402.md)].
 - Small-scale proxies for large-scale Transformer training instabilities - [[2309.14322](https://arxiv.org/abs/2309.14322)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14322.md)].
 - VidChapters-7M: Video Chapters at Scale - [[2309.13952](https://arxiv.org/abs/2309.13952)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13952.md)].
+- Evaluating Cognitive Maps and Planning in Large Language Models with   CogEval - [[2309.15129](https://arxiv.org/abs/2309.15129)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15129.md)].
 - Embers of Autoregression: Understanding Large Language Models Through   the Problem They are Trained to Solve - [[2309.13638](https://arxiv.org/abs/2309.13638)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13638.md)].
 - Exploring Large Language Models' Cognitive Moral Development through   Defining Issues Test - [[2309.13356](https://arxiv.org/abs/2309.13356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13356.md)].
 - Calibrating LLM-Based Evaluator - [[2309.13308](https://arxiv.org/abs/2309.13308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13308.md)].
