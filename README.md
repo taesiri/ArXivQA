@@ -2615,6 +2615,7 @@
 - Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with   Noise Tolerance in Federated Learning - [[2211.06324](https://arxiv.org/abs/2211.06324)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.06324.md)].
 - BLOOM: A 176B-Parameter Open-Access Multilingual Language Model - [[2211.05100](https://arxiv.org/abs/2211.05100)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.05100.md)].
 - NoiSER: Noise is All You Need for Low-Light Image Enhancement - [[2211.04700](https://arxiv.org/abs/2211.04700)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.04700.md)].
+- Cross-Attention is all you need: Real-Time Streaming Transformers for   Personalised Speech Enhancement - [[2211.04346](https://arxiv.org/abs/2211.04346)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.04346.md)].
 - Self-conditioned Embedding Diffusion for Text Generation - [[2211.04236](https://arxiv.org/abs/2211.04236)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.04236.md)].
 - Rickrolling the Artist: Injecting Backdoors into Text Encoders for   Text-to-Image Synthesis - [[2211.02408](https://arxiv.org/abs/2211.02408)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.02408.md)].
 - Crosslingual Generalization through Multitask Finetuning - [[2211.01786](https://arxiv.org/abs/2211.01786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.01786.md)].
@@ -3016,6 +3017,7 @@
 - Auto-scaling Vision Transformers without Training - [[2202.11921](https://arxiv.org/abs/2202.11921)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.11921.md)].
 - COLD Decoding: Energy-based Constrained Text Generation with Langevin   Dynamics - [[2202.11705](https://arxiv.org/abs/2202.11705)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.11705.md)].
 - Socialformer: Social Network Inspired Long Document Modeling for   Document Ranking - [[2202.10870](https://arxiv.org/abs/2202.10870)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.10870.md)].
+- 1-WL Expressiveness Is (Almost) All You Need - [[2202.10156](https://arxiv.org/abs/2202.10156)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.10156.md)].
 - Pseudo Numerical Methods for Diffusion Models on Manifolds - [[2202.09778](https://arxiv.org/abs/2202.09778)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.09778.md)].
 - Bit-wise Training of Neural Network Weights - [[2202.09571](https://arxiv.org/abs/2202.09571)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.09571.md)].
 - Gaussian Mixture Convolution Networks - [[2202.09153](https://arxiv.org/abs/2202.09153)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.09153.md)].
@@ -3465,6 +3467,7 @@
 - Learning How to Ask: Querying LMs with Mixtures of Soft Prompts - [[2104.06599](https://arxiv.org/abs/2104.06599)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.06599.md)].
 - All you need are a few pixels: semantic segmentation with PixelPick - [[2104.06394](https://arxiv.org/abs/2104.06394)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.06394.md)].
 - Spatiotemporal Entropy Model is All You Need for Learned Video   Compression - [[2104.06083](https://arxiv.org/abs/2104.06083)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.06083.md)].
+- Not All Attention Is All You Need - [[2104.04692](https://arxiv.org/abs/2104.04692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.04692.md)].
 - Progressive Temporal Feature Alignment Network for Video Inpainting - [[2104.03507](https://arxiv.org/abs/2104.03507)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.03507.md)].
 - Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised   Pre-Training - [[2104.01027](https://arxiv.org/abs/2104.01027)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.01027.md)].
 - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval - [[2104.00650](https://arxiv.org/abs/2104.00650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00650.md)].
@@ -3603,6 +3606,7 @@
 - Towards falsifiable interpretability research - [[2010.12016](https://arxiv.org/abs/2010.12016)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.12016.md)].
 - The Turking Test: Can Language Models Understand Instructions? - [[2010.11982](https://arxiv.org/abs/2010.11982)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.11982.md)].
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at   Scale - [[2010.11929](https://arxiv.org/abs/2010.11929)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.11929.md)].
+- Transcription Is All You Need: Learning to Separate Musical Mixtures   with Score as Supervision - [[2010.11904](https://arxiv.org/abs/2010.11904)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.11904.md)].
 - Distilling Dense Representations for Ranking using Tightly-Coupled   Teachers - [[2010.11386](https://arxiv.org/abs/2010.11386)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.11386.md)].
 - Counterfactual Explanations and Algorithmic Recourses for Machine   Learning: A Review - [[2010.10596](https://arxiv.org/abs/2010.10596)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.10596.md)].
 - CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for   Conversational Recommendation - [[2010.10333](https://arxiv.org/abs/2010.10333)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.10333.md)].
