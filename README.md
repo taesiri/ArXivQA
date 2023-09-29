@@ -1443,6 +1443,7 @@
 - Diffusion Models for Zero-Shot Open-Vocabulary Segmentation - [[2306.09316](https://arxiv.org/abs/2306.09316)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09316.md)].
 - Can Language Models Teach Weaker Agents? Teacher Explanations Improve   Students via Theory of Mind - [[2306.09299](https://arxiv.org/abs/2306.09299)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09299.md)].
 - KoLA: Carefully Benchmarking World Knowledge of Large Language Models - [[2306.09296](https://arxiv.org/abs/2306.09296)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09296.md)].
+- A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside   Perception - [[2306.09266](https://arxiv.org/abs/2306.09266)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09266.md)].
 - LVLM-eHub: A Comprehensive Evaluation Benchmark for Large   Vision-Language Models - [[2306.09265](https://arxiv.org/abs/2306.09265)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09265.md)].
 - CMMLU: Measuring massive multitask language understanding in Chinese - [[2306.09212](https://arxiv.org/abs/2306.09212)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09212.md)].
 - NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and   Pose Annotations - [[2306.09109](https://arxiv.org/abs/2306.09109)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09109.md)].
@@ -3006,6 +3007,7 @@
 - Message Passing Neural PDE Solvers - [[2202.03376](https://arxiv.org/abs/2202.03376)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.03376.md)].
 - OFA: Unifying Architectures, Tasks, and Modalities Through a Simple   Sequence-to-Sequence Learning Framework - [[2202.03052](https://arxiv.org/abs/2202.03052)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.03052.md)].
 - User Satisfaction Estimation with Sequential Dialogue Act Modeling in   Goal-oriented Conversational Systems - [[2202.02912](https://arxiv.org/abs/2202.02912)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.02912.md)].
+- One-Nearest-Neighbor Search is All You Need for Minimax Optimal   Regression and Classification - [[2202.02464](https://arxiv.org/abs/2202.02464)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.02464.md)].
 - mSLAM: Massively multilingual joint pre-training for speech and text - [[2202.01374](https://arxiv.org/abs/2202.01374)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.01374.md)].
 - A Survey on Retrieval-Augmented Text Generation - [[2202.01110](https://arxiv.org/abs/2202.01110)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.01110.md)].
 - ColloSSL: Collaborative Self-Supervised Learning for Human Activity   Recognition - [[2202.00758](https://arxiv.org/abs/2202.00758)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.00758.md)].
@@ -3277,6 +3279,7 @@
 - Align before Fuse: Vision and Language Representation Learning with   Momentum Distillation - [[2107.07651](https://arxiv.org/abs/2107.07651)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.07651.md)].
 - FastSHAP: Real-Time Shapley Value Estimation - [[2107.07436](https://arxiv.org/abs/2107.07436)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.07436.md)].
 - How Much Can CLIP Benefit Vision-and-Language Tasks? - [[2107.06383](https://arxiv.org/abs/2107.06383)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.06383.md)].
+- Per-Pixel Classification is Not All You Need for Semantic Segmentation - [[2107.06278](https://arxiv.org/abs/2107.06278)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.06278.md)].
 - SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking - [[2107.05720](https://arxiv.org/abs/2107.05720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.05720.md)].
 - Explore and Control with Adversarial Surprise - [[2107.07394](https://arxiv.org/abs/2107.07394)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.07394.md)].
 - ViTGAN: Training GANs with Vision Transformers - [[2107.04589](https://arxiv.org/abs/2107.04589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.04589.md)].
