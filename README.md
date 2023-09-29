@@ -2625,6 +2625,7 @@
 - Crosslingual Generalization through Multitask Finetuning - [[2211.01786](https://arxiv.org/abs/2211.01786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.01786.md)].
 - PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales - [[2211.01562](https://arxiv.org/abs/2211.01562)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.01562.md)].
 - Flashlights: An Off-Caustic Lensed Star at Redshift $z$ = 1.26 in Abell   370 - [[2211.1402](https://arxiv.org/abs/2211.1402)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.1402.md)].
+- eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert   Denoisers - [[2211.01324](https://arxiv.org/abs/2211.01324)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.01324.md)].
 - Late lumping of transformation-based feedback laws for boundary control   systems - [[2211.1238](https://arxiv.org/abs/2211.1238)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.1238.md)].
 - Bipartite Mixed Membership Distribution-Free Model. A novel model for   community detection in overlapping bipartite weighted networks - [[2211.0912](https://arxiv.org/abs/2211.0912)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.0912.md)].
 - CARE: Causality Reasoning for Empathetic Responses by Conditional Graph   Generation - [[2211.00255](https://arxiv.org/abs/2211.00255)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.00255.md)].
@@ -3093,6 +3094,7 @@
 - ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce   Strong Baselines For Combinatorial Optimization Problems, If Tuned and   Trained Properly, on Appropriate Data - [[2112.12251](https://arxiv.org/abs/2112.12251)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.12251.md)].
 - Cost Aggregation Is All You Need for Few-Shot Segmentation - [[2112.11685](https://arxiv.org/abs/2112.11685)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.11685.md)].
 - Generalized Few-Shot Semantic Segmentation: All You Need is Fine-Tuning - [[2112.10982](https://arxiv.org/abs/2112.10982)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.10982.md)].
+- High-Resolution Image Synthesis with Latent Diffusion Models - [[2112.10752](https://arxiv.org/abs/2112.10752)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.10752.md)].
 - Transformers Can Do Bayesian Inference - [[2112.10510v6](https://arxiv.org/abs/2112.10510v6)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.10510v6.md)].
 - WebGPT: Browser-assisted question-answering with human feedback - [[2112.09332](https://arxiv.org/abs/2112.09332)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.09332.md)].
 - Automated Deep Learning: Neural Architecture Search Is Not the End - [[2112.09245](https://arxiv.org/abs/2112.09245)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.09245.md)].
@@ -3301,6 +3303,7 @@
 - Offline Decentralized Multi-Agent Reinforcement Learning - [[2108.01832](https://arxiv.org/abs/2108.01832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.01832.md)].
 - SphereFace2: Binary Classification is All You Need for Deep Face   Recognition - [[2108.01513](https://arxiv.org/abs/2108.01513)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.01513.md)].
 - How to Evaluate Your Dialogue Models: A Review of Approaches - [[2108.01369](https://arxiv.org/abs/2108.01369)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.01369.md)].
+- SDEdit: Guided Image Synthesis and Editing with Stochastic Differential   Equations - [[2108.01073](https://arxiv.org/abs/2108.01073)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.01073.md)].
 - Evaluating Deep Graph Neural Networks - [[2108.00955](https://arxiv.org/abs/2108.00955)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.00955.md)].
 - Jointly Optimizing Query Encoder and Product Quantization to Improve   Retrieval Performance - [[2108.00644](https://arxiv.org/abs/2108.00644)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.00644.md)].
 
