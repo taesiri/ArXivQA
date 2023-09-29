@@ -38,6 +38,7 @@
 - Small-scale proxies for large-scale Transformer training instabilities - [[2309.14322](https://arxiv.org/abs/2309.14322)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14322.md)].
 - Only 5\% Attention Is All You Need: Efficient Long-range Document-level   Neural Machine Translation - [[2309.14174](https://arxiv.org/abs/2309.14174)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14174.md)].
 - VidChapters-7M: Video Chapters at Scale - [[2309.13952](https://arxiv.org/abs/2309.13952)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13952.md)].
+- Impact of Human-AI Interaction on User Trust and Reliance in AI-Assisted   Qualitative Coding - [[2309.13858](https://arxiv.org/abs/2309.13858)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13858.md)].
 - Evaluating Cognitive Maps and Planning in Large Language Models with   CogEval - [[2309.15129](https://arxiv.org/abs/2309.15129)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15129.md)].
 - Embers of Autoregression: Understanding Large Language Models Through   the Problem They are Trained to Solve - [[2309.13638](https://arxiv.org/abs/2309.13638)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13638.md)].
 - Attention Is All You Need For Blind Room Volume Estimation - [[2309.13504](https://arxiv.org/abs/2309.13504)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13504.md)].
