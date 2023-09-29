@@ -7,6 +7,7 @@
 - DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content   Creation - [[2309.16653](https://arxiv.org/abs/2309.16653)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16653.md)].
 - ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and   Planning - [[2309.16650](https://arxiv.org/abs/2309.16650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16650.md)].
 - Qwen Technical Report - [[2309.16609](https://arxiv.org/abs/2309.16609)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16609.md)].
+- Text-to-3D using Gaussian Splatting - [[2309.16585](https://arxiv.org/abs/2309.16585)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16585.md)].
 - GPT-Fathom: Benchmarking Large Language Models to Decipher the   Evolutionary Path towards GPT-4 and Beyond - [[2309.16583](https://arxiv.org/abs/2309.16583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16583.md)].
 - MotionLM: Multi-Agent Motion Forecasting as Language Modeling - [[2309.16534](https://arxiv.org/abs/2309.16534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16534.md)].
 - CCEdit: Creative and Controllable Video Editing via Diffusion Models - [[2309.16496](https://arxiv.org/abs/2309.16496)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16496.md)].
@@ -3574,6 +3575,7 @@
 - CPM: A Large-scale Generative Chinese Pre-trained Language Model - [[2012.00413](https://arxiv.org/abs/2012.00413)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.00413.md)].
 
 ### November 2020
+- Feature Learning in Infinite-Width Neural Networks - [[2011.14522](https://arxiv.org/abs/2011.14522)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.14522.md)].
 - How Well Do Self-Supervised Models Transfer? - [[2011.13377](https://arxiv.org/abs/2011.13377)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.13377.md)].
 - Can Temporal Information Help with Contrastive Self-Supervised Learning? - [[2011.13046](https://arxiv.org/abs/2011.13046)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.13046.md)].
 - All You Need is a Good Functional Prior for Bayesian Deep Learning - [[2011.12829](https://arxiv.org/abs/2011.12829)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.12829.md)].
