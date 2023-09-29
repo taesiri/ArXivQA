@@ -7,6 +7,7 @@
 - DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content   Creation - [[2309.16653](https://arxiv.org/abs/2309.16653)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16653.md)].
 - ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and   Planning - [[2309.16650](https://arxiv.org/abs/2309.16650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16650.md)].
 - Qwen Technical Report - [[2309.16609](https://arxiv.org/abs/2309.16609)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16609.md)].
+- Vision Transformers Need Registers - [[2309.16588](https://arxiv.org/abs/2309.16588)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16588.md)].
 - Text-to-3D using Gaussian Splatting - [[2309.16585](https://arxiv.org/abs/2309.16585)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16585.md)].
 - GPT-Fathom: Benchmarking Large Language Models to Decipher the   Evolutionary Path towards GPT-4 and Beyond - [[2309.16583](https://arxiv.org/abs/2309.16583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16583.md)].
 - MotionLM: Multi-Agent Motion Forecasting as Language Modeling - [[2309.16534](https://arxiv.org/abs/2309.16534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16534.md)].
