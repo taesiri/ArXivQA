@@ -2180,6 +2180,7 @@
 - Sheaf Neural Networks for Graph-based Recommender Systems - [[2304.09097](https://arxiv.org/abs/2304.09097)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.09097.md)].
 - Generative Agents: Interactive Simulacra of Human Behavior - [[2304.03442](https://arxiv.org/abs/2304.03442)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.03442.md)].
 - Retention Is All You Need - [[2304.03103](https://arxiv.org/abs/2304.03103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.03103.md)].
+- MULLER: Multilayer Laplacian Resizer for Vision - [[2304.02859](https://arxiv.org/abs/2304.02859)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.02859.md)].
 - Segment Anything - [[2304.02643](https://arxiv.org/abs/2304.02643)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.02643.md)].
 - Effective control of two-dimensional Rayleigh--Bénard convection:   invariant multi-agent reinforcement learning is all you need - [[2304.02370](https://arxiv.org/abs/2304.02370)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.02370.md)].
 - ERRA: An Embodied Representation and Reasoning Architecture for   Long-horizon Language-conditioned Manipulation Tasks - [[2304.02251](https://arxiv.org/abs/2304.02251)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.02251.md)].
