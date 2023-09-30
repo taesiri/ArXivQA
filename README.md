@@ -27,6 +27,7 @@
 - LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion   Models - [[2309.15103](https://arxiv.org/abs/2309.15103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15103.md)].
 - Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of   Language Models - [[2309.15098](https://arxiv.org/abs/2309.15098)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15098.md)].
 - VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided   Planning - [[2309.15091](https://arxiv.org/abs/2309.15091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15091.md)].
+- Treating Motion as Option with Output Selection for Unsupervised Video   Object Segmentation - [[2309.14786](https://arxiv.org/abs/2309.14786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14786.md)].
 - QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models - [[2309.14717](https://arxiv.org/abs/2309.14717)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14717.md)].
 - Efficient Post-training Quantization with FP8 Formats - [[2309.14592](https://arxiv.org/abs/2309.14592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14592.md)].
 - Aligning Large Multimodal Models with Factually Augmented RLHF - [[2309.14525](https://arxiv.org/abs/2309.14525)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14525.md)].
@@ -83,6 +84,7 @@
 - DualToken-ViT: Position-aware Efficient Vision Transformer with Dual   Token Fusion - [[2309.12424](https://arxiv.org/abs/2309.12424)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12424.md)].
 - LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language   Model as an Agent - [[2309.12311](https://arxiv.org/abs/2309.12311)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12311.md)].
 - LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models - [[2309.12307](https://arxiv.org/abs/2309.12307)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12307.md)].
+- PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for   Video Segmentation - [[2309.12303](https://arxiv.org/abs/2309.12303)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12303.md)].
 - The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A" - [[2309.12288](https://arxiv.org/abs/2309.12288)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12288.md)].
 - MetaMath: Bootstrap Your Own Mathematical Questions for Large Language   Models - [[2309.12284](https://arxiv.org/abs/2309.12284)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12284.md)].
 - Boolformer: Symbolic Regression of Logic Functions with Transformers - [[2309.12207](https://arxiv.org/abs/2309.12207)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.12207.md)].
@@ -97,6 +99,7 @@
 - Kosmos-2.5: A Multimodal Literate Model - [[2309.11419](https://arxiv.org/abs/2309.11419)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11419.md)].
 - OpenChat: Advancing Open-source Language Models with Mixed-Quality Data - [[2309.11235](https://arxiv.org/abs/2309.11235)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11235.md)].
 - The Languini Kitchen: Enabling Language Modelling Research at Different   Scales of Compute - [[2309.11197](https://arxiv.org/abs/2309.11197)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11197.md)].
+- Multi-grained Temporal Prototype Learning for Few-shot Video Object   Segmentation - [[2309.11160](https://arxiv.org/abs/2309.11160)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11160.md)].
 - More complex encoder is not all you need - [[2309.11139](https://arxiv.org/abs/2309.11139)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11139.md)].
 - Weak Supervision for Label Efficient Visual Bug Detection - [[2309.11077](https://arxiv.org/abs/2309.11077)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11077.md)].
 - The Topology and Geometry of Neural Representations - [[2309.11028](https://arxiv.org/abs/2309.11028)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.11028.md)].
@@ -117,8 +120,10 @@
 - MindAgent: Emergent Gaming Interaction - [[2309.09971](https://arxiv.org/abs/2309.09971)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09971.md)].
 - Generating and Imputing Tabular Data via Diffusion and Flow-based   Gradient-Boosted Trees - [[2309.09968](https://arxiv.org/abs/2309.09968)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09968.md)].
 - An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models - [[2309.09958](https://arxiv.org/abs/2309.09958)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09958.md)].
+- CATR: Combinatorial-Dependence Audio-Queried Transformer for   Audio-Visual Video Segmentation - [[2309.09709](https://arxiv.org/abs/2309.09709)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09709.md)].
 - Adapting Large Language Models via Reading Comprehension - [[2309.09530](https://arxiv.org/abs/2309.09530)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09530.md)].
 - LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language   Models - [[2309.09506](https://arxiv.org/abs/2309.09506)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09506.md)].
+- Discovering Sounding Objects by Audio Queries for Audio Visual   Segmentation - [[2309.09501](https://arxiv.org/abs/2309.09501)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09501.md)].
 - CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large   Language Models in 167 Languages - [[2309.09400](https://arxiv.org/abs/2309.09400)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09400.md)].
 - Augmenting text for spoken language understanding with Large Language   Models - [[2309.09390](https://arxiv.org/abs/2309.09390)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09390.md)].
 - Embrace Divergence for Richer Insights: A Multi-document Summarization   Benchmark and a Case Study on Summarizing Diverse Information from News   Articles - [[2309.09369](https://arxiv.org/abs/2309.09369)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.09369.md)].
@@ -409,6 +414,7 @@
 - Generalized Lightness Adaptation with Channel Selective Normalization - [[2308.13783](https://arxiv.org/abs/2308.13783)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.13783.md)].
 - MST-compression: Compressing and Accelerating Binary Neural Networks   with Minimum Spanning Tree - [[2308.13735](https://arxiv.org/abs/2308.13735)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.13735.md)].
 - ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon   Sequential Task Planning - [[2308.13724](https://arxiv.org/abs/2308.13724)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.13724.md)].
+- Joint Modeling of Feature, Correspondence, and a Compressed Memory for   Video Object Segmentation - [[2308.13505](https://arxiv.org/abs/2308.13505)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.13505.md)].
 - Eventful Transformers: Leveraging Temporal Redundancy in Vision   Transformers - [[2308.13494](https://arxiv.org/abs/2308.13494)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.13494.md)].
 - Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability   of Language Models - [[2308.13467](https://arxiv.org/abs/2308.13467)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.13467.md)].
 - Position-Enhanced Visual Instruction Tuning for Multimodal Large   Language Models - [[2308.13437](https://arxiv.org/abs/2308.13437)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.13437.md)].
@@ -479,6 +485,7 @@
 - Does Physical Adversarial Example Really Matter to Autonomous Driving?   Towards System-Level Effect of Adversarial Object Evasion Attack - [[2308.11894](https://arxiv.org/abs/2308.11894)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.11894.md)].
 - SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal   Targets - [[2308.11880](https://arxiv.org/abs/2308.11880)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.11880.md)].
 - Semi-Supervised Learning via Weight-aware Distillation under Class   Distribution Mismatch - [[2308.11874](https://arxiv.org/abs/2308.11874)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.11874.md)].
+- Time Does Tell: Self-Supervised Time-Tuning of Dense Image   Representations - [[2308.11796](https://arxiv.org/abs/2308.11796)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.11796.md)].
 - Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer   with Mixture-of-View-Experts - [[2308.11793](https://arxiv.org/abs/2308.11793)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.11793.md)].
 - Understanding Hessian Alignment for Domain Generalization - [[2308.11778](https://arxiv.org/abs/2308.11778)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.11778.md)].
 - Efficient Controllable Multi-Task Architectures - [[2308.11744](https://arxiv.org/abs/2308.11744)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.11744.md)].
@@ -813,6 +820,7 @@
 - Exploring Transformers for Open-world Instance Segmentation - [[2308.04206](https://arxiv.org/abs/2308.04206)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.04206.md)].
 - D3G: Exploring Gaussian Prior for Temporal Sentence Grounding with   Glance Annotation - [[2308.04197](https://arxiv.org/abs/2308.04197)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.04197.md)].
 - Under-Display Camera Image Restoration with Scattering Effect - [[2308.04163](https://arxiv.org/abs/2308.04163)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.04163.md)].
+- EPCFormer: Expression Prompt Collaboration Transformer for Universal   Referring Video Object Segmentation - [[2308.04162](https://arxiv.org/abs/2308.04162)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.04162.md)].
 - Empowering Vision-Language Models to Follow Interleaved Vision-Language   Instructions - [[2308.04152](https://arxiv.org/abs/2308.04152)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.04152.md)].
 - OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion   and Infinite Data Generation - [[2308.04126](https://arxiv.org/abs/2308.04126)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.04126.md)].
 - 3D Gaussian Splatting for Real-Time Radiance Field Rendering - [[2308.04079](https://arxiv.org/abs/2308.04079)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.04079.md)].
@@ -865,6 +873,7 @@
 - Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation   from Text - [[2308.02357](https://arxiv.org/abs/2308.02357)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.02357.md)].
 - ESRL: Efficient Sampling-based Reinforcement Learning for Sequence   Generation - [[2308.02223](https://arxiv.org/abs/2308.02223)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.02223.md)].
 - Scaling Clinical Trial Matching Using Large Language Models: A Case   Study in Oncology - [[2308.02180](https://arxiv.org/abs/2308.02180)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.02180.md)].
+- Learning Referring Video Object Segmentation from Weak Annotation - [[2308.02162](https://arxiv.org/abs/2308.02162)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.02162.md)].
 - Retroformer: Retrospective Large Language Agents with Policy Gradient   Optimization - [[2308.02151](https://arxiv.org/abs/2308.02151)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.02151.md)].
 - The All-Seeing Project: Towards Panoptic Visual Recognition and   Understanding of the Open World - [[2308.01907](https://arxiv.org/abs/2308.01907)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.01907.md)].
 - DETR Doesn't Need Multi-Scale or Locality Design - [[2308.01904](https://arxiv.org/abs/2308.01904)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.01904.md)].
@@ -1717,6 +1726,7 @@
 - High-Fidelity Image Compression with Score-based Generative Models - [[2305.18231](https://arxiv.org/abs/2305.18231)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.18231.md)].
 - ControlVideo: Adding Conditional Control for One Shot Text-to-Video   Editing - [[2305.17098](https://arxiv.org/abs/2305.17098)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.17098.md)].
 - Mindstorms in Natural Language-Based Societies of Mind - [[2305.17066](https://arxiv.org/abs/2305.17066)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.17066.md)].
+- SOC: Semantic-Assisted Object Cluster for Referring Video Object   Segmentation - [[2305.17011](https://arxiv.org/abs/2305.17011)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.17011.md)].
 - Let the Flows Tell: Solving Graph Combinatorial Optimization Problems   with GFlowNets - [[2305.17010](https://arxiv.org/abs/2305.17010)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.17010.md)].
 - Three Towers: Flexible Contrastive Learning with Pretrained Image Models - [[2305.16999](https://arxiv.org/abs/2305.16999)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16999.md)].
 - Inverse Dynamics Pretraining Learns Good Representations for Multitask   Imitation - [[2305.16985](https://arxiv.org/abs/2305.16985)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16985.md)].
@@ -1969,6 +1979,7 @@
 - V2Meow: Meowing to the Visual Beat via Music Generation - [[2305.06594](https://arxiv.org/abs/2305.06594)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.06594.md)].
 - Chain-of-Dictionary Prompting Elicits Translation in Large Language   Models - [[2305.06575](https://arxiv.org/abs/2305.06575)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.06575.md)].
 - How to Index Item IDs for Recommendation Foundation Models - [[2305.06569](https://arxiv.org/abs/2305.06569)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.06569.md)].
+- Segment and Track Anything - [[2305.06558](https://arxiv.org/abs/2305.06558)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.06558.md)].
 - Domain Incremental Lifelong Learning in an Open World - [[2305.06555](https://arxiv.org/abs/2305.06555)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.06555.md)].
 - InstructBLIP: Towards General-purpose Vision-Language Models with   Instruction Tuning - [[2305.06500](https://arxiv.org/abs/2305.06500)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.06500.md)].
 - Do LLMs Understand User Preferences? Evaluating LLMs On User Rating   Prediction - [[2305.06474](https://arxiv.org/abs/2305.06474)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.06474.md)].
@@ -2011,6 +2022,7 @@
 - Controllable Light Diffusion for Portraits - [[2305.04745](https://arxiv.org/abs/2305.04745)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.04745.md)].
 - Code Execution with Pre-trained Language Models - [[2305.05383](https://arxiv.org/abs/2305.05383)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.05383.md)].
 - LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed   Multi-Label Visual Recognition - [[2305.04536](https://arxiv.org/abs/2305.04536)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.04536.md)].
+- Video Object Segmentation in Panoptic Wild Scenes - [[2305.04470](https://arxiv.org/abs/2305.04470)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.04470.md)].
 - Locally Attentional SDF Diffusion for Controllable 3D Shape Generation - [[2305.04461](https://arxiv.org/abs/2305.04461)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.04461.md)].
 - A Variational Perspective on Solving Inverse Problems with Diffusion   Models - [[2305.04391](https://arxiv.org/abs/2305.04391)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.04391.md)].
 - Language Models Don't Always Say What They Think: Unfaithful   Explanations in Chain-of-Thought Prompting - [[2305.04388](https://arxiv.org/abs/2305.04388)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.04388.md)].
@@ -2098,6 +2110,7 @@
 - GlyphDiffusion: Text Generation as Image Generation - [[2304.12519](https://arxiv.org/abs/2304.12519)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.12519.md)].
 - On the Challenges of Using Black-Box APIs for Toxicity Evaluation in   Research - [[2304.12397](https://arxiv.org/abs/2304.12397)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.12397.md)].
 - WizardLM: Empowering Large Language Models to Follow Complex   Instructions - [[2304.12244](https://arxiv.org/abs/2304.12244)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.12244.md)].
+- Track Anything: Segment Anything Meets Videos - [[2304.11968](https://arxiv.org/abs/2304.11968)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.11968.md)].
 - ChatLLM Network: More brains, More intelligence - [[2304.12998](https://arxiv.org/abs/2304.12998)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.12998.md)].
 - SketchXAI: A First Look at Explainability for Human Sketches - [[2304.11744](https://arxiv.org/abs/2304.11744)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.11744.md)].
 - SATIN: A Multi-Task Metadataset for Classifying Satellite Imagery using   Vision-Language Models - [[2304.11619](https://arxiv.org/abs/2304.11619)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.11619.md)].
@@ -2203,6 +2216,7 @@
 - WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for   Audio-Language Multimodal Research - [[2303.17395](https://arxiv.org/abs/2303.17395)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.17395.md)].
 - Social Biases through the Text-to-Image Generation Lens - [[2304.06034](https://arxiv.org/abs/2304.06034)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.06034.md)].
 - Mixed Autoencoder for Self-supervised Visual Representation Learning - [[2303.17152](https://arxiv.org/abs/2303.17152)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.17152.md)].
+- AutoAD: Movie Description in Context - [[2303.16899](https://arxiv.org/abs/2303.16899)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.16899.md)].
 - ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with   GPT and Prototype Guidance - [[2303.16894](https://arxiv.org/abs/2303.16894)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.16894.md)].
 - TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation - [[2303.16730](https://arxiv.org/abs/2303.16730)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.16730.md)].
 - G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment - [[2303.16634](https://arxiv.org/abs/2303.16634)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.16634.md)].
@@ -2345,6 +2359,7 @@
 - A Little Bit Attention Is All You Need for Person Re-Identification - [[2302.14574](https://arxiv.org/abs/2302.14574)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.14574.md)].
 - GLM-Dialog: Noise-tolerant Pre-training for Knowledge-grounded Dialogue   Generation - [[2302.14401](https://arxiv.org/abs/2302.14401)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.14401.md)].
 - HelixSurf: A Robust and Efficient Neural Implicit Surface Learning of   Indoor Scenes with Iterative Intertwined Regularization - [[2302.14340](https://arxiv.org/abs/2302.14340)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.14340.md)].
+- Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense   Video Captioning - [[2302.14115](https://arxiv.org/abs/2302.14115)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.14115.md)].
 - Internet Explorer: Targeted Representation Learning on the Open Web - [[2302.14051](https://arxiv.org/abs/2302.14051)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.14051.md)].
 - Language Is Not All You Need: Aligning Perception with Language Models - [[2302.14045](https://arxiv.org/abs/2302.14045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.14045.md)].
 - LLaMA: Open and Efficient Foundation Language Models - [[2302.13971](https://arxiv.org/abs/2302.13971)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.13971.md)].
@@ -2393,6 +2408,7 @@
 - Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness - [[2302.10893](https://arxiv.org/abs/2302.10893)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.10893.md)].
 - Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is   All You Need - [[2302.02615](https://arxiv.org/abs/2302.02615)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.02615.md)].
 - Aligning Robot and Human Representations - [[2302.01928](https://arxiv.org/abs/2302.01928)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.01928.md)].
+- MOSE: A New Dataset for Video Object Segmentation in Complex Scenes - [[2302.01872](https://arxiv.org/abs/2302.01872)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.01872.md)].
 - Robust Camera Pose Refinement for Multi-Resolution Hash Encoding - [[2302.01571](https://arxiv.org/abs/2302.01571)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.01571.md)].
 - Describe, Explain, Plan and Select: Interactive Planning with Large   Language Models Enables Open-World Multi-Task Agents - [[2302.01560](https://arxiv.org/abs/2302.01560)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.01560.md)].
 - Inference in Non-stationary High-Dimensional VARs - [[2302.1434](https://arxiv.org/abs/2302.1434)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2302.1434.md)].
@@ -2540,6 +2556,7 @@
 - Teaching Matters: Investigating the Role of Supervision in Vision   Transformers - [[2212.03862](https://arxiv.org/abs/2212.03862)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.03862.md)].
 - EditableNeRF: Editing Topologically Varying Neural Radiance Fields by   Key Points - [[2212.04247](https://arxiv.org/abs/2212.04247)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.04247.md)].
 - Diffusion-SDF: Text-to-Shape via Voxelized Diffusion - [[2212.03293](https://arxiv.org/abs/2212.03293)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.03293.md)].
+- InternVideo: General Video Foundation Models via Generative and   Discriminative Learning - [[2212.03191](https://arxiv.org/abs/2212.03191)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.03191.md)].
 - Momentum Decoding: Open-ended Text Generation As Graph Exploration - [[2212.02175](https://arxiv.org/abs/2212.02175)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.02175.md)].
 - Fast Point Cloud Generation with Straight Flows - [[2212.01747](https://arxiv.org/abs/2212.01747)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.01747.md)].
 - Moving Beyond Downstream Task Accuracy for Information Retrieval   Benchmarking - [[2212.01340](https://arxiv.org/abs/2212.01340)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.01340.md)].
@@ -2740,6 +2757,7 @@
 - What does a platypus look like? Generating customized prompts for   zero-shot image classification - [[2209.03320](https://arxiv.org/abs/2209.03320)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.03320.md)].
 - EnergonAI: An Inference System for 10-100 Billion Parameter Transformer   Models - [[2209.02341](https://arxiv.org/abs/2209.02341)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.02341.md)].
 - Selective Annotation Makes Language Models Better Few-Shot Learners - [[2209.01975](https://arxiv.org/abs/2209.01975)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.01975.md)].
+- An Empirical Study of End-to-End Video-Language Transformers with Masked   Visual Modeling - [[2209.01540](https://arxiv.org/abs/2209.01540)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.01540.md)].
 - Visual Prompting via Image Inpainting - [[2209.00647](https://arxiv.org/abs/2209.00647)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.00647.md)].
 - FLAME: Free-form Language-based Motion Synthesis &amp; Editing - [[2209.00349](https://arxiv.org/abs/2209.00349)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.00349.md)].
 
@@ -2798,6 +2816,7 @@
 - Back to the Source: Diffusion-Driven Test-Time Adaptation - [[2207.03442](https://arxiv.org/abs/2207.03442)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.03442.md)].
 - Is a PET all you need? A multi-modal study for Alzheimer's disease using   3D CNNs - [[2207.02094](https://arxiv.org/abs/2207.02094)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.02094.md)].
 - PVO: Panoptic Visual Odometry - [[2207.01610](https://arxiv.org/abs/2207.01610)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.01610.md)].
+- Towards Robust Referring Video Object Segmentation with Cyclic   Relational Consensus - [[2207.01203](https://arxiv.org/abs/2207.01203)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.01203.md)].
 - Computer-assisted Pronunciation Training -- Speech synthesis is almost   all you need - [[2207.00774](https://arxiv.org/abs/2207.00774)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.00774.md)].
 - Rationale-Augmented Ensembles in Language Models - [[2207.00747](https://arxiv.org/abs/2207.00747)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.00747.md)].
 
@@ -2815,9 +2834,11 @@
 - All you need is feedback: Communication with block attention feedback   codes - [[2206.09457](https://arxiv.org/abs/2206.09457)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.09457.md)].
 - MineDojo: Building Open-Ended Embodied Agents with Internet-Scale   Knowledge - [[2206.08853](https://arxiv.org/abs/2206.08853)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.08853.md)].
 - Sheaf Neural Networks with Connection Laplacians - [[2206.08702](https://arxiv.org/abs/2206.08702)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.08702.md)].
+- Zero-Shot Video Question Answering via Frozen Bidirectional Language   Models - [[2206.08155](https://arxiv.org/abs/2206.08155)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.08155.md)].
 - Balancing Discriminability and Transferability for Source-Free Domain   Adaptation - [[2206.08009](https://arxiv.org/abs/2206.08009)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.08009.md)].
 - Emergent Abilities of Large Language Models - [[2206.07682](https://arxiv.org/abs/2206.07682)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.07682.md)].
 - A smile is all you need: Predicting limiting activity coefficients from   SMILES with natural language processing - [[2206.07048](https://arxiv.org/abs/2206.07048)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.07048.md)].
+- LAVENDER: Unifying Video-Language Understanding as Masked Language   Modeling - [[2206.07160](https://arxiv.org/abs/2206.07160)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.07160.md)].
 - Confidence Score for Source-Free Unsupervised Domain Adaptation - [[2206.06640](https://arxiv.org/abs/2206.06640)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.06640.md)].
 - Transformers are Meta-Reinforcement Learners - [[2206.06614](https://arxiv.org/abs/2206.06614)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.06614.md)].
 - Language Models are General-Purpose Interfaces - [[2206.06336](https://arxiv.org/abs/2206.06336)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.06336.md)].
@@ -2838,6 +2859,7 @@
 - Learning to Break the Loop: Analyzing and Mitigating Repetitions for   Neural Text Generation - [[2206.02369](https://arxiv.org/abs/2206.02369)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.02369.md)].
 - Making Large Language Models Better Reasoners with Step-Aware Verifier - [[2206.02336](https://arxiv.org/abs/2206.02336)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.02336.md)].
 - Delving into the Openness of CLIP - [[2206.01986](https://arxiv.org/abs/2206.01986)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01986.md)].
+- Revisiting the "Video" in Video-Language Understanding - [[2206.01720](https://arxiv.org/abs/2206.01720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01720.md)].
 - PROMISSING: Pruning Missing Values in Neural Networks - [[2206.01640v1](https://arxiv.org/abs/2206.01640v1)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01640v1.md)].
 - A Survey on Computationally Efficient Neural Architecture Search - [[2206.01520](https://arxiv.org/abs/2206.01520)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01520.md)].
 - PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images - [[2206.01256](https://arxiv.org/abs/2206.01256)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01256.md)].
@@ -2880,6 +2902,7 @@
 - Target-Guided Dialogue Response Generation Using Commonsense and Data   Augmentation - [[2205.09314](https://arxiv.org/abs/2205.09314)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.09314.md)].
 - Positional Information is All You Need: A Novel Pipeline for   Self-Supervised SVDE from Videos - [[2205.08851](https://arxiv.org/abs/2205.08851)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.08851.md)].
 - Need is All You Need: Homeostatic Neural Networks Adapt to Concept Shift - [[2205.08645](https://arxiv.org/abs/2205.08645)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.08645.md)].
+- A CLIP-Hitchhiker's Guide to Long Video Retrieval - [[2205.08508](https://arxiv.org/abs/2205.08508)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.08508.md)].
 - Robust Losses for Learning Value Functions - [[2205.08464](https://arxiv.org/abs/2205.08464)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.08464.md)].
 - LogicSolver: Towards Interpretable Math Word Problem Solving with   Logical Prompt-enhanced Learning - [[2205.08232](https://arxiv.org/abs/2205.08232)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.08232.md)].
 - Diffusion Models for Adversarial Purification - [[2205.07460](https://arxiv.org/abs/2205.07460)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.07460.md)].
@@ -2887,6 +2910,7 @@
 - Aligning Robot Representations with Humans - [[2205.07882](https://arxiv.org/abs/2205.07882)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.07882.md)].
 - A Generalist Agent - [[2205.06175](https://arxiv.org/abs/2205.06175)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.06175.md)].
 - Reduce Information Loss in Transformers for Pluralistic Image Inpainting - [[2205.05076](https://arxiv.org/abs/2205.05076)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.05076.md)].
+- Learning to Answer Visual Questions from Web Videos - [[2205.05019](https://arxiv.org/abs/2205.05019)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.05019.md)].
 - When does dough become a bagel? Analyzing the remaining mistakes on   ImageNet - [[2205.04596](https://arxiv.org/abs/2205.04596)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.04596.md)].
 - A for-loop is all you need. For solving the inverse problem in the case   of personalized tumor growth modeling - [[2205.04550](https://arxiv.org/abs/2205.04550)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.04550.md)].
 - Towards a Progression-Aware Autonomous Dialogue Agent - [[2205.03692](https://arxiv.org/abs/2205.03692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.03692.md)].
@@ -2915,6 +2939,7 @@
 - Improving Passage Retrieval with Zero-Shot Question Generation - [[2204.07496](https://arxiv.org/abs/2204.07496)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.07496.md)].
 - A Personalized Dialogue Generator with Implicit User Persona Detection - [[2204.07372](https://arxiv.org/abs/2204.07372)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.07372.md)].
 - LaMemo: Language Modeling with Look-Ahead Memory - [[2204.07341](https://arxiv.org/abs/2204.07341)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.07341.md)].
+- Measuring Compositional Consistency for Video Question Answering - [[2204.07190](https://arxiv.org/abs/2204.07190)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.07190.md)].
 - Masked Siamese Networks for Label-Efficient Learning - [[2204.07141](https://arxiv.org/abs/2204.07141)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.07141.md)].
 - GPT-NeoX-20B: An Open-Source Autoregressive Language Model - [[2204.06745](https://arxiv.org/abs/2204.06745)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.06745.md)].
 - Training a Helpful and Harmless Assistant with Reinforcement Learning   from Human Feedback - [[2204.05862](https://arxiv.org/abs/2204.05862)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.05862.md)].
@@ -3068,6 +3093,7 @@
 - Patches Are All You Need? - [[2201.09792](https://arxiv.org/abs/2201.09792)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2201.09792.md)].
 - Universal Online Learning with Unbounded Losses: Memory Is All You Need - [[2201.08903](https://arxiv.org/abs/2201.08903)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2201.08903.md)].
 - Fast Differentiable Matrix Square Root - [[2201.08663](https://arxiv.org/abs/2201.08663)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2201.08663.md)].
+- End-to-end Generative Pretraining for Multimodal Video Captioning - [[2201.08264](https://arxiv.org/abs/2201.08264)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2201.08264.md)].
 - LaMDA: Language Models for Dialog Applications - [[2201.08239](https://arxiv.org/abs/2201.08239)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2201.08239.md)].
 - Safe Deep RL in 3D Environments using Human Feedback - [[2201.08102](https://arxiv.org/abs/2201.08102)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2201.08102.md)].
 - Language Models as Zero-Shot Planners: Extracting Actionable Knowledge   for Embodied Agents - [[2201.07207](https://arxiv.org/abs/2201.07207)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2201.07207.md)].
@@ -3096,6 +3122,7 @@
 - Generalized Few-Shot Semantic Segmentation: All You Need is Fine-Tuning - [[2112.10982](https://arxiv.org/abs/2112.10982)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.10982.md)].
 - High-Resolution Image Synthesis with Latent Diffusion Models - [[2112.10752](https://arxiv.org/abs/2112.10752)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.10752.md)].
 - Transformers Can Do Bayesian Inference - [[2112.10510v6](https://arxiv.org/abs/2112.10510v6)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.10510v6.md)].
+- Align and Prompt: Video-and-Language Pre-training with Entity Prompts - [[2112.09583](https://arxiv.org/abs/2112.09583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.09583.md)].
 - WebGPT: Browser-assisted question-answering with human feedback - [[2112.09332](https://arxiv.org/abs/2112.09332)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.09332.md)].
 - Automated Deep Learning: Neural Architecture Search Is Not the End - [[2112.09245](https://arxiv.org/abs/2112.09245)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.09245.md)].
 - All You Need is RAW: Defending Against Adversarial Attacks with Camera   Image Pipelines - [[2112.09219](https://arxiv.org/abs/2112.09219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.09219.md)].
@@ -3111,6 +3138,7 @@
 - MDD-Eval: Self-Training on Augmented Data for Multi-Domain Dialogue   Evaluation - [[2112.07194](https://arxiv.org/abs/2112.07194)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.07194.md)].
 - Real-Time Neural Voice Camouflage - [[2112.07076](https://arxiv.org/abs/2112.07076)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.07076.md)].
 - GLaM: Efficient Scaling of Language Models with Mixture-of-Experts - [[2112.06905](https://arxiv.org/abs/2112.06905)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.06905.md)].
+- VL-Adapter: Parameter-Efficient Transfer Learning for   Vision-and-Language Tasks - [[2112.06825](https://arxiv.org/abs/2112.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.06825.md)].
 - Step-unrolled Denoising Autoencoders for Text Generation - [[2112.06749](https://arxiv.org/abs/2112.06749)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.06749.md)].
 - CR-FIQA: Face Image Quality Assessment by Learning Sample Relative   Classifiability - [[2112.06592](https://arxiv.org/abs/2112.06592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.06592.md)].
 - Self-Supervised Bot Play for Conversational Recommendation with   Justifications - [[2112.05197](https://arxiv.org/abs/2112.05197)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.05197.md)].
@@ -3130,6 +3158,7 @@
 - Neural Stochastic Dual Dynamic Programming - [[2112.00874](https://arxiv.org/abs/2112.00874)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.00874.md)].
 - A General Language Assistant as a Laboratory for Alignment - [[2112.00861](https://arxiv.org/abs/2112.00861)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.00861.md)].
 - Routing with Self-Attention for Multimodal Capsule Networks - [[2112.00775](https://arxiv.org/abs/2112.00775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.00775.md)].
+- MAD: A Scalable Dataset for Language Grounding in Videos from Movie   Audio Descriptions - [[2112.00431](https://arxiv.org/abs/2112.00431)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.00431.md)].
 
 ### November 2021
 - Show Your Work: Scratchpads for Intermediate Computation with Language   Models - [[2112.00114](https://arxiv.org/abs/2112.00114)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.00114.md)].
@@ -3137,8 +3166,11 @@
 - GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with   Semi-Supervised Learning and Explicit Policy Injection - [[2111.14592](https://arxiv.org/abs/2111.14592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.14592.md)].
 - A category theory framework for Bayesian learning - [[2111.14293](https://arxiv.org/abs/2111.14293)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.14293.md)].
 - Pre-training Methods in Information Retrieval - [[2111.13853](https://arxiv.org/abs/2111.13853)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.13853.md)].
+- SwinBERT: End-to-End Transformers with Sparse Attention for Video   Captioning - [[2111.13196](https://arxiv.org/abs/2111.13196)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.13196.md)].
 - Group equivariant neural posterior estimation - [[2111.13139](https://arxiv.org/abs/2111.13139)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.13139.md)].
 - CDNet is all you need: Cascade DCN based underwater object detection   RCNN - [[2111.12982](https://arxiv.org/abs/2111.12982)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.12982.md)].
+- VIOLET : End-to-End Video-Language Transformers with Masked Visual-token   Modeling - [[2111.12681](https://arxiv.org/abs/2111.12681)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.12681.md)].
+- Hierarchical Modular Network for Video Captioning - [[2111.12476](https://arxiv.org/abs/2111.12476)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.12476.md)].
 - Node-Level Differentially Private Graph Neural Networks - [[2111.15521](https://arxiv.org/abs/2111.15521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.15521.md)].
 - Subgraph Permutation Equivariant Networks - [[2111.11840](https://arxiv.org/abs/2111.11840)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.11840.md)].
 - Variance Reduction in Deep Learning: More Momentum is All You Need - [[2111.11828](https://arxiv.org/abs/2111.11828)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2111.11828.md)].
@@ -3195,6 +3227,7 @@
 - ContraQA: Question Answering under Contradicting Contexts - [[2110.07803](https://arxiv.org/abs/2110.07803)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2110.07803.md)].
 - RecInDial: A Unified Framework for Conversational Recommendation with   Pretrained Language Models - [[2110.07477](https://arxiv.org/abs/2110.07477)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2110.07477.md)].
 - RocketQAv2: A Joint Training Method for Dense Passage Retrieval and   Passage Re-ranking - [[2110.07367](https://arxiv.org/abs/2110.07367)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2110.07367.md)].
+- CLIP4Caption: CLIP for Video Caption - [[2110.06615](https://arxiv.org/abs/2110.06615)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2110.06615.md)].
 - Parallel Deep Neural Networks Have Zero Duality Gap - [[2110.06482](https://arxiv.org/abs/2110.06482)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2110.06482.md)].
 - Causal discovery from conditionally stationary time-series - [[2110.06257](https://arxiv.org/abs/2110.06257)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2110.06257.md)].
 - Molecular Graph Generation via Geometric Scattering - [[2110.06241](https://arxiv.org/abs/2110.06241)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2110.06241.md)].
@@ -3316,6 +3349,7 @@
 - Few Shots Are All You Need: A Progressive Few Shot Learning Approach for   Low Resource Handwritten Text Recognition - [[2107.10064](https://arxiv.org/abs/2107.10064)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.10064.md)].
 - Conditional GANs with Auxiliary Discriminative Classifier - [[2107.10060v5](https://arxiv.org/abs/2107.10060v5)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.10060v5.md)].
 - Guided Generation of Cause and Effect - [[2107.09846](https://arxiv.org/abs/2107.09846)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.09846.md)].
+- QVHighlights: Detecting Moments and Highlights in Videos via Natural   Language Queries - [[2107.09609](https://arxiv.org/abs/2107.09609)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.09609.md)].
 - Structured Stochastic Gradient MCMC - [[2107.09028](https://arxiv.org/abs/2107.09028)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.09028.md)].
 - Is attention to bounding boxes all you need for pedestrian action   prediction? - [[2107.08031](https://arxiv.org/abs/2107.08031)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.08031.md)].
 - DNN is not all you need: Parallelizing Non-Neural ML Algorithms on   Ultra-Low-Power IoT Processors - [[2107.09448](https://arxiv.org/abs/2107.09448)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.09448.md)].
@@ -3334,6 +3368,7 @@
 - Neural Contextual Bandits without Regret - [[2107.03144](https://arxiv.org/abs/2107.03144)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.03144.md)].
 - Structured Denoising Diffusion Models in Discrete State-Spaces - [[2107.03006](https://arxiv.org/abs/2107.03006)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.03006.md)].
 - Depth-supervised NeRF: Fewer Views and Faster Training for Free - [[2107.02791](https://arxiv.org/abs/2107.02791)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.02791.md)].
+- VidLanKD: Improving Language Understanding via Video-Distilled Knowledge   Transfer - [[2107.02681](https://arxiv.org/abs/2107.02681)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.02681.md)].
 - Rethinking Positional Encoding - [[2107.02561](https://arxiv.org/abs/2107.02561)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.02561.md)].
 - When and How to Fool Explainable Models (and Humans) with Adversarial   Examples - [[2107.01943](https://arxiv.org/abs/2107.01943)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.01943.md)].
 - Mutation is all you need - [[2107.07343](https://arxiv.org/abs/2107.07343)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.07343.md)].
@@ -3357,8 +3392,10 @@
 - Secure Domain Adaptation with Multiple Sources - [[2106.12124](https://arxiv.org/abs/2106.12124)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.12124.md)].
 - Volume Rendering of Neural Implicit Surfaces - [[2106.12052](https://arxiv.org/abs/2106.12052)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.12052.md)].
 - Policy Smoothing for Provably Robust Reinforcement Learning - [[2106.11420v3](https://arxiv.org/abs/2106.11420v3)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.11420v3.md)].
+- Towards Long-Form Video Understanding - [[2106.11310](https://arxiv.org/abs/2106.11310)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.11310.md)].
 - Boundary Graph Neural Networks for 3D Simulations - [[2106.11299](https://arxiv.org/abs/2106.11299)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.11299.md)].
 - Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval - [[2106.11251](https://arxiv.org/abs/2106.11251)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.11251.md)].
+- CLIP2Video: Mastering Video-Text Retrieval via Image CLIP - [[2106.11097](https://arxiv.org/abs/2106.11097)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.11097.md)].
 - Analytically Tractable Bayesian Deep Q-Learning - [[2106.11086](https://arxiv.org/abs/2106.11086)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.11086.md)].
 - NeuS: Learning Neural Implicit Surfaces by Volume Rendering for   Multi-view Reconstruction - [[2106.10689](https://arxiv.org/abs/2106.10689)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.10689.md)].
 - Shuffle Private Stochastic Convex Optimization - [[2106.09805](https://arxiv.org/abs/2106.09805)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.09805.md)].
@@ -3394,6 +3431,7 @@
 - Learning Curves for SGD on Structured Features - [[2106.02713](https://arxiv.org/abs/2106.02713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.02713.md)].
 - Meta-Learning with Fewer Tasks through Task Interpolation - [[2106.02695](https://arxiv.org/abs/2106.02695)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.02695.md)].
 - Churn Reduction via Distillation - [[2106.02654](https://arxiv.org/abs/2106.02654)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.02654.md)].
+- MERLOT: Multimodal Neural Script Knowledge Models - [[2106.02636](https://arxiv.org/abs/2106.02636)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.02636.md)].
 - Conversations Are Not Flat: Modeling the Dynamic Information Flow across   Dialogue Utterances - [[2106.02227](https://arxiv.org/abs/2106.02227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.02227.md)].
 - Three Sentences Are All You Need: Local Path Enhanced Document Relation   Extraction - [[2106.01793](https://arxiv.org/abs/2106.01793)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.01793.md)].
 - Convergent Graph Solvers - [[2106.01680v3](https://arxiv.org/abs/2106.01680v3)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2106.01680v3.md)].
@@ -3452,7 +3490,9 @@
 - Emerging Properties in Self-Supervised Vision Transformers - [[2104.14294](https://arxiv.org/abs/2104.14294)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.14294.md)].
 - Open-vocabulary Object Detection via Vision and Language Knowledge   Distillation - [[2104.13921](https://arxiv.org/abs/2104.13921)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.13921.md)].
 - If your data distribution shifts, use self-learning - [[2104.12928](https://arxiv.org/abs/2104.12928)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.12928.md)].
+- Multimodal Clustering Networks for Self-supervised Learning from   Unlabeled Videos - [[2104.12671](https://arxiv.org/abs/2104.12671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.12671.md)].
 - Easy and Efficient Transformer : Scalable Inference Solution For large   NLP model - [[2104.12470](https://arxiv.org/abs/2104.12470)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.12470.md)].
+- GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video   Summarization - [[2104.12465](https://arxiv.org/abs/2104.12465)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.12465.md)].
 - PanGu-$α$: Large-scale Autoregressive Pretrained Chinese Language   Models with Auto-parallel Computation - [[2104.12369](https://arxiv.org/abs/2104.12369)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.12369.md)].
 - Learning Passage Impacts for Inverted Indexes - [[2104.12016](https://arxiv.org/abs/2104.12016)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.12016.md)].
 - UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for   Multi-View Reconstruction - [[2104.10078](https://arxiv.org/abs/2104.10078)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.10078.md)].
@@ -3477,6 +3517,7 @@
 - Not All Attention Is All You Need - [[2104.04692](https://arxiv.org/abs/2104.04692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.04692.md)].
 - Progressive Temporal Feature Alignment Network for Video Inpainting - [[2104.03507](https://arxiv.org/abs/2104.03507)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.03507.md)].
 - Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised   Pre-Training - [[2104.01027](https://arxiv.org/abs/2104.01027)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.01027.md)].
+- Visual Semantic Role Labeling for Video Understanding - [[2104.00990](https://arxiv.org/abs/2104.00990)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00990.md)].
 - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval - [[2104.00650](https://arxiv.org/abs/2104.00650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00650.md)].
 - NeRF-VAE: A Geometry Aware 3D Scene Generative Model - [[2104.00587](https://arxiv.org/abs/2104.00587)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00587.md)].
 - Improved Image Generation via Sparse Modeling - [[2104.00464](https://arxiv.org/abs/2104.00464)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00464.md)].
@@ -3486,6 +3527,7 @@
 ### March 2021
 - CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields - [[2103.17269](https://arxiv.org/abs/2103.17269)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2103.17269.md)].
 - Contrastive Embedding for Generalized Zero-Shot Learning - [[2103.16173](https://arxiv.org/abs/2103.16173)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2103.16173.md)].
+- AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning - [[2103.16002](https://arxiv.org/abs/2103.16002)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2103.16002.md)].
 - TransFill: Reference-guided Image Inpainting by Merging Multiple Color   and Spatial Transformations - [[2103.15982](https://arxiv.org/abs/2103.15982)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2103.15982.md)].
 - Generic Attention-model Explainability for Interpreting Bi-Modal and   Encoder-Decoder Transformers - [[2103.15679](https://arxiv.org/abs/2103.15679)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2103.15679.md)].
 - GNeRF: GAN-based Neural Radiance Field without Posed Camera - [[2103.15606](https://arxiv.org/abs/2103.15606)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2103.15606.md)].
@@ -3533,6 +3575,7 @@
 - Learning Graph Embeddings for Compositional Zero-shot Learning - [[2102.01987](https://arxiv.org/abs/2102.01987)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2102.01987.md)].
 
 ### January 2021
+- VX2TEXT: End-to-End Learning of Video-Based Text Generation From   Multimodal Inputs - [[2101.12059](https://arxiv.org/abs/2101.12059)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2101.12059.md)].
 - Compositional Semantics for Probabilistic Programs with Exact   Conditioning - [[2101.11351](https://arxiv.org/abs/2101.11351)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2101.11351.md)].
 - RESPER: Computationally Modelling Resisting Strategies in Persuasive   Conversations - [[2101.10545](https://arxiv.org/abs/2101.10545)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2101.10545.md)].
 - Reverse Derivative Ascent: A Categorical Approach to Learning Boolean   Circuits - [[2101.10488](https://arxiv.org/abs/2101.10488)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2101.10488.md)].
@@ -3577,6 +3620,7 @@
 - pixelNeRF: Neural Radiance Fields from One or Few Images - [[2012.02190](https://arxiv.org/abs/2012.02190)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.02190.md)].
 - Learned Initializations for Optimizing Coordinate-Based Neural   Representations - [[2012.02189](https://arxiv.org/abs/2012.02189)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.02189.md)].
 - Neural Prototype Trees for Interpretable Fine-grained Image Recognition - [[2012.02046](https://arxiv.org/abs/2012.02046)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.02046.md)].
+- Just Ask: Learning to Answer Questions from Millions of Narrated Videos - [[2012.00451](https://arxiv.org/abs/2012.00451)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.00451.md)].
 - CPM: A Large-scale Generative Chinese Pre-trained Language Model - [[2012.00413](https://arxiv.org/abs/2012.00413)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.00413.md)].
 
 ### November 2020
@@ -3595,6 +3639,7 @@
 - Contextual Fusion For Adversarial Robustness - [[2011.09526](https://arxiv.org/abs/2011.09526)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.09526.md)].
 - Functorial Manifold Learning - [[2011.07435](https://arxiv.org/abs/2011.07435)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.07435.md)].
 - Unsupervised Video Representation Learning by Bidirectional Feature   Prediction - [[2011.06037](https://arxiv.org/abs/2011.06037)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.06037.md)].
+- Multimodal Pretraining for Dense Video Captioning - [[2011.11760](https://arxiv.org/abs/2011.11760)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.11760.md)].
 - A Broad Dataset is All You Need for One-Shot Object Detection - [[2011.04267](https://arxiv.org/abs/2011.04267)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.04267.md)].
 - Feature Removal Is a Unifying Principle for Model Explanation Methods - [[2011.03623](https://arxiv.org/abs/2011.03623)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.03623.md)].
 - Language Model is All You Need: Natural Language Understanding as   Question Answering - [[2011.03023](https://arxiv.org/abs/2011.03023)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.03023.md)].
@@ -3623,6 +3668,7 @@
 - Self-supervised Co-training for Video Representation Learning - [[2010.09709](https://arxiv.org/abs/2010.09709)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.09709.md)].
 - For self-supervised learning, Rationality implies generalization,   provably - [[2010.08508](https://arxiv.org/abs/2010.08508)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.08508.md)].
 - RocketQA: An Optimized Training Approach to Dense Passage Retrieval for   Open-Domain Question Answering - [[2010.08191](https://arxiv.org/abs/2010.08191)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.08191.md)].
+- What is More Likely to Happen Next? Video-and-Language Future Event   Prediction - [[2010.07999](https://arxiv.org/abs/2010.07999)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.07999.md)].
 - NeRF++: Analyzing and Improving Neural Radiance Fields - [[2010.07492](https://arxiv.org/abs/2010.07492)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.07492.md)].
 - Representable Markov Categories and Comparison of Statistical   Experiments in Categorical Probability - [[2010.07416](https://arxiv.org/abs/2010.07416)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.07416.md)].
 - Pretrained Transformers for Text Ranking: BERT and Beyond - [[2010.06467](https://arxiv.org/abs/2010.06467)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2010.06467.md)].
@@ -3756,11 +3802,14 @@
 - Is Your Goal-Oriented Dialog Model Performing Really Well? Empirical   Analysis of System-wise Evaluation - [[2005.07362](https://arxiv.org/abs/2005.07362)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.07362.md)].
 - Local Self-Attention over Long Text for Efficient Document Retrieval - [[2005.04908](https://arxiv.org/abs/2005.04908)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.04908.md)].
 - Categorical Stochastic Processes and Likelihood - [[2005.04735](https://arxiv.org/abs/2005.04735)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.04735.md)].
+- Condensed Movies: Story Based Retrieval with Contextual Embeddings - [[2005.04208](https://arxiv.org/abs/2005.04208)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.04208.md)].
+- DramaQA: Character-Centered Video Story Understanding with Hierarchical   QA - [[2005.03356](https://arxiv.org/abs/2005.03356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.03356.md)].
 - The Cascade Transformer: an Application for Efficient Answer Sentence   Selection - [[2005.02534](https://arxiv.org/abs/2005.02534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.02534.md)].
 - Evaluating Explainable AI: Which Algorithmic Explanations Help Users   Predict Model Behavior? - [[2005.01831](https://arxiv.org/abs/2005.01831)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.01831.md)].
 - Does Visual Self-Supervision Improve Learning of Speech Representations   for Emotion Recognition? - [[2005.01400](https://arxiv.org/abs/2005.01400)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.01400.md)].
 - Learning an Unreferenced Metric for Online Dialogue Evaluation - [[2005.00583](https://arxiv.org/abs/2005.00583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.00583.md)].
 - POINTER: Constrained Progressive Text Generation via Insertion-based   Generative Pre-training - [[2005.00558](https://arxiv.org/abs/2005.00558)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.00558.md)].
+- HERO: Hierarchical Encoder for Video+Language Omni-representation   Pre-training - [[2005.00200](https://arxiv.org/abs/2005.00200)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.00200.md)].
 - Sparse, Dense, and Attentional Representations for Text Retrieval - [[2005.00181](https://arxiv.org/abs/2005.00181)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.00181.md)].
 
 ### April 2020
@@ -3791,6 +3840,7 @@
 ### March 2020
 - How Useful is Self-Supervised Pretraining for Visual Tasks? - [[2003.14323](https://arxiv.org/abs/2003.14323)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.14323.md)].
 - InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining - [[2003.13198](https://arxiv.org/abs/2003.13198)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.13198.md)].
+- VIOLIN: A Large-Scale Dataset for Video-and-Language Inference - [[2003.11618](https://arxiv.org/abs/2003.11618)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.11618.md)].
 - Rethinking Few-Shot Image Classification: a Good Embedding Is All You   Need? - [[2003.11539](https://arxiv.org/abs/2003.11539)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.11539.md)].
 - Deformable Style Transfer - [[2003.11038](https://arxiv.org/abs/2003.11038)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.11038.md)].
 - Distributional Reinforcement Learning with Ensembles - [[2003.10903](https://arxiv.org/abs/2003.10903)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.10903.md)].
@@ -3803,6 +3853,7 @@
 - Document Ranking with a Pretrained Sequence-to-Sequence Model - [[2003.06713](https://arxiv.org/abs/2003.06713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.06713.md)].
 - Building and Interpreting Deep Similarity Models - [[2003.05431](https://arxiv.org/abs/2003.05431)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.05431.md)].
 - xCos: An Explainable Cosine Metric for Face Verification Task - [[2003.05383](https://arxiv.org/abs/2003.05383)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.05383.md)].
+- Video2Commonsense: Generating Commonsense Descriptions to Enrich Video   Captioning - [[2003.05162](https://arxiv.org/abs/2003.05162)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.05162.md)].
 - ReZero is All You Need: Fast Convergence at Large Depth - [[2003.04887](https://arxiv.org/abs/2003.04887)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.04887.md)].
 - Improved Baselines with Momentum Contrastive Learning - [[2003.04297](https://arxiv.org/abs/2003.04297)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.04297.md)].
 - How to Train Your Super-Net: An Analysis of Training Heuristics in   Weight-Sharing NAS - [[2003.04276](https://arxiv.org/abs/2003.04276)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.04276.md)].
@@ -3817,6 +3868,7 @@
 - Disentangled Speech Embeddings using Cross-modal Self-supervision - [[2002.08742](https://arxiv.org/abs/2002.08742)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2002.08742.md)].
 - Gradient Boosting Neural Networks: GrowNet - [[2002.07971](https://arxiv.org/abs/2002.07971)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2002.07971.md)].
 - Information Condensing Active Learning - [[2002.07916](https://arxiv.org/abs/2002.07916)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2002.07916.md)].
+- UniVL: A Unified Video and Language Pre-Training Model for Multimodal   Understanding and Generation - [[2002.06353](https://arxiv.org/abs/2002.06353)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2002.06353.md)].
 - A Simple Framework for Contrastive Learning of Visual Representations - [[2002.05709](https://arxiv.org/abs/2002.05709)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2002.05709.md)].
 - REALM: Retrieval-Augmented Language Model Pre-Training - [[2002.08909](https://arxiv.org/abs/2002.08909)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2002.08909.md)].
 - Pre-training Tasks for Embedding-based Large-scale Retrieval - [[2002.03932](https://arxiv.org/abs/2002.03932)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2002.03932.md)].
@@ -3828,6 +3880,7 @@
 - Learning Robust and Multilingual Speech Representations - [[2001.11128](https://arxiv.org/abs/2001.11128)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2001.11128.md)].
 - Selective Weak Supervision for Neural Information Retrieval - [[2001.10382](https://arxiv.org/abs/2001.10382)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2001.10382.md)].
 - Multi-task self-supervised learning for Robust Speech Recognition - [[2001.09239](https://arxiv.org/abs/2001.09239)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2001.09239.md)].
+- TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval - [[2001.09099](https://arxiv.org/abs/2001.09099)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2001.09099.md)].
 - Scaling Laws for Neural Language Models - [[2001.08361](https://arxiv.org/abs/2001.08361)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2001.08361.md)].
 - Latency-Aware Differentiable Neural Architecture Search - [[2001.06392](https://arxiv.org/abs/2001.06392)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2001.06392.md)].
 - A Categorical Framework for Learning Generalised Tree Automata - [[2001.05786](https://arxiv.org/abs/2001.05786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2001.05786.md)].
@@ -3875,6 +3928,7 @@
 - Mockingjay: Unsupervised Speech Representation Learning with Deep   Bidirectional Transformer Encoders - [[1910.12638](https://arxiv.org/abs/1910.12638)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.12638.md)].
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text   Transformer - [[1910.10683](https://arxiv.org/abs/1910.10683)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.10683.md)].
 - Generative Pre-Training for Speech with Autoregressive Predictive Coding - [[1910.12607](https://arxiv.org/abs/1910.12607)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.12607.md)].
+- KnowIT VQA: Answering Knowledge-Based Questions about Videos - [[1910.10706](https://arxiv.org/abs/1910.10706)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.10706.md)].
 - Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video - [[1910.09430](https://arxiv.org/abs/1910.09430)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.09430.md)].
 - Understanding Deep Networks via Extremal Perturbations and Smooth Masks - [[1910.08485](https://arxiv.org/abs/1910.08485)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.08485.md)].
 - ALOHA: Artificial Learning of Human Attributes for Dialogue Agents - [[1910.08293](https://arxiv.org/abs/1910.08293)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.08293.md)].
@@ -3945,6 +3999,7 @@
 - Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index - [[1906.05807](https://arxiv.org/abs/1906.05807)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1906.05807.md)].
 - Factorized Mutual Information Maximization - [[1906.05460v1](https://arxiv.org/abs/1906.05460v1)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1906.05460v1.md)].
 - Self-Supervised Learning for Contextualized Extractive Summarization - [[1906.04466](https://arxiv.org/abs/1906.04466)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1906.04466.md)].
+- HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million   Narrated Video Clips - [[1906.03327](https://arxiv.org/abs/1906.03327)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1906.03327.md)].
 - Selfie: Self-supervised Pretraining for Image Embedding - [[1906.02940](https://arxiv.org/abs/1906.02940)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1906.02940.md)].
 - XRAI: Better Attributions Through Regions - [[1906.02825](https://arxiv.org/abs/1906.02825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1906.02825.md)].
 - Attention is all you need for Videos: Self-attention based Video   Summarization using Universal Transformers - [[1906.02792](https://arxiv.org/abs/1906.02792)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1906.02792.md)].
@@ -3979,6 +4034,7 @@
 ### April 2019
 - Segmentation is All You Need - [[1904.13300](https://arxiv.org/abs/1904.13300)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.13300.md)].
 - A critical analysis of self-supervision, or what we can learn from a   single image - [[1904.13132](https://arxiv.org/abs/1904.13132)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.13132.md)].
+- TVQA+: Spatio-Temporal Grounding for Video Question Answering - [[1904.11574](https://arxiv.org/abs/1904.11574)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.11574.md)].
 - DynamoNet: Dynamic Action and Motion Network - [[1904.11407](https://arxiv.org/abs/1904.11407)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.11407.md)].
 - Free-form Video Inpainting with 3D Gated Convolution and Temporal   PatchGAN - [[1904.10247](https://arxiv.org/abs/1904.10247)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.10247.md)].
 - GraphNAS: Graph Neural Architecture Search with Reinforcement Learning - [[1904.09981](https://arxiv.org/abs/1904.09981)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.09981.md)].
@@ -4096,6 +4152,7 @@
 
 ### September 2018
 - Learning Long-Range Perception Using Self-Supervision from Short-Range   Sensors and Odometry - [[1809.07207](https://arxiv.org/abs/1809.07207)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1809.07207.md)].
+- TVQA: Localized, Compositional Video Question Answering - [[1809.01696](https://arxiv.org/abs/1809.01696)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1809.01696.md)].
 
 ### August 2018
 - AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale - [[1808.10583](https://arxiv.org/abs/1808.10583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.10583.md)].
@@ -4235,6 +4292,7 @@
 - Representation Learning by Learning to Count - [[1708.06734](https://arxiv.org/abs/1708.06734)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.06734.md)].
 - SMASH: One-Shot Model Architecture Search through HyperNetworks - [[1708.05344](https://arxiv.org/abs/1708.05344)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.05344.md)].
 - Transitive Invariance for Self-supervised Visual Representation Learning - [[1708.02901](https://arxiv.org/abs/1708.02901)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.02901.md)].
+- Localizing Moments in Video with Natural Language - [[1708.01641](https://arxiv.org/abs/1708.01641)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.01641.md)].
 - CASSL: Curriculum Accelerated Self-Supervised Learning - [[1708.01354](https://arxiv.org/abs/1708.01354)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.01354.md)].
 - Unsupervised Representation Learning by Sorting Sequences - [[1708.01246](https://arxiv.org/abs/1708.01246)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.01246.md)].
 
@@ -4254,16 +4312,20 @@
 - Self-supervised learning of visual features through embedding images   into text topic spaces - [[1705.08631](https://arxiv.org/abs/1705.08631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.08631.md)].
 - Look, Listen and Learn - [[1705.08168](https://arxiv.org/abs/1705.08168)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.08168.md)].
 - Learning how to explain neural networks: PatternNet and   PatternAttribution - [[1705.05598](https://arxiv.org/abs/1705.05598)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.05598.md)].
+- TALL: Temporal Activity Localization via Language Query - [[1705.02101](https://arxiv.org/abs/1705.02101)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.02101.md)].
+- Dense-Captioning Events in Videos - [[1705.00754](https://arxiv.org/abs/1705.00754)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.00754.md)].
 
 ### April 2017
 - DeepArchitect: Automatically Designing and Training Deep Architectures - [[1704.08792](https://arxiv.org/abs/1704.08792)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.08792.md)].
 - Unsupervised Learning of Depth and Ego-Motion from Video - [[1704.07813](https://arxiv.org/abs/1704.07813)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.07813.md)].
 - Learning to Fly by Crashing - [[1704.05588](https://arxiv.org/abs/1704.05588)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.05588.md)].
 - Unsupervised Learning by Predicting Noise - [[1704.05310](https://arxiv.org/abs/1704.05310)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.05310.md)].
+- TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering - [[1704.04497](https://arxiv.org/abs/1704.04497)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.04497.md)].
 - DeepPermNet: Visual Permutation Learning - [[1704.02729](https://arxiv.org/abs/1704.02729)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.02729.md)].
 - Towards Building Large Scale Multimodal Domain-Aware Conversation   Systems - [[1704.00200](https://arxiv.org/abs/1704.00200)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.00200.md)].
 
 ### March 2017
+- Towards Automatic Learning of Procedures from Web Instructional Videos - [[1703.09788](https://arxiv.org/abs/1703.09788)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1703.09788.md)].
 - Where to put the Image in an Image Caption Generator - [[1703.09137](https://arxiv.org/abs/1703.09137)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1703.09137.md)].
 - Mask R-CNN - [[1703.06870](https://arxiv.org/abs/1703.06870)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1703.06870.md)].
 - Combining Self-Supervised Learning and Imitation for Vision-Based Rope   Manipulation - [[1703.02018](https://arxiv.org/abs/1703.02018)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1703.02018.md)].
@@ -4312,6 +4374,7 @@
 ### May 2016
 - Adversarial Feature Learning - [[1605.09782](https://arxiv.org/abs/1605.09782)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1605.09782.md)].
 - An Empirical Study and Analysis of Generalized Zero-Shot Learning for   Object Recognition in the Wild - [[1605.04253](https://arxiv.org/abs/1605.04253)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1605.04253.md)].
+- Movie Description - [[1605.03705](https://arxiv.org/abs/1605.03705)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1605.03705.md)].
 - Not Just a Black Box: Learning Important Features Through Propagating   Activation Differences - [[1605.01713](https://arxiv.org/abs/1605.01713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1605.01713.md)].
 
 ### April 2016
@@ -4334,6 +4397,7 @@
 ### December 2015
 - A Mathematical Theory of Deep Convolutional Neural Networks for Feature   Extraction - [[1512.06293](https://arxiv.org/abs/1512.06293)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1512.06293.md)].
 - Deep Residual Learning for Image Recognition - [[1512.03385](https://arxiv.org/abs/1512.03385)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1512.03385.md)].
+- MovieQA: Understanding Stories in Movies through Question-Answering - [[1512.02902](https://arxiv.org/abs/1512.02902)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1512.02902.md)].
 - Explaining NonLinear Classification Decisions with Deep Taylor   Decomposition - [[1512.02479](https://arxiv.org/abs/1512.02479)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1512.02479.md)].
 
 ### November 2015
@@ -4369,6 +4433,7 @@
 
 ### January 2015
 - Transductive Multi-view Zero-Shot Learning - [[1501.04560](https://arxiv.org/abs/1501.04560)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1501.04560.md)].
+- A Dataset for Movie Description - [[1501.02530](https://arxiv.org/abs/1501.02530)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1501.02530.md)].
 </div></details>
 <details open><summary><strong>2014</strong></summary><div>
 
