@@ -1706,6 +1706,7 @@
 - Pre-training Contextualized World Models with In-the-wild Videos for   Reinforcement Learning - [[2305.18499](https://arxiv.org/abs/2305.18499)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.18499.md)].
 - BigTranslate: Augmenting Large Language Models with Multilingual   Translation Capability over 100 Languages - [[2305.18098](https://arxiv.org/abs/2305.18098)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.18098.md)].
 - Make-An-Audio 2: Temporal-Enhanced Text-to-Audio Generation - [[2305.18474](https://arxiv.org/abs/2305.18474)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.18474.md)].
+- Efficient Storage of Fine-Tuned Models via Low-Rank Approximation of   Weight Residuals - [[2305.18425](https://arxiv.org/abs/2305.18425)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.18425.md)].
 - Geometric Algebra Transformers - [[2305.18415](https://arxiv.org/abs/2305.18415)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.18415.md)].
 - KAFA: Rethinking Image Ad Understanding with Knowledge-Augmented Feature   Adaptation of Vision-Language Models - [[2305.18373](https://arxiv.org/abs/2305.18373)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.18373.md)].
 - Data Minimization at Inference Time - [[2305.17593](https://arxiv.org/abs/2305.17593)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.17593.md)].
