@@ -30,6 +30,7 @@
 - Treating Motion as Option with Output Selection for Unsupervised Video   Object Segmentation - [[2309.14786](https://arxiv.org/abs/2309.14786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14786.md)].
 - QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models - [[2309.14717](https://arxiv.org/abs/2309.14717)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14717.md)].
 - Efficient Post-training Quantization with FP8 Formats - [[2309.14592](https://arxiv.org/abs/2309.14592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14592.md)].
+- CWCL: Cross-Modal Transfer with Continuously Weighted Contrastive Loss - [[2309.14580](https://arxiv.org/abs/2309.14580)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14580.md)].
 - Aligning Large Multimodal Models with Factually Augmented RLHF - [[2309.14525](https://arxiv.org/abs/2309.14525)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14525.md)].
 - DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme   Long Sequence Transformer Models - [[2309.14509](https://arxiv.org/abs/2309.14509)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14509.md)].
 - Extreme Parkour with Legged Robots - [[2309.14341](https://arxiv.org/abs/2309.14341)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14341.md)].
@@ -38,14 +39,18 @@
 - Physics of Language Models: Part 3.2, Knowledge Manipulation - [[2309.14402](https://arxiv.org/abs/2309.14402)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14402.md)].
 - Small-scale proxies for large-scale Transformer training instabilities - [[2309.14322](https://arxiv.org/abs/2309.14322)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14322.md)].
 - Only 5\% Attention Is All You Need: Efficient Long-range Document-level   Neural Machine Translation - [[2309.14174](https://arxiv.org/abs/2309.14174)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14174.md)].
+- May I Ask a Follow-up Question? Understanding the Benefits of   Conversations in Neural Network Explainability - [[2309.13965](https://arxiv.org/abs/2309.13965)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13965.md)].
 - VidChapters-7M: Video Chapters at Scale - [[2309.13952](https://arxiv.org/abs/2309.13952)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13952.md)].
 - Impact of Human-AI Interaction on User Trust and Reliance in AI-Assisted   Qualitative Coding - [[2309.13858](https://arxiv.org/abs/2309.13858)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13858.md)].
 - Evaluating Cognitive Maps and Planning in Large Language Models with   CogEval - [[2309.15129](https://arxiv.org/abs/2309.15129)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15129.md)].
 - Embers of Autoregression: Understanding Large Language Models Through   the Problem They are Trained to Solve - [[2309.13638](https://arxiv.org/abs/2309.13638)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13638.md)].
+- MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM   Adaptation - [[2309.13539](https://arxiv.org/abs/2309.13539)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13539.md)].
 - Attention Is All You Need For Blind Room Volume Estimation - [[2309.13504](https://arxiv.org/abs/2309.13504)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13504.md)].
+- Learning Invariant Representations with a Nonparametric Nadaraya-Watson   Head - [[2309.13377](https://arxiv.org/abs/2309.13377)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13377.md)].
 - MLPST: MLP is All You Need for Spatio-Temporal Prediction - [[2309.13363](https://arxiv.org/abs/2309.13363)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13363.md)].
 - Exploring Large Language Models' Cognitive Moral Development through   Defining Issues Test - [[2309.13356](https://arxiv.org/abs/2309.13356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13356.md)].
 - Calibrating LLM-Based Evaluator - [[2309.13308](https://arxiv.org/abs/2309.13308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13308.md)].
+- Defending Pre-trained Language Models as Few-shot Learners against   Backdoor Attacks - [[2309.13256](https://arxiv.org/abs/2309.13256)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13256.md)].
 - Spatial-frequency channels, shape bias, and adversarial robustness - [[2309.13190](https://arxiv.org/abs/2309.13190)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13190.md)].
 - E(2)-Equivariant Graph Planning for Navigation - [[2309.13043](https://arxiv.org/abs/2309.13043)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13043.md)].
 - MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary   Instance Segmentation - [[2309.13042](https://arxiv.org/abs/2309.13042)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13042.md)].
@@ -290,6 +295,7 @@
 - Towards Universal Image Embeddings: A Large-Scale Dataset and Challenge   for Generic Image Representations - [[2309.01858](https://arxiv.org/abs/2309.01858)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.01858.md)].
 - One Wide Feedforward is All You Need - [[2309.01826](https://arxiv.org/abs/2309.01826)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.01826.md)].
 - Are Emergent Abilities in Large Language Models just In-Context   Learning? - [[2309.01809](https://arxiv.org/abs/2309.01809)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.01809.md)].
+- An Empirical Analysis for Zero-Shot Multi-Label Classification on   COVID-19 CT Scans and Uncurated Reports - [[2309.01740](https://arxiv.org/abs/2309.01740)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.01740.md)].
 - Mask-Attention-Free Transformer for 3D Instance Segmentation - [[2309.01692](https://arxiv.org/abs/2309.01692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.01692.md)].
 - AGG-Net: Attention Guided Gated-convolutional Network for Depth Image   Completion - [[2309.01624](https://arxiv.org/abs/2309.01624)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.01624.md)].
 - Raw Data Is All You Need: Virtual Axle Detector with Enhanced Receptive   Field - [[2309.01574](https://arxiv.org/abs/2309.01574)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.01574.md)].
@@ -2242,6 +2248,7 @@
 - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework   for 3D Object Detection in Bird's-Eye View - [[2303.15083](https://arxiv.org/abs/2303.15083)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15083.md)].
 - Single-subject Multi-contrast MRI Super-resolution via Implicit Neural   Representations - [[2303.15065](https://arxiv.org/abs/2303.15065)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15065.md)].
 - Text is All You Need: Personalizing ASR Models using Controllable Speech   Synthesis - [[2303.14885](https://arxiv.org/abs/2303.14885)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.14885.md)].
+- BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning - [[2303.14773](https://arxiv.org/abs/2303.14773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.14773.md)].
 - Natural Language Reasoning, A Survey - [[2303.14725](https://arxiv.org/abs/2303.14725)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.14725.md)].
 - Learning Versatile 3D Shape Generation with Improved AR Models - [[2303.14700](https://arxiv.org/abs/2303.14700)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.14700.md)].
 - Learning video embedding space with Natural Language Supervision - [[2303.14584](https://arxiv.org/abs/2303.14584)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.14584.md)].
