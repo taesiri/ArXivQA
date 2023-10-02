@@ -3,6 +3,7 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### September 2023
+- The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) - [[2309.17421](https://arxiv.org/abs/2309.17421)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17421.md)].
 - RealFill: Reference-Driven Generation for Authentic Image Completion - [[2309.16668](https://arxiv.org/abs/2309.16668)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16668.md)].
 - DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content   Creation - [[2309.16653](https://arxiv.org/abs/2309.16653)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16653.md)].
 - ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and   Planning - [[2309.16650](https://arxiv.org/abs/2309.16650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16650.md)].
@@ -2312,6 +2313,7 @@
 - Progressively Optimized Local Radiance Fields for Robust View Synthesis - [[2303.13791](https://arxiv.org/abs/2303.13791)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.13791.md)].
 - Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient   Vision Transformers - [[2303.13755](https://arxiv.org/abs/2303.13755)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.13755.md)].
 - Conditional Image-to-Video Generation with Latent Flow Diffusion Models - [[2303.13744](https://arxiv.org/abs/2303.13744)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.13744.md)].
+- How Does Attention Work in Vision Transformers? A Visual Analytics   Attempt - [[2303.13731](https://arxiv.org/abs/2303.13731)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.13731.md)].
 - Rethinking Domain Generalization for Face Anti-spoofing: Separability   and Alignment - [[2303.13662](https://arxiv.org/abs/2303.13662)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.13662.md)].
 - Towards Solving Fuzzy Tasks with Human Feedback: A Retrospective of the   MineRL BASALT 2022 Competition - [[2303.13512](https://arxiv.org/abs/2303.13512)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.13512.md)].
 - Unsupervised Deep Probabilistic Approach for Partial Point Cloud   Registration - [[2303.13290](https://arxiv.org/abs/2303.13290)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.13290.md)].
@@ -3250,6 +3252,7 @@
 - Gaussian Mixture Convolution Networks - [[2202.09153](https://arxiv.org/abs/2202.09153)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.09153.md)].
 - cosFormer: Rethinking Softmax in Attention - [[2202.08791](https://arxiv.org/abs/2202.08791)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.08791.md)].
 - Task-Agnostic Graph Explanations - [[2202.08335](https://arxiv.org/abs/2202.08335)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.08335.md)].
+- Not All Patches are What You Need: Expediting Vision Transformers via   Token Reorganizations - [[2202.07800](https://arxiv.org/abs/2202.07800)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.07800.md)].
 - Don't Lie to Me! Robust and Efficient Explainability with Verified   Perturbation Analysis - [[2202.07728](https://arxiv.org/abs/2202.07728)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.07728.md)].
 - A precortical module for robust CNNs to light variations - [[2202.07432](https://arxiv.org/abs/2202.07432)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.07432.md)].
 - Transformer Memory as a Differentiable Search Index - [[2202.06991](https://arxiv.org/abs/2202.06991)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.06991.md)].
