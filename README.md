@@ -2611,6 +2611,7 @@
 - You Truly Understand What I Need: Intellectual and Friendly Dialogue   Agents grounding Knowledge and Persona - [[2301.02401](https://arxiv.org/abs/2301.02401)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.02401.md)].
 - Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane   Detection - [[2301.02371](https://arxiv.org/abs/2301.02371)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.02371.md)].
 - Robust Dynamic Radiance Fields - [[2301.02239](https://arxiv.org/abs/2301.02239)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.02239.md)].
+- Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers - [[2301.02111](https://arxiv.org/abs/2301.02111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.02111.md)].
 - SPRING: Situated Conversation Agent Pretrained with Multimodal Questions   from Incremental Layout Graph - [[2301.01949](https://arxiv.org/abs/2301.01949)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.01949.md)].
 - GIVL: Improving Geographical Inclusivity of Vision-Language Models with   Pre-Training Methods - [[2301.01893](https://arxiv.org/abs/2301.01893)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.01893.md)].
 - InPars-v2: Large Language Models as Efficient Dataset Generators for   Information Retrieval - [[2301.01820](https://arxiv.org/abs/2301.01820)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.01820.md)].
