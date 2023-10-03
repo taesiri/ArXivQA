@@ -3,12 +3,20 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- DriveGPT4: Interpretable End-to-end Autonomous Driving via Large   Language Model - [[2310.01412](https://arxiv.org/abs/2310.01412)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01412.md)].
 - Conditional Diffusion Distillation - [[2310.01407](https://arxiv.org/abs/2310.01407)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01407.md)].
+- Representation Engineering: A Top-Down Approach to AI Transparency - [[2310.01405](https://arxiv.org/abs/2310.01405)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01405.md)].
+- RA-DIT: Retrieval-Augmented Dual Instruction Tuning - [[2310.01352](https://arxiv.org/abs/2310.01352)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01352.md)].
 - Enable Language Models to Implicitly Learn Self-Improvement From Data - [[2310.00898](https://arxiv.org/abs/2310.00898)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00898.md)].
+- Analyzing and Mitigating Object Hallucination in Large Vision-Language   Models - [[2310.00754](https://arxiv.org/abs/2310.00754)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00754.md)].
+- RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities   of Large Language Models - [[2310.00746](https://arxiv.org/abs/2310.00746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00746.md)].
 
 ### September 2023
 - PixArt-$α$: Fast Training of Diffusion Transformer for   Photorealistic Text-to-Image Synthesis - [[2310.00426](https://arxiv.org/abs/2310.00426)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00426.md)].
+- AutomaTikZ: Text-Guided Synthesis of Scientific Vector Graphics with   TikZ - [[2310.00367](https://arxiv.org/abs/2310.00367)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00367.md)].
 - The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) - [[2309.17421](https://arxiv.org/abs/2309.17421)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17421.md)].
+- Directly Fine-Tuning Diffusion Models on Differentiable Rewards - [[2309.17400](https://arxiv.org/abs/2309.17400)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17400.md)].
+- GAIA-1: A Generative World Model for Autonomous Driving - [[2309.17080](https://arxiv.org/abs/2309.17080)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17080.md)].
 - Demystifying CLIP Data - [[2309.16671](https://arxiv.org/abs/2309.16671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16671.md)].
 - RealFill: Reference-Driven Generation for Authentic Image Completion - [[2309.16668](https://arxiv.org/abs/2309.16668)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16668.md)].
 - DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content   Creation - [[2309.16653](https://arxiv.org/abs/2309.16653)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16653.md)].
@@ -29,6 +37,7 @@
 - Emu: Enhancing Image Generation Models Using Photogenic Needles in a   Haystack - [[2309.15807](https://arxiv.org/abs/2309.15807)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15807.md)].
 - Jointly Training Large Autoregressive Multimodal Models - [[2309.15564](https://arxiv.org/abs/2309.15564)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15564.md)].
 - Finite Scalar Quantization: VQ-VAE Made Simple - [[2309.15505](https://arxiv.org/abs/2309.15505)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15505.md)].
+- Graph Neural Prompting with Large Language Models - [[2309.15427](https://arxiv.org/abs/2309.15427)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15427.md)].
 - NeuRBF: A Neural Fields Representation with Adaptive Radial Basis   Functions - [[2309.15426](https://arxiv.org/abs/2309.15426)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15426.md)].
 - DECO: Dense Estimation of 3D Human-Scene Contact In The Wild - [[2309.15273](https://arxiv.org/abs/2309.15273)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15273.md)].
 - VPA: Fully Test-Time Visual Prompt Adaptation - [[2309.15251](https://arxiv.org/abs/2309.15251)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15251.md)].
@@ -2164,6 +2173,7 @@
 - Towards Better Instruction Following Language Models for Chinese:   Investigating the Impact of Training Data and Evaluation - [[2304.07854](https://arxiv.org/abs/2304.07854)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.07854.md)].
 - Self-collaboration Code Generation via ChatGPT - [[2304.07590](https://arxiv.org/abs/2304.07590)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.07590.md)].
 - Tractable Control for Autoregressive Language Generation - [[2304.07438](https://arxiv.org/abs/2304.07438)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.07438.md)].
+- DINOv2: Learning Robust Visual Features without Supervision - [[2304.07193](https://arxiv.org/abs/2304.07193)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.07193.md)].
 - DCFace: Synthetic Face Generation with Dual Condition Diffusion Model - [[2304.07060](https://arxiv.org/abs/2304.07060)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.07060.md)].
 - Multimodal C4: An Open, Billion-scale Corpus of Images Interleaved with   Text - [[2304.06939](https://arxiv.org/abs/2304.06939)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.06939.md)].
 - RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment - [[2304.06767](https://arxiv.org/abs/2304.06767)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2304.06767.md)].
