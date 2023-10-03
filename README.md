@@ -2,7 +2,12 @@
 
 <details open><summary><strong>2023</strong></summary><div>
 
+### October 2023
+- Conditional Diffusion Distillation - [[2310.01407](https://arxiv.org/abs/2310.01407)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01407.md)].
+- Enable Language Models to Implicitly Learn Self-Improvement From Data - [[2310.00898](https://arxiv.org/abs/2310.00898)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00898.md)].
+
 ### September 2023
+- PixArt-$α$: Fast Training of Diffusion Transformer for   Photorealistic Text-to-Image Synthesis - [[2310.00426](https://arxiv.org/abs/2310.00426)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00426.md)].
 - The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) - [[2309.17421](https://arxiv.org/abs/2309.17421)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17421.md)].
 - Demystifying CLIP Data - [[2309.16671](https://arxiv.org/abs/2309.16671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16671.md)].
 - RealFill: Reference-Driven Generation for Authentic Image Completion - [[2309.16668](https://arxiv.org/abs/2309.16668)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16668.md)].
