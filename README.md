@@ -17,6 +17,7 @@
 - Conditional Diffusion Distillation - [[2310.01407](https://arxiv.org/abs/2310.01407)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01407.md)].
 - Representation Engineering: A Top-Down Approach to AI Transparency - [[2310.01405](https://arxiv.org/abs/2310.01405)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01405.md)].
 - RA-DIT: Retrieval-Augmented Dual Instruction Tuning - [[2310.01352](https://arxiv.org/abs/2310.01352)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01352.md)].
+- Label Supervised LLaMA Finetuning - [[2310.01208](https://arxiv.org/abs/2310.01208)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01208.md)].
 - Enable Language Models to Implicitly Learn Self-Improvement From Data - [[2310.00898](https://arxiv.org/abs/2310.00898)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00898.md)].
 - Analyzing and Mitigating Object Hallucination in Large Vision-Language   Models - [[2310.00754](https://arxiv.org/abs/2310.00754)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00754.md)].
 - RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities   of Large Language Models - [[2310.00746](https://arxiv.org/abs/2310.00746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00746.md)].
