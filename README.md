@@ -1220,6 +1220,7 @@
 - Cumulative Spatial Knowledge Distillation for Vision Transformers - [[2307.08500](https://arxiv.org/abs/2307.08500)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08500.md)].
 - DOT: A Distillation-Oriented Trainer - [[2307.08436](https://arxiv.org/abs/2307.08436)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08436.md)].
 - On the application of Large Language Models for language teaching and   assessment technology - [[2307.08393](https://arxiv.org/abs/2307.08393)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08393.md)].
+- Towards Self-Assembling Artificial Neural Networks through Neural   Developmental Programs - [[2307.08197](https://arxiv.org/abs/2307.08197)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08197.md)].
 - Measuring Faithfulness in Chain-of-Thought Reasoning - [[2307.13702](https://arxiv.org/abs/2307.13702)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.13702.md)].
 - Question Decomposition Improves the Faithfulness of Model-Generated   Reasoning - [[2307.11768](https://arxiv.org/abs/2307.11768)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.11768.md)].
 - Feedback is All You Need: Real-World Reinforcement Learning with   Approximate Physics-Based Models - [[2307.08168](https://arxiv.org/abs/2307.08168)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.08168.md)].
