@@ -3,6 +3,16 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- MathVista: Evaluating Mathematical Reasoning of Foundation Models in   Visual Contexts - [[2310.02255](https://arxiv.org/abs/2310.02255)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02255.md)].
+- MiniGPT-5: Interleaved Vision-and-Language Generation via Generative   Vokens - [[2310.02239](https://arxiv.org/abs/2310.02239)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02239.md)].
+- Think before you speak: Training Language Models With Pause Tokens - [[2310.02226](https://arxiv.org/abs/2310.02226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02226.md)].
+- What do we learn from a large-scale study of pre-trained visual   representations in sim and real environments? - [[2310.02219](https://arxiv.org/abs/2310.02219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02219.md)].
+- Large Language Models Cannot Self-Correct Reasoning Yet - [[2310.01798](https://arxiv.org/abs/2310.01798)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01798.md)].
+- Can large language models provide useful feedback on research papers? A   large-scale empirical analysis - [[2310.01783](https://arxiv.org/abs/2310.01783)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01783.md)].
+- Large Language Models as Analogical Reasoners - [[2310.01714](https://arxiv.org/abs/2310.01714)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01714.md)].
+- ImagenHub: Standardizing the evaluation of conditional image generation   models - [[2310.01596](https://arxiv.org/abs/2310.01596)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01596.md)].
+- SmartPlay : A Benchmark for LLMs as Intelligent Agents - [[2310.01557](https://arxiv.org/abs/2310.01557)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01557.md)].
+- Neutrinos from muon-rich ultra high energy electromagnetic cascades: The   MUNHECA code - [[2310.01510](https://arxiv.org/abs/2310.01510)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01510.md)].
 - DriveGPT4: Interpretable End-to-end Autonomous Driving via Large   Language Model - [[2310.01412](https://arxiv.org/abs/2310.01412)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01412.md)].
 - Conditional Diffusion Distillation - [[2310.01407](https://arxiv.org/abs/2310.01407)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01407.md)].
 - Representation Engineering: A Top-Down Approach to AI Transparency - [[2310.01405](https://arxiv.org/abs/2310.01405)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01405.md)].
@@ -10,6 +20,7 @@
 - Enable Language Models to Implicitly Learn Self-Improvement From Data - [[2310.00898](https://arxiv.org/abs/2310.00898)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00898.md)].
 - Analyzing and Mitigating Object Hallucination in Large Vision-Language   Models - [[2310.00754](https://arxiv.org/abs/2310.00754)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00754.md)].
 - RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities   of Large Language Models - [[2310.00746](https://arxiv.org/abs/2310.00746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00746.md)].
+- FELM: Benchmarking Factuality Evaluation of Large Language Models - [[2310.00741](https://arxiv.org/abs/2310.00741)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00741.md)].
 
 ### September 2023
 - PixArt-$α$: Fast Training of Diffusion Transformer for   Photorealistic Text-to-Image Synthesis - [[2310.00426](https://arxiv.org/abs/2310.00426)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00426.md)].
@@ -45,6 +56,7 @@
 - LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion   Models - [[2309.15103](https://arxiv.org/abs/2309.15103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15103.md)].
 - Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of   Language Models - [[2309.15098](https://arxiv.org/abs/2309.15098)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15098.md)].
 - VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided   Planning - [[2309.15091](https://arxiv.org/abs/2309.15091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15091.md)].
+- Large Language Model Alignment: A Survey - [[2309.15025](https://arxiv.org/abs/2309.15025)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15025.md)].
 - Treating Motion as Option with Output Selection for Unsupervised Video   Object Segmentation - [[2309.14786](https://arxiv.org/abs/2309.14786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14786.md)].
 - QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models - [[2309.14717](https://arxiv.org/abs/2309.14717)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14717.md)].
 - Efficient Post-training Quantization with FP8 Formats - [[2309.14592](https://arxiv.org/abs/2309.14592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.14592.md)].
@@ -67,6 +79,7 @@
 - Learning Invariant Representations with a Nonparametric Nadaraya-Watson   Head - [[2309.13377](https://arxiv.org/abs/2309.13377)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13377.md)].
 - MLPST: MLP is All You Need for Spatio-Temporal Prediction - [[2309.13363](https://arxiv.org/abs/2309.13363)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13363.md)].
 - Exploring Large Language Models' Cognitive Moral Development through   Defining Issues Test - [[2309.13356](https://arxiv.org/abs/2309.13356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13356.md)].
+- Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models   through Logic - [[2309.13339](https://arxiv.org/abs/2309.13339)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13339.md)].
 - Calibrating LLM-Based Evaluator - [[2309.13308](https://arxiv.org/abs/2309.13308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13308.md)].
 - Defending Pre-trained Language Models as Few-shot Learners against   Backdoor Attacks - [[2309.13256](https://arxiv.org/abs/2309.13256)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13256.md)].
 - Spatial-frequency channels, shape bias, and adversarial robustness - [[2309.13190](https://arxiv.org/abs/2309.13190)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.13190.md)].
@@ -1489,6 +1502,7 @@
 - Explore, Establish, Exploit: Red Teaming Language Models from Scratch - [[2306.09442](https://arxiv.org/abs/2306.09442)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09442.md)].
 - Seeing the World through Your Eyes - [[2306.09348](https://arxiv.org/abs/2306.09348)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09348.md)].
 - UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video - [[2306.09349](https://arxiv.org/abs/2306.09349)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09349.md)].
+- Human Preference Score v2: A Solid Benchmark for Evaluating Human   Preferences of Text-to-Image Synthesis - [[2306.09341](https://arxiv.org/abs/2306.09341)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09341.md)].
 - DreamHuman: Animatable 3D Avatars from Text - [[2306.09329](https://arxiv.org/abs/2306.09329)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09329.md)].
 - Language-Guided Music Recommendation for Video via Prompt Analogies - [[2306.09327](https://arxiv.org/abs/2306.09327)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09327.md)].
 - Neural Relighting with Subsurface Scattering by Learning the Radiance   Transfer Gradient - [[2306.09322](https://arxiv.org/abs/2306.09322)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.09322.md)].
@@ -1591,6 +1605,7 @@
 - Designing a Better Asymmetric VQGAN for StableDiffusion - [[2306.04632](https://arxiv.org/abs/2306.04632)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.04632.md)].
 - ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image   Collections - [[2306.04619](https://arxiv.org/abs/2306.04619)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.04619.md)].
 - PromptBench: Towards Evaluating the Robustness of Large Language Models   on Adversarial Prompts - [[2306.04528](https://arxiv.org/abs/2306.04528)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.04528.md)].
+- Improving neural network representations using human similarity   judgments - [[2306.04507](https://arxiv.org/abs/2306.04507)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.04507.md)].
 - Rewarded soups: towards Pareto-optimal alignment by interpolating   weights fine-tuned on diverse rewards - [[2306.04488](https://arxiv.org/abs/2306.04488)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.04488.md)].
 - M$^3$IT: A Large-Scale Dataset towards Multi-Modal Multilingual   Instruction Tuning - [[2306.04387](https://arxiv.org/abs/2306.04387)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.04387.md)].
 - Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for   Pre-training and Benchmarks - [[2306.04362](https://arxiv.org/abs/2306.04362)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.04362.md)].
@@ -2423,6 +2438,7 @@
 - DeltaEdit: Exploring Text-free Training for Text-Driven Image   Manipulation - [[2303.06285](https://arxiv.org/abs/2303.06285)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.06285.md)].
 - Task and Motion Planning with Large Language Models for Object   Rearrangement - [[2303.06247](https://arxiv.org/abs/2303.06247)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.06247.md)].
 - Who's Thinking? A Push for Human-Centered Evaluation of LLMs using the   XAI Playbook - [[2303.06223](https://arxiv.org/abs/2303.06223)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.06223.md)].
+- Overwriting Pretrained Bias with Finetuning Data - [[2303.06167](https://arxiv.org/abs/2303.06167)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.06167.md)].
 - MVImgNet: A Large-scale Dataset of Multi-view Images - [[2303.06042](https://arxiv.org/abs/2303.06042)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.06042.md)].
 - Accountable Textual-Visual Chat Learns to Reject Human Instructions in   Image Re-creation - [[2303.05983](https://arxiv.org/abs/2303.05983)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05983.md)].
 - Structural Multiplane Image: Bridging Neural View Synthesis and 3D   Reconstruction - [[2303.05937](https://arxiv.org/abs/2303.05937)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05937.md)].
