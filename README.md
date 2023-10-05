@@ -7,6 +7,7 @@
 - MiniGPT-5: Interleaved Vision-and-Language Generation via Generative   Vokens - [[2310.02239](https://arxiv.org/abs/2310.02239)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02239.md)].
 - Think before you speak: Training Language Models With Pause Tokens - [[2310.02226](https://arxiv.org/abs/2310.02226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02226.md)].
 - What do we learn from a large-scale study of pre-trained visual   representations in sim and real environments? - [[2310.02219](https://arxiv.org/abs/2310.02219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02219.md)].
+- Language Models Represent Space and Time - [[2310.02207](https://arxiv.org/abs/2310.02207)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02207.md)].
 - Large Language Models Cannot Self-Correct Reasoning Yet - [[2310.01798](https://arxiv.org/abs/2310.01798)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01798.md)].
 - Can large language models provide useful feedback on research papers? A   large-scale empirical analysis - [[2310.01783](https://arxiv.org/abs/2310.01783)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01783.md)].
 - Large Language Models as Analogical Reasoners - [[2310.01714](https://arxiv.org/abs/2310.01714)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01714.md)].
@@ -47,6 +48,7 @@
 - Effective Long-Context Scaling of Foundation Models - [[2309.16039](https://arxiv.org/abs/2309.16039)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16039.md)].
 - Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video   Generation - [[2309.15818](https://arxiv.org/abs/2309.15818)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15818.md)].
 - Emu: Enhancing Image Generation Models Using Photogenic Needles in a   Haystack - [[2309.15807](https://arxiv.org/abs/2309.15807)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15807.md)].
+- Borges and AI - [[2310.01425](https://arxiv.org/abs/2310.01425)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01425.md)].
 - Jointly Training Large Autoregressive Multimodal Models - [[2309.15564](https://arxiv.org/abs/2309.15564)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15564.md)].
 - Finite Scalar Quantization: VQ-VAE Made Simple - [[2309.15505](https://arxiv.org/abs/2309.15505)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15505.md)].
 - Graph Neural Prompting with Large Language Models - [[2309.15427](https://arxiv.org/abs/2309.15427)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.15427.md)].
