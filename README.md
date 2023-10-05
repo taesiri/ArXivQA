@@ -27,6 +27,7 @@
 ### September 2023
 - PixArt-$α$: Fast Training of Diffusion Transformer for   Photorealistic Text-to-Image Synthesis - [[2310.00426](https://arxiv.org/abs/2310.00426)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00426.md)].
 - AutomaTikZ: Text-Guided Synthesis of Scientific Vector Graphics with   TikZ - [[2310.00367](https://arxiv.org/abs/2310.00367)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.00367.md)].
+- Efficient Streaming Language Models with Attention Sinks - [[2309.17453](https://arxiv.org/abs/2309.17453)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17453.md)].
 - The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) - [[2309.17421](https://arxiv.org/abs/2309.17421)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17421.md)].
 - Directly Fine-Tuning Diffusion Models on Differentiable Rewards - [[2309.17400](https://arxiv.org/abs/2309.17400)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17400.md)].
 - GAIA-1: A Generative World Model for Autonomous Driving - [[2309.17080](https://arxiv.org/abs/2309.17080)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17080.md)].
@@ -2634,6 +2635,7 @@
 - Understanding the Role of Human Intuition on Reliance in Human-AI   Decision-Making with Explanations - [[2301.07255](https://arxiv.org/abs/2301.07255)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.07255.md)].
 - Dissociating language and thought in large language models: a cognitive   perspective - [[2301.06627](https://arxiv.org/abs/2301.06627)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.06627.md)].
 - DPE: Disentanglement of Pose and Expression for General Video Portrait   Editing - [[2301.06281](https://arxiv.org/abs/2301.06281)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.06281.md)].
+- Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with   Multimodal Models - [[2301.06267](https://arxiv.org/abs/2301.06267)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.06267.md)].
 - DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets - [[2301.06051](https://arxiv.org/abs/2301.06051)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.06051.md)].
 - TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real   World - [[2301.05880](https://arxiv.org/abs/2301.05880)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.05880.md)].
 - Leveraging Large Language Models to Power Chatbots for Collecting User   Self-Reported Data - [[2301.05843](https://arxiv.org/abs/2301.05843)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2301.05843.md)].
