@@ -1669,6 +1669,7 @@
 - Segment Anything in High Quality - [[2306.01567](https://arxiv.org/abs/2306.01567)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01567.md)].
 - Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object   Detection - [[2306.01438](https://arxiv.org/abs/2306.01438)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01438.md)].
 - An Empirical Study on Challenging Math Problem Solving with GPT-4 - [[2306.01337](https://arxiv.org/abs/2306.01337)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01337.md)].
+- LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning - [[2306.01293](https://arxiv.org/abs/2306.01293)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01293.md)].
 - Responsible Task Automation: Empowering Large Language Models as   Responsible Task Automators - [[2306.01242](https://arxiv.org/abs/2306.01242)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01242.md)].
 - Faster Causal Attention Over Large Sequences Through Sparse Flash   Attention - [[2306.01160](https://arxiv.org/abs/2306.01160)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01160.md)].
 - The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora   with Web Data, and Web Data Only - [[2306.01116](https://arxiv.org/abs/2306.01116)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.01116.md)].
