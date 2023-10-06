@@ -4293,6 +4293,7 @@
 - Sensors, Safety Models and A System-Level Approach to Safe and Scalable   Automated Vehicles - [[2009.03301](https://arxiv.org/abs/2009.03301)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.03301.md)].
 - Sample-Efficient Automated Deep Reinforcement Learning - [[2009.01555](https://arxiv.org/abs/2009.01555)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.01555.md)].
 - Learning to summarize from human feedback - [[2009.01325](https://arxiv.org/abs/2009.01325)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.01325.md)].
+- WaveGrad: Estimating Gradients for Waveform Generation - [[2009.00713](https://arxiv.org/abs/2009.00713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.00713.md)].
 - Neural Architecture Search For Keyword Spotting - [[2009.00165](https://arxiv.org/abs/2009.00165)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.00165.md)].
 
 ### August 2020
@@ -4308,6 +4309,7 @@
 - A Survey of Active Learning for Text Classification using Deep Neural   Networks - [[2008.07267](https://arxiv.org/abs/2008.07267)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2008.07267.md)].
 - Context-aware Feature Generation for Zero-shot Semantic Segmentation - [[2008.06893](https://arxiv.org/abs/2008.06893)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2008.06893.md)].
 - Adaptive Learning of Tensor Network Structures - [[2008.05437](https://arxiv.org/abs/2008.05437)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2008.05437.md)].
+- SpeedySpeech: Efficient Neural Speech Synthesis - [[2008.03802](https://arxiv.org/abs/2008.03802)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2008.03802.md)].
 - Spatiotemporal Contrastive Video Representation Learning - [[2008.03800](https://arxiv.org/abs/2008.03800)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2008.03800.md)].
 - A Boundary Based Out-of-Distribution Classifier for Generalized   Zero-Shot Learning - [[2008.04872](https://arxiv.org/abs/2008.04872)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2008.04872.md)].
 - Self-supervised Video Representation Learning Using Inter-intra   Contrastive Framework - [[2008.02531](https://arxiv.org/abs/2008.02531)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2008.02531.md)].
@@ -4372,6 +4374,7 @@
 - Rethinking the Value of Labels for Improving Class-Imbalanced Learning - [[2006.07529](https://arxiv.org/abs/2006.07529)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2006.07529.md)].
 - Self-Supervised Relational Reasoning for Representation Learning - [[2006.05849](https://arxiv.org/abs/2006.05849)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2006.05849.md)].
 - Contrastive Multi-View Representation Learning on Graphs - [[2006.05582](https://arxiv.org/abs/2006.05582)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2006.05582.md)].
+- FastSpeech 2: Fast and High-Quality End-to-End Text to Speech - [[2006.04558](https://arxiv.org/abs/2006.04558)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2006.04558.md)].
 - Differentiable Neural Input Search for Recommender Systems - [[2006.04466](https://arxiv.org/abs/2006.04466)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2006.04466.md)].
 - CoCon: A Self-Supervised Approach for Controlled Text Generation - [[2006.03535](https://arxiv.org/abs/2006.03535)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2006.03535.md)].
 - M3P: Learning Universal Representations via Multitask Multilingual   Multimodal Pre-training - [[2006.02635](https://arxiv.org/abs/2006.02635)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2006.02635.md)].
@@ -4384,6 +4387,7 @@
 - SCAN: Learning to Classify Images without Labels - [[2005.12320](https://arxiv.org/abs/2005.12320)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.12320.md)].
 - High-Resolution Image Inpainting with Iterative Confidence Feedback and   Guided Upsampling - [[2005.11742](https://arxiv.org/abs/2005.11742)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.11742.md)].
 - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks - [[2005.11401](https://arxiv.org/abs/2005.11401)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.11401.md)].
+- Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment   Search - [[2005.11129](https://arxiv.org/abs/2005.11129)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.11129.md)].
 - Novel Policy Seeking with Constrained Optimization - [[2005.10696](https://arxiv.org/abs/2005.10696)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.10696.md)].
 - Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural   Machine Translation - [[2005.10283](https://arxiv.org/abs/2005.10283)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.10283.md)].
 - Mirror Descent Policy Optimization - [[2005.09814](https://arxiv.org/abs/2005.09814)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.09814.md)].
@@ -4391,6 +4395,7 @@
 - Vector-Quantized Autoregressive Predictive Coding - [[2005.08392](https://arxiv.org/abs/2005.08392)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.08392.md)].
 - Semantic Photo Manipulation with a Generative Image Prior - [[2005.07727](https://arxiv.org/abs/2005.07727)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.07727.md)].
 - Is Your Goal-Oriented Dialog Model Performing Really Well? Empirical   Analysis of System-wise Evaluation - [[2005.07362](https://arxiv.org/abs/2005.07362)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.07362.md)].
+- Multi-band MelGAN: Faster Waveform Generation for High-Quality   Text-to-Speech - [[2005.05106](https://arxiv.org/abs/2005.05106)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.05106.md)].
 - Local Self-Attention over Long Text for Efficient Document Retrieval - [[2005.04908](https://arxiv.org/abs/2005.04908)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.04908.md)].
 - Categorical Stochastic Processes and Likelihood - [[2005.04735](https://arxiv.org/abs/2005.04735)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.04735.md)].
 - Condensed Movies: Story Based Retrieval with Contextual Embeddings - [[2005.04208](https://arxiv.org/abs/2005.04208)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2005.04208.md)].
