@@ -3347,6 +3347,7 @@
 - Contrastive Search Is What You Need For Neural Text Generation - [[2210.14140](https://arxiv.org/abs/2210.14140)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2210.14140.md)].
 - FineD-Eval: Fine-grained Automatic Dialogue-Level Evaluation - [[2210.13832](https://arxiv.org/abs/2210.13832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2210.13832.md)].
 - Dichotomy of Control: Separating What You Can Control from What You   Cannot - [[2210.13435](https://arxiv.org/abs/2210.13435)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2210.13435.md)].
+- Emergent World Representations: Exploring a Sequence Model Trained on a   Synthetic Task - [[2210.13382](https://arxiv.org/abs/2210.13382)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2210.13382.md)].
 - 10 hours data is all you need - [[2210.13067](https://arxiv.org/abs/2210.13067)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2210.13067.md)].
 - DANLI: Deliberative Agent for Following Natural Language Instructions - [[2210.12485](https://arxiv.org/abs/2210.12485)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2210.12485.md)].
 - Towards Efficient Dialogue Pre-training with Transferable and   Interpretable Latent Structure - [[2210.12461](https://arxiv.org/abs/2210.12461)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2210.12461.md)].
