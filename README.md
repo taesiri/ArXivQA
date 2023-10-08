@@ -1712,6 +1712,7 @@
 - Instant Multi-View Head Capture through Learnable Registration - [[2306.07437](https://arxiv.org/abs/2306.07437)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.07437.md)].
 - Controlling Text-to-Image Diffusion by Orthogonal Finetuning - [[2306.07280](https://arxiv.org/abs/2306.07280)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.07280.md)].
 - Scalable 3D Captioning with Pretrained Models - [[2306.07279](https://arxiv.org/abs/2306.07279)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.07279.md)].
+- Zero-shot Composed Text-Image Retrieval - [[2306.07272](https://arxiv.org/abs/2306.07272)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.07272.md)].
 - Retrieval-Enhanced Contrastive Vision-Text Models - [[2306.07196](https://arxiv.org/abs/2306.07196)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.07196.md)].
 - Benchmarking Neural Network Training Algorithms - [[2306.07179](https://arxiv.org/abs/2306.07179)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.07179.md)].
 - Augmenting Language Models with Long-Term Memory - [[2306.07174](https://arxiv.org/abs/2306.07174)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2306.07174.md)].
