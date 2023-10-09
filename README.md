@@ -3,6 +3,7 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective   Augmentation - [[2310.04408](https://arxiv.org/abs/2310.04408)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04408.md)].
 - Improved Baselines with Visual Instruction Tuning - [[2310.03744](https://arxiv.org/abs/2310.03744)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03744.md)].
 - Aligning Text-to-Image Diffusion Models with Reward Backpropagation - [[2310.03739](https://arxiv.org/abs/2310.03739)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03739.md)].
 - Leveraging Unpaired Data for Vision-Language Generative Models via Cycle   Consistency - [[2310.03734](https://arxiv.org/abs/2310.03734)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03734.md)].
@@ -2052,6 +2053,7 @@
 - Conditional Generative Modeling is All You Need for Marked Temporal   Point Processes - [[2305.12569](https://arxiv.org/abs/2305.12569)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.12569.md)].
 - Augmenting Autotelic Agents with Large Language Models - [[2305.12487](https://arxiv.org/abs/2305.12487)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.12487.md)].
 - Advancing Referring Expression Segmentation Beyond Single Image - [[2305.12452](https://arxiv.org/abs/2305.12452)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.12452.md)].
+- Collaborative Development of NLP models - [[2305.12219](https://arxiv.org/abs/2305.12219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.12219.md)].
 - CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code   Authoring - [[2305.12050](https://arxiv.org/abs/2305.12050)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.12050.md)].
 - OPT-R: Exploring the Role of Explanations in Finetuning and Prompting   for Reasoning Skills of Large Language Models - [[2305.12001](https://arxiv.org/abs/2305.12001)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.12001.md)].
 - Exploring the Viability of Synthetic Query Generation for Relevance   Prediction - [[2305.11944](https://arxiv.org/abs/2305.11944)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.11944.md)].
