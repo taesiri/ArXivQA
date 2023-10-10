@@ -5,6 +5,8 @@
 ### October 2023
 - Functional Interpolation for Relative Positions Improves Long Context   Transformers - [[2310.04418](https://arxiv.org/abs/2310.04418)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04418.md)].
 - RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective   Augmentation - [[2310.04408](https://arxiv.org/abs/2310.04408)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04408.md)].
+- Language Agent Tree Search Unifies Reasoning Acting and Planning in   Language Models - [[2310.04406](https://arxiv.org/abs/2310.04406)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04406.md)].
+- Latent Consistency Models: Synthesizing High-Resolution Images with   Few-Step Inference - [[2310.04378](https://arxiv.org/abs/2310.04378)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04378.md)].
 - Towards Foundational Models for Molecular Learning on Large-Scale   Multi-Task Datasets - [[2310.04292](https://arxiv.org/abs/2310.04292)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04292.md)].
 - Improved Baselines with Visual Instruction Tuning - [[2310.03744](https://arxiv.org/abs/2310.03744)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03744.md)].
 - Aligning Text-to-Image Diffusion Models with Reward Backpropagation - [[2310.03739](https://arxiv.org/abs/2310.03739)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03739.md)].
