@@ -2812,6 +2812,7 @@
 - 3D Cinemagraphy from a Single Image - [[2303.05724](https://arxiv.org/abs/2303.05724)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05724.md)].
 - Context-Based Trit-Plane Coding for Progressive Image Compression - [[2303.05715](https://arxiv.org/abs/2303.05715)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05715.md)].
 - Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing   Mistake Severity - [[2303.05689](https://arxiv.org/abs/2303.05689)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05689.md)].
+- Mimic before Reconstruct: Enhancing Masked Autoencoders with Feature   Mimicking - [[2303.05475](https://arxiv.org/abs/2303.05475)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05475.md)].
 - Rethinking Range View Representation for LiDAR Segmentation - [[2303.05367](https://arxiv.org/abs/2303.05367)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05367.md)].
 - 3D Video Loops from Asynchronous Input - [[2303.05312](https://arxiv.org/abs/2303.05312)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05312.md)].
 - From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You   Need - [[2303.05266](https://arxiv.org/abs/2303.05266)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.05266.md)].
@@ -3673,6 +3674,7 @@
 - Learning to Answer Visual Questions from Web Videos - [[2205.05019](https://arxiv.org/abs/2205.05019)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.05019.md)].
 - When does dough become a bagel? Analyzing the remaining mistakes on   ImageNet - [[2205.04596](https://arxiv.org/abs/2205.04596)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.04596.md)].
 - A for-loop is all you need. For solving the inverse problem in the case   of personalized tumor growth modeling - [[2205.04550](https://arxiv.org/abs/2205.04550)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.04550.md)].
+- ConvMAE: Masked Convolution Meets Masked Autoencoders - [[2205.03892](https://arxiv.org/abs/2205.03892)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.03892.md)].
 - Towards a Progression-Aware Autonomous Dialogue Agent - [[2205.03692](https://arxiv.org/abs/2205.03692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.03692.md)].
 - The Unreliability of Explanations in Few-shot Prompting for Textual   Reasoning - [[2205.03401](https://arxiv.org/abs/2205.03401)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.03401.md)].
 - Spiking Graph Convolutional Networks - [[2205.02767](https://arxiv.org/abs/2205.02767)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2205.02767.md)].
