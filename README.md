@@ -3,7 +3,9 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- Functional Interpolation for Relative Positions Improves Long Context   Transformers - [[2310.04418](https://arxiv.org/abs/2310.04418)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04418.md)].
 - RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective   Augmentation - [[2310.04408](https://arxiv.org/abs/2310.04408)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04408.md)].
+- Towards Foundational Models for Molecular Learning on Large-Scale   Multi-Task Datasets - [[2310.04292](https://arxiv.org/abs/2310.04292)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04292.md)].
 - Improved Baselines with Visual Instruction Tuning - [[2310.03744](https://arxiv.org/abs/2310.03744)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03744.md)].
 - Aligning Text-to-Image Diffusion Models with Reward Backpropagation - [[2310.03739](https://arxiv.org/abs/2310.03739)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03739.md)].
 - Leveraging Unpaired Data for Vision-Language Generative Models via Cycle   Consistency - [[2310.03734](https://arxiv.org/abs/2310.03734)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03734.md)].
@@ -49,6 +51,7 @@
 - Efficient Streaming Language Models with Attention Sinks - [[2309.17453](https://arxiv.org/abs/2309.17453)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17453.md)].
 - The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) - [[2309.17421](https://arxiv.org/abs/2309.17421)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17421.md)].
 - Directly Fine-Tuning Diffusion Models on Differentiable Rewards - [[2309.17400](https://arxiv.org/abs/2309.17400)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17400.md)].
+- Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind   Aware GPT-4 - [[2309.17277](https://arxiv.org/abs/2309.17277)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17277.md)].
 - Guiding Instruction-based Image Editing via Multimodal Large Language   Models - [[2309.17102](https://arxiv.org/abs/2309.17102)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17102.md)].
 - GAIA-1: A Generative World Model for Autonomous Driving - [[2309.17080](https://arxiv.org/abs/2309.17080)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.17080.md)].
 - Demystifying CLIP Data - [[2309.16671](https://arxiv.org/abs/2309.16671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2309.16671.md)].
@@ -1993,6 +1996,7 @@
 - Policy Learning based on Deep Koopman Representation - [[2305.15188](https://arxiv.org/abs/2305.15188)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.15188.md)].
 - Semantic-Enhanced Differentiable Search Index Inspired by Learning   Strategies - [[2305.15115](https://arxiv.org/abs/2305.15115)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.15115.md)].
 - Dynamic Masking Rate Schedules for MLM Pretraining - [[2305.15096](https://arxiv.org/abs/2305.15096)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.15096.md)].
+- Cream: Visually-Situated Natural Language Understanding with Contrastive   Reading Model and Frozen Large Language Models - [[2305.15080](https://arxiv.org/abs/2305.15080)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.15080.md)].
 - Is GPT-4 a Good Data Analyst? - [[2305.15038](https://arxiv.org/abs/2305.15038)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.15038.md)].
 - Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large   Language Models - [[2305.15023](https://arxiv.org/abs/2305.15023)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.15023.md)].
 - EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought - [[2305.15021](https://arxiv.org/abs/2305.15021)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.15021.md)].
@@ -3743,6 +3747,7 @@
 - Exploring Visual Prompts for Adapting Large-Scale Models - [[2203.17274](https://arxiv.org/abs/2203.17274)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.17274.md)].
 - A 23 MW data centre is all you need - [[2203.17265](https://arxiv.org/abs/2203.17265)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.17265.md)].
 - R2L: Distilling Neural Radiance Field to Neural Light Field for   Efficient Novel View Synthesis - [[2203.17261](https://arxiv.org/abs/2203.17261)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.17261.md)].
+- Templates for 3D Object Pose Estimation Revisited: Generalization to New   Objects and Robustness to Occlusions - [[2203.17234](https://arxiv.org/abs/2203.17234)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.17234.md)].
 - PromptDet: Towards Open-vocabulary Detection using Uncurated Images - [[2203.16513](https://arxiv.org/abs/2203.16513)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.16513.md)].
 - Causal de Finetti: On the Identification of Invariant Causal Structure   in Exchangeable Data - [[2203.15756](https://arxiv.org/abs/2203.15756)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.15756.md)].
 - Training Compute-Optimal Large Language Models - [[2203.15556](https://arxiv.org/abs/2203.15556)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.15556.md)].
