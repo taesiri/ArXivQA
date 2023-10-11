@@ -1983,6 +1983,7 @@
 - Landmark Attention: Random-Access Infinite Context Length for   Transformers - [[2305.16300](https://arxiv.org/abs/2305.16300)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16300.md)].
 - Voyager: An Open-Ended Embodied Agent with Large Language Models - [[2305.16291](https://arxiv.org/abs/2305.16291)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16291.md)].
 - DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion   Models - [[2305.16381](https://arxiv.org/abs/2305.16381)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16381.md)].
+- Scaling Data-Constrained Language Models - [[2305.16264](https://arxiv.org/abs/2305.16264)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16264.md)].
 - ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with   Variational Score Distillation - [[2305.16213](https://arxiv.org/abs/2305.16213)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16213.md)].
 - Scan and Snap: Understanding Training Dynamics and Token Composition in   1-layer Transformer - [[2305.16380](https://arxiv.org/abs/2305.16380)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16380.md)].
 - ChatBridge: Bridging Modalities with Large Language Model as a Language   Catalyst - [[2305.16103](https://arxiv.org/abs/2305.16103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.16103.md)].
