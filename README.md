@@ -3,8 +3,10 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- Mistral 7B - [[2310.06825](https://arxiv.org/abs/2310.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06825.md)].
 - GraphLLM: Boosting Graph Reasoning Ability of Large Language Model - [[2310.05845](https://arxiv.org/abs/2310.05845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05845.md)].
 - Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation - [[2310.05737](https://arxiv.org/abs/2310.05737)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05737.md)].
+- Walking Down the Memory Maze: Beyond Context Limit through Interactive   Reading - [[2310.05029](https://arxiv.org/abs/2310.05029)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05029.md)].
 - Crystal: Introspective Reasoners Reinforced with Self-Feedback - [[2310.04921](https://arxiv.org/abs/2310.04921)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04921.md)].
 - Functional Interpolation for Relative Positions Improves Long Context   Transformers - [[2310.04418](https://arxiv.org/abs/2310.04418)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04418.md)].
 - RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective   Augmentation - [[2310.04408](https://arxiv.org/abs/2310.04408)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04408.md)].
@@ -21,6 +23,8 @@
 - Agent Instructs Large Language Models to be General Zero-Shot Reasoners - [[2310.03710](https://arxiv.org/abs/2310.03710)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03710.md)].
 - Drag View: Generalizable Novel View Synthesis with Unposed Imagery - [[2310.03704](https://arxiv.org/abs/2310.03704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03704.md)].
 - Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and   Latent Diffusion - [[2310.03502](https://arxiv.org/abs/2310.03502)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03502.md)].
+- Fine-tune Language Models to Approximate Unbiased In-context Learning - [[2310.03331](https://arxiv.org/abs/2310.03331)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03331.md)].
+- LightSeq: Sequence Level Parallelism for Distributed Training of Long   Context Transformers - [[2310.03294](https://arxiv.org/abs/2310.03294)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03294.md)].
 - FreshLLMs: Refreshing Large Language Models with Search Engine   Augmentation - [[2310.03214](https://arxiv.org/abs/2310.03214)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03214.md)].
 - Large Language Model Cascades with Mixture of Thoughts Representations   for Cost-efficient Reasoning - [[2310.03094](https://arxiv.org/abs/2310.03094)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03094.md)].
 - Retrieval meets Long Context Large Language Models - [[2310.03025](https://arxiv.org/abs/2310.03025)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03025.md)].
