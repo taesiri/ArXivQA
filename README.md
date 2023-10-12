@@ -3,7 +3,12 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining - [[2310.07713](https://arxiv.org/abs/2310.07713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07713.md)].
+- Ferret: Refer and Ground Anything Anywhere at Any Granularity - [[2310.07704](https://arxiv.org/abs/2310.07704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07704.md)].
+- Survey on Factuality in Large Language Models: Knowledge, Retrieval and   Domain-Specificity - [[2310.07521](https://arxiv.org/abs/2310.07521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07521.md)].
+- State of the Art on Diffusion Models for Visual Computing - [[2310.07204](https://arxiv.org/abs/2310.07204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07204.md)].
 - Mistral 7B - [[2310.06825](https://arxiv.org/abs/2310.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06825.md)].
+- Learning Interactive Real-World Simulators - [[2310.06114](https://arxiv.org/abs/2310.06114)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06114.md)].
 - GraphLLM: Boosting Graph Reasoning Ability of Large Language Model - [[2310.05845](https://arxiv.org/abs/2310.05845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05845.md)].
 - Are Large Language Models Post Hoc Explainers? - [[2310.05797](https://arxiv.org/abs/2310.05797)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05797.md)].
 - Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation - [[2310.05737](https://arxiv.org/abs/2310.05737)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05737.md)].
@@ -18,6 +23,7 @@
 - Aligning Text-to-Image Diffusion Models with Reward Backpropagation - [[2310.03739](https://arxiv.org/abs/2310.03739)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03739.md)].
 - Leveraging Unpaired Data for Vision-Language Generative Models via Cycle   Consistency - [[2310.03734](https://arxiv.org/abs/2310.03734)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03734.md)].
 - MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical   Reasoning - [[2310.03731](https://arxiv.org/abs/2310.03731)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03731.md)].
+- Stochastic interpolants with data-dependent couplings - [[2310.03725](https://arxiv.org/abs/2310.03725)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03725.md)].
 - HeaP: Hierarchical Policies for Web Actions using LLMs - [[2310.03720](https://arxiv.org/abs/2310.03720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03720.md)].
 - A Long Way to Go: Investigating Length Correlations in RLHF - [[2310.03716](https://arxiv.org/abs/2310.03716)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03716.md)].
 - DSPy: Compiling Declarative Language Model Calls into Self-Improving   Pipelines - [[2310.03714](https://arxiv.org/abs/2310.03714)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03714.md)].
@@ -30,6 +36,7 @@
 - Large Language Model Cascades with Mixture of Thoughts Representations   for Cost-efficient Reasoning - [[2310.03094](https://arxiv.org/abs/2310.03094)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03094.md)].
 - Retrieval meets Long Context Large Language Models - [[2310.03025](https://arxiv.org/abs/2310.03025)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03025.md)].
 - How FaR Are Large Language Models From Agents with Theory-of-Mind? - [[2310.03051](https://arxiv.org/abs/2310.03051)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03051.md)].
+- Who Audits the Auditors? Recommendations from a field scan of the   algorithmic auditing ecosystem - [[2310.02521](https://arxiv.org/abs/2310.02521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02521.md)].
 - EcoAssistant: Using LLM Assistant More Affordably and Accurately - [[2310.03046](https://arxiv.org/abs/2310.03046)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03046.md)].
 - MathVista: Evaluating Mathematical Reasoning of Foundation Models in   Visual Contexts - [[2310.02255](https://arxiv.org/abs/2310.02255)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02255.md)].
 - MiniGPT-5: Interleaved Vision-and-Language Generation via Generative   Vokens - [[2310.02239](https://arxiv.org/abs/2310.02239)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02239.md)].
