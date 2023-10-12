@@ -5,6 +5,7 @@
 ### October 2023
 - Mistral 7B - [[2310.06825](https://arxiv.org/abs/2310.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06825.md)].
 - GraphLLM: Boosting Graph Reasoning Ability of Large Language Model - [[2310.05845](https://arxiv.org/abs/2310.05845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05845.md)].
+- Are Large Language Models Post Hoc Explainers? - [[2310.05797](https://arxiv.org/abs/2310.05797)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05797.md)].
 - Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation - [[2310.05737](https://arxiv.org/abs/2310.05737)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05737.md)].
 - Walking Down the Memory Maze: Beyond Context Limit through Interactive   Reading - [[2310.05029](https://arxiv.org/abs/2310.05029)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05029.md)].
 - Crystal: Introspective Reasoners Reinforced with Self-Feedback - [[2310.04921](https://arxiv.org/abs/2310.04921)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.04921.md)].
