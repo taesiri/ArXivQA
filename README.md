@@ -10,6 +10,7 @@
 - Ferret: Refer and Ground Anything Anywhere at Any Granularity - [[2310.07704](https://arxiv.org/abs/2310.07704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07704.md)].
 - Survey on Factuality in Large Language Models: Knowledge, Retrieval and   Domain-Specificity - [[2310.07521](https://arxiv.org/abs/2310.07521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07521.md)].
 - State of the Art on Diffusion Models for Visual Computing - [[2310.07204](https://arxiv.org/abs/2310.07204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07204.md)].
+- Lemur: Harmonizing Natural Language and Code for Language Agents - [[2310.06830](https://arxiv.org/abs/2310.06830)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06830.md)].
 - Mistral 7B - [[2310.06825](https://arxiv.org/abs/2310.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06825.md)].
 - Learning Interactive Real-World Simulators - [[2310.06114](https://arxiv.org/abs/2310.06114)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06114.md)].
 - GraphLLM: Boosting Graph Reasoning Ability of Large Language Model - [[2310.05845](https://arxiv.org/abs/2310.05845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05845.md)].
