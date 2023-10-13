@@ -3,6 +3,9 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- Prometheus: Inducing Fine-grained Evaluation Capability in Language   Models - [[2310.08491](https://arxiv.org/abs/2310.08491)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08491.md)].
+- EIPE-text: Evaluation-Guided Iterative Plan Extraction for Long-Form   Narrative Text Generation - [[2310.08185](https://arxiv.org/abs/2310.08185)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08185.md)].
+- LangNav: Language as a Perceptual Representation for Navigation - [[2310.07889](https://arxiv.org/abs/2310.07889)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07889.md)].
 - InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining - [[2310.07713](https://arxiv.org/abs/2310.07713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07713.md)].
 - Ferret: Refer and Ground Anything Anywhere at Any Granularity - [[2310.07704](https://arxiv.org/abs/2310.07704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07704.md)].
 - Survey on Factuality in Large Language Models: Knowledge, Retrieval and   Domain-Specificity - [[2310.07521](https://arxiv.org/abs/2310.07521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07521.md)].
@@ -3506,6 +3509,7 @@
 - Combining Efficient and Precise Sign Language Recognition: Good pose   estimation library is all you need - [[2210.00893](https://arxiv.org/abs/2210.00893)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2210.00893.md)].
 - Hiding Visual Information via Obfuscating Adversarial Perturbations - [[2209.15304](https://arxiv.org/abs/2209.15304)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.15304.md)].
 - Learning Transferable Spatiotemporal Representations from Natural Script   Knowledge - [[2209.15280](https://arxiv.org/abs/2209.15280)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.15280.md)].
+- State-specific protein-ligand complex structure prediction with a   multi-scale deep generative model - [[2209.15171](https://arxiv.org/abs/2209.15171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.15171.md)].
 - Compositional Semantic Parsing with Large Language Models - [[2209.15003](https://arxiv.org/abs/2209.15003)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.15003.md)].
 - DreamFusion: Text-to-3D using 2D Diffusion - [[2209.14988](https://arxiv.org/abs/2209.14988)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.14988.md)].
 - EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual   Grounding - [[2209.14941](https://arxiv.org/abs/2209.14941)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2209.14941.md)].
