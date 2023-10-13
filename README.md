@@ -23,6 +23,7 @@
 - Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation - [[2310.05737](https://arxiv.org/abs/2310.05737)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05737.md)].
 - InterroLang: Exploring NLP Models and Datasets through Dialogue-based   Explanations - [[2310.05592](https://arxiv.org/abs/2310.05592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05592.md)].
 - GestSync: Determining who is speaking without a talking head - [[2310.05304](https://arxiv.org/abs/2310.05304)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05304.md)].
+- An Investigation of LLMs' Inefficacy in Understanding Converse Relations - [[2310.05163](https://arxiv.org/abs/2310.05163)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05163.md)].
 - Unleashing the Multilingual Encoder Potential: Boosting Zero-Shot   Performance via Probability Calibration - [[2310.05069](https://arxiv.org/abs/2310.05069)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05069.md)].
 - Video-CSR: Complex Video Digest Creation for Visual-Language Models - [[2310.05060](https://arxiv.org/abs/2310.05060)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05060.md)].
 - Walking Down the Memory Maze: Beyond Context Limit through Interactive   Reading - [[2310.05029](https://arxiv.org/abs/2310.05029)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05029.md)].
