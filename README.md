@@ -14,7 +14,9 @@
 - InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining - [[2310.07713](https://arxiv.org/abs/2310.07713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07713.md)].
 - Ferret: Refer and Ground Anything Anywhere at Any Granularity - [[2310.07704](https://arxiv.org/abs/2310.07704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07704.md)].
 - Survey on Factuality in Large Language Models: Knowledge, Retrieval and   Domain-Specificity - [[2310.07521](https://arxiv.org/abs/2310.07521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07521.md)].
+- Fast-ELECTRA for Efficient Pre-training - [[2310.07347](https://arxiv.org/abs/2310.07347)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07347.md)].
 - State of the Art on Diffusion Models for Visual Computing - [[2310.07204](https://arxiv.org/abs/2310.07204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07204.md)].
+- What Does Stable Diffusion Know about the 3D Scene? - [[2310.06836](https://arxiv.org/abs/2310.06836)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06836.md)].
 - Lemur: Harmonizing Natural Language and Code for Language Agents - [[2310.06830](https://arxiv.org/abs/2310.06830)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06830.md)].
 - Mistral 7B - [[2310.06825](https://arxiv.org/abs/2310.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06825.md)].
 - Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task   Scenarios with Large Language Models - [[2310.06692](https://arxiv.org/abs/2310.06692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06692.md)].
@@ -60,6 +62,7 @@
 - TimeGPT-1 - [[2310.03589](https://arxiv.org/abs/2310.03589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03589.md)].
 - Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and   Latent Diffusion - [[2310.03502](https://arxiv.org/abs/2310.03502)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03502.md)].
 - Fine-tune Language Models to Approximate Unbiased In-context Learning - [[2310.03331](https://arxiv.org/abs/2310.03331)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03331.md)].
+- Benchmarking Large Language Models As AI Research Agents - [[2310.03302](https://arxiv.org/abs/2310.03302)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03302.md)].
 - LightSeq: Sequence Level Parallelism for Distributed Training of Long   Context Transformers - [[2310.03294](https://arxiv.org/abs/2310.03294)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03294.md)].
 - FreshLLMs: Refreshing Large Language Models with Search Engine   Augmentation - [[2310.03214](https://arxiv.org/abs/2310.03214)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03214.md)].
 - Large Language Model Cascades with Mixture of Thoughts Representations   for Cost-efficient Reasoning - [[2310.03094](https://arxiv.org/abs/2310.03094)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03094.md)].
@@ -776,6 +779,7 @@
 - Long-range Multimodal Pretraining for Movie Understanding - [[2308.09775](https://arxiv.org/abs/2308.09775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09775.md)].
 - Smoothness Similarity Regularization for Few-Shot GAN Adaptation - [[2308.09717](https://arxiv.org/abs/2308.09717)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09717.md)].
 - Robust Monocular Depth Estimation under Challenging Conditions - [[2308.09711](https://arxiv.org/abs/2308.09711)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09711.md)].
+- Graph of Thoughts: Solving Elaborate Problems with Large Language Models - [[2308.09687](https://arxiv.org/abs/2308.09687)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09687.md)].
 - Red-Teaming Large Language Models using Chain of Utterances for   Safety-Alignment - [[2308.09662](https://arxiv.org/abs/2308.09662)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09662.md)].
 - Is context all you need? Scaling Neural Sign Language Translation to   Large Domains of Discourse - [[2308.09622](https://arxiv.org/abs/2308.09622)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09622.md)].
 - LaRS: A Diverse Panoptic Maritime Obstacle Detection Dataset and   Benchmark - [[2308.09618](https://arxiv.org/abs/2308.09618)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09618.md)].
@@ -1433,6 +1437,7 @@
 - Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech   Prompts - [[2307.07218](https://arxiv.org/abs/2307.07218)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.07218.md)].
 - Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video   Anomaly Detection - [[2307.07205](https://arxiv.org/abs/2307.07205)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.07205.md)].
 - Learning to Retrieve In-Context Examples for Large Language Models - [[2307.07164](https://arxiv.org/abs/2307.07164)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.07164.md)].
+- Large Language Models Understand and Can be Enhanced by Emotional   Stimuli - [[2307.11760](https://arxiv.org/abs/2307.11760)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.11760.md)].
 - Bootstrapping Vision-Language Learning with Decoupled Language   Pre-training - [[2307.07063](https://arxiv.org/abs/2307.07063)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.07063.md)].
 - DIALGEN: Collaborative Human-LM Generated Dialogues for Improved   Understanding of Human-Human Conversations - [[2307.07047](https://arxiv.org/abs/2307.07047)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.07047.md)].
 - HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image   Models - [[2307.06949](https://arxiv.org/abs/2307.06949)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2307.06949.md)].
@@ -2103,6 +2108,7 @@
 - How Language Model Hallucinations Can Snowball - [[2305.13534](https://arxiv.org/abs/2305.13534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.13534.md)].
 - RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text - [[2305.13304](https://arxiv.org/abs/2305.13304)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.13304.md)].
 - Training Diffusion Models with Reinforcement Learning - [[2305.13301](https://arxiv.org/abs/2305.13301)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.13301.md)].
+- "According to ..." Prompting Language Models Improves Quoting from   Pre-Training Data - [[2305.13252](https://arxiv.org/abs/2305.13252)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.13252.md)].
 - Interactive Natural Language Processing - [[2305.13246](https://arxiv.org/abs/2305.13246)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.13246.md)].
 - LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities   and Future Opportunities - [[2305.13168](https://arxiv.org/abs/2305.13168)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.13168.md)].
 - ControlVideo: Training-free Controllable Text-to-Video Generation - [[2305.13077](https://arxiv.org/abs/2305.13077)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.13077.md)].
