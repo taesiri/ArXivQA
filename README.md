@@ -17,6 +17,7 @@
 - State of the Art on Diffusion Models for Visual Computing - [[2310.07204](https://arxiv.org/abs/2310.07204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07204.md)].
 - Lemur: Harmonizing Natural Language and Code for Language Agents - [[2310.06830](https://arxiv.org/abs/2310.06830)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06830.md)].
 - Mistral 7B - [[2310.06825](https://arxiv.org/abs/2310.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06825.md)].
+- Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task   Scenarios with Large Language Models - [[2310.06692](https://arxiv.org/abs/2310.06692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06692.md)].
 - Learning Interactive Real-World Simulators - [[2310.06114](https://arxiv.org/abs/2310.06114)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06114.md)].
 - GraphLLM: Boosting Graph Reasoning Ability of Large Language Model - [[2310.05845](https://arxiv.org/abs/2310.05845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05845.md)].
 - Are Large Language Models Post Hoc Explainers? - [[2310.05797](https://arxiv.org/abs/2310.05797)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05797.md)].
@@ -56,6 +57,7 @@
 - Agent Instructs Large Language Models to be General Zero-Shot Reasoners - [[2310.03710](https://arxiv.org/abs/2310.03710)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03710.md)].
 - Drag View: Generalizable Novel View Synthesis with Unposed Imagery - [[2310.03704](https://arxiv.org/abs/2310.03704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03704.md)].
 - Fine-tuning Aligned Language Models Compromises Safety, Even When Users   Do Not Intend To! - [[2310.03693](https://arxiv.org/abs/2310.03693)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03693.md)].
+- TimeGPT-1 - [[2310.03589](https://arxiv.org/abs/2310.03589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03589.md)].
 - Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and   Latent Diffusion - [[2310.03502](https://arxiv.org/abs/2310.03502)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03502.md)].
 - Fine-tune Language Models to Approximate Unbiased In-context Learning - [[2310.03331](https://arxiv.org/abs/2310.03331)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03331.md)].
 - LightSeq: Sequence Level Parallelism for Distributed Training of Long   Context Transformers - [[2310.03294](https://arxiv.org/abs/2310.03294)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03294.md)].
@@ -2300,6 +2302,7 @@
 - Large Language Model Programs - [[2305.05364](https://arxiv.org/abs/2305.05364)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.05364.md)].
 - Dialogue Planning via Brownian Bridge Stochastic Process for   Goal-directed Proactive Dialogue - [[2305.05290](https://arxiv.org/abs/2305.05290)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.05290.md)].
 - Distilling Script Knowledge from Large Language Models for Constrained   Language Planning - [[2305.05252](https://arxiv.org/abs/2305.05252)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.05252.md)].
+- StarCoder: may the source be with you! - [[2305.06161](https://arxiv.org/abs/2305.06161)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.06161.md)].
 - SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with   Large Language Models - [[2305.05189](https://arxiv.org/abs/2305.05189)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.05189.md)].
 - FrugalGPT: How to Use Large Language Models While Reducing Cost and   Improving Performance - [[2305.05176](https://arxiv.org/abs/2305.05176)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.05176.md)].
 - Knowledge-enhanced Agents for Interactive Text Games - [[2305.05091](https://arxiv.org/abs/2305.05091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.05091.md)].
@@ -4300,6 +4303,7 @@
 - On the Opportunities and Risks of Foundation Models - [[2108.07258](https://arxiv.org/abs/2108.07258)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.07258.md)].
 - MMChat: Multi-Modal Chat Dataset on Social Media - [[2108.07154](https://arxiv.org/abs/2108.07154)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.07154.md)].
 - FedPara: Low-Rank Hadamard Product for Communication-Efficient Federated   Learning - [[2108.06098](https://arxiv.org/abs/2108.06098)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.06098.md)].
+- The Stability-Efficiency Dilemma: Investigating Sequence Length Warmup   for Training GPT Models - [[2108.06084](https://arxiv.org/abs/2108.06084)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.06084.md)].
 - PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense   Passage Retrieval - [[2108.06027](https://arxiv.org/abs/2108.06027)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.06027.md)].
 - Logit Attenuating Weight Normalization - [[2108.05839](https://arxiv.org/abs/2108.05839)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.05839.md)].
 - Unsupervised Corpus Aware Language Model Pre-training for Dense Passage   Retrieval - [[2108.05540](https://arxiv.org/abs/2108.05540)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.05540.md)].
@@ -4579,6 +4583,7 @@
 <details open><summary><strong>2020</strong></summary><div>
 
 ### December 2020
+- The Pile: An 800GB Dataset of Diverse Text for Language Modeling - [[2101.00027](https://arxiv.org/abs/2101.00027)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2101.00027.md)].
 - Directed Beam Search: Plug-and-Play Lexically Constrained Language   Generation - [[2012.15416](https://arxiv.org/abs/2012.15416)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.15416.md)].
 - Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion   Dialogues via Reinforcement Learning and Human Demonstration - [[2012.15375](https://arxiv.org/abs/2012.15375)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.15375.md)].
 - A Simple Fine-tuning Is All You Need: Towards Robust Deep Learning Via   Adversarial Fine-tuning - [[2012.13628](https://arxiv.org/abs/2012.13628)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2012.13628.md)].
