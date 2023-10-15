@@ -11,19 +11,25 @@
 - MotionDirector: Motion Customization of Text-to-Video Diffusion Models - [[2310.08465](https://arxiv.org/abs/2310.08465)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08465.md)].
 - EIPE-text: Evaluation-Guided Iterative Plan Extraction for Long-Form   Narrative Text Generation - [[2310.08185](https://arxiv.org/abs/2310.08185)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08185.md)].
 - LangNav: Language as a Perceptual Representation for Navigation - [[2310.07889](https://arxiv.org/abs/2310.07889)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07889.md)].
+- Large Language Models Are Zero-Shot Time Series Forecasters - [[2310.07820](https://arxiv.org/abs/2310.07820)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07820.md)].
 - InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining - [[2310.07713](https://arxiv.org/abs/2310.07713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07713.md)].
 - Ferret: Refer and Ground Anything Anywhere at Any Granularity - [[2310.07704](https://arxiv.org/abs/2310.07704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07704.md)].
 - Survey on Factuality in Large Language Models: Knowledge, Retrieval and   Domain-Specificity - [[2310.07521](https://arxiv.org/abs/2310.07521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07521.md)].
 - Fast-ELECTRA for Efficient Pre-training - [[2310.07347](https://arxiv.org/abs/2310.07347)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07347.md)].
+- How Do Large Language Models Capture the Ever-changing World Knowledge?   A Review of Recent Advances - [[2310.07343](https://arxiv.org/abs/2310.07343)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07343.md)].
 - State of the Art on Diffusion Models for Visual Computing - [[2310.07204](https://arxiv.org/abs/2310.07204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07204.md)].
+- Large Language Models can Learn Rules - [[2310.07064](https://arxiv.org/abs/2310.07064)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07064.md)].
+- Violation of Expectation via Metacognitive Prompting Reduces Theory of   Mind Prediction Error in Large Language Models - [[2310.06983](https://arxiv.org/abs/2310.06983)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06983.md)].
 - What Does Stable Diffusion Know about the 3D Scene? - [[2310.06836](https://arxiv.org/abs/2310.06836)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06836.md)].
 - Lemur: Harmonizing Natural Language and Code for Language Agents - [[2310.06830](https://arxiv.org/abs/2310.06830)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06830.md)].
 - Mistral 7B - [[2310.06825](https://arxiv.org/abs/2310.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06825.md)].
 - Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task   Scenarios with Large Language Models - [[2310.06692](https://arxiv.org/abs/2310.06692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06692.md)].
 - Learning Interactive Real-World Simulators - [[2310.06114](https://arxiv.org/abs/2310.06114)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.06114.md)].
+- FireAct: Toward Language Agent Fine-tuning - [[2310.05915](https://arxiv.org/abs/2310.05915)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05915.md)].
 - GraphLLM: Boosting Graph Reasoning Ability of Large Language Model - [[2310.05845](https://arxiv.org/abs/2310.05845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05845.md)].
 - Are Large Language Models Post Hoc Explainers? - [[2310.05797](https://arxiv.org/abs/2310.05797)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05797.md)].
 - Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation - [[2310.05737](https://arxiv.org/abs/2310.05737)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05737.md)].
+- A Survey of Large Language Models for Healthcare: from Data, Technology,   and Applications to Accountability and Ethics - [[2310.05694](https://arxiv.org/abs/2310.05694)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05694.md)].
 - InterroLang: Exploring NLP Models and Datasets through Dialogue-based   Explanations - [[2310.05592](https://arxiv.org/abs/2310.05592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05592.md)].
 - GestSync: Determining who is speaking without a talking head - [[2310.05304](https://arxiv.org/abs/2310.05304)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05304.md)].
 - An Investigation of LLMs' Inefficacy in Understanding Converse Relations - [[2310.05163](https://arxiv.org/abs/2310.05163)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05163.md)].
@@ -75,6 +81,7 @@
 - Think before you speak: Training Language Models With Pause Tokens - [[2310.02226](https://arxiv.org/abs/2310.02226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02226.md)].
 - What do we learn from a large-scale study of pre-trained visual   representations in sim and real environments? - [[2310.02219](https://arxiv.org/abs/2310.02219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02219.md)].
 - Language Models Represent Space and Time - [[2310.02207](https://arxiv.org/abs/2310.02207)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.02207.md)].
+- Ring Attention with Blockwise Transformers for Near-Infinite Context - [[2310.01889](https://arxiv.org/abs/2310.01889)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01889.md)].
 - Large Language Models Cannot Self-Correct Reasoning Yet - [[2310.01798](https://arxiv.org/abs/2310.01798)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01798.md)].
 - Can large language models provide useful feedback on research papers? A   large-scale empirical analysis - [[2310.01783](https://arxiv.org/abs/2310.01783)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01783.md)].
 - ImageNet-OOD: Deciphering Modern Out-of-Distribution Detection   Algorithms - [[2310.01755](https://arxiv.org/abs/2310.01755)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.01755.md)].
