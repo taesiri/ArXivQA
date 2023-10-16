@@ -67,6 +67,7 @@
 - Stochastic interpolants with data-dependent couplings - [[2310.03725](https://arxiv.org/abs/2310.03725)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03725.md)].
 - HeaP: Hierarchical Policies for Web Actions using LLMs - [[2310.03720](https://arxiv.org/abs/2310.03720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03720.md)].
 - A Long Way to Go: Investigating Length Correlations in RLHF - [[2310.03716](https://arxiv.org/abs/2310.03716)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03716.md)].
+- DSPy: Compiling Declarative Language Model Calls into Self-Improving   Pipelines - [[2310.03714](https://arxiv.org/abs/2310.03714)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03714.md)].
 - Agent Instructs Large Language Models to be General Zero-Shot Reasoners - [[2310.03710](https://arxiv.org/abs/2310.03710)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03710.md)].
 - Drag View: Generalizable Novel View Synthesis with Unposed Imagery - [[2310.03704](https://arxiv.org/abs/2310.03704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03704.md)].
 - Fine-tuning Aligned Language Models Compromises Safety, Even When Users   Do Not Intend To! - [[2310.03693](https://arxiv.org/abs/2310.03693)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03693.md)].
