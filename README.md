@@ -3,6 +3,8 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- Table-GPT: Table-tuned GPT for Diverse Table Tasks - [[2310.09263](https://arxiv.org/abs/2310.09263)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.09263.md)].
+- LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models - [[2310.08659](https://arxiv.org/abs/2310.08659)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08659.md)].
 - Octopus: Embodied Vision-Language Programmer from Environmental Feedback - [[2310.08588](https://arxiv.org/abs/2310.08588)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08588.md)].
 - HyperHuman: Hyper-Realistic Human Generation with Latent Structural   Diffusion - [[2310.08579](https://arxiv.org/abs/2310.08579)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08579.md)].
 - Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic   Image Design and Generation - [[2310.08541](https://arxiv.org/abs/2310.08541)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08541.md)].
