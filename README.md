@@ -4,6 +4,10 @@
 
 ### October 2023
 - Table-GPT: Table-tuned GPT for Diverse Table Tasks - [[2310.09263](https://arxiv.org/abs/2310.09263)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.09263.md)].
+- The Consensus Game: Language Model Generation via Equilibrium Search - [[2310.09139](https://arxiv.org/abs/2310.09139)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.09139.md)].
+- CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules - [[2310.08992](https://arxiv.org/abs/2310.08992)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08992.md)].
+- A Zero-Shot Language Agent for Computer Control with Structured   Reflection - [[2310.08740](https://arxiv.org/abs/2310.08740)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08740.md)].
+- Toward Joint Language Modeling for Speech Units and Text - [[2310.08715](https://arxiv.org/abs/2310.08715)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08715.md)].
 - LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models - [[2310.08659](https://arxiv.org/abs/2310.08659)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08659.md)].
 - Octopus: Embodied Vision-Language Programmer from Environmental Feedback - [[2310.08588](https://arxiv.org/abs/2310.08588)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08588.md)].
 - HyperHuman: Hyper-Realistic Human Generation with Latent Structural   Diffusion - [[2310.08579](https://arxiv.org/abs/2310.08579)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08579.md)].
@@ -63,7 +67,6 @@
 - Stochastic interpolants with data-dependent couplings - [[2310.03725](https://arxiv.org/abs/2310.03725)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03725.md)].
 - HeaP: Hierarchical Policies for Web Actions using LLMs - [[2310.03720](https://arxiv.org/abs/2310.03720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03720.md)].
 - A Long Way to Go: Investigating Length Correlations in RLHF - [[2310.03716](https://arxiv.org/abs/2310.03716)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03716.md)].
-- DSPy: Compiling Declarative Language Model Calls into Self-Improving   Pipelines - [[2310.03714](https://arxiv.org/abs/2310.03714)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03714.md)].
 - Agent Instructs Large Language Models to be General Zero-Shot Reasoners - [[2310.03710](https://arxiv.org/abs/2310.03710)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03710.md)].
 - Drag View: Generalizable Novel View Synthesis with Unposed Imagery - [[2310.03704](https://arxiv.org/abs/2310.03704)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03704.md)].
 - Fine-tuning Aligned Language Models Compromises Safety, Even When Users   Do Not Intend To! - [[2310.03693](https://arxiv.org/abs/2310.03693)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03693.md)].
