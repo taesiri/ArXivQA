@@ -4,6 +4,7 @@
 
 ### October 2023
 - Table-GPT: Table-tuned GPT for Diverse Table Tasks - [[2310.09263](https://arxiv.org/abs/2310.09263)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.09263.md)].
+- PaLI-3 Vision Language Models: Smaller, Faster, Stronger - [[2310.09199](https://arxiv.org/abs/2310.09199)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.09199.md)].
 - The Consensus Game: Language Model Generation via Equilibrium Search - [[2310.09139](https://arxiv.org/abs/2310.09139)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.09139.md)].
 - CodeChain: Towards Modular Code Generation Through Chain of   Self-revisions with Representative Sub-modules - [[2310.08992](https://arxiv.org/abs/2310.08992)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08992.md)].
 - A Zero-Shot Language Agent for Computer Control with Structured   Reflection - [[2310.08740](https://arxiv.org/abs/2310.08740)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.08740.md)].
@@ -59,6 +60,7 @@
 - Understanding prompt engineering may not require rethinking   generalization - [[2310.03957](https://arxiv.org/abs/2310.03957)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03957.md)].
 - Hard View Selection for Contrastive Learning - [[2310.03940](https://arxiv.org/abs/2310.03940)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03940.md)].
 - Diffusion Models as Masked Audio-Video Learners - [[2310.03937](https://arxiv.org/abs/2310.03937)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03937.md)].
+- Information Geometry for the Working Information Theorist - [[2310.03884](https://arxiv.org/abs/2310.03884)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03884.md)].
 - Automatic and Human-AI Interactive Text Generation - [[2310.03878](https://arxiv.org/abs/2310.03878)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03878.md)].
 - Improved Baselines with Visual Instruction Tuning - [[2310.03744](https://arxiv.org/abs/2310.03744)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03744.md)].
 - Aligning Text-to-Image Diffusion Models with Reward Backpropagation - [[2310.03739](https://arxiv.org/abs/2310.03739)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.03739.md)].
