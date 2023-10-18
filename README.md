@@ -4036,6 +4036,7 @@
 - ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field - [[2211.13226](https://arxiv.org/abs/2211.13226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.13226.md)].
 - Generalizable Implicit Neural Representations via Instance Pattern   Composers - [[2211.13223](https://arxiv.org/abs/2211.13223)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.13223.md)].
 - SVFormer: Semi-supervised Video Transformer for Action Recognition - [[2211.13222](https://arxiv.org/abs/2211.13222)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.13222.md)].
+- CODA-Prompt: COntinual Decomposed Attention-based Prompting for   Rehearsal-Free Continual Learning - [[2211.13218](https://arxiv.org/abs/2211.13218)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.13218.md)].
 - ReCo: Region-Controlled Text-to-Image Generation - [[2211.15518](https://arxiv.org/abs/2211.15518)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.15518.md)].
 - Inversion-Based Style Transfer with Diffusion Models - [[2211.13203](https://arxiv.org/abs/2211.13203)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.13203.md)].
 - Lite-Mono: A Lightweight CNN and Transformer Architecture for   Self-Supervised Monocular Depth Estimation - [[2211.13202](https://arxiv.org/abs/2211.13202)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2211.13202.md)].
