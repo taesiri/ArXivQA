@@ -118,6 +118,7 @@
 - Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation - [[2310.05737](https://arxiv.org/abs/2310.05737)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05737.md)].
 - A Survey of Large Language Models for Healthcare: from Data, Technology,   and Applications to Accountability and Ethics - [[2310.05694](https://arxiv.org/abs/2310.05694)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05694.md)].
 - InterroLang: Exploring NLP Models and Datasets through Dialogue-based   Explanations - [[2310.05592](https://arxiv.org/abs/2310.05592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05592.md)].
+- SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to   RLHF - [[2310.05344](https://arxiv.org/abs/2310.05344)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05344.md)].
 - GestSync: Determining who is speaking without a talking head - [[2310.05304](https://arxiv.org/abs/2310.05304)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05304.md)].
 - An Investigation of LLMs' Inefficacy in Understanding Converse Relations - [[2310.05163](https://arxiv.org/abs/2310.05163)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05163.md)].
 - Unleashing the Multilingual Encoder Potential: Boosting Zero-Shot   Performance via Probability Calibration - [[2310.05069](https://arxiv.org/abs/2310.05069)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.05069.md)].
