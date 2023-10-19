@@ -3,6 +3,7 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- Self-RAG: Learning to Retrieve, Generate, and Critique through   Self-Reflection - [[2310.11511](https://arxiv.org/abs/2310.11511)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11511.md)].
 - VeRA: Vector-based Random Matrix Adaptation - [[2310.11454](https://arxiv.org/abs/2310.11454)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11454.md)].
 - BitNet: Scaling 1-bit Transformers for Large Language Models - [[2310.11453](https://arxiv.org/abs/2310.11453)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11453.md)].
 - 4K4D: Real-Time 4D View Synthesis at 4K Resolution - [[2310.11448](https://arxiv.org/abs/2310.11448)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11448.md)].
