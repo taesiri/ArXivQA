@@ -3,6 +3,8 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- MusicAgent: An AI Agent for Music Understanding and Generation with   Large Language Models - [[2310.11954](https://arxiv.org/abs/2310.11954)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11954.md)].
+- Progressive3D: Progressively Local Editing for Text-to-3D Content   Creation with Complex Semantic Prompts - [[2310.11784](https://arxiv.org/abs/2310.11784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11784.md)].
 - Self-RAG: Learning to Retrieve, Generate, and Critique through   Self-Reflection - [[2310.11511](https://arxiv.org/abs/2310.11511)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11511.md)].
 - VeRA: Vector-based Random Matrix Adaptation - [[2310.11454](https://arxiv.org/abs/2310.11454)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11454.md)].
 - BitNet: Scaling 1-bit Transformers for Large Language Models - [[2310.11453](https://arxiv.org/abs/2310.11453)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11453.md)].
