@@ -3,8 +3,12 @@
 <details open><summary><strong>2023</strong></summary><div>
 
 ### October 2023
+- AutoMix: Automatically Mixing Language Models - [[2310.12963](https://arxiv.org/abs/2310.12963)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12963.md)].
+- An Emulator for Fine-Tuning Large Language Models using Small Language   Models - [[2310.12962](https://arxiv.org/abs/2310.12962)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12962.md)].
+- 3D-GPT: Procedural 3D Modeling with Large Language Models - [[2310.12945](https://arxiv.org/abs/2310.12945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12945.md)].
 - Eureka: Human-Level Reward Design via Coding Large Language Models - [[2310.12931](https://arxiv.org/abs/2310.12931)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12931.md)].
 - AgentTuning: Enabling Generalized Agent Abilities for LLMs - [[2310.12823](https://arxiv.org/abs/2310.12823)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12823.md)].
+- Safe RLHF: Safe Reinforcement Learning from Human Feedback - [[2310.12773](https://arxiv.org/abs/2310.12773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12773.md)].
 - Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative   Editing - [[2310.12404](https://arxiv.org/abs/2310.12404)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12404.md)].
 - Understanding Retrieval Augmentation for Long-Form Question Answering - [[2310.12150](https://arxiv.org/abs/2310.12150)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12150.md)].
 - MusicAgent: An AI Agent for Music Understanding and Generation with   Large Language Models - [[2310.11954](https://arxiv.org/abs/2310.11954)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11954.md)].
