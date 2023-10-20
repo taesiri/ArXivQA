@@ -2944,6 +2944,7 @@
 - Zero-Shot Composed Image Retrieval with Textual Inversion - [[2303.15247](https://arxiv.org/abs/2303.15247)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15247.md)].
 - SimpleNet: A Simple Network for Image Anomaly Detection and Localization - [[2303.15140](https://arxiv.org/abs/2303.15140)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15140.md)].
 - High-fidelity 3D Human Digitization from Single 2K Resolution Images - [[2303.15108](https://arxiv.org/abs/2303.15108)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15108.md)].
+- Vision Transformer with Quadrangle Attention - [[2303.15105](https://arxiv.org/abs/2303.15105)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15105.md)].
 - Generalizable Local Feature Pre-training for Deformable Shape Analysis - [[2303.15104](https://arxiv.org/abs/2303.15104)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15104.md)].
 - UniDistill: A Universal Cross-Modality Knowledge Distillation Framework   for 3D Object Detection in Bird's-Eye View - [[2303.15083](https://arxiv.org/abs/2303.15083)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15083.md)].
 - Single-subject Multi-contrast MRI Super-resolution via Implicit Neural   Representations - [[2303.15065](https://arxiv.org/abs/2303.15065)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2303.15065.md)].
