@@ -7,9 +7,12 @@
 - An Emulator for Fine-Tuning Large Language Models using Small Language   Models - [[2310.12962](https://arxiv.org/abs/2310.12962)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12962.md)].
 - 3D-GPT: Procedural 3D Modeling with Large Language Models - [[2310.12945](https://arxiv.org/abs/2310.12945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12945.md)].
 - Eureka: Human-Level Reward Design via Coding Large Language Models - [[2310.12931](https://arxiv.org/abs/2310.12931)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12931.md)].
+- Vision-Language Models are Zero-Shot Reward Models for Reinforcement   Learning - [[2310.12921](https://arxiv.org/abs/2310.12921)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12921.md)].
 - AgentTuning: Enabling Generalized Agent Abilities for LLMs - [[2310.12823](https://arxiv.org/abs/2310.12823)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12823.md)].
 - Safe RLHF: Safe Reinforcement Learning from Human Feedback - [[2310.12773](https://arxiv.org/abs/2310.12773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12773.md)].
+- Enhancing High-Resolution 3D Generation through Pixel-wise Gradient   Clipping - [[2310.12474](https://arxiv.org/abs/2310.12474)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12474.md)].
 - Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative   Editing - [[2310.12404](https://arxiv.org/abs/2310.12404)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12404.md)].
+- An Image is Worth Multiple Words: Learning Object Level Concepts using   Multi-Concept Prompt Learning - [[2310.12274](https://arxiv.org/abs/2310.12274)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12274.md)].
 - Understanding Retrieval Augmentation for Long-Form Question Answering - [[2310.12150](https://arxiv.org/abs/2310.12150)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12150.md)].
 - MusicAgent: An AI Agent for Music Understanding and Generation with   Large Language Models - [[2310.11954](https://arxiv.org/abs/2310.11954)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11954.md)].
 - Progressive3D: Progressively Local Editing for Text-to-3D Content   Creation with Complex Semantic Prompts - [[2310.11784](https://arxiv.org/abs/2310.11784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.11784.md)].
