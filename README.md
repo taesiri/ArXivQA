@@ -31,6 +31,7 @@
 - HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending - [[2310.10651](https://arxiv.org/abs/2310.10651)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.10651.md)].
 - Interactive Task Planning with Language Models - [[2310.10645](https://arxiv.org/abs/2310.10645)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.10645.md)].
 - In-Context Pretraining: Language Modeling Beyond Document Boundaries - [[2310.10638](https://arxiv.org/abs/2310.10638)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.10638.md)].
+- OpenAgents: An Open Platform for Language Agents in the Wild - [[2310.10634](https://arxiv.org/abs/2310.10634)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.10634.md)].
 - Llemma: An Open Language Model For Mathematics - [[2310.10631](https://arxiv.org/abs/2310.10631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.10631.md)].
 - Video Language Planning - [[2310.10625](https://arxiv.org/abs/2310.10625)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.10625.md)].
 - Microscaling Data Formats for Deep Learning - [[2310.10537](https://arxiv.org/abs/2310.10537)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.10537.md)].
@@ -118,6 +119,7 @@
 - Survey on Factuality in Large Language Models: Knowledge, Retrieval and   Domain-Specificity - [[2310.07521](https://arxiv.org/abs/2310.07521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07521.md)].
 - Fast-ELECTRA for Efficient Pre-training - [[2310.07347](https://arxiv.org/abs/2310.07347)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07347.md)].
 - How Do Large Language Models Capture the Ever-changing World Knowledge?   A Review of Recent Advances - [[2310.07343](https://arxiv.org/abs/2310.07343)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07343.md)].
+- Beyond Memorization: Violating Privacy Via Inference with Large Language   Models - [[2310.07298](https://arxiv.org/abs/2310.07298)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07298.md)].
 - State of the Art on Diffusion Models for Visual Computing - [[2310.07204](https://arxiv.org/abs/2310.07204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07204.md)].
 - Online Speculative Decoding - [[2310.07177](https://arxiv.org/abs/2310.07177)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07177.md)].
 - Large Language Models can Learn Rules - [[2310.07064](https://arxiv.org/abs/2310.07064)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.07064.md)].
@@ -2292,6 +2294,7 @@
 - SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage   Leveraging Generative Models - [[2305.11840](https://arxiv.org/abs/2305.11840)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.11840.md)].
 - Comparing Software Developers with ChatGPT: An Empirical Investigation - [[2305.11837](https://arxiv.org/abs/2305.11837)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.11837.md)].
 - Pengi: An Audio Language Model for Audio Tasks - [[2305.11834](https://arxiv.org/abs/2305.11834)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.11834.md)].
+- Prompting with Pseudo-Code Instructions - [[2305.11790](https://arxiv.org/abs/2305.11790)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.11790.md)].
 - Cross-Lingual Supervision improves Large Language Models Pre-training - [[2305.11778](https://arxiv.org/abs/2305.11778)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.11778.md)].
 - Neural Foundations of Mental Simulation: Future Prediction of Latent   Representations on Dynamic Scenes - [[2305.11772](https://arxiv.org/abs/2305.11772)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.11772.md)].
 - Controlling the Extraction of Memorized Data from Large Language Models   via Prompt-Tuning - [[2305.11759](https://arxiv.org/abs/2305.11759)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2305.11759.md)].
