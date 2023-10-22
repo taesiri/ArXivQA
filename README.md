@@ -914,6 +914,7 @@
 - VL-PET: Vision-and-Language Parameter-Efficient Tuning via Granularity   Control - [[2308.09804](https://arxiv.org/abs/2308.09804)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09804.md)].
 - Long-range Multimodal Pretraining for Movie Understanding - [[2308.09775](https://arxiv.org/abs/2308.09775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09775.md)].
 - Smoothness Similarity Regularization for Few-Shot GAN Adaptation - [[2308.09717](https://arxiv.org/abs/2308.09717)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09717.md)].
+- Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis - [[2308.09713](https://arxiv.org/abs/2308.09713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09713.md)].
 - Robust Monocular Depth Estimation under Challenging Conditions - [[2308.09711](https://arxiv.org/abs/2308.09711)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09711.md)].
 - Graph of Thoughts: Solving Elaborate Problems with Large Language Models - [[2308.09687](https://arxiv.org/abs/2308.09687)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09687.md)].
 - Red-Teaming Large Language Models using Chain of Utterances for   Safety-Alignment - [[2308.09662](https://arxiv.org/abs/2308.09662)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2308.09662.md)].
