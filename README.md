@@ -6182,6 +6182,7 @@
 - Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic   Imagery - [[1711.09082](https://arxiv.org/abs/1711.09082)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.09082.md)].
 - Contextual-based Image Inpainting: Infer, Match, and Translate - [[1711.08590](https://arxiv.org/abs/1711.08590)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.08590.md)].
 - Improvements to context based self-supervised learning - [[1711.06379](https://arxiv.org/abs/1711.06379)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.06379.md)].
+- Dual-Path Convolutional Image-Text Embeddings with Instance Loss - [[1711.05535](https://arxiv.org/abs/1711.05535)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.05535.md)].
 - Denotational validation of higher-order Bayesian inference - [[1711.03219](https://arxiv.org/abs/1711.03219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.03219.md)].
 - Hierarchical Representations for Efficient Architecture Search - [[1711.00436](https://arxiv.org/abs/1711.00436)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.00436.md)].
 
