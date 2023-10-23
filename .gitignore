@@ -3,3 +3,4 @@ arxiv_qa_repo/
 HEADER.md
 HF/README.md
 .DS_Store
+convert-all.py
