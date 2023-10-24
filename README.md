@@ -1,12 +1,15 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions - [[Arxiv](https://arxiv.org/abs/2310.15171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15171.md)]
 - FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling - [[Arxiv](https://arxiv.org/abs/2310.15169)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15169.md)]
 - DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual
   Design - [[Arxiv](https://arxiv.org/abs/2310.15144)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15144.md)]
 - Branch-Solve-Merge Improves Large Language Model Evaluation and
   Generation - [[Arxiv](https://arxiv.org/abs/2310.15123)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15123.md)]
 - Matryoshka Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.15111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15111.md)]
+- ALCUNA: Large Language Models Meet New Knowledge - [[Arxiv](https://arxiv.org/abs/2310.14820)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.14820.md)]
+- Exploring the Boundaries of GPT-4 in Radiology - [[Arxiv](https://arxiv.org/abs/2310.14573)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.14573.md)]
 - HallusionBench: You See What You Think? Or You Think What You See? An
   Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5,
   and Other Multi-modality Models - [[Arxiv](https://arxiv.org/abs/2310.14566)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.14566.md)]
@@ -36,10 +39,6 @@
   with A* Search - [[Arxiv](https://arxiv.org/abs/2310.13227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13227.md)]
 - Auto-Instruct: Automatic Instruction Generation and Ranking for
   Black-Box Language Models - [[Arxiv](https://arxiv.org/abs/2310.13127)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13127.md)]
-- DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture
-  Propagation - [[Arxiv](https://arxiv.org/abs/2310.13119)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13119.md)]
-- Creative Robot Tool Use with Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.13065)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13065.md)]
-- AutoMix: Automatically Mixing Language Models - [[Arxiv](https://arxiv.org/abs/2310.12963)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12963.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](Papers-2023.md)
