@@ -1,4 +1,5 @@
-
+arxiv_cache_rockdb/
+paper_details_cache/
 arxiv_qa_repo/
 HEADER.md
 HF/README.md
