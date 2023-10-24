@@ -6,6 +6,7 @@
   Design - [[Arxiv](https://arxiv.org/abs/2310.15144)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15144.md)]
 - Branch-Solve-Merge Improves Large Language Model Evaluation and
   Generation - [[Arxiv](https://arxiv.org/abs/2310.15123)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15123.md)]
+- Matryoshka Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.15111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15111.md)]
 - HallusionBench: You See What You Think? Or You Think What You See? An
   Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5,
   and Other Multi-modality Models - [[Arxiv](https://arxiv.org/abs/2310.14566)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.14566.md)]
@@ -13,6 +14,8 @@
 - Ensemble-Instruct: Generating Instruction-Tuning Data with a
   Heterogeneous Mixture of LMs - [[Arxiv](https://arxiv.org/abs/2310.13961)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13961.md)]
 - Specific versus General Principles for Constitutional AI - [[Arxiv](https://arxiv.org/abs/2310.13798)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13798.md)]
+- TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion
+  Models - [[Arxiv](https://arxiv.org/abs/2310.13772)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13772.md)]
 - Localizing and Editing Knowledge in Text-to-Image Generative Models - [[Arxiv](https://arxiv.org/abs/2310.13730)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13730.md)]
 - Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large
   Language Models by Extrapolating Errors from Small Models - [[Arxiv](https://arxiv.org/abs/2310.13671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13671.md)]
@@ -37,9 +40,6 @@
   Propagation - [[Arxiv](https://arxiv.org/abs/2310.13119)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13119.md)]
 - Creative Robot Tool Use with Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.13065)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13065.md)]
 - AutoMix: Automatically Mixing Language Models - [[Arxiv](https://arxiv.org/abs/2310.12963)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12963.md)]
-- An Emulator for Fine-Tuning Large Language Models using Small Language
-  Models - [[Arxiv](https://arxiv.org/abs/2310.12962)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12962.md)]
-- 3D-GPT: Procedural 3D Modeling with Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.12945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.12945.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](Papers-2023.md)
