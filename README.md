@@ -3,6 +3,7 @@
 ## Latest 25 Papers
 - RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions - [[Arxiv](https://arxiv.org/abs/2310.15171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15171.md)]
 - FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling - [[Arxiv](https://arxiv.org/abs/2310.15169)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15169.md)]
+- Large Language Models are Visual Reasoning Coordinators - [[Arxiv](https://arxiv.org/abs/2310.15166)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15166.md)]
 - DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual
   Design - [[Arxiv](https://arxiv.org/abs/2310.15144)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15144.md)]
 - Branch-Solve-Merge Improves Large Language Model Evaluation and
@@ -37,8 +38,6 @@
   Statistics - [[Arxiv](https://arxiv.org/abs/2310.13268)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13268.md)]
 - ToolChain*: Efficient Action Space Navigation in Large Language Models
   with A* Search - [[Arxiv](https://arxiv.org/abs/2310.13227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13227.md)]
-- Auto-Instruct: Automatic Instruction Generation and Ranking for
-  Black-Box Language Models - [[Arxiv](https://arxiv.org/abs/2310.13127)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13127.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](Papers-2023.md)
