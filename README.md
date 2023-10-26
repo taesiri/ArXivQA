@@ -3,6 +3,9 @@
 ## Latest 25 Papers
 - LLM-FP4: 4-Bit Floating-Point Quantized Transformers - [[Arxiv](https://arxiv.org/abs/2310.16836)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16836.md)]
 - LightSpeed: Light and Fast Neural Light Fields on Mobile Devices - [[Arxiv](https://arxiv.org/abs/2310.16832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16832.md)]
+- TD-MPC2: Scalable, Robust World Models for Continuous Control - [[Arxiv](https://arxiv.org/abs/2310.16828)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16828.md)]
+- CommonCanvas: An Open Diffusion Model Trained with Creative-Commons
+  Images - [[Arxiv](https://arxiv.org/abs/2310.16825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16825.md)]
 - DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion
   Prior - [[Arxiv](https://arxiv.org/abs/2310.16818)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16818.md)]
 - QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models - [[Arxiv](https://arxiv.org/abs/2310.16795)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16795.md)]
@@ -11,6 +14,7 @@
 - A Picture is Worth a Thousand Words: Principled Recaptioning Improves
   Image Generation - [[Arxiv](https://arxiv.org/abs/2310.16656)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16656.md)]
 - An Early Evaluation of GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.16534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16534.md)]
+- CLEX: Continuous Length Extrapolation for Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.16450)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16450.md)]
 - TiC-CLIP: Continual Training of CLIP Models - [[Arxiv](https://arxiv.org/abs/2310.16226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16226.md)]
 - Woodpecker: Hallucination Correction for Multimodal Large Language
   Models - [[Arxiv](https://arxiv.org/abs/2310.16045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16045.md)]
@@ -30,9 +34,6 @@
 - Branch-Solve-Merge Improves Large Language Model Evaluation and
   Generation - [[Arxiv](https://arxiv.org/abs/2310.15123)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15123.md)]
 - Matryoshka Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.15111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15111.md)]
-- Wonder3D: Single Image to 3D using Cross-Domain Diffusion - [[Arxiv](https://arxiv.org/abs/2310.15008)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15008.md)]
-- ALCUNA: Large Language Models Meet New Knowledge - [[Arxiv](https://arxiv.org/abs/2310.14820)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.14820.md)]
-- Inject Semantic Concepts into Image Tagging for Open-Set Recognition - [[Arxiv](https://arxiv.org/abs/2310.15200)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15200.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
