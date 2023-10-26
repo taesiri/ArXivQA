@@ -91,11 +91,9 @@ def csv_to_markdown(paper_id, repo_path, arxiv_helper):
         md_file.write("\n".join(markdown_lines))
 
 
-def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md"):
-    paper_details = [
-        (pid, *arxiv_helper.fetch_paper_details(pid))
-        for pid in tqdm(paper_ids, desc="Fetching paper details", ncols=100)
-    ]
+def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md", header_file="HF/HEADER.md", new_readme_file="HF/README.md"):
+    # Fetch and sort the paper details
+    paper_details = [(pid, *arxiv_helper.fetch_paper_details(pid)) for pid in tqdm(paper_ids, desc="Fetching paper details", ncols=100)]
     paper_details.sort(key=lambda x: x[2], reverse=True)  # Sort by publication date
 
     yearly_data = {}
@@ -107,14 +105,14 @@ def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md"):
         md_link = f"https://github.com/taesiri/ArXivQA/blob/main/papers/{paper_id}.md"
         title = title.replace("\n", " ").replace("\r", "")
         line = f"- {title} - [[Arxiv]({arxiv_link})] [[QA]({md_link})]\n"
-
+        
         if year not in yearly_data:
             yearly_data[year] = {"content": [], "months": set()}
-
+        
         if month_name not in yearly_data[year]["months"]:
             yearly_data[year]["content"].append(f"\n### {month_name} {year}\n")
             yearly_data[year]["months"].add(month_name)
-
+        
         yearly_data[year]["content"].append(line)
 
     # Save the yearly markdown files
@@ -122,29 +120,44 @@ def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md"):
         with open(f"Papers-{year}.md", "w") as md_file:
             md_file.writelines(data["content"])
 
-    # Create the main README.md with the desired structure
+    # Create the main README.md content
     main_lines = [
         "# Automated Question Answering with ArXiv Papers\n",
-        "\n## Latest 25 Papers\n",
+        "\n## Latest 25 Papers\n"
     ]
     # Add the latest 25 papers to the main README
     for paper_id, title, _ in paper_details[:25]:
         arxiv_link = f"https://arxiv.org/abs/{paper_id}"
         md_link = f"https://github.com/taesiri/ArXivQA/blob/main/papers/{paper_id}.md"
         main_lines.append(f"- {title} - [[Arxiv]({arxiv_link})] [[QA]({md_link})]\n")
-
+    
     main_lines.append("\n## List of Papers by Year\n")
     for year in sorted(yearly_data.keys(), reverse=True):
-        main_lines.append(f"- [Papers for {year}](Papers-{year}.md)\n")
+        main_lines.append(f"- [Papers for {year}](https://github.com/taesiri/ArXivQA/blob/main/Papers-{year}.md)\n")
 
+
+    # Acknowledgements section with link
     main_lines += [
         "\n## Acknowledgements\n",
         "This project is made possible through the generous support of ",
-        "[Anthropic](https://www.anthropic.com/), who provided free access to the Claude-2.0 API.\n",
+        "[Anthropic](https://www.anthropic.com/), who provided free access to the `Claude-2.0` API.\n"
     ]
 
+    # Write to the original README.md file
     with open(main_output_file, "w") as md_file:
         md_file.writelines(main_lines)
+
+    # Read the header content from HF/HEADER.md
+    with open(header_file, "r") as file:
+        header_content = file.read()
+
+    # Combine header content with main_lines for the new README
+    readme_content = header_content + "\n" + "\n".join(main_lines)
+
+    # Write to the new README.md file in the HF directory
+    with open(new_readme_file, "w") as md_file:
+        md_file.write(readme_content)
+
 
 
 def get_missing_paper_ids_from_cache(paper_ids, cache_db):
