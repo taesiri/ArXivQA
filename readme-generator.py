@@ -92,9 +92,12 @@ def csv_to_markdown(paper_id, repo_path, arxiv_helper):
 
 
 def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md"):
-    paper_details = [(pid, *arxiv_helper.fetch_paper_details(pid)) for pid in tqdm(paper_ids, desc="Fetching paper details", ncols=100)]
+    paper_details = [
+        (pid, *arxiv_helper.fetch_paper_details(pid))
+        for pid in tqdm(paper_ids, desc="Fetching paper details", ncols=100)
+    ]
     paper_details.sort(key=lambda x: x[2], reverse=True)  # Sort by publication date
-    
+
     yearly_data = {}
     for paper_id, title, pub_date in paper_details:
         year = pub_date.strftime("%Y")
@@ -104,14 +107,14 @@ def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md"):
         md_link = f"https://github.com/taesiri/ArXivQA/blob/main/papers/{paper_id}.md"
         title = title.replace("\n", " ").replace("\r", "")
         line = f"- {title} - [[Arxiv]({arxiv_link})] [[QA]({md_link})]\n"
-        
+
         if year not in yearly_data:
             yearly_data[year] = {"content": [], "months": set()}
-        
+
         if month_name not in yearly_data[year]["months"]:
             yearly_data[year]["content"].append(f"\n### {month_name} {year}\n")
             yearly_data[year]["months"].add(month_name)
-        
+
         yearly_data[year]["content"].append(line)
 
     # Save the yearly markdown files
@@ -122,21 +125,26 @@ def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md"):
     # Create the main README.md with the desired structure
     main_lines = [
         "# Automated Question Answering with ArXiv Papers\n",
-        "\n## Latest 25 Papers\n"
+        "\n## Latest 25 Papers\n",
     ]
     # Add the latest 25 papers to the main README
     for paper_id, title, _ in paper_details[:25]:
         arxiv_link = f"https://arxiv.org/abs/{paper_id}"
         md_link = f"https://github.com/taesiri/ArXivQA/blob/main/papers/{paper_id}.md"
         main_lines.append(f"- {title} - [[Arxiv]({arxiv_link})] [[QA]({md_link})]\n")
-    
+
     main_lines.append("\n## List of Papers by Year\n")
     for year in sorted(yearly_data.keys(), reverse=True):
         main_lines.append(f"- [Papers for {year}](Papers-{year}.md)\n")
 
+    main_lines += [
+        "\n## Acknowledgements\n",
+        "This project is made possible through the generous support of ",
+        "[Anthropic](https://www.anthropic.com/), who provided free access to the Claude-2.0 API.\n",
+    ]
+
     with open(main_output_file, "w") as md_file:
         md_file.writelines(main_lines)
-
 
 
 def get_missing_paper_ids_from_cache(paper_ids, cache_db):

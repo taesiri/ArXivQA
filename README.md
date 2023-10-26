@@ -1,6 +1,16 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Woodpecker: Hallucination Correction for Multimodal Large Language
+  Models - [[Arxiv](https://arxiv.org/abs/2310.16045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16045.md)]
+- Dissecting In-Context Learning of Translations in GPTs - [[Arxiv](https://arxiv.org/abs/2310.15987)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15987.md)]
+- In-Context Learning Creates Task Vectors - [[Arxiv](https://arxiv.org/abs/2310.15916)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15916.md)]
+- KITAB: Evaluating LLMs on Constraint Satisfaction for Information
+  Retrieval - [[Arxiv](https://arxiv.org/abs/2310.15511)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15511.md)]
+- TRAMS: Training-free Memory Selection for Long-range Language Modeling - [[Arxiv](https://arxiv.org/abs/2310.15494)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15494.md)]
+- Moral Foundations of Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.15337)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15337.md)]
+- SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial
+  Understanding - [[Arxiv](https://arxiv.org/abs/2310.15308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15308.md)]
 - RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions - [[Arxiv](https://arxiv.org/abs/2310.15171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15171.md)]
 - FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling - [[Arxiv](https://arxiv.org/abs/2310.15169)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15169.md)]
 - Large Language Models are Visual Reasoning Coordinators - [[Arxiv](https://arxiv.org/abs/2310.15166)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15166.md)]
@@ -10,6 +20,7 @@
   Generation - [[Arxiv](https://arxiv.org/abs/2310.15123)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15123.md)]
 - Matryoshka Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.15111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15111.md)]
 - ALCUNA: Large Language Models Meet New Knowledge - [[Arxiv](https://arxiv.org/abs/2310.14820)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.14820.md)]
+- Inject Semantic Concepts into Image Tagging for Open-Set Recognition - [[Arxiv](https://arxiv.org/abs/2310.15200)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15200.md)]
 - Exploring the Boundaries of GPT-4 in Radiology - [[Arxiv](https://arxiv.org/abs/2310.14573)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.14573.md)]
 - HallusionBench: You See What You Think? Or You Think What You See? An
   Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5,
@@ -25,19 +36,6 @@
   Language Models by Extrapolating Errors from Small Models - [[Arxiv](https://arxiv.org/abs/2310.13671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13671.md)]
 - Contrastive Prefence Learning: Learning from Human Feedback without RL - [[Arxiv](https://arxiv.org/abs/2310.13639)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13639.md)]
 - Towards Understanding Sycophancy in Language Models - [[Arxiv](https://arxiv.org/abs/2310.13548)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13548.md)]
-- ScaleLong: Towards More Stable Training of Diffusion Model via Scaling
-  Network Long Skip Connection - [[Arxiv](https://arxiv.org/abs/2310.13545)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13545.md)]
-- Teaching Language Models to Self-Improve through Interactive
-  Demonstrations - [[Arxiv](https://arxiv.org/abs/2310.13522)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13522.md)]
-- Tuna: Instruction Tuning using Feedback from Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.13385)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13385.md)]
-- SILC: Improving Vision Language Pretraining with Self-Distillation - [[Arxiv](https://arxiv.org/abs/2310.13355)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13355.md)]
-- Democratizing Reasoning Ability: Tailored Learning from Large Language
-  Model - [[Arxiv](https://arxiv.org/abs/2310.13332)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13332.md)]
-- SALMONN: Towards Generic Hearing Abilities for Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.13289)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13289.md)]
-- DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model
-  Statistics - [[Arxiv](https://arxiv.org/abs/2310.13268)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13268.md)]
-- ToolChain*: Efficient Action Space Navigation in Large Language Models
-  with A* Search - [[Arxiv](https://arxiv.org/abs/2310.13227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.13227.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](Papers-2023.md)
@@ -54,3 +52,6 @@
 - [Papers for 2012](Papers-2012.md)
 - [Papers for 2010](Papers-2010.md)
 - [Papers for 2009](Papers-2009.md)
+
+## Acknowledgements
+This project is made possible through the generous support of [Anthropic](https://www.anthropic.com/), who provided free access to the Claude-2.0 API.
