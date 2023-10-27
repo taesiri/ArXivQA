@@ -1,6 +1,10 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- JudgeLM: Fine-tuned Large Language Models are Scalable Judges - [[Arxiv](https://arxiv.org/abs/2310.17631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17631.md)]
+- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time - [[Arxiv](https://arxiv.org/abs/2310.17157)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17157.md)]
+- HyperFields: Towards Zero-Shot Generation of NeRFs from Text - [[Arxiv](https://arxiv.org/abs/2310.17075)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17075.md)]
+- Controlled Decoding from Language Models - [[Arxiv](https://arxiv.org/abs/2310.17022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17022.md)]
 - LLM-FP4: 4-Bit Floating-Point Quantized Transformers - [[Arxiv](https://arxiv.org/abs/2310.16836)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16836.md)]
 - LightSpeed: Light and Fast Neural Light Fields on Mobile Devices - [[Arxiv](https://arxiv.org/abs/2310.16832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16832.md)]
 - TD-MPC2: Scalable, Robust World Models for Continuous Control - [[Arxiv](https://arxiv.org/abs/2310.16828)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16828.md)]
@@ -28,12 +32,6 @@
   Understanding - [[Arxiv](https://arxiv.org/abs/2310.15308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15308.md)]
 - RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions - [[Arxiv](https://arxiv.org/abs/2310.15171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15171.md)]
 - FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling - [[Arxiv](https://arxiv.org/abs/2310.15169)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15169.md)]
-- Large Language Models are Visual Reasoning Coordinators - [[Arxiv](https://arxiv.org/abs/2310.15166)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15166.md)]
-- DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual
-  Design - [[Arxiv](https://arxiv.org/abs/2310.15144)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15144.md)]
-- Branch-Solve-Merge Improves Large Language Model Evaluation and
-  Generation - [[Arxiv](https://arxiv.org/abs/2310.15123)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15123.md)]
-- Matryoshka Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.15111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15111.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
