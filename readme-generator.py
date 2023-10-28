@@ -79,6 +79,8 @@ def csv_to_markdown(paper_id, repo_path, arxiv_helper):
 
     df = pd.read_csv(df_path)
     paper_title, _ = arxiv_helper.fetch_paper_details(paper_id)
+    # remove new lines from title
+    paper_title =  paper_title.replace("\n", " ").replace("\r", "")
 
     markdown_lines = [f"# [{paper_title}](https://arxiv.org/abs/{paper_id})"]
     for _, row in df.iterrows():
