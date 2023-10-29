@@ -112,6 +112,7 @@
 - Efficient Transformers: A Survey - [[Arxiv](https://arxiv.org/abs/2009.06732)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.06732.md)]
 - Enhancing Unsupervised Video Representation Learning by Decoupling the   Scene and the Motion - [[Arxiv](https://arxiv.org/abs/2009.05757)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.05757.md)]
 - Understanding the Role of Individual Units in a Deep Neural Network - [[Arxiv](https://arxiv.org/abs/2009.05041)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.05041.md)]
+- Generative Language Modeling for Automated Theorem Proving - [[Arxiv](https://arxiv.org/abs/2009.03393)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.03393.md)]
 - Measuring Massive Multitask Language Understanding - [[Arxiv](https://arxiv.org/abs/2009.03300)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.03300.md)]
 - Sensors, Safety Models and A System-Level Approach to Safe and Scalable   Automated Vehicles - [[Arxiv](https://arxiv.org/abs/2009.03301)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.03301.md)]
 - Sample-Efficient Automated Deep Reinforcement Learning - [[Arxiv](https://arxiv.org/abs/2009.01555)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.01555.md)]
