@@ -22,6 +22,7 @@
 - TiC-CLIP: Continual Training of CLIP Models - [[Arxiv](https://arxiv.org/abs/2310.16226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16226.md)]
 - Woodpecker: Hallucination Correction for Multimodal Large Language
   Models - [[Arxiv](https://arxiv.org/abs/2310.16045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16045.md)]
+- What's Left? Concept Grounding with Logic-Enhanced Foundation Models - [[Arxiv](https://arxiv.org/abs/2310.16035)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16035.md)]
 - Dissecting In-Context Learning of Translations in GPTs - [[Arxiv](https://arxiv.org/abs/2310.15987)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15987.md)]
 - In-Context Learning Creates Task Vectors - [[Arxiv](https://arxiv.org/abs/2310.15916)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15916.md)]
 - KITAB: Evaluating LLMs on Constraint Satisfaction for Information
@@ -31,7 +32,6 @@
 - SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial
   Understanding - [[Arxiv](https://arxiv.org/abs/2310.15308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15308.md)]
 - RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions - [[Arxiv](https://arxiv.org/abs/2310.15171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15171.md)]
-- FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling - [[Arxiv](https://arxiv.org/abs/2310.15169)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15169.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
