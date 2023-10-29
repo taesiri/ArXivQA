@@ -5,6 +5,7 @@
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time - [[Arxiv](https://arxiv.org/abs/2310.17157)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17157.md)]
 - HyperFields: Towards Zero-Shot Generation of NeRFs from Text - [[Arxiv](https://arxiv.org/abs/2310.17075)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17075.md)]
 - Controlled Decoding from Language Models - [[Arxiv](https://arxiv.org/abs/2310.17022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17022.md)]
+- Zephyr: Direct Distillation of LM Alignment - [[Arxiv](https://arxiv.org/abs/2310.16944)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16944.md)]
 - LLM-FP4: 4-Bit Floating-Point Quantized Transformers - [[Arxiv](https://arxiv.org/abs/2310.16836)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16836.md)]
 - LightSpeed: Light and Fast Neural Light Fields on Mobile Devices - [[Arxiv](https://arxiv.org/abs/2310.16832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16832.md)]
 - TD-MPC2: Scalable, Robust World Models for Continuous Control - [[Arxiv](https://arxiv.org/abs/2310.16828)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16828.md)]
@@ -31,7 +32,6 @@
 - Moral Foundations of Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.15337)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15337.md)]
 - SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial
   Understanding - [[Arxiv](https://arxiv.org/abs/2310.15308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15308.md)]
-- RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions - [[Arxiv](https://arxiv.org/abs/2310.15171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15171.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
