@@ -1,7 +1,18 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- FP8-LM: Training FP8 Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.18313)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.18313.md)]
+- Personas as a Way to Model Truthfulness in Language Models - [[Arxiv](https://arxiv.org/abs/2310.18168)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.18168.md)]
+- ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image - [[Arxiv](https://arxiv.org/abs/2310.17994)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17994.md)]
+- Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D
+  Scene Representations - [[Arxiv](https://arxiv.org/abs/2310.17880)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17880.md)]
+- ControlLLM: Augment Language Models with Tools by Searching on Graphs - [[Arxiv](https://arxiv.org/abs/2310.17796)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17796.md)]
+- PockEngine: Sparse and Efficient Fine-tuning in a Pocket - [[Arxiv](https://arxiv.org/abs/2310.17752)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17752.md)]
+- A Framework for Automated Measurement of Responsible AI Harms in
+  Generative AI Applications - [[Arxiv](https://arxiv.org/abs/2310.17750)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17750.md)]
+- Large Language Models as Generalizable Policies for Embodied Tasks - [[Arxiv](https://arxiv.org/abs/2310.17722)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17722.md)]
 - JudgeLM: Fine-tuned Large Language Models are Scalable Judges - [[Arxiv](https://arxiv.org/abs/2310.17631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17631.md)]
+- CodeFusion: A Pre-trained Diffusion Model for Code Generation - [[Arxiv](https://arxiv.org/abs/2310.17680)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17680.md)]
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time - [[Arxiv](https://arxiv.org/abs/2310.17157)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17157.md)]
 - HyperFields: Towards Zero-Shot Generation of NeRFs from Text - [[Arxiv](https://arxiv.org/abs/2310.17075)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17075.md)]
 - Controlled Decoding from Language Models - [[Arxiv](https://arxiv.org/abs/2310.17022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17022.md)]
@@ -20,18 +31,6 @@
   Image Generation - [[Arxiv](https://arxiv.org/abs/2310.16656)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16656.md)]
 - An Early Evaluation of GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.16534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16534.md)]
 - CLEX: Continuous Length Extrapolation for Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.16450)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16450.md)]
-- TiC-CLIP: Continual Training of CLIP Models - [[Arxiv](https://arxiv.org/abs/2310.16226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16226.md)]
-- Woodpecker: Hallucination Correction for Multimodal Large Language
-  Models - [[Arxiv](https://arxiv.org/abs/2310.16045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16045.md)]
-- What's Left? Concept Grounding with Logic-Enhanced Foundation Models - [[Arxiv](https://arxiv.org/abs/2310.16035)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16035.md)]
-- Dissecting In-Context Learning of Translations in GPTs - [[Arxiv](https://arxiv.org/abs/2310.15987)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15987.md)]
-- In-Context Learning Creates Task Vectors - [[Arxiv](https://arxiv.org/abs/2310.15916)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15916.md)]
-- KITAB: Evaluating LLMs on Constraint Satisfaction for Information
-  Retrieval - [[Arxiv](https://arxiv.org/abs/2310.15511)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15511.md)]
-- TRAMS: Training-free Memory Selection for Long-range Language Modeling - [[Arxiv](https://arxiv.org/abs/2310.15494)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15494.md)]
-- Moral Foundations of Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.15337)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15337.md)]
-- SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial
-  Understanding - [[Arxiv](https://arxiv.org/abs/2310.15308)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.15308.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
