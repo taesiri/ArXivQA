@@ -1,6 +1,11 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- MM-VID: Advancing Video Understanding with GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.19773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19773.md)]
+- TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language
+  Modeling Likewise - [[Arxiv](https://arxiv.org/abs/2310.19019)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19019.md)]
+- Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive
+  Learning for Code Generation - [[Arxiv](https://arxiv.org/abs/2310.18628)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.18628.md)]
 - FP8-LM: Training FP8 Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.18313)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.18313.md)]
 - Personas as a Way to Model Truthfulness in Language Models - [[Arxiv](https://arxiv.org/abs/2310.18168)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.18168.md)]
 - ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image - [[Arxiv](https://arxiv.org/abs/2310.17994)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17994.md)]
@@ -27,10 +32,6 @@
 - QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models - [[Arxiv](https://arxiv.org/abs/2310.16795)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16795.md)]
 - Detecting Pretraining Data from Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.16789)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16789.md)]
 - ConvNets Match Vision Transformers at Scale - [[Arxiv](https://arxiv.org/abs/2310.16764)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16764.md)]
-- A Picture is Worth a Thousand Words: Principled Recaptioning Improves
-  Image Generation - [[Arxiv](https://arxiv.org/abs/2310.16656)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16656.md)]
-- An Early Evaluation of GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.16534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16534.md)]
-- CLEX: Continuous Length Extrapolation for Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.16450)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16450.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
