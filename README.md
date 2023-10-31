@@ -1,7 +1,15 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- CustomNet: Zero-shot Object Customization with Variable-Viewpoints in
+  Text-to-Image Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.19784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19784.md)]
 - MM-VID: Advancing Video Understanding with GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.19773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19773.md)]
+- VideoCrafter1: Open Diffusion Models for High-Quality Video Generation - [[Arxiv](https://arxiv.org/abs/2310.19512)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19512.md)]
+- Text-to-3D with classifier score distillation - [[Arxiv](https://arxiv.org/abs/2310.19415)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19415.md)]
+- Skywork: A More Open Bilingual Foundation Model - [[Arxiv](https://arxiv.org/abs/2310.19341)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19341.md)]
+- Atom: Low-bit Quantization for Efficient and Accurate LLM Serving - [[Arxiv](https://arxiv.org/abs/2310.19102)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19102.md)]
+- Multimodal ChatGPT for Medical Applications: an Experimental Study of
+  GPT-4V - [[Arxiv](https://arxiv.org/abs/2310.19061)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19061.md)]
 - TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language
   Modeling Likewise - [[Arxiv](https://arxiv.org/abs/2310.19019)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19019.md)]
 - Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive
@@ -24,14 +32,6 @@
 - Zephyr: Direct Distillation of LM Alignment - [[Arxiv](https://arxiv.org/abs/2310.16944)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16944.md)]
 - LLM-FP4: 4-Bit Floating-Point Quantized Transformers - [[Arxiv](https://arxiv.org/abs/2310.16836)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16836.md)]
 - LightSpeed: Light and Fast Neural Light Fields on Mobile Devices - [[Arxiv](https://arxiv.org/abs/2310.16832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16832.md)]
-- TD-MPC2: Scalable, Robust World Models for Continuous Control - [[Arxiv](https://arxiv.org/abs/2310.16828)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16828.md)]
-- CommonCanvas: An Open Diffusion Model Trained with Creative-Commons
-  Images - [[Arxiv](https://arxiv.org/abs/2310.16825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16825.md)]
-- DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion
-  Prior - [[Arxiv](https://arxiv.org/abs/2310.16818)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16818.md)]
-- QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models - [[Arxiv](https://arxiv.org/abs/2310.16795)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16795.md)]
-- Detecting Pretraining Data from Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.16789)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16789.md)]
-- ConvNets Match Vision Transformers at Scale - [[Arxiv](https://arxiv.org/abs/2310.16764)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16764.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
