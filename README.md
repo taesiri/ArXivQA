@@ -1,6 +1,19 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- What's In My Big Data? - [[Arxiv](https://arxiv.org/abs/2310.20707)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20707.md)]
+- SEINE: Short-to-Long Video Diffusion Model for Generative Transition and
+  Prediction - [[Arxiv](https://arxiv.org/abs/2310.20700)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20700.md)]
+- Learning From Mistakes Makes LLM Better Reasoner - [[Arxiv](https://arxiv.org/abs/2310.20689)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20689.md)]
+- LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B - [[Arxiv](https://arxiv.org/abs/2310.20624)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20624.md)]
+- CapsFusion: Rethinking Image-Text Data at Scale - [[Arxiv](https://arxiv.org/abs/2310.20550)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20550.md)]
+- Leveraging Word Guessing Games to Assess the Intelligence of Large
+  Language Models - [[Arxiv](https://arxiv.org/abs/2310.20499)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20499.md)]
+- Beyond U: Making Diffusion Models Faster &amp; Lighter - [[Arxiv](https://arxiv.org/abs/2310.20092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20092.md)]
+- The Impact of Depth and Width on Transformer Language Model
+  Generalization - [[Arxiv](https://arxiv.org/abs/2310.19956)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19956.md)]
+- Battle of the Backbones: A Large-Scale Comparison of Pretrained Models
+  across Computer Vision Tasks - [[Arxiv](https://arxiv.org/abs/2310.19909)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19909.md)]
 - CustomNet: Zero-shot Object Customization with Variable-Viewpoints in
   Text-to-Image Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.19784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19784.md)]
 - MM-VID: Advancing Video Understanding with GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.19773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19773.md)]
@@ -23,15 +36,6 @@
 - PockEngine: Sparse and Efficient Fine-tuning in a Pocket - [[Arxiv](https://arxiv.org/abs/2310.17752)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17752.md)]
 - A Framework for Automated Measurement of Responsible AI Harms in
   Generative AI Applications - [[Arxiv](https://arxiv.org/abs/2310.17750)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17750.md)]
-- Large Language Models as Generalizable Policies for Embodied Tasks - [[Arxiv](https://arxiv.org/abs/2310.17722)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17722.md)]
-- JudgeLM: Fine-tuned Large Language Models are Scalable Judges - [[Arxiv](https://arxiv.org/abs/2310.17631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17631.md)]
-- CodeFusion: A Pre-trained Diffusion Model for Code Generation - [[Arxiv](https://arxiv.org/abs/2310.17680)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17680.md)]
-- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time - [[Arxiv](https://arxiv.org/abs/2310.17157)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17157.md)]
-- HyperFields: Towards Zero-Shot Generation of NeRFs from Text - [[Arxiv](https://arxiv.org/abs/2310.17075)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17075.md)]
-- Controlled Decoding from Language Models - [[Arxiv](https://arxiv.org/abs/2310.17022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17022.md)]
-- Zephyr: Direct Distillation of LM Alignment - [[Arxiv](https://arxiv.org/abs/2310.16944)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16944.md)]
-- LLM-FP4: 4-Bit Floating-Point Quantized Transformers - [[Arxiv](https://arxiv.org/abs/2310.16836)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16836.md)]
-- LightSpeed: Light and Fast Neural Light Fields on Mobile Devices - [[Arxiv](https://arxiv.org/abs/2310.16832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.16832.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
