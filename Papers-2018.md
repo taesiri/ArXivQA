@@ -58,6 +58,7 @@
 - Representation Learning with Contrastive Predictive Coding - [[Arxiv](https://arxiv.org/abs/1807.03748)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.03748.md)]
 - Talk the Walk: Navigating New York City through Grounded Dialogue - [[Arxiv](https://arxiv.org/abs/1807.03367)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.03367.md)]
 - A Tutorial on Bayesian Optimization - [[Arxiv](https://arxiv.org/abs/1807.02811)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.02811.md)]
+- Seq2RDF: An end-to-end application for deriving Triples from Natural   Language Text - [[Arxiv](https://arxiv.org/abs/1807.01763)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.01763.md)]
 
 ### June 2018
 - A Benchmark for Interpretability Methods in Deep Neural Networks - [[Arxiv](https://arxiv.org/abs/1806.10758)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.10758.md)]
