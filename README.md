@@ -1,6 +1,20 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- De-Diffusion Makes Text a Strong Cross-Modal Interface - [[Arxiv](https://arxiv.org/abs/2311.00618)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00618.md)]
+- Controllable Music Production with Diffusion Models and Guidance
+  Gradients - [[Arxiv](https://arxiv.org/abs/2311.00613)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00613.md)]
+- LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation,
+  Generation and Editing - [[Arxiv](https://arxiv.org/abs/2311.00571)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00571.md)]
+- Text Rendering Strategies for Pixel Language Models - [[Arxiv](https://arxiv.org/abs/2311.00522)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00522.md)]
+- Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo
+  Labelling - [[Arxiv](https://arxiv.org/abs/2311.00430)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00430.md)]
+- ChatCoder: Chat-based Refine Requirement Improves LLMs' Code Generation - [[Arxiv](https://arxiv.org/abs/2311.00272)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00272.md)]
+- AMSP: Super-Scaling LLM Training via Advanced Model States Partitioning - [[Arxiv](https://arxiv.org/abs/2311.00257)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00257.md)]
+- ChipNeMo: Domain-Adapted LLMs for Chip Design - [[Arxiv](https://arxiv.org/abs/2311.00176)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00176.md)]
+- The Generative AI Paradox: "What It Can Create, It May Not Understand" - [[Arxiv](https://arxiv.org/abs/2311.00059)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00059.md)]
+- Grounding Visual Illusions in Language: Do Vision-Language Models
+  Perceive Illusions Like Humans? - [[Arxiv](https://arxiv.org/abs/2311.00047)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00047.md)]
 - What's In My Big Data? - [[Arxiv](https://arxiv.org/abs/2310.20707)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20707.md)]
 - SEINE: Short-to-Long Video Diffusion Model for Generative Transition and
   Prediction - [[Arxiv](https://arxiv.org/abs/2310.20700)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20700.md)]
@@ -22,20 +36,6 @@
 - MM-VID: Advancing Video Understanding with GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.19773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19773.md)]
 - VideoCrafter1: Open Diffusion Models for High-Quality Video Generation - [[Arxiv](https://arxiv.org/abs/2310.19512)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19512.md)]
 - Text-to-3D with classifier score distillation - [[Arxiv](https://arxiv.org/abs/2310.19415)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19415.md)]
-- Skywork: A More Open Bilingual Foundation Model - [[Arxiv](https://arxiv.org/abs/2310.19341)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19341.md)]
-- Atom: Low-bit Quantization for Efficient and Accurate LLM Serving - [[Arxiv](https://arxiv.org/abs/2310.19102)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19102.md)]
-- Multimodal ChatGPT for Medical Applications: an Experimental Study of
-  GPT-4V - [[Arxiv](https://arxiv.org/abs/2310.19061)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19061.md)]
-- TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language
-  Modeling Likewise - [[Arxiv](https://arxiv.org/abs/2310.19019)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19019.md)]
-- Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive
-  Learning for Code Generation - [[Arxiv](https://arxiv.org/abs/2310.18628)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.18628.md)]
-- FP8-LM: Training FP8 Large Language Models - [[Arxiv](https://arxiv.org/abs/2310.18313)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.18313.md)]
-- Personas as a Way to Model Truthfulness in Language Models - [[Arxiv](https://arxiv.org/abs/2310.18168)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.18168.md)]
-- ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image - [[Arxiv](https://arxiv.org/abs/2310.17994)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17994.md)]
-- Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D
-  Scene Representations - [[Arxiv](https://arxiv.org/abs/2310.17880)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17880.md)]
-- ControlLLM: Augment Language Models with Tools by Searching on Graphs - [[Arxiv](https://arxiv.org/abs/2310.17796)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.17796.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
