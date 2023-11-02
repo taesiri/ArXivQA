@@ -379,6 +379,7 @@
 - Data Augmentation for Text Generation Without Any Augmented Data - [[Arxiv](https://arxiv.org/abs/2105.13650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.13650.md)]
 - Pre-trained Language Model based Ranking in Baidu Search - [[Arxiv](https://arxiv.org/abs/2105.11108)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.11108.md)]
 - Unsupervised Speech Recognition - [[Arxiv](https://arxiv.org/abs/2105.11084)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.11084.md)]
+- Revisiting the Negative Data of Distantly Supervised Relation Extraction - [[Arxiv](https://arxiv.org/abs/2105.10158)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.10158.md)]
 - DEHB: Evolutionary Hyperband for Scalable, Robust and Efficient   Hyperparameter Optimization - [[Arxiv](https://arxiv.org/abs/2105.09821)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.09821.md)]
 - Intra-Document Cascading: Learning to Select Passages for Neural   Document Ranking - [[Arxiv](https://arxiv.org/abs/2105.09816)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.09816.md)]
 - Unified Conversational Recommendation Policy Learning via Graph-based   Reinforcement Learning - [[Arxiv](https://arxiv.org/abs/2105.09710)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.09710.md)]
