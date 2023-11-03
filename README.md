@@ -1,7 +1,13 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Idempotent Generative Network - [[Arxiv](https://arxiv.org/abs/2311.01462)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01462.md)]
+- RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning
+  via Generative Simulation - [[Arxiv](https://arxiv.org/abs/2311.01455)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01455.md)]
+- FlashDecoding++: Faster Large Language Model Inference on GPUs - [[Arxiv](https://arxiv.org/abs/2311.01282)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01282.md)]
+- E3 TTS: Easy End-to-End Diffusion-based Text to Speech - [[Arxiv](https://arxiv.org/abs/2311.00945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00945.md)]
 - RoboVQA: Multimodal Long-Horizon Reasoning for Robotics - [[Arxiv](https://arxiv.org/abs/2311.00899)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00899.md)]
+- In-Context Prompt Editing For Conditional Audio Generation - [[Arxiv](https://arxiv.org/abs/2311.00895)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00895.md)]
 - De-Diffusion Makes Text a Strong Cross-Modal Interface - [[Arxiv](https://arxiv.org/abs/2311.00618)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00618.md)]
 - Controllable Music Production with Diffusion Models and Guidance
   Gradients - [[Arxiv](https://arxiv.org/abs/2311.00613)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00613.md)]
@@ -28,14 +34,6 @@
   Language Models - [[Arxiv](https://arxiv.org/abs/2310.20499)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20499.md)]
 - Does GPT-4 Pass the Turing Test? - [[Arxiv](https://arxiv.org/abs/2310.20216)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20216.md)]
 - Beyond U: Making Diffusion Models Faster &amp; Lighter - [[Arxiv](https://arxiv.org/abs/2310.20092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20092.md)]
-- The Impact of Depth and Width on Transformer Language Model
-  Generalization - [[Arxiv](https://arxiv.org/abs/2310.19956)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19956.md)]
-- Battle of the Backbones: A Large-Scale Comparison of Pretrained Models
-  across Computer Vision Tasks - [[Arxiv](https://arxiv.org/abs/2310.19909)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19909.md)]
-- CustomNet: Zero-shot Object Customization with Variable-Viewpoints in
-  Text-to-Image Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.19784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19784.md)]
-- MM-VID: Advancing Video Understanding with GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.19773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19773.md)]
-- VideoCrafter1: Open Diffusion Models for High-Quality Video Generation - [[Arxiv](https://arxiv.org/abs/2310.19512)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19512.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
