@@ -1,6 +1,7 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- RoboVQA: Multimodal Long-Horizon Reasoning for Robotics - [[Arxiv](https://arxiv.org/abs/2311.00899)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00899.md)]
 - De-Diffusion Makes Text a Strong Cross-Modal Interface - [[Arxiv](https://arxiv.org/abs/2311.00618)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00618.md)]
 - Controllable Music Production with Diffusion Models and Guidance
   Gradients - [[Arxiv](https://arxiv.org/abs/2311.00613)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00613.md)]
@@ -35,7 +36,6 @@
   Text-to-Image Diffusion Models - [[Arxiv](https://arxiv.org/abs/2310.19784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19784.md)]
 - MM-VID: Advancing Video Understanding with GPT-4V(ision) - [[Arxiv](https://arxiv.org/abs/2310.19773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19773.md)]
 - VideoCrafter1: Open Diffusion Models for High-Quality Video Generation - [[Arxiv](https://arxiv.org/abs/2310.19512)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19512.md)]
-- Text-to-3D with classifier score distillation - [[Arxiv](https://arxiv.org/abs/2310.19415)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.19415.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
