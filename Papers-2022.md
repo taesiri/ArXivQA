@@ -1137,6 +1137,7 @@
 - Auto-scaling Vision Transformers without Training - [[Arxiv](https://arxiv.org/abs/2202.11921)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.11921.md)]
 - COLD Decoding: Energy-based Constrained Text Generation with Langevin   Dynamics - [[Arxiv](https://arxiv.org/abs/2202.11705)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.11705.md)]
 - Socialformer: Social Network Inspired Long Document Modeling for   Document Ranking - [[Arxiv](https://arxiv.org/abs/2202.10870)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.10870.md)]
+- Adversarial Attacks on Speech Recognition Systems for Mission-Critical   Applications: A Survey - [[Arxiv](https://arxiv.org/abs/2202.10594)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.10594.md)]
 - 1-WL Expressiveness Is (Almost) All You Need - [[Arxiv](https://arxiv.org/abs/2202.10156)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.10156.md)]
 - Pseudo Numerical Methods for Diffusion Models on Manifolds - [[Arxiv](https://arxiv.org/abs/2202.09778)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.09778.md)]
 - Bit-wise Training of Neural Network Weights - [[Arxiv](https://arxiv.org/abs/2202.09571)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2202.09571.md)]
