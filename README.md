@@ -1,6 +1,11 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via
+  Self-Supervision - [[Arxiv](https://arxiv.org/abs/2311.02077)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.02077.md)]
+- PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task
+  Completion - [[Arxiv](https://arxiv.org/abs/2311.01767)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01767.md)]
+- FLAP: Fast Language-Audio Pre-training - [[Arxiv](https://arxiv.org/abs/2311.01615)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01615.md)]
 - Idempotent Generative Network - [[Arxiv](https://arxiv.org/abs/2311.01462)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01462.md)]
 - RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning
   via Generative Simulation - [[Arxiv](https://arxiv.org/abs/2311.01455)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01455.md)]
@@ -30,10 +35,6 @@
 - Unleashing the Power of Pre-trained Language Models for Offline
   Reinforcement Learning - [[Arxiv](https://arxiv.org/abs/2310.20587)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20587.md)]
 - CapsFusion: Rethinking Image-Text Data at Scale - [[Arxiv](https://arxiv.org/abs/2310.20550)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20550.md)]
-- Leveraging Word Guessing Games to Assess the Intelligence of Large
-  Language Models - [[Arxiv](https://arxiv.org/abs/2310.20499)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20499.md)]
-- Does GPT-4 Pass the Turing Test? - [[Arxiv](https://arxiv.org/abs/2310.20216)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20216.md)]
-- Beyond U: Making Diffusion Models Faster &amp; Lighter - [[Arxiv](https://arxiv.org/abs/2310.20092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2310.20092.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
