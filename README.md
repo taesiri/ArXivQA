@@ -1,6 +1,16 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- OtterHD: A High-Resolution Multi-modality Model - [[Arxiv](https://arxiv.org/abs/2311.04219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04219.md)]
+- Video Instance Matting - [[Arxiv](https://arxiv.org/abs/2311.04212)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04212.md)]
+- I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion
+  Models - [[Arxiv](https://arxiv.org/abs/2311.04145)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04145.md)]
+- Unveiling Safety Vulnerabilities of Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.04124)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04124.md)]
+- Leveraging Large Language Models for Automated Proof Synthesis in Rust - [[Arxiv](https://arxiv.org/abs/2311.03739)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03739.md)]
+- Neural MMO 2.0: A Massively Multi-task Addition to Massively Multi-agent
+  Learning - [[Arxiv](https://arxiv.org/abs/2311.03736)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03736.md)]
+- Random Field Augmentations for Self-Supervised Representation Learning - [[Arxiv](https://arxiv.org/abs/2311.03629)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03629.md)]
+- SoundCam: A Dataset for Finding Humans Using Room Acoustics - [[Arxiv](https://arxiv.org/abs/2311.03517)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03517.md)]
 - GLaMM: Pixel Grounding Large Multimodal Model - [[Arxiv](https://arxiv.org/abs/2311.03356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03356.md)]
 - CoVLM: Composing Visual Entities and Relationships in Large Language
   Models Via Communicative Decoding - [[Arxiv](https://arxiv.org/abs/2311.03354)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03354.md)]
@@ -24,15 +34,6 @@
   Self-Supervision - [[Arxiv](https://arxiv.org/abs/2311.02077)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.02077.md)]
 - PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task
   Completion - [[Arxiv](https://arxiv.org/abs/2311.01767)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01767.md)]
-- FLAP: Fast Language-Audio Pre-training - [[Arxiv](https://arxiv.org/abs/2311.01615)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01615.md)]
-- Idempotent Generative Network - [[Arxiv](https://arxiv.org/abs/2311.01462)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01462.md)]
-- RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning
-  via Generative Simulation - [[Arxiv](https://arxiv.org/abs/2311.01455)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01455.md)]
-- FlashDecoding++: Faster Large Language Model Inference on GPUs - [[Arxiv](https://arxiv.org/abs/2311.01282)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.01282.md)]
-- E3 TTS: Easy End-to-End Diffusion-based Text to Speech - [[Arxiv](https://arxiv.org/abs/2311.00945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00945.md)]
-- RoboVQA: Multimodal Long-Horizon Reasoning for Robotics - [[Arxiv](https://arxiv.org/abs/2311.00899)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00899.md)]
-- In-Context Prompt Editing For Conditional Audio Generation - [[Arxiv](https://arxiv.org/abs/2311.00895)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.00895.md)]
-- Relax: Composable Abstractions for End-to-End Dynamic Machine Learning - [[Arxiv](https://arxiv.org/abs/2311.02103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.02103.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
