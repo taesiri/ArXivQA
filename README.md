@@ -1,6 +1,11 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- LCM-LoRA: A Universal Stable-Diffusion Acceleration Module - [[Arxiv](https://arxiv.org/abs/2311.05556)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05556.md)]
+- LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents - [[Arxiv](https://arxiv.org/abs/2311.05437)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05437.md)]
+- u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model - [[Arxiv](https://arxiv.org/abs/2311.05348)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05348.md)]
+- On the Road with GPT-4V(ision): Early Explorations of Visual-Language
+  Model on Autonomous Driving - [[Arxiv](https://arxiv.org/abs/2311.05332)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05332.md)]
 - GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and
   reusing ModulEs - [[Arxiv](https://arxiv.org/abs/2311.04901)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04901.md)]
 - TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.04589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04589.md)]
@@ -10,6 +15,7 @@
 - Holistic Evaluation of Text-To-Image Models - [[Arxiv](https://arxiv.org/abs/2311.04287)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04287.md)]
 - OtterHD: A High-Resolution Multi-modality Model - [[Arxiv](https://arxiv.org/abs/2311.04219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04219.md)]
 - Video Instance Matting - [[Arxiv](https://arxiv.org/abs/2311.04212)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04212.md)]
+- Prompt Cache: Modular Attention Reuse for Low-Latency Inference - [[Arxiv](https://arxiv.org/abs/2311.04934)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04934.md)]
 - I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion
   Models - [[Arxiv](https://arxiv.org/abs/2311.04145)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04145.md)]
 - Unveiling Safety Vulnerabilities of Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.04124)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04124.md)]
@@ -21,19 +27,12 @@
 - Neural MMO 2.0: A Massively Multi-task Addition to Massively Multi-agent
   Learning - [[Arxiv](https://arxiv.org/abs/2311.03736)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03736.md)]
 - Random Field Augmentations for Self-Supervised Representation Learning - [[Arxiv](https://arxiv.org/abs/2311.03629)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03629.md)]
+- GPT4All: An Ecosystem of Open Source Compressed Language Models - [[Arxiv](https://arxiv.org/abs/2311.04931)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04931.md)]
 - SoundCam: A Dataset for Finding Humans Using Room Acoustics - [[Arxiv](https://arxiv.org/abs/2311.03517)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03517.md)]
 - GLaMM: Pixel Grounding Large Multimodal Model - [[Arxiv](https://arxiv.org/abs/2311.03356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03356.md)]
 - CoVLM: Composing Visual Entities and Relationships in Large Language
   Models Via Communicative Decoding - [[Arxiv](https://arxiv.org/abs/2311.03354)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03354.md)]
 - Ziya2: Data-centric Learning is All LLMs Need - [[Arxiv](https://arxiv.org/abs/2311.03301)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03301.md)]
-- S-LoRA: Serving Thousands of Concurrent LoRA Adapters - [[Arxiv](https://arxiv.org/abs/2311.03285)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03285.md)]
-- LDM3D-VR: Latent Diffusion Model for 3D VR - [[Arxiv](https://arxiv.org/abs/2311.03226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03226.md)]
-- CogVLM: Visual Expert for Pretrained Language Models - [[Arxiv](https://arxiv.org/abs/2311.03079)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.03079.md)]
-- Can LLMs Follow Simple Rules? - [[Arxiv](https://arxiv.org/abs/2311.04235)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.04235.md)]
-- Co-training and Co-distillation for Quality Improvement and Compression
-  of Language Models - [[Arxiv](https://arxiv.org/abs/2311.02849)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.02849.md)]
-- Consistent4D: Consistent 360° Dynamic Object Generation from
-  Monocular Video - [[Arxiv](https://arxiv.org/abs/2311.02848)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.02848.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
