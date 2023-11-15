@@ -1,6 +1,19 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Instant3D: Instant Text-to-3D Generation - [[Arxiv](https://arxiv.org/abs/2311.08403)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08403.md)]
+- Fine-tuning Language Models for Factuality - [[Arxiv](https://arxiv.org/abs/2311.08401)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08401.md)]
+- Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads
+  to Answers Faster - [[Arxiv](https://arxiv.org/abs/2311.08263)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08263.md)]
+- DiLoCo: Distributed Low-Communication Training of Language Models - [[Arxiv](https://arxiv.org/abs/2311.08105)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08105.md)]
+- A Survey on Language Models for Code - [[Arxiv](https://arxiv.org/abs/2311.07989)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07989.md)]
+- The ART of LLM Refinement: Ask, Refine, and Trust - [[Arxiv](https://arxiv.org/abs/2311.07961)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07961.md)]
+- Qwen-Audio: Advancing Universal Audio Understanding via Unified
+  Large-Scale Audio-Language Models - [[Arxiv](https://arxiv.org/abs/2311.07919)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07919.md)]
+- Instruction-Following Evaluation for Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.07911)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07911.md)]
+- One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View
+  Generation and 3D Diffusion - [[Arxiv](https://arxiv.org/abs/2311.07885)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07885.md)]
+- MART: Improving LLM Safety with Multi-round Automatic Red-Teaming - [[Arxiv](https://arxiv.org/abs/2311.07689)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07689.md)]
 - SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for
   Multi-modal Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.07575)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07575.md)]
 - To See is to Believe: Prompting GPT-4V for Better Visual Instruction
@@ -25,21 +38,6 @@
 - Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization - [[Arxiv](https://arxiv.org/abs/2311.06243)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06243.md)]
 - Florence-2: Advancing a Unified Representation for a Variety of Vision
   Tasks - [[Arxiv](https://arxiv.org/abs/2311.06242)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06242.md)]
-- Instant3D: Fast Text-to-3D with Sparse-View Generation and Large
-  Reconstruction Model - [[Arxiv](https://arxiv.org/abs/2311.06214)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06214.md)]
-- Language Models can be Logical Solvers - [[Arxiv](https://arxiv.org/abs/2311.06158)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06158.md)]
-- JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal
-  Language Models - [[Arxiv](https://arxiv.org/abs/2311.05997)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05997.md)]
-- FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor
-  Cores - [[Arxiv](https://arxiv.org/abs/2311.05908)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05908.md)]
-- Hiformer: Heterogeneous Feature Interactions Learning with Transformers
-  for Recommender Systems - [[Arxiv](https://arxiv.org/abs/2311.05884)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05884.md)]
-- PolyMaX: General Dense Prediction with Mask Transformer - [[Arxiv](https://arxiv.org/abs/2311.05770)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05770.md)]
-- FMViT: A multiple-frequency mixing Vision Transformer - [[Arxiv](https://arxiv.org/abs/2311.05707)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05707.md)]
-- Mirasol3B: A Multimodal Autoregressive model for time-aligned and
-  contextual modalities - [[Arxiv](https://arxiv.org/abs/2311.05698)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05698.md)]
-- LCM-LoRA: A Universal Stable-Diffusion Acceleration Module - [[Arxiv](https://arxiv.org/abs/2311.05556)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05556.md)]
-- LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents - [[Arxiv](https://arxiv.org/abs/2311.05437)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.05437.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
