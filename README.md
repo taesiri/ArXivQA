@@ -1,6 +1,24 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Single-Image 3D Human Digitization with Shape-Guided Diffusion - [[Arxiv](https://arxiv.org/abs/2311.09221)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09221.md)]
+- DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction
+  Model - [[Arxiv](https://arxiv.org/abs/2311.09217)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09217.md)]
+- GRIM: GRaph-based Interactive narrative visualization for gaMes - [[Arxiv](https://arxiv.org/abs/2311.09213)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09213.md)]
+- Fusion-Eval: Integrating Evaluators with LLMs - [[Arxiv](https://arxiv.org/abs/2311.09204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09204.md)]
+- PEARL: Personalizing Large Language Model Writing Assistants with
+  Generation-Calibrated Retrievers - [[Arxiv](https://arxiv.org/abs/2311.09180)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09180.md)]
+- SiRA: Sparse Mixture of Low Rank Adaptation - [[Arxiv](https://arxiv.org/abs/2311.09179)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09179.md)]
+- Llamas Know What GPTs Don't Show: Surrogate Models for Confidence
+  Estimation - [[Arxiv](https://arxiv.org/abs/2311.08877)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08877.md)]
+- Thread of Thought Unraveling Chaotic Contexts - [[Arxiv](https://arxiv.org/abs/2311.08734)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08734.md)]
+- Routing to the Expert: Efficient Reward-guided Ensemble of Large
+  Language Models - [[Arxiv](https://arxiv.org/abs/2311.08692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08692.md)]
+- EDMSound: Spectrogram Based Diffusion Models for Efficient and
+  High-Quality Audio Synthesis - [[Arxiv](https://arxiv.org/abs/2311.08667)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08667.md)]
+- Drivable 3D Gaussian Avatars - [[Arxiv](https://arxiv.org/abs/2311.08581)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08581.md)]
+- UT5: Pretraining Non autoregressive T5 with unrolled denoising - [[Arxiv](https://arxiv.org/abs/2311.08552)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08552.md)]
+- UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations - [[Arxiv](https://arxiv.org/abs/2311.08469)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08469.md)]
 - Instant3D: Instant Text-to-3D Generation - [[Arxiv](https://arxiv.org/abs/2311.08403)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08403.md)]
 - Fine-tuning Language Models for Factuality - [[Arxiv](https://arxiv.org/abs/2311.08401)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08401.md)]
 - Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads
@@ -18,26 +36,6 @@
   Multi-modal Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.07575)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07575.md)]
 - To See is to Believe: Prompting GPT-4V for Better Visual Instruction
   Tuning - [[Arxiv](https://arxiv.org/abs/2311.07574)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07574.md)]
-- GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone
-  GUI Navigation - [[Arxiv](https://arxiv.org/abs/2311.07562)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07562.md)]
-- MEGAVERSE: Benchmarking Large Language Models Across Languages,
-  Modalities, Models and Tasks - [[Arxiv](https://arxiv.org/abs/2311.07463)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07463.md)]
-- Story-to-Motion: Synthesizing Infinite and Controllable Character
-  Animation from Long Text - [[Arxiv](https://arxiv.org/abs/2311.07446)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07446.md)]
-- Music ControlNet: Multiple Time-varying Controls for Music Generation - [[Arxiv](https://arxiv.org/abs/2311.07069)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07069.md)]
-- Q-Instruct: Improving Low-level Visual Abilities for Multi-modality
-  Foundation Models - [[Arxiv](https://arxiv.org/abs/2311.06783)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06783.md)]
-- ChatAnything: Facetime Chat with LLM-Enhanced Personas - [[Arxiv](https://arxiv.org/abs/2311.06772)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06772.md)]
-- Towards General-Purpose Speech Abilities for Large Language Models Using
-  Unpaired Data - [[Arxiv](https://arxiv.org/abs/2311.06753)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06753.md)]
-- Cappy: Outperforming and Boosting Large Multi-Task LMs with a Small
-  Scorer - [[Arxiv](https://arxiv.org/abs/2311.06720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06720.md)]
-- Trusted Source Alignment in Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.06697)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06697.md)]
-- LayoutPrompter: Awaken the Design Ability of Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.06495)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06495.md)]
-- GOAT: GO to Any Thing - [[Arxiv](https://arxiv.org/abs/2311.06430)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06430.md)]
-- Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization - [[Arxiv](https://arxiv.org/abs/2311.06243)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06243.md)]
-- Florence-2: Advancing a Unified Representation for a Variety of Vision
-  Tasks - [[Arxiv](https://arxiv.org/abs/2311.06242)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.06242.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
