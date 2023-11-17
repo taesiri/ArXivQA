@@ -1,6 +1,9 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- The Chosen One: Consistent Characters in Text-to-Image Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.10093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10093.md)]
+- Adaptive Shells for Efficient Neural Radiance Field Rendering - [[Arxiv](https://arxiv.org/abs/2311.10091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10091.md)]
+- JaxMARL: Multi-Agent RL Environments in JAX - [[Arxiv](https://arxiv.org/abs/2311.10090)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10090.md)]
 - ML-Bench: Large Language Models Leverage Open-source Libraries for
   Machine Learning Tasks - [[Arxiv](https://arxiv.org/abs/2311.09835)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09835.md)]
 - Tied-Lora: Enhacing parameter efficiency of LoRA with weight tying - [[Arxiv](https://arxiv.org/abs/2311.09578)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09578.md)]
@@ -20,6 +23,8 @@
   Language Models - [[Arxiv](https://arxiv.org/abs/2311.08692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08692.md)]
 - EDMSound: Spectrogram Based Diffusion Models for Efficient and
   High-Quality Audio Synthesis - [[Arxiv](https://arxiv.org/abs/2311.08667)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08667.md)]
+- UFOGen: You Forward Once Large Scale Text-to-Image Generation via
+  Diffusion GANs - [[Arxiv](https://arxiv.org/abs/2311.09257)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09257.md)]
 - Drivable 3D Gaussian Avatars - [[Arxiv](https://arxiv.org/abs/2311.08581)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08581.md)]
 - UT5: Pretraining Non autoregressive T5 with unrolled denoising - [[Arxiv](https://arxiv.org/abs/2311.08552)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08552.md)]
 - UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations - [[Arxiv](https://arxiv.org/abs/2311.08469)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08469.md)]
@@ -29,12 +34,6 @@
   to Answers Faster - [[Arxiv](https://arxiv.org/abs/2311.08263)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08263.md)]
 - DiLoCo: Distributed Low-Communication Training of Language Models - [[Arxiv](https://arxiv.org/abs/2311.08105)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08105.md)]
 - A Survey on Language Models for Code - [[Arxiv](https://arxiv.org/abs/2311.07989)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07989.md)]
-- The ART of LLM Refinement: Ask, Refine, and Trust - [[Arxiv](https://arxiv.org/abs/2311.07961)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07961.md)]
-- Qwen-Audio: Advancing Universal Audio Understanding via Unified
-  Large-Scale Audio-Language Models - [[Arxiv](https://arxiv.org/abs/2311.07919)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07919.md)]
-- Instruction-Following Evaluation for Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.07911)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07911.md)]
-- One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View
-  Generation and 3D Diffusion - [[Arxiv](https://arxiv.org/abs/2311.07885)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07885.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
