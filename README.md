@@ -1,10 +1,14 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- ML-Bench: Large Language Models Leverage Open-source Libraries for
+  Machine Learning Tasks - [[Arxiv](https://arxiv.org/abs/2311.09835)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09835.md)]
+- Tied-Lora: Enhacing parameter efficiency of LoRA with weight tying - [[Arxiv](https://arxiv.org/abs/2311.09578)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09578.md)]
 - Single-Image 3D Human Digitization with Shape-Guided Diffusion - [[Arxiv](https://arxiv.org/abs/2311.09221)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09221.md)]
 - DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction
   Model - [[Arxiv](https://arxiv.org/abs/2311.09217)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09217.md)]
 - GRIM: GRaph-based Interactive narrative visualization for gaMes - [[Arxiv](https://arxiv.org/abs/2311.09213)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09213.md)]
+- Contrastive Chain-of-Thought Prompting - [[Arxiv](https://arxiv.org/abs/2311.09277)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09277.md)]
 - Fusion-Eval: Integrating Evaluators with LLMs - [[Arxiv](https://arxiv.org/abs/2311.09204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09204.md)]
 - PEARL: Personalizing Large Language Model Writing Assistants with
   Generation-Calibrated Retrievers - [[Arxiv](https://arxiv.org/abs/2311.09180)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09180.md)]
@@ -31,11 +35,6 @@
 - Instruction-Following Evaluation for Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.07911)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07911.md)]
 - One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View
   Generation and 3D Diffusion - [[Arxiv](https://arxiv.org/abs/2311.07885)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07885.md)]
-- MART: Improving LLM Safety with Multi-round Automatic Red-Teaming - [[Arxiv](https://arxiv.org/abs/2311.07689)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07689.md)]
-- SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for
-  Multi-modal Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.07575)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07575.md)]
-- To See is to Believe: Prompting GPT-4V for Better Visual Instruction
-  Tuning - [[Arxiv](https://arxiv.org/abs/2311.07574)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07574.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
