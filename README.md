@@ -10,6 +10,7 @@
 - Single-Image 3D Human Digitization with Shape-Guided Diffusion - [[Arxiv](https://arxiv.org/abs/2311.09221)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09221.md)]
 - DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction
   Model - [[Arxiv](https://arxiv.org/abs/2311.09217)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09217.md)]
+- ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy - [[Arxiv](https://arxiv.org/abs/2311.09215)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09215.md)]
 - GRIM: GRaph-based Interactive narrative visualization for gaMes - [[Arxiv](https://arxiv.org/abs/2311.09213)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09213.md)]
 - Contrastive Chain-of-Thought Prompting - [[Arxiv](https://arxiv.org/abs/2311.09277)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09277.md)]
 - Fusion-Eval: Integrating Evaluators with LLMs - [[Arxiv](https://arxiv.org/abs/2311.09204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09204.md)]
@@ -33,7 +34,6 @@
 - Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads
   to Answers Faster - [[Arxiv](https://arxiv.org/abs/2311.08263)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08263.md)]
 - DiLoCo: Distributed Low-Communication Training of Language Models - [[Arxiv](https://arxiv.org/abs/2311.08105)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08105.md)]
-- A Survey on Language Models for Code - [[Arxiv](https://arxiv.org/abs/2311.07989)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.07989.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
