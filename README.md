@@ -28,12 +28,13 @@
   Diffusion GANs - [[Arxiv](https://arxiv.org/abs/2311.09257)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09257.md)]
 - Drivable 3D Gaussian Avatars - [[Arxiv](https://arxiv.org/abs/2311.08581)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08581.md)]
 - UT5: Pretraining Non autoregressive T5 with unrolled denoising - [[Arxiv](https://arxiv.org/abs/2311.08552)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08552.md)]
+- Efficient Rotation Invariance in Deep Neural Networks through Artificial
+  Mental Rotation - [[Arxiv](https://arxiv.org/abs/2311.08525)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08525.md)]
 - UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations - [[Arxiv](https://arxiv.org/abs/2311.08469)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08469.md)]
 - Instant3D: Instant Text-to-3D Generation - [[Arxiv](https://arxiv.org/abs/2311.08403)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08403.md)]
 - Fine-tuning Language Models for Factuality - [[Arxiv](https://arxiv.org/abs/2311.08401)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08401.md)]
 - Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads
   to Answers Faster - [[Arxiv](https://arxiv.org/abs/2311.08263)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08263.md)]
-- DiLoCo: Distributed Low-Communication Training of Language Models - [[Arxiv](https://arxiv.org/abs/2311.08105)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.08105.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
