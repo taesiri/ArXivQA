@@ -5,6 +5,8 @@
 - GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
   Demonstration - [[Arxiv](https://arxiv.org/abs/2311.12015)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12015.md)]
 - System 2 Attention (is something you might need too) - [[Arxiv](https://arxiv.org/abs/2311.11829)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11829.md)]
+- Igniting Language Intelligence: The Hitchhiker's Guide From
+  Chain-of-Thought Reasoning to Language Agents - [[Arxiv](https://arxiv.org/abs/2311.11797)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11797.md)]
 - MultiLoRA: Democratizing LoRA for Better Multi-Task Learning - [[Arxiv](https://arxiv.org/abs/2311.11501)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11501.md)]
 - TPTU-v2: Boosting Task Planning and Tool Usage of Large Language
   Model-based Agents in Real-world Systems - [[Arxiv](https://arxiv.org/abs/2311.11315)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11315.md)]
@@ -39,8 +41,6 @@
   Multimodal Framework - [[Arxiv](https://arxiv.org/abs/2311.10125)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10125.md)]
 - ML-Bench: Large Language Models Leverage Open-source Libraries for
   Machine Learning Tasks - [[Arxiv](https://arxiv.org/abs/2311.09835)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09835.md)]
-- MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry
-  and Texture - [[Arxiv](https://arxiv.org/abs/2311.10123)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10123.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
