@@ -1,6 +1,23 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark - [[Arxiv](https://arxiv.org/abs/2311.12022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12022.md)]
+- GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
+  Demonstration - [[Arxiv](https://arxiv.org/abs/2311.12015)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12015.md)]
+- System 2 Attention (is something you might need too) - [[Arxiv](https://arxiv.org/abs/2311.11829)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11829.md)]
+- MultiLoRA: Democratizing LoRA for Better Multi-Task Learning - [[Arxiv](https://arxiv.org/abs/2311.11501)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11501.md)]
+- TPTU-v2: Boosting Task Planning and Tool Usage of Large Language
+  Model-based Agents in Real-world Systems - [[Arxiv](https://arxiv.org/abs/2311.11315)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11315.md)]
+- LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval
+  Score Matching - [[Arxiv](https://arxiv.org/abs/2311.11284)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11284.md)]
+- M$^{2}$UGen: Multi-modal Music Understanding and Generation with the
+  Power of Large Language Models - [[Arxiv](https://arxiv.org/abs/2311.11255)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11255.md)]
+- AutoStory: Generating Diverse Storytelling Images with Minimal Human
+  Effort - [[Arxiv](https://arxiv.org/abs/2311.11243)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11243.md)]
+- Adapters: A Unified Library for Parameter-Efficient and Modular Transfer
+  Learning - [[Arxiv](https://arxiv.org/abs/2311.11077)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11077.md)]
+- Orca 2: Teaching Small Language Models How to Reason - [[Arxiv](https://arxiv.org/abs/2311.11045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11045.md)]
+- Make Pixels Dance: High-Dynamic Video Generation - [[Arxiv](https://arxiv.org/abs/2311.10982)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10982.md)]
 - Emu Video: Factorizing Text-to-Video Generation by Explicit Image
   Conditioning - [[Arxiv](https://arxiv.org/abs/2311.10709)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10709.md)]
 - SelfEval: Leveraging the discriminative nature of generative models for
@@ -11,6 +28,8 @@
 - Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as
   an Alternative to Attention Layers in Transformers - [[Arxiv](https://arxiv.org/abs/2311.10642)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10642.md)]
 - Testing Language Model Agents Safely in the Wild - [[Arxiv](https://arxiv.org/abs/2311.10538)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10538.md)]
+- Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human
+  Expression - [[Arxiv](https://arxiv.org/abs/2311.10794)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10794.md)]
 - The Chosen One: Consistent Characters in Text-to-Image Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.10093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10093.md)]
 - Adaptive Shells for Efficient Neural Radiance Field Rendering - [[Arxiv](https://arxiv.org/abs/2311.10091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10091.md)]
 - JaxMARL: Multi-Agent RL Environments in JAX - [[Arxiv](https://arxiv.org/abs/2311.10090)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10090.md)]
@@ -22,22 +41,6 @@
   Machine Learning Tasks - [[Arxiv](https://arxiv.org/abs/2311.09835)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09835.md)]
 - MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry
   and Texture - [[Arxiv](https://arxiv.org/abs/2311.10123)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10123.md)]
-- Video-LLaVA: Learning United Visual Representation by Alignment Before
-  Projection - [[Arxiv](https://arxiv.org/abs/2311.10122)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10122.md)]
-- Tied-Lora: Enhacing parameter efficiency of LoRA with weight tying - [[Arxiv](https://arxiv.org/abs/2311.09578)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09578.md)]
-- VideoCon: Robust Video-Language Alignment via Contrast Captions - [[Arxiv](https://arxiv.org/abs/2311.10111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10111.md)]
-- Single-Image 3D Human Digitization with Shape-Guided Diffusion - [[Arxiv](https://arxiv.org/abs/2311.09221)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09221.md)]
-- DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction
-  Model - [[Arxiv](https://arxiv.org/abs/2311.09217)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09217.md)]
-- ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy - [[Arxiv](https://arxiv.org/abs/2311.09215)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09215.md)]
-- GRIM: GRaph-based Interactive narrative visualization for gaMes - [[Arxiv](https://arxiv.org/abs/2311.09213)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09213.md)]
-- Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language
-  Models - [[Arxiv](https://arxiv.org/abs/2311.09210)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09210.md)]
-- Contrastive Chain-of-Thought Prompting - [[Arxiv](https://arxiv.org/abs/2311.09277)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09277.md)]
-- Fusion-Eval: Integrating Evaluators with LLMs - [[Arxiv](https://arxiv.org/abs/2311.09204)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09204.md)]
-- PEARL: Personalizing Large Language Model Writing Assistants with
-  Generation-Calibrated Retrievers - [[Arxiv](https://arxiv.org/abs/2311.09180)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09180.md)]
-- SiRA: Sparse Mixture of Low Rank Adaptation - [[Arxiv](https://arxiv.org/abs/2311.09179)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09179.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
