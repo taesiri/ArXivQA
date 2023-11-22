@@ -1,6 +1,12 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via
+  Blender-Oriented GPT Planning - [[Arxiv](https://arxiv.org/abs/2311.12631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12631.md)]
+- NeuroPrompts: An Adaptive Framework to Optimize Prompts for
+  Text-to-Image Generation - [[Arxiv](https://arxiv.org/abs/2311.12229)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12229.md)]
+- PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics - [[Arxiv](https://arxiv.org/abs/2311.12198)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12198.md)]
+- Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.12092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12092.md)]
 - GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark - [[Arxiv](https://arxiv.org/abs/2311.12022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12022.md)]
 - GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
   Demonstration - [[Arxiv](https://arxiv.org/abs/2311.12015)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12015.md)]
@@ -19,6 +25,8 @@
 - Adapters: A Unified Library for Parameter-Efficient and Modular Transfer
   Learning - [[Arxiv](https://arxiv.org/abs/2311.11077)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11077.md)]
 - Orca 2: Teaching Small Language Models How to Reason - [[Arxiv](https://arxiv.org/abs/2311.11045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11045.md)]
+- MagicDance: Realistic Human Dance Video Generation with Motions &amp; Facial
+  Expressions Transfer - [[Arxiv](https://arxiv.org/abs/2311.12052)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12052.md)]
 - Make Pixels Dance: High-Dynamic Video Generation - [[Arxiv](https://arxiv.org/abs/2311.10982)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10982.md)]
 - Emu Video: Factorizing Text-to-Video Generation by Explicit Image
   Conditioning - [[Arxiv](https://arxiv.org/abs/2311.10709)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10709.md)]
@@ -33,14 +41,6 @@
 - Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human
   Expression - [[Arxiv](https://arxiv.org/abs/2311.10794)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10794.md)]
 - The Chosen One: Consistent Characters in Text-to-Image Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.10093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10093.md)]
-- Adaptive Shells for Efficient Neural Radiance Field Rendering - [[Arxiv](https://arxiv.org/abs/2311.10091)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10091.md)]
-- JaxMARL: Multi-Agent RL Environments in JAX - [[Arxiv](https://arxiv.org/abs/2311.10090)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10090.md)]
-- I&amp;S-ViT: An Inclusive &amp; Stable Method for Pushing the Limit of
-  Post-Training ViTs Quantization - [[Arxiv](https://arxiv.org/abs/2311.10126)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10126.md)]
-- UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized
-  Multimodal Framework - [[Arxiv](https://arxiv.org/abs/2311.10125)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10125.md)]
-- ML-Bench: Large Language Models Leverage Open-source Libraries for
-  Machine Learning Tasks - [[Arxiv](https://arxiv.org/abs/2311.09835)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.09835.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
