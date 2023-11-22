@@ -1,6 +1,18 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Physics-guided Shape-from-Template: Monocular Video Perception through
+  Neural Surrogate Models - [[Arxiv](https://arxiv.org/abs/2311.12796)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12796.md)]
+- ShareGPT4V: Improving Large Multi-Modal Models with Better Captions - [[Arxiv](https://arxiv.org/abs/2311.12793)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12793.md)]
+- Intrinsic Image Decomposition via Ordinal Shading - [[Arxiv](https://arxiv.org/abs/2311.12792)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12792.md)]
+- Mechanistically analyzing the effects of fine-tuning on procedurally
+  defined tasks - [[Arxiv](https://arxiv.org/abs/2311.12786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12786.md)]
+- Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian,
+  and Beyond $1+α$ Moments - [[Arxiv](https://arxiv.org/abs/2311.12784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12784.md)]
+- Quantifying Impairment and Disease Severity Using AI Models Trained on
+  Healthy Subjects - [[Arxiv](https://arxiv.org/abs/2311.12781)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12781.md)]
+- Calibration System and Algorithm Design for a Soft Hinged Micro Scanning
+  Mirror with a Triaxial Hall Effect Sensor - [[Arxiv](https://arxiv.org/abs/2311.12778)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12778.md)]
 - SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh
   Reconstruction and High-Quality Mesh Rendering - [[Arxiv](https://arxiv.org/abs/2311.12775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12775.md)]
 - GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via
@@ -32,18 +44,6 @@
 - Adapters: A Unified Library for Parameter-Efficient and Modular Transfer
   Learning - [[Arxiv](https://arxiv.org/abs/2311.11077)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11077.md)]
 - Orca 2: Teaching Small Language Models How to Reason - [[Arxiv](https://arxiv.org/abs/2311.11045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11045.md)]
-- MagicDance: Realistic Human Dance Video Generation with Motions &amp; Facial
-  Expressions Transfer - [[Arxiv](https://arxiv.org/abs/2311.12052)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12052.md)]
-- Make Pixels Dance: High-Dynamic Video Generation - [[Arxiv](https://arxiv.org/abs/2311.10982)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10982.md)]
-- Emu Video: Factorizing Text-to-Video Generation by Explicit Image
-  Conditioning - [[Arxiv](https://arxiv.org/abs/2311.10709)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10709.md)]
-- SelfEval: Leveraging the discriminative nature of generative models for
-  evaluation - [[Arxiv](https://arxiv.org/abs/2311.10708)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10708.md)]
-- Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2 - [[Arxiv](https://arxiv.org/abs/2311.10702)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10702.md)]
-- Distilling and Retrieving Generalizable Knowledge for Robot Manipulation
-  via Language Corrections - [[Arxiv](https://arxiv.org/abs/2311.10678)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10678.md)]
-- Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as
-  an Alternative to Attention Layers in Transformers - [[Arxiv](https://arxiv.org/abs/2311.10642)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10642.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
