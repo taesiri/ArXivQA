@@ -142,7 +142,7 @@ def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md", he
     main_lines += [
         "\n## Acknowledgements\n",
         "This project is made possible through the generous support of ",
-        "[Anthropic](https://www.anthropic.com/), who provided free access to the `Claude-2.0` API.\n"
+        "[Anthropic](https://www.anthropic.com/), who provided free access to the `Claude-2.1` API.\n"
     ]
 
     # Write to the original README.md file

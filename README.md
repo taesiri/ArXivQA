@@ -1,12 +1,19 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh
+  Reconstruction and High-Quality Mesh Rendering - [[Arxiv](https://arxiv.org/abs/2311.12775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12775.md)]
 - GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via
   Blender-Oriented GPT Planning - [[Arxiv](https://arxiv.org/abs/2311.12631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12631.md)]
+- HierSpeech++: Bridging the Gap between Semantic and Acoustic
+  Representation of Speech by Hierarchical Variational Inference for Zero-shot
+  Speech Synthesis - [[Arxiv](https://arxiv.org/abs/2311.12454)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12454.md)]
 - NeuroPrompts: An Adaptive Framework to Optimize Prompts for
   Text-to-Image Generation - [[Arxiv](https://arxiv.org/abs/2311.12229)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12229.md)]
 - PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics - [[Arxiv](https://arxiv.org/abs/2311.12198)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12198.md)]
 - Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.12092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12092.md)]
+- PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape
+  Prediction - [[Arxiv](https://arxiv.org/abs/2311.12024)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12024.md)]
 - GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark - [[Arxiv](https://arxiv.org/abs/2311.12022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12022.md)]
 - GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
   Demonstration - [[Arxiv](https://arxiv.org/abs/2311.12015)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12015.md)]
@@ -37,10 +44,6 @@
   via Language Corrections - [[Arxiv](https://arxiv.org/abs/2311.10678)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10678.md)]
 - Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as
   an Alternative to Attention Layers in Transformers - [[Arxiv](https://arxiv.org/abs/2311.10642)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10642.md)]
-- Testing Language Model Agents Safely in the Wild - [[Arxiv](https://arxiv.org/abs/2311.10538)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10538.md)]
-- Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human
-  Expression - [[Arxiv](https://arxiv.org/abs/2311.10794)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10794.md)]
-- The Chosen One: Consistent Characters in Text-to-Image Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.10093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.10093.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
@@ -59,4 +62,4 @@
 - [Papers for 2009](https://github.com/taesiri/ArXivQA/blob/main/Papers-2009.md)
 
 ## Acknowledgements
-This project is made possible through the generous support of [Anthropic](https://www.anthropic.com/), who provided free access to the `Claude-2.0` API.
+This project is made possible through the generous support of [Anthropic](https://www.anthropic.com/), who provided free access to the `Claude-2.1` API.
