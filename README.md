@@ -2,8 +2,11 @@
 
 ## Latest 25 Papers
 - Visual In-Context Prompting - [[Arxiv](https://arxiv.org/abs/2311.13601)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13601.md)]
+- ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs - [[Arxiv](https://arxiv.org/abs/2311.13600)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13600.md)]
 - PG-Video-LLaVA: Pixel Grounding Large Video-Language Models - [[Arxiv](https://arxiv.org/abs/2311.13435)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13435.md)]
 - LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes - [[Arxiv](https://arxiv.org/abs/2311.13384)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13384.md)]
+- Using Human Feedback to Fine-tune Diffusion Models without Any Reward
+  Model - [[Arxiv](https://arxiv.org/abs/2311.13231)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13231.md)]
 - Diffusion360: Seamless 360 Degree Panoramic Image Generation based on
   Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.13141)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13141.md)]
 - FusionFrames: Efficient Architectural Aspects for Text-to-Video
@@ -38,9 +41,6 @@
 - GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark - [[Arxiv](https://arxiv.org/abs/2311.12022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12022.md)]
 - GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
   Demonstration - [[Arxiv](https://arxiv.org/abs/2311.12015)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12015.md)]
-- System 2 Attention (is something you might need too) - [[Arxiv](https://arxiv.org/abs/2311.11829)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11829.md)]
-- Igniting Language Intelligence: The Hitchhiker's Guide From
-  Chain-of-Thought Reasoning to Language Agents - [[Arxiv](https://arxiv.org/abs/2311.11797)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.11797.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
