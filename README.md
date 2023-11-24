@@ -7,6 +7,8 @@
 - LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes - [[Arxiv](https://arxiv.org/abs/2311.13384)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13384.md)]
 - Using Human Feedback to Fine-tune Diffusion Models without Any Reward
   Model - [[Arxiv](https://arxiv.org/abs/2311.13231)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13231.md)]
+- ComPEFT: Compression for Communicating Parameter Efficient Updates via
+  Sparsification and Quantization - [[Arxiv](https://arxiv.org/abs/2311.13171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13171.md)]
 - Diffusion360: Seamless 360 Degree Panoramic Image Generation based on
   Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.13141)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13141.md)]
 - FusionFrames: Efficient Architectural Aspects for Text-to-Video
@@ -39,7 +41,6 @@
 - Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.12092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12092.md)]
 - PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape
   Prediction - [[Arxiv](https://arxiv.org/abs/2311.12024)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12024.md)]
-- GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark - [[Arxiv](https://arxiv.org/abs/2311.12022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12022.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
