@@ -4,6 +4,7 @@
 - Adaptive Confidence Smoothing for Generalized Zero-Shot Learning - [[Arxiv](https://arxiv.org/abs/1812.09903)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.09903.md)]
 - Face Completion with Semantic Knowledge and Collaborative Adversarial   Learning - [[Arxiv](https://arxiv.org/abs/1812.03252)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.03252.md)]
 - Generalized Zero- and Few-Shot Learning via Aligned Variational   Autoencoders - [[Arxiv](https://arxiv.org/abs/1812.01784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.01784.md)]
+- Playing Text-Adventure Games with Graph-Based Deep Reinforcement   Learning - [[Arxiv](https://arxiv.org/abs/1812.01628)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.01628.md)]
 - Deep Inception Generative Network for Cognitive Image Inpainting - [[Arxiv](https://arxiv.org/abs/1812.01458)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.01458.md)]
 
 ### November 2018

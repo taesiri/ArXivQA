@@ -26,6 +26,7 @@
   Mirror with a Triaxial Hall Effect Sensor - [[Arxiv](https://arxiv.org/abs/2311.12778)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12778.md)]
 - SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh
   Reconstruction and High-Quality Mesh Rendering - [[Arxiv](https://arxiv.org/abs/2311.12775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12775.md)]
+- minimax: Efficient Baselines for Autocurricula in JAX - [[Arxiv](https://arxiv.org/abs/2311.12716)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12716.md)]
 - Diffusion Model Alignment Using Direct Preference Optimization - [[Arxiv](https://arxiv.org/abs/2311.12908)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12908.md)]
 - GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via
   Blender-Oriented GPT Planning - [[Arxiv](https://arxiv.org/abs/2311.12631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12631.md)]
@@ -39,8 +40,6 @@
 - PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape
   Prediction - [[Arxiv](https://arxiv.org/abs/2311.12024)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12024.md)]
 - GPQA: A Graduate-Level Google-Proof Q&amp;A Benchmark - [[Arxiv](https://arxiv.org/abs/2311.12022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12022.md)]
-- GPT-4V(ision) for Robotics: Multimodal Task Planning from Human
-  Demonstration - [[Arxiv](https://arxiv.org/abs/2311.12015)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12015.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
