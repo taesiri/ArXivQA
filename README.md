@@ -3,7 +3,30 @@
 ## Latest 25 Papers
 - Visual In-Context Prompting - [[Arxiv](https://arxiv.org/abs/2311.13601)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13601.md)]
 - ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs - [[Arxiv](https://arxiv.org/abs/2311.13600)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13600.md)]
+- Machine Translation to Control Formality Features in the Target Language - [[Arxiv](https://arxiv.org/abs/2311.13475)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13475.md)]
+- Complexity-Guided Curriculum Learning for Text Graphs - [[Arxiv](https://arxiv.org/abs/2311.13472)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13472.md)]
+- Comparative Analysis of Linear Regression, Gaussian Elimination, and LU
+  Decomposition for CT Real Estate Purchase Decisions - [[Arxiv](https://arxiv.org/abs/2311.13471)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13471.md)]
+- Span-Based Optimal Sample Complexity for Average Reward MDPs - [[Arxiv](https://arxiv.org/abs/2311.13469)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13469.md)]
+- Accelerating Inference in Molecular Diffusion Models with Latent
+  Representations of Protein Structure - [[Arxiv](https://arxiv.org/abs/2311.13466)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13466.md)]
+- Multi-Objective Bayesian Optimization with Active Preference Learning - [[Arxiv](https://arxiv.org/abs/2311.13460)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13460.md)]
+- The Tempered Hilbert Simplex Distance and Its Application To Non-linear
+  Embeddings of TEMs - [[Arxiv](https://arxiv.org/abs/2311.13459)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13459.md)]
+- Generation of Explanations for Logic Reasoning - [[Arxiv](https://arxiv.org/abs/2311.13455)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13455.md)]
+- Explaining high-dimensional text classifiers - [[Arxiv](https://arxiv.org/abs/2311.13454)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13454.md)]
+- Differentially Private Non-Convex Optimization under the KL Condition
+  with Optimal Rates - [[Arxiv](https://arxiv.org/abs/2311.13447)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13447.md)]
+- Transfer Attacks and Defenses for Large Language Models on Coding Tasks - [[Arxiv](https://arxiv.org/abs/2311.13445)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13445.md)]
+- SkeletonGait: Gait Recognition Using Skeleton Maps - [[Arxiv](https://arxiv.org/abs/2311.13444)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13444.md)]
+- Guided Flows for Generative Modeling and Decision Making - [[Arxiv](https://arxiv.org/abs/2311.13443)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13443.md)]
 - PG-Video-LLaVA: Pixel Grounding Large Video-Language Models - [[Arxiv](https://arxiv.org/abs/2311.13435)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13435.md)]
+- Recurrent neural networks and transfer learning for elasto-plasticity in
+  woven composites - [[Arxiv](https://arxiv.org/abs/2311.13434)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13434.md)]
+- Extracting individual variable information for their decoupling, direct
+  mutual information and multi-feature Granger causality - [[Arxiv](https://arxiv.org/abs/2311.13431)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13431.md)]
+- From Images to Connections: Can DQN with GNNs learn the Strategic Game
+  of Hex? - [[Arxiv](https://arxiv.org/abs/2311.13414)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13414.md)]
 - LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes - [[Arxiv](https://arxiv.org/abs/2311.13384)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13384.md)]
 - Using Human Feedback to Fine-tune Diffusion Models without Any Reward
   Model - [[Arxiv](https://arxiv.org/abs/2311.13231)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13231.md)]
@@ -14,33 +37,6 @@
 - FusionFrames: Efficient Architectural Aspects for Text-to-Video
   Generation Pipeline - [[Arxiv](https://arxiv.org/abs/2311.13073)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13073.md)]
 - GAIA: a benchmark for General AI Assistants - [[Arxiv](https://arxiv.org/abs/2311.12983)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12983.md)]
-- Physics-guided Shape-from-Template: Monocular Video Perception through
-  Neural Surrogate Models - [[Arxiv](https://arxiv.org/abs/2311.12796)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12796.md)]
-- ShareGPT4V: Improving Large Multi-Modal Models with Better Captions - [[Arxiv](https://arxiv.org/abs/2311.12793)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12793.md)]
-- Intrinsic Image Decomposition via Ordinal Shading - [[Arxiv](https://arxiv.org/abs/2311.12792)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12792.md)]
-- Mechanistically analyzing the effects of fine-tuning on procedurally
-  defined tasks - [[Arxiv](https://arxiv.org/abs/2311.12786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12786.md)]
-- Optimality in Mean Estimation: Beyond Worst-Case, Beyond Sub-Gaussian,
-  and Beyond $1+α$ Moments - [[Arxiv](https://arxiv.org/abs/2311.12784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12784.md)]
-- Quantifying Impairment and Disease Severity Using AI Models Trained on
-  Healthy Subjects - [[Arxiv](https://arxiv.org/abs/2311.12781)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12781.md)]
-- Calibration System and Algorithm Design for a Soft Hinged Micro Scanning
-  Mirror with a Triaxial Hall Effect Sensor - [[Arxiv](https://arxiv.org/abs/2311.12778)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12778.md)]
-- SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh
-  Reconstruction and High-Quality Mesh Rendering - [[Arxiv](https://arxiv.org/abs/2311.12775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12775.md)]
-- minimax: Efficient Baselines for Autocurricula in JAX - [[Arxiv](https://arxiv.org/abs/2311.12716)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12716.md)]
-- Diffusion Model Alignment Using Direct Preference Optimization - [[Arxiv](https://arxiv.org/abs/2311.12908)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12908.md)]
-- GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via
-  Blender-Oriented GPT Planning - [[Arxiv](https://arxiv.org/abs/2311.12631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12631.md)]
-- HierSpeech++: Bridging the Gap between Semantic and Acoustic
-  Representation of Speech by Hierarchical Variational Inference for Zero-shot
-  Speech Synthesis - [[Arxiv](https://arxiv.org/abs/2311.12454)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12454.md)]
-- NeuroPrompts: An Adaptive Framework to Optimize Prompts for
-  Text-to-Image Generation - [[Arxiv](https://arxiv.org/abs/2311.12229)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12229.md)]
-- PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics - [[Arxiv](https://arxiv.org/abs/2311.12198)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12198.md)]
-- Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.12092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12092.md)]
-- PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape
-  Prediction - [[Arxiv](https://arxiv.org/abs/2311.12024)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.12024.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)

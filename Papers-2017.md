@@ -74,6 +74,7 @@
 ### April 2017
 - DeepArchitect: Automatically Designing and Training Deep Architectures - [[Arxiv](https://arxiv.org/abs/1704.08792)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.08792.md)]
 - Unsupervised Learning of Depth and Ego-Motion from Video - [[Arxiv](https://arxiv.org/abs/1704.07813)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.07813.md)]
+- Equivalence Between Policy Gradients and Soft Q-Learning - [[Arxiv](https://arxiv.org/abs/1704.06440)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.06440.md)]
 - Learning to Fly by Crashing - [[Arxiv](https://arxiv.org/abs/1704.05588)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.05588.md)]
 - Unsupervised Learning by Predicting Noise - [[Arxiv](https://arxiv.org/abs/1704.05310)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.05310.md)]
 - TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering - [[Arxiv](https://arxiv.org/abs/1704.04497)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.04497.md)]

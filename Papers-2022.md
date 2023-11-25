@@ -224,6 +224,7 @@
 - InternVideo: General Video Foundation Models via Generative and   Discriminative Learning - [[Arxiv](https://arxiv.org/abs/2212.03191)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.03191.md)]
 - Semantic-Conditional Diffusion Networks for Image Captioning - [[Arxiv](https://arxiv.org/abs/2212.03099)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.03099.md)]
 - Iterative Next Boundary Detection for Instance Segmentation of Tree   Rings in Microscopy Images of Shrub Cross Sections - [[Arxiv](https://arxiv.org/abs/2212.03022)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.03022.md)]
+- Leveraging Different Learning Styles for Improved Knowledge Distillation   in Biomedical Imaging - [[Arxiv](https://arxiv.org/abs/2212.02931)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.02931.md)]
 - Diffusion Video Autoencoders: Toward Temporally Consistent Face Video   Editing via Disentangled Video Encoding - [[Arxiv](https://arxiv.org/abs/2212.02802)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.02802.md)]
 - Adaptive Testing of Computer Vision Models - [[Arxiv](https://arxiv.org/abs/2212.02774)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.02774.md)]
 - Learning Neural Parametric Head Models - [[Arxiv](https://arxiv.org/abs/2212.02761)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2212.02761.md)]
