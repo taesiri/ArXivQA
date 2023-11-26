@@ -3,7 +3,11 @@
 ## Latest 25 Papers
 - Visual In-Context Prompting - [[Arxiv](https://arxiv.org/abs/2311.13601)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13601.md)]
 - ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs - [[Arxiv](https://arxiv.org/abs/2311.13600)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13600.md)]
+- Labeling Neural Representations with Inverse Recognition - [[Arxiv](https://arxiv.org/abs/2311.13594)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13594.md)]
+- Physical Reasoning and Object Planning for Household Embodied Agents - [[Arxiv](https://arxiv.org/abs/2311.13577)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13577.md)]
 - WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space - [[Arxiv](https://arxiv.org/abs/2311.13570)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13570.md)]
+- Drilling Down into the Discourse Structure with LLMs for Long Document
+  Question Answering - [[Arxiv](https://arxiv.org/abs/2311.13565)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13565.md)]
 - Machine Translation to Control Formality Features in the Target Language - [[Arxiv](https://arxiv.org/abs/2311.13475)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13475.md)]
 - Complexity-Guided Curriculum Learning for Text Graphs - [[Arxiv](https://arxiv.org/abs/2311.13472)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13472.md)]
 - Comparative Analysis of Linear Regression, Gaussian Elimination, and LU
@@ -29,14 +33,7 @@
 - From Images to Connections: Can DQN with GNNs learn the Strategic Game
   of Hex? - [[Arxiv](https://arxiv.org/abs/2311.13414)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13414.md)]
 - LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes - [[Arxiv](https://arxiv.org/abs/2311.13384)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13384.md)]
-- Using Human Feedback to Fine-tune Diffusion Models without Any Reward
-  Model - [[Arxiv](https://arxiv.org/abs/2311.13231)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13231.md)]
-- ComPEFT: Compression for Communicating Parameter Efficient Updates via
-  Sparsification and Quantization - [[Arxiv](https://arxiv.org/abs/2311.13171)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13171.md)]
-- Diffusion360: Seamless 360 Degree Panoramic Image Generation based on
-  Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.13141)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13141.md)]
-- FusionFrames: Efficient Architectural Aspects for Text-to-Video
-  Generation Pipeline - [[Arxiv](https://arxiv.org/abs/2311.13073)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13073.md)]
+- Fact-based Court Judgment Prediction - [[Arxiv](https://arxiv.org/abs/2311.13350)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13350.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
