@@ -1,13 +1,26 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Retrieval-Augmented Layout Transformer for Content-Aware Layout
+  Generation - [[Arxiv](https://arxiv.org/abs/2311.13602)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13602.md)]
 - Visual In-Context Prompting - [[Arxiv](https://arxiv.org/abs/2311.13601)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13601.md)]
 - ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs - [[Arxiv](https://arxiv.org/abs/2311.13600)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13600.md)]
+- Covariance alignment: from maximum likelihood estimation to
+  Gromov-Wasserstein - [[Arxiv](https://arxiv.org/abs/2311.13595)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13595.md)]
 - Labeling Neural Representations with Inverse Recognition - [[Arxiv](https://arxiv.org/abs/2311.13594)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13594.md)]
+- On diffusion-based generative models and their error bounds: The
+  log-concave case with full convergence estimates - [[Arxiv](https://arxiv.org/abs/2311.13584)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13584.md)]
+- Adaptive Sampling for Deep Learning via Efficient Nonparametric Proxies - [[Arxiv](https://arxiv.org/abs/2311.13583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13583.md)]
 - Physical Reasoning and Object Planning for Household Embodied Agents - [[Arxiv](https://arxiv.org/abs/2311.13577)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13577.md)]
 - WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space - [[Arxiv](https://arxiv.org/abs/2311.13570)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13570.md)]
 - Drilling Down into the Discourse Structure with LLMs for Long Document
   Question Answering - [[Arxiv](https://arxiv.org/abs/2311.13565)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13565.md)]
+- Soulstyler: Using Large Language Model to Guide Image Style Transfer for
+  Target Object - [[Arxiv](https://arxiv.org/abs/2311.13562)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13562.md)]
+- Medical Image Retrieval Using Pretrained Embeddings - [[Arxiv](https://arxiv.org/abs/2311.13547)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13547.md)]
+- Enigma: Privacy-Preserving Execution of QAOA on Untrusted Quantum
+  Computers - [[Arxiv](https://arxiv.org/abs/2311.13546)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13546.md)]
+- LM-Cocktail: Resilient Tuning of Language Models via Model Merging - [[Arxiv](https://arxiv.org/abs/2311.13534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13534.md)]
 - Machine Translation to Control Formality Features in the Target Language - [[Arxiv](https://arxiv.org/abs/2311.13475)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13475.md)]
 - Complexity-Guided Curriculum Learning for Text Graphs - [[Arxiv](https://arxiv.org/abs/2311.13472)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13472.md)]
 - Comparative Analysis of Linear Regression, Gaussian Elimination, and LU
@@ -23,17 +36,6 @@
 - Differentially Private Non-Convex Optimization under the KL Condition
   with Optimal Rates - [[Arxiv](https://arxiv.org/abs/2311.13447)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13447.md)]
 - Transfer Attacks and Defenses for Large Language Models on Coding Tasks - [[Arxiv](https://arxiv.org/abs/2311.13445)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13445.md)]
-- SkeletonGait: Gait Recognition Using Skeleton Maps - [[Arxiv](https://arxiv.org/abs/2311.13444)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13444.md)]
-- Guided Flows for Generative Modeling and Decision Making - [[Arxiv](https://arxiv.org/abs/2311.13443)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13443.md)]
-- PG-Video-LLaVA: Pixel Grounding Large Video-Language Models - [[Arxiv](https://arxiv.org/abs/2311.13435)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13435.md)]
-- Recurrent neural networks and transfer learning for elasto-plasticity in
-  woven composites - [[Arxiv](https://arxiv.org/abs/2311.13434)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13434.md)]
-- Extracting individual variable information for their decoupling, direct
-  mutual information and multi-feature Granger causality - [[Arxiv](https://arxiv.org/abs/2311.13431)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13431.md)]
-- From Images to Connections: Can DQN with GNNs learn the Strategic Game
-  of Hex? - [[Arxiv](https://arxiv.org/abs/2311.13414)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13414.md)]
-- LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes - [[Arxiv](https://arxiv.org/abs/2311.13384)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13384.md)]
-- Fact-based Court Judgment Prediction - [[Arxiv](https://arxiv.org/abs/2311.13350)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13350.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
