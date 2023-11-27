@@ -1,6 +1,20 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- One Pass Streaming Algorithm for Super Long Token Attention
+  Approximation in Sublinear Space - [[Arxiv](https://arxiv.org/abs/2311.14652)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14652.md)]
+- ARIA: On the interaction between Architectures, Aggregation methods and
+  Initializations in federated visual classification - [[Arxiv](https://arxiv.org/abs/2311.14625)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14625.md)]
+- GPT Struct Me: Probing GPT Models on Narrative Entity Extraction - [[Arxiv](https://arxiv.org/abs/2311.14583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14583.md)]
+- SER_AMPEL: A multi-source dataset for SER of Italian older adults - [[Arxiv](https://arxiv.org/abs/2311.14483)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14483.md)]
+- Towards Concept-based Interpretability of Skin Lesion Diagnosis using
+  Vision-Language Models - [[Arxiv](https://arxiv.org/abs/2311.14339)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14339.md)]
+- Robust and Interpretable COVID-19 Diagnosis on Chest X-ray Images using
+  Adversarial Training - [[Arxiv](https://arxiv.org/abs/2311.14227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14227.md)]
+- Byzantine Robustness and Partial Participation Can Be Achieved
+  Simultaneously: Just Clip Gradient Differences - [[Arxiv](https://arxiv.org/abs/2311.14127)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14127.md)]
+- Searching for Snippets of Open-Domain Dialogue in Task-Oriented Dialogue
+  Datasets - [[Arxiv](https://arxiv.org/abs/2311.14076)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14076.md)]
 - Retrieval-Augmented Layout Transformer for Content-Aware Layout
   Generation - [[Arxiv](https://arxiv.org/abs/2311.13602)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13602.md)]
 - Visual In-Context Prompting - [[Arxiv](https://arxiv.org/abs/2311.13601)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13601.md)]
@@ -25,16 +39,6 @@
   Question Answering - [[Arxiv](https://arxiv.org/abs/2311.13565)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13565.md)]
 - Soulstyler: Using Large Language Model to Guide Image Style Transfer for
   Target Object - [[Arxiv](https://arxiv.org/abs/2311.13562)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13562.md)]
-- A Unified Framework for Trace-induced Quantum Kernels - [[Arxiv](https://arxiv.org/abs/2311.13552)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13552.md)]
-- ADriver-I: A General World Model for Autonomous Driving - [[Arxiv](https://arxiv.org/abs/2311.13549)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13549.md)]
-- Medical Image Retrieval Using Pretrained Embeddings - [[Arxiv](https://arxiv.org/abs/2311.13547)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13547.md)]
-- Enigma: Privacy-Preserving Execution of QAOA on Untrusted Quantum
-  Computers - [[Arxiv](https://arxiv.org/abs/2311.13546)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13546.md)]
-- Linear Log-Normal Attention with Unbiased Concentration - [[Arxiv](https://arxiv.org/abs/2311.13541)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13541.md)]
-- LM-Cocktail: Resilient Tuning of Language Models via Model Merging - [[Arxiv](https://arxiv.org/abs/2311.13534)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13534.md)]
-- Current Topological and Machine Learning Applications for Bias Detection
-  in Text - [[Arxiv](https://arxiv.org/abs/2311.13495)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13495.md)]
-- Machine Translation to Control Formality Features in the Target Language - [[Arxiv](https://arxiv.org/abs/2311.13475)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13475.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
