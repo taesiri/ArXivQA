@@ -21,6 +21,7 @@
 - Calibrated Language Models Must Hallucinate - [[Arxiv](https://arxiv.org/abs/2311.14648)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14648.md)]
 - More is Better in Modern Machine Learning: when Infinite
   Overparameterization is Optimal and Overfitting is Obligatory - [[Arxiv](https://arxiv.org/abs/2311.14646)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14646.md)]
+- A General Framework for User-Guided Bayesian Optimization - [[Arxiv](https://arxiv.org/abs/2311.14645)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14645.md)]
 - Continuous football player tracking from discrete broadcast data - [[Arxiv](https://arxiv.org/abs/2311.14642)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14642.md)]
 - Neuromorphic Intermediate Representation: A Unified Instruction Set for
   Interoperable Brain-Inspired Computing - [[Arxiv](https://arxiv.org/abs/2311.14641)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14641.md)]
@@ -42,7 +43,6 @@
 - Evolution of Neural Architectures for Financial Forecasting: A Note on
   Data Incompatibility during Crisis Periods - [[Arxiv](https://arxiv.org/abs/2311.14604)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14604.md)]
 - Animate124: Animating One Image to 4D Dynamic Scene - [[Arxiv](https://arxiv.org/abs/2311.14603)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14603.md)]
-- A Metalearned Neural Circuit for Nonparametric Bayesian Inference - [[Arxiv](https://arxiv.org/abs/2311.14601)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14601.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
