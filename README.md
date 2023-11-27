@@ -7,14 +7,31 @@
   Initializations in federated visual classification - [[Arxiv](https://arxiv.org/abs/2311.14625)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14625.md)]
 - GPT Struct Me: Probing GPT Models on Narrative Entity Extraction - [[Arxiv](https://arxiv.org/abs/2311.14583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14583.md)]
 - SER_AMPEL: A multi-source dataset for SER of Italian older adults - [[Arxiv](https://arxiv.org/abs/2311.14483)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14483.md)]
+- TEA: Test-time Energy Adaptation - [[Arxiv](https://arxiv.org/abs/2311.14402)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14402.md)]
 - Towards Concept-based Interpretability of Skin Lesion Diagnosis using
   Vision-Language Models - [[Arxiv](https://arxiv.org/abs/2311.14339)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14339.md)]
+- Maximizing Discrimination Capability of Knowledge Distillation with
+  Energy-based Score - [[Arxiv](https://arxiv.org/abs/2311.14334)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14334.md)]
+- AdaMedGraph: Adaboosting Graph Neural Networks for Personalized Medicine - [[Arxiv](https://arxiv.org/abs/2311.14304)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14304.md)]
+- Racing With ROS 2 A Navigation System for an Autonomous Formula Student
+  Race Car - [[Arxiv](https://arxiv.org/abs/2311.14276)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14276.md)]
+- RSB-Pose: Robust Short-Baseline Binocular 3D Human Pose Estimation with
+  Occlusion Handling - [[Arxiv](https://arxiv.org/abs/2311.14242)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14242.md)]
+- Pseudo-label Correction for Instance-dependent Noise Using
+  Teacher-student Framework - [[Arxiv](https://arxiv.org/abs/2311.14237)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14237.md)]
 - Robust and Interpretable COVID-19 Diagnosis on Chest X-ray Images using
   Adversarial Training - [[Arxiv](https://arxiv.org/abs/2311.14227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14227.md)]
 - Byzantine Robustness and Partial Participation Can Be Achieved
   Simultaneously: Just Clip Gradient Differences - [[Arxiv](https://arxiv.org/abs/2311.14127)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14127.md)]
+- Subnetwork Ensembles - [[Arxiv](https://arxiv.org/abs/2311.14101)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14101.md)]
 - Searching for Snippets of Open-Domain Dialogue in Task-Oriented Dialogue
   Datasets - [[Arxiv](https://arxiv.org/abs/2311.14076)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14076.md)]
+- Low Latency Instance Segmentation by Continuous Clustering for Rotating
+  LiDAR Sensors - [[Arxiv](https://arxiv.org/abs/2311.13976)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13976.md)]
+- Object Location Prediction in Real-time using LSTM Neural Network and
+  Polynomial Regression - [[Arxiv](https://arxiv.org/abs/2311.13950)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13950.md)]
+- Dialogue Quality and Emotion Annotations for Customer Support
+  Conversations - [[Arxiv](https://arxiv.org/abs/2311.13910)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13910.md)]
 - Retrieval-Augmented Layout Transformer for Content-Aware Layout
   Generation - [[Arxiv](https://arxiv.org/abs/2311.13602)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13602.md)]
 - Visual In-Context Prompting - [[Arxiv](https://arxiv.org/abs/2311.13601)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13601.md)]
@@ -25,20 +42,6 @@
 - Labeling Neural Representations with Inverse Recognition - [[Arxiv](https://arxiv.org/abs/2311.13594)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13594.md)]
 - Risk-sensitive Markov Decision Process and Learning under General
   Utility Functions - [[Arxiv](https://arxiv.org/abs/2311.13589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13589.md)]
-- A Survey of Serverless Machine Learning Model Inference - [[Arxiv](https://arxiv.org/abs/2311.13587)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13587.md)]
-- On diffusion-based generative models and their error bounds: The
-  log-concave case with full convergence estimates - [[Arxiv](https://arxiv.org/abs/2311.13584)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13584.md)]
-- Adaptive Sampling for Deep Learning via Efficient Nonparametric Proxies - [[Arxiv](https://arxiv.org/abs/2311.13583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13583.md)]
-- PaSS: Parallel Speculative Sampling - [[Arxiv](https://arxiv.org/abs/2311.13581)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13581.md)]
-- $σ$-PCA: a unified neural model for linear and nonlinear principal
-  component analysis - [[Arxiv](https://arxiv.org/abs/2311.13580)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13580.md)]
-- Physical Reasoning and Object Planning for Household Embodied Agents - [[Arxiv](https://arxiv.org/abs/2311.13577)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13577.md)]
-- XAGen: 3D Expressive Human Avatars Generation - [[Arxiv](https://arxiv.org/abs/2311.13574)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13574.md)]
-- WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space - [[Arxiv](https://arxiv.org/abs/2311.13570)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13570.md)]
-- Drilling Down into the Discourse Structure with LLMs for Long Document
-  Question Answering - [[Arxiv](https://arxiv.org/abs/2311.13565)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13565.md)]
-- Soulstyler: Using Large Language Model to Guide Image Style Transfer for
-  Target Object - [[Arxiv](https://arxiv.org/abs/2311.13562)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.13562.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
