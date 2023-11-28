@@ -1,48 +1,49 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
-- SEGIC: Unleashing the Emergent Correspondence for In-Context
-  Segmentation - [[Arxiv](https://arxiv.org/abs/2311.14671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14671.md)]
-- Differentiable and accelerated spherical harmonic and Wigner transforms - [[Arxiv](https://arxiv.org/abs/2311.14670)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14670.md)]
-- Understanding Self-Supervised Features for Learning Unsupervised
-  Instance Segmentation - [[Arxiv](https://arxiv.org/abs/2311.14665)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14665.md)]
-- Convergence Analysis for Learning Orthonormal Deep Linear Neural
-  Networks - [[Arxiv](https://arxiv.org/abs/2311.14658)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14658.md)]
-- Charting New Territories: Exploring the Geographic and Geospatial
-  Capabilities of Multimodal LLMs - [[Arxiv](https://arxiv.org/abs/2311.14656)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14656.md)]
-- JetLOV: Enhancing Jet Tree Tagging through Neural Network Learning of
-  Optimal LundNet Variables - [[Arxiv](https://arxiv.org/abs/2311.14654)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14654.md)]
-- Data-driven Prior Learning for Bayesian Optimisation - [[Arxiv](https://arxiv.org/abs/2311.14653)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14653.md)]
-- One Pass Streaming Algorithm for Super Long Token Attention
-  Approximation in Sublinear Space - [[Arxiv](https://arxiv.org/abs/2311.14652)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14652.md)]
-- History Filtering in Imperfect Information Games: Algorithms and
-  Complexity - [[Arxiv](https://arxiv.org/abs/2311.14651)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14651.md)]
-- Learning in Deep Factor Graphs with Gaussian Belief Propagation - [[Arxiv](https://arxiv.org/abs/2311.14649)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14649.md)]
-- Calibrated Language Models Must Hallucinate - [[Arxiv](https://arxiv.org/abs/2311.14648)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14648.md)]
-- More is Better in Modern Machine Learning: when Infinite
-  Overparameterization is Optimal and Overfitting is Obligatory - [[Arxiv](https://arxiv.org/abs/2311.14646)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14646.md)]
-- A General Framework for User-Guided Bayesian Optimization - [[Arxiv](https://arxiv.org/abs/2311.14645)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14645.md)]
-- Continuous football player tracking from discrete broadcast data - [[Arxiv](https://arxiv.org/abs/2311.14642)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14642.md)]
-- Neuromorphic Intermediate Representation: A Unified Instruction Set for
-  Interoperable Brain-Inspired Computing - [[Arxiv](https://arxiv.org/abs/2311.14641)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14641.md)]
-- Unsupervised high-throughput segmentation of cells and cell nuclei in
-  quantitative phase images - [[Arxiv](https://arxiv.org/abs/2311.14639)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14639.md)]
-- One Strike, You're Out: Detecting Markush Structures in Low
-  Signal-to-Noise Ratio Images - [[Arxiv](https://arxiv.org/abs/2311.14633)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14633.md)]
-- Differentially Private SGD Without Clipping Bias: An Error-Feedback
-  Approach - [[Arxiv](https://arxiv.org/abs/2311.14632)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14632.md)]
-- CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image
-  Personalization - [[Arxiv](https://arxiv.org/abs/2311.14631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14631.md)]
-- ARIA: On the interaction between Architectures, Aggregation methods and
-  Initializations in federated visual classification - [[Arxiv](https://arxiv.org/abs/2311.14625)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14625.md)]
-- Neural Style Transfer for Computer Games - [[Arxiv](https://arxiv.org/abs/2311.14617)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14617.md)]
-- An Industrial Perspective on Multi-Agent Decision Making for
-  Interoperable Robot Navigation following the VDA5050 Standard - [[Arxiv](https://arxiv.org/abs/2311.14615)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14615.md)]
-- Analysis of the expected $L_2$ error of an over-parametrized deep neural
-  network estimate learned by gradient descent without regularization - [[Arxiv](https://arxiv.org/abs/2311.14609)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14609.md)]
-- Evolution of Neural Architectures for Financial Forecasting: A Note on
-  Data Incompatibility during Crisis Periods - [[Arxiv](https://arxiv.org/abs/2311.14604)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14604.md)]
-- Animate124: Animating One Image to 4D Dynamic Scene - [[Arxiv](https://arxiv.org/abs/2311.14603)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.14603.md)]
+- Test-time Adaptation of Discriminative Models via Diffusion Generative
+  Feedback - [[Arxiv](https://arxiv.org/abs/2311.16102)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16102.md)]
+- On Bringing Robots Home - [[Arxiv](https://arxiv.org/abs/2311.16098)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16098.md)]
+- CG-HOI: Contact-Guided 3D Human-Object Interaction Generation - [[Arxiv](https://arxiv.org/abs/2311.16097)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16097.md)]
+- Animatable Gaussians: Learning Pose-dependent Gaussian Maps for
+  High-fidelity Human Avatar Modeling - [[Arxiv](https://arxiv.org/abs/2311.16096)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16096.md)]
+- Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person
+  Images - [[Arxiv](https://arxiv.org/abs/2311.16094)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16094.md)]
+- Have we built machines that think like people? - [[Arxiv](https://arxiv.org/abs/2311.16093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16093.md)]
+- BERT Goes Off-Topic: Investigating the Domain Transfer Challenge using
+  Genre Classification - [[Arxiv](https://arxiv.org/abs/2311.16083)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16083.md)]
+- DiffSLVA: Harnessing Diffusion Models for Sign Language Video
+  Anonymization - [[Arxiv](https://arxiv.org/abs/2311.16060)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16060.md)]
+- Exploring Attribute Variations in Style-based GANs using Diffusion
+  Models - [[Arxiv](https://arxiv.org/abs/2311.16052)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16052.md)]
+- Machine Learning-Enhanced Aircraft Landing Scheduling under
+  Uncertainties - [[Arxiv](https://arxiv.org/abs/2311.16030)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16030.md)]
+- A Neural Framework for Generalized Causal Sensitivity Analysis - [[Arxiv](https://arxiv.org/abs/2311.16026)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16026.md)]
+- RIDE: Real-time Intrusion Detection via Explainable Machine Learning
+  Implemented in a Memristor Hardware Architecture - [[Arxiv](https://arxiv.org/abs/2311.16018)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16018.md)]
+- Using Decentralized Aggregation for Federated Learning with Differential
+  Privacy - [[Arxiv](https://arxiv.org/abs/2311.16008)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16008.md)]
+- Adversaral Doodles: Interpretable and Human-drawable Attacks Provide
+  Describable Insights - [[Arxiv](https://arxiv.org/abs/2311.15994)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15994.md)]
+- Efficient Pre-training for Localized Instruction Generation of Videos - [[Arxiv](https://arxiv.org/abs/2311.15964)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15964.md)]
+- CheapNET: Improving Light-weight speech enhancement network by projected
+  loss function - [[Arxiv](https://arxiv.org/abs/2311.15959)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15959.md)]
+- Tell2Design: A Dataset for Language-Guided Floor Plan Generation - [[Arxiv](https://arxiv.org/abs/2311.15941)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15941.md)]
+- Reinforcement Learning for Wildfire Mitigation in Simulated Disaster
+  Environments - [[Arxiv](https://arxiv.org/abs/2311.15925)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15925.md)]
+- Diagnosis driven Anomaly Detection for CPS - [[Arxiv](https://arxiv.org/abs/2311.15924)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15924.md)]
+- Enhancing Perceptual Quality in Video Super-Resolution through
+  Temporally-Consistent Detail Synthesis using Diffusion Models - [[Arxiv](https://arxiv.org/abs/2311.15908)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15908.md)]
+- FLASC: A Flare-Sensitive Clustering Algorithm: Extending HDBSCAN* for
+  Detecting Branches in Clusters - [[Arxiv](https://arxiv.org/abs/2311.15887)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15887.md)]
+- EVCap: Retrieval-Augmented Image Captioning with External Visual-Name
+  Memory for Open-World Comprehension - [[Arxiv](https://arxiv.org/abs/2311.15879)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15879.md)]
+- Cell Maps Representation For Lung Adenocarcinoma Growth Patterns
+  Classification In Whole Slide Images - [[Arxiv](https://arxiv.org/abs/2311.15847)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15847.md)]
+- Increasing Coverage and Precision of Textual Information in Multilingual
+  Knowledge Graphs - [[Arxiv](https://arxiv.org/abs/2311.15781)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15781.md)]
+- Adinkra Symbol Recognition using Classical Machine Learning and Deep
+  Learning - [[Arxiv](https://arxiv.org/abs/2311.15728)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.15728.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
