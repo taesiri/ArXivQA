@@ -34,10 +34,10 @@
   Anonymization - [[Arxiv](https://arxiv.org/abs/2311.16060)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16060.md)]
 - Metric Space Magnitude for Evaluating Unsupervised Representation
   Learning - [[Arxiv](https://arxiv.org/abs/2311.16054)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16054.md)]
-- Evaluating the Impact of Personalized Value Alignment in Human-Robot
-  Interaction: Insights into Trust and Team Performance Outcomes - [[Arxiv](https://arxiv.org/abs/2311.16051)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16051.md)]
 - Exploring Attribute Variations in Style-based GANs using Diffusion
   Models - [[Arxiv](https://arxiv.org/abs/2311.16052)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16052.md)]
+- Evaluating the Impact of Personalized Value Alignment in Human-Robot
+  Interaction: Insights into Trust and Team Performance Outcomes - [[Arxiv](https://arxiv.org/abs/2311.16051)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16051.md)]
 - Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF
   Decomposition and Ray Tracing - [[Arxiv](https://arxiv.org/abs/2311.16043)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16043.md)]
 - Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps - [[Arxiv](https://arxiv.org/abs/2311.16042)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.16042.md)]
