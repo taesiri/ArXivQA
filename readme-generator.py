@@ -80,7 +80,7 @@ def csv_to_markdown(paper_id, repo_path, arxiv_helper):
     df = pd.read_csv(df_path)
     paper_title, _ = arxiv_helper.fetch_paper_details(paper_id)
     # remove new lines from title
-    paper_title =  paper_title.replace("\n", " ").replace("\r", "")
+    paper_title = paper_title.replace("\n", " ").replace("\r", "")
 
     markdown_lines = [f"# [{paper_title}](https://arxiv.org/abs/{paper_id})"]
     for _, row in df.iterrows():
@@ -93,9 +93,18 @@ def csv_to_markdown(paper_id, repo_path, arxiv_helper):
         md_file.write("\n".join(markdown_lines))
 
 
-def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md", header_file="HF/HEADER.md", new_readme_file="HF/README.md"):
+def create_parent_md(
+    paper_ids,
+    arxiv_helper,
+    main_output_file="./README.md",
+    header_file="HF/HEADER.md",
+    new_readme_file="HF/README.md",
+):
     # Fetch and sort the paper details
-    paper_details = [(pid, *arxiv_helper.fetch_paper_details(pid)) for pid in tqdm(paper_ids, desc="Fetching paper details", ncols=100)]
+    paper_details = [
+        (pid, *arxiv_helper.fetch_paper_details(pid))
+        for pid in tqdm(paper_ids, desc="Fetching paper details", ncols=100)
+    ]
     paper_details.sort(key=lambda x: x[2], reverse=True)  # Sort by publication date
 
     yearly_data = {}
@@ -107,14 +116,14 @@ def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md", he
         md_link = f"https://github.com/taesiri/ArXivQA/blob/main/papers/{paper_id}.md"
         title = title.replace("\n", " ").replace("\r", "")
         line = f"- {title} - [[Arxiv]({arxiv_link})] [[QA]({md_link})]\n"
-        
+
         if year not in yearly_data:
             yearly_data[year] = {"content": [], "months": set()}
-        
+
         if month_name not in yearly_data[year]["months"]:
             yearly_data[year]["content"].append(f"\n### {month_name} {year}\n")
             yearly_data[year]["months"].add(month_name)
-        
+
         yearly_data[year]["content"].append(line)
 
     # Save the yearly markdown files
@@ -125,24 +134,25 @@ def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md", he
     # Create the main README.md content
     main_lines = [
         "# Automated Question Answering with ArXiv Papers\n",
-        "\n## Latest 25 Papers\n"
+        "\n## Latest 25 Papers\n",
     ]
     # Add the latest 25 papers to the main README
     for paper_id, title, _ in paper_details[:25]:
         arxiv_link = f"https://arxiv.org/abs/{paper_id}"
         md_link = f"https://github.com/taesiri/ArXivQA/blob/main/papers/{paper_id}.md"
         main_lines.append(f"- {title} - [[Arxiv]({arxiv_link})] [[QA]({md_link})]\n")
-    
+
     main_lines.append("\n## List of Papers by Year\n")
     for year in sorted(yearly_data.keys(), reverse=True):
-        main_lines.append(f"- [Papers for {year}](https://github.com/taesiri/ArXivQA/blob/main/Papers-{year}.md)\n")
-
+        main_lines.append(
+            f"- [Papers for {year}](https://github.com/taesiri/ArXivQA/blob/main/Papers-{year}.md)\n"
+        )
 
     # Acknowledgements section with link
     main_lines += [
         "\n## Acknowledgements\n",
         "This project is made possible through the generous support of ",
-        "[Anthropic](https://www.anthropic.com/), who provided free access to the `Claude-2.1` API.\n"
+        "[Anthropic](https://www.anthropic.com/), who provided free access to the `Claude-2.1` API.\n",
     ]
 
     # Write to the original README.md file
@@ -161,7 +171,6 @@ def create_parent_md(paper_ids, arxiv_helper, main_output_file="./README.md", he
         md_file.write(readme_content)
 
 
-
 def get_missing_paper_ids_from_cache(paper_ids, cache_db):
     """Return paper_ids that are not in the cache."""
     missing_ids = []
@@ -171,36 +180,48 @@ def get_missing_paper_ids_from_cache(paper_ids, cache_db):
     return missing_ids
 
 
-# MAIN EXECUTION
-REPO_URL = "https://huggingface.co/datasets/taesiri/arxiv_qa.git"
-REPO_PATH = "./arxiv_qa_repo"
-if not os.path.exists(REPO_PATH):
-    git.Repo.clone_from(REPO_URL, REPO_PATH)
-else:
-    repo = git.Repo(REPO_PATH)
-    repo.remotes.origin.pull()
+def generate_readme():
+    # MAIN EXECUTION
+    REPO_URL = "https://huggingface.co/datasets/taesiri/arxiv_qa.git"
+    REPO_PATH = "./arxiv_qa_repo"
+    if not os.path.exists(REPO_PATH):
+        git.Repo.clone_from(REPO_URL, REPO_PATH)
+    else:
+        repo = git.Repo(REPO_PATH)
+        repo.remotes.origin.pull()
 
-paper_ids = get_paper_ids_from_repo(REPO_PATH)
-arxiv_helper = ArxivHelper()
+    paper_ids = get_paper_ids_from_repo(REPO_PATH)
+    arxiv_helper = ArxivHelper()
 
-# Check which paper_ids are missing from the cache
-missing_paper_ids = get_missing_paper_ids_from_cache(paper_ids, arxiv_helper.cache_db)
-print(len(missing_paper_ids), "papers are missing from the cache.")
+    # Check which paper_ids are missing from the cache
+    missing_paper_ids = get_missing_paper_ids_from_cache(
+        paper_ids, arxiv_helper.cache_db
+    )
+    print(len(missing_paper_ids), "papers are missing from the cache.")
 
-# Fetch details only for missing papers with a wait time every 50 requests
-for i, pid in enumerate(
-    tqdm(missing_paper_ids, desc="Fetching missing paper details", ncols=100)
-):
-    time.sleep(3)  # Sleep for 2 minutes
-    arxiv_helper.fetch_paper_details(pid)
+    # Fetch details only for missing papers with a wait time every 50 requests
+    for i, pid in enumerate(
+        tqdm(missing_paper_ids, desc="Fetching missing paper details", ncols=100)
+    ):
+        time.sleep(3)  # Sleep for 2 minutes
+        arxiv_helper.fetch_paper_details(pid)
 
-# Generate markdown for all papers
-for pid in tqdm(paper_ids, desc="Generating Markdown", ncols=100):
-    csv_to_markdown(pid, REPO_PATH, arxiv_helper)
+    # Generate markdown for all papers
+    for pid in tqdm(paper_ids, desc="Generating Markdown", ncols=100):
+        csv_to_markdown(pid, REPO_PATH, arxiv_helper)
+
+    create_parent_md(paper_ids, arxiv_helper)
+
+    with open("paper_ids.txt", "w") as f:
+        for pid in sorted(paper_ids):
+            f.write(pid + "\n")
 
 
-create_parent_md(paper_ids, arxiv_helper)
-
-with open("paper_ids.txt", "w") as f:
-    for pid in sorted(paper_ids):
-        f.write(pid + "\n")
+if __name__ == "__main__":
+    while True:
+        try:
+            generate_readme()
+        except Exception as e:
+            print(e)
+        print("Sleeping for 1 hour...")
+        time.sleep(60 * 60)
