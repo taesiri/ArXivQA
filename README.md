@@ -36,7 +36,7 @@
 - Gaussian Shell Maps for Efficient 3D Human Generation - [[Arxiv](https://arxiv.org/abs/2311.17857)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17857.md)]
 - Leveraging Graph Diffusion Models for Network Refinement Tasks - [[Arxiv](https://arxiv.org/abs/2311.17856)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17856.md)]
 - Maximum Entropy Model Correction in Reinforcement Learning - [[Arxiv](https://arxiv.org/abs/2311.17855)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17855.md)]
-- Evaluating VLMs for Score-Based, Multi-Probe Annotation of 3D Objects - [[Arxiv](https://arxiv.org/abs/2311.17851)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17851.md)]
+- On the Adversarial Robustness of Graph Contrastive Learning Methods - [[Arxiv](https://arxiv.org/abs/2311.17853)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17853.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
