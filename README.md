@@ -1,8 +1,8 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
-- Material Palette: Extraction of Materials from a Single Image - [[Arxiv](https://arxiv.org/abs/2311.17060)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17060.md)]
 - HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting - [[Arxiv](https://arxiv.org/abs/2311.17061)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17061.md)]
+- Material Palette: Extraction of Materials from a Single Image - [[Arxiv](https://arxiv.org/abs/2311.17060)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17060.md)]
 - Mission-driven Exploration for Accelerated Deep Reinforcement Learning
   with Temporal Logic Task Specifications - [[Arxiv](https://arxiv.org/abs/2311.17059)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17059.md)]
 - Panoptic Video Scene Graph Generation - [[Arxiv](https://arxiv.org/abs/2311.17058)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.17058.md)]
