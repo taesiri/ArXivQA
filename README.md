@@ -19,6 +19,8 @@
 - MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation - [[Arxiv](https://arxiv.org/abs/2311.18829)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18829.md)]
 - One-step Diffusion with Distribution Matching Distillation - [[Arxiv](https://arxiv.org/abs/2311.18828)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18828.md)]
 - Motion-Conditioned Image Animation for Video Editing - [[Arxiv](https://arxiv.org/abs/2311.18827)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18827.md)]
+- Geometry-Aware Normalizing Wasserstein Flows for Optimal Causal
+  Inference - [[Arxiv](https://arxiv.org/abs/2311.18826)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18826.md)]
 - CAST: Cross-Attention in Space and Time for Video Action Recognition - [[Arxiv](https://arxiv.org/abs/2311.18825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18825.md)]
 - An Adaptive Framework for Generalizing Network Traffic Prediction
   towards Uncertain Environments - [[Arxiv](https://arxiv.org/abs/2311.18824)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18824.md)]
@@ -35,8 +37,6 @@
 - Pre-registration for Predictive Modeling - [[Arxiv](https://arxiv.org/abs/2311.18807)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18807.md)]
 - Efficient Baseline for Quantitative Precipitation Forecasting in
   Weather4cast 2023 - [[Arxiv](https://arxiv.org/abs/2311.18806)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18806.md)]
-- Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural
-  Scrambled Text - [[Arxiv](https://arxiv.org/abs/2311.18805)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18805.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
