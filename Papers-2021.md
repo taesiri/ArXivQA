@@ -33,6 +33,7 @@
 - VL-Adapter: Parameter-Efficient Transfer Learning for   Vision-and-Language Tasks - [[Arxiv](https://arxiv.org/abs/2112.06825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.06825.md)]
 - Step-unrolled Denoising Autoencoders for Text Generation - [[Arxiv](https://arxiv.org/abs/2112.06749)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.06749.md)]
 - CR-FIQA: Face Image Quality Assessment by Learning Sample Relative   Classifiability - [[Arxiv](https://arxiv.org/abs/2112.06592)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.06592.md)]
+- The Overlooked Classifier in Human-Object Interaction Recognition - [[Arxiv](https://arxiv.org/abs/2112.06392)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.06392.md)]
 - Self-Supervised Bot Play for Conversational Recommendation with   Justifications - [[Arxiv](https://arxiv.org/abs/2112.05197)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.05197.md)]
 - On Convergence of Federated Averaging Langevin Dynamics - [[Arxiv](https://arxiv.org/abs/2112.05120)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.05120.md)]
 - Scaling Language Models: Methods, Analysis &amp; Insights from Training   Gopher - [[Arxiv](https://arxiv.org/abs/2112.11446)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2112.11446.md)]
@@ -255,6 +256,7 @@
 - Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods   in Natural Language Processing - [[Arxiv](https://arxiv.org/abs/2107.13586)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.13586.md)]
 - Functorial String Diagrams for Reverse-Mode Automatic Differentiation - [[Arxiv](https://arxiv.org/abs/2107.13433)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.13433.md)]
 - Unsupervised Learning of Neurosymbolic Encoders - [[Arxiv](https://arxiv.org/abs/2107.13132)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.13132.md)]
+- Is Object Detection Necessary for Human-Object Interaction Recognition? - [[Arxiv](https://arxiv.org/abs/2107.13083)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.13083.md)]
 - Joint Shapley values: a measure of joint feature importance - [[Arxiv](https://arxiv.org/abs/2107.11357)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.11357.md)]
 - Few Shots Are All You Need: A Progressive Few Shot Learning Approach for   Low Resource Handwritten Text Recognition - [[Arxiv](https://arxiv.org/abs/2107.10064)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.10064.md)]
 - Conditional GANs with Auxiliary Discriminative Classifier - [[Arxiv](https://arxiv.org/abs/2107.10060)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2107.10060.md)]
@@ -444,6 +446,7 @@
 - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval - [[Arxiv](https://arxiv.org/abs/2104.00650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00650.md)]
 - NeRF-VAE: A Geometry Aware 3D Scene Generative Model - [[Arxiv](https://arxiv.org/abs/2104.00587)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00587.md)]
 - Improved Image Generation via Sparse Modeling - [[Arxiv](https://arxiv.org/abs/2104.00464)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00464.md)]
+- Exploiting Relationship for Complex-scene Image Generation - [[Arxiv](https://arxiv.org/abs/2104.00356)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00356.md)]
 - Jigsaw Clustering for Unsupervised Visual Representation Learning - [[Arxiv](https://arxiv.org/abs/2104.00323)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00323.md)]
 - Domain Invariant Adversarial Learning - [[Arxiv](https://arxiv.org/abs/2104.00322)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2104.00322.md)]
 

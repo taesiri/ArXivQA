@@ -37,6 +37,7 @@
 
 ### April 2016
 - Context Encoders: Feature Learning by Inpainting - [[Arxiv](https://arxiv.org/abs/1604.07379)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.07379.md)]
+- Learning Models for Actions and Person-Object Interactions with Transfer   to Question Answering - [[Arxiv](https://arxiv.org/abs/1604.04808)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.04808.md)]
 - Joint Unsupervised Learning of Deep Representations and Image Clusters - [[Arxiv](https://arxiv.org/abs/1604.03628)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.03628.md)]
 - The Curious Robot: Learning Visual Representations via Physical   Interactions - [[Arxiv](https://arxiv.org/abs/1604.01360)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.01360.md)]
 

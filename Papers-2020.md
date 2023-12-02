@@ -119,6 +119,7 @@
 - Sample-Efficient Automated Deep Reinforcement Learning - [[Arxiv](https://arxiv.org/abs/2009.01555)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.01555.md)]
 - Learning to summarize from human feedback - [[Arxiv](https://arxiv.org/abs/2009.01325)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.01325.md)]
 - WaveGrad: Estimating Gradients for Waveform Generation - [[Arxiv](https://arxiv.org/abs/2009.00713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.00713.md)]
+- Zero-Shot Human-Object Interaction Recognition via Affordance Graphs - [[Arxiv](https://arxiv.org/abs/2009.01039)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.01039.md)]
 - Neural Architecture Search For Keyword Spotting - [[Arxiv](https://arxiv.org/abs/2009.00165)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2009.00165.md)]
 
 ### August 2020

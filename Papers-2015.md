@@ -26,6 +26,7 @@
 - A Critical Review of Recurrent Neural Networks for Sequence Learning - [[Arxiv](https://arxiv.org/abs/1506.00019)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1506.00019.md)]
 - Unsupervised Visual Representation Learning by Context Prediction - [[Arxiv](https://arxiv.org/abs/1505.05192)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1505.05192.md)]
 - Visual Semantic Role Labeling - [[Arxiv](https://arxiv.org/abs/1505.04474)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1505.04474.md)]
+- Contextual Action Recognition with R*CNN - [[Arxiv](https://arxiv.org/abs/1505.01197)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1505.01197.md)]
 
 ### April 2015
 - Fast R-CNN - [[Arxiv](https://arxiv.org/abs/1504.08083)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1504.08083.md)]

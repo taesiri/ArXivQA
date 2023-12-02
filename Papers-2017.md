@@ -19,6 +19,7 @@
 - Improvements to context based self-supervised learning - [[Arxiv](https://arxiv.org/abs/1711.06379)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.06379.md)]
 - Dual-Path Convolutional Image-Text Embeddings with Instance Loss - [[Arxiv](https://arxiv.org/abs/1711.05535)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.05535.md)]
 - Denotational validation of higher-order Bayesian inference - [[Arxiv](https://arxiv.org/abs/1711.03219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.03219.md)]
+- Attentional Pooling for Action Recognition - [[Arxiv](https://arxiv.org/abs/1711.01467)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.01467.md)]
 - Hierarchical Representations for Efficient Architecture Search - [[Arxiv](https://arxiv.org/abs/1711.00436)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1711.00436.md)]
 
 ### October 2017

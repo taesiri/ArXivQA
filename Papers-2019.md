@@ -2,6 +2,7 @@
 ### December 2019
 - RC-DARTS: Resource Constrained Differentiable Architecture Search - [[Arxiv](https://arxiv.org/abs/1912.12814)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.12814.md)]
 - NAS evaluation is frustratingly hard - [[Arxiv](https://arxiv.org/abs/1912.12522)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.12522.md)]
+- Something-Else: Compositional Action Recognition with Spatial-Temporal   Interaction Networks - [[Arxiv](https://arxiv.org/abs/1912.09930)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.09930.md)]
 - Improving Knowledge-aware Dialogue Generation via Knowledge Base   Question Answering - [[Arxiv](https://arxiv.org/abs/1912.07491)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.07491.md)]
 - Image Processing Using Multi-Code GAN Prior - [[Arxiv](https://arxiv.org/abs/1912.07116)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.07116.md)]
 - ClusterFit: Improving Generalization of Visual Representations - [[Arxiv](https://arxiv.org/abs/1912.03330)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.03330.md)]
@@ -69,6 +70,7 @@
 - An Internal Learning Approach to Video Inpainting - [[Arxiv](https://arxiv.org/abs/1909.07957)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.07957.md)]
 - Learning to Deceive with Attention-Based Explanations - [[Arxiv](https://arxiv.org/abs/1909.07913)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.07913.md)]
 - Towards Scalable Multi-domain Conversational Agents: The Schema-Guided   Dialogue Dataset - [[Arxiv](https://arxiv.org/abs/1909.05855)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.05855.md)]
+- Specifying Object Attributes and Relations in Interactive Scene   Generation - [[Arxiv](https://arxiv.org/abs/1909.05379)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.05379.md)]
 - CTRL: A Conditional Transformer Language Model for Controllable   Generation - [[Arxiv](https://arxiv.org/abs/1909.05858)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.05858.md)]
 - ACUTE-EVAL: Improved Dialogue Evaluation with Optimized Questions and   Multi-turn Comparisons - [[Arxiv](https://arxiv.org/abs/1909.03087)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.03087.md)]
 - Image Inpainting with Learnable Bidirectional Attention Maps - [[Arxiv](https://arxiv.org/abs/1909.00968)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.00968.md)]
