@@ -252,11 +252,13 @@
 - Federated Stochastic Gradient Langevin Dynamics - [[Arxiv](https://arxiv.org/abs/2004.11231)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.11231.md)]
 - Distilling Knowledge for Fast Retrieval-based Chat-bots - [[Arxiv](https://arxiv.org/abs/2004.11045)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.11045.md)]
 - Considering Likelihood in NLP Classification Explanations with Occlusion   and Language Modeling - [[Arxiv](https://arxiv.org/abs/2004.09890)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.09890.md)]
+- Detailed 2D-3D Joint Representation for Human-Object Interaction - [[Arxiv](https://arxiv.org/abs/2004.08154)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.08154.md)]
 - Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks - [[Arxiv](https://arxiv.org/abs/2004.06165)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.06165.md)]
 - Will I Sound Like Me? Improving Persona Consistency in Dialogues through   Pragmatic Self-Consciousness - [[Arxiv](https://arxiv.org/abs/2004.05816)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.05816.md)]
 - Dense Passage Retrieval for Open-Domain Question Answering - [[Arxiv](https://arxiv.org/abs/2004.04906)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.04906.md)]
 - TextGAIL: Generative Adversarial Imitation Learning for Text Generation - [[Arxiv](https://arxiv.org/abs/2004.13796)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.13796.md)]
 - There and Back Again: Revisiting Backpropagation Saliency Methods - [[Arxiv](https://arxiv.org/abs/2004.02866)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.02866.md)]
+- PaStaNet: Toward Human Activity Knowledge Engine - [[Arxiv](https://arxiv.org/abs/2004.00945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.00945.md)]
 - A Survey on Conversational Recommender Systems - [[Arxiv](https://arxiv.org/abs/2004.00646)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2004.00646.md)]
 
 ### March 2020

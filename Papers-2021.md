@@ -378,6 +378,7 @@
 - Simple steps are all you need: Frank-Wolfe and generalized   self-concordant functions - [[Arxiv](https://arxiv.org/abs/2105.13913)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.13913.md)]
 - OTTers: One-turn Topic Transitions for Open-Domain Dialogue - [[Arxiv](https://arxiv.org/abs/2105.13710)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.13710.md)]
 - Data Augmentation for Text Generation Without Any Augmented Data - [[Arxiv](https://arxiv.org/abs/2105.13650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.13650.md)]
+- ST-HOI: A Spatial-Temporal Baseline for Human-Object Interaction   Detection in Videos - [[Arxiv](https://arxiv.org/abs/2105.11731)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.11731.md)]
 - Pre-trained Language Model based Ranking in Baidu Search - [[Arxiv](https://arxiv.org/abs/2105.11108)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.11108.md)]
 - Unsupervised Speech Recognition - [[Arxiv](https://arxiv.org/abs/2105.11084)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.11084.md)]
 - Revisiting the Negative Data of Distantly Supervised Relation Extraction - [[Arxiv](https://arxiv.org/abs/2105.10158)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2105.10158.md)]

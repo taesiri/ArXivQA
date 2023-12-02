@@ -47,5 +47,6 @@
 - XGBoost: A Scalable Tree Boosting System - [[Arxiv](https://arxiv.org/abs/1603.02754)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1603.02754.md)]
 
 ### February 2016
+- Visual Genome: Connecting Language and Vision Using Crowdsourced Dense   Image Annotations - [[Arxiv](https://arxiv.org/abs/1602.07332)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.07332.md)]
 - A Probabilistic Dependent Type System based on Non-Deterministic Beta   Reduction - [[Arxiv](https://arxiv.org/abs/1602.06420)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.06420.md)]
 - "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [[Arxiv](https://arxiv.org/abs/1602.04938)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.04938.md)]
