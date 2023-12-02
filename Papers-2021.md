@@ -234,6 +234,7 @@
 - Fastformer: Additive Attention Can Be All You Need - [[Arxiv](https://arxiv.org/abs/2108.09084)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.09084.md)]
 - Spatio-Temporal Interaction Graph Parsing Networks for Human-Object   Interaction Recognition - [[Arxiv](https://arxiv.org/abs/2108.08633)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.08633.md)]
 - Exploiting Scene Graphs for Human-Object Interaction Detection - [[Arxiv](https://arxiv.org/abs/2108.08584)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.08584.md)]
+- D3D-HOI: Dynamic 3D Human-Object Interactions from Videos - [[Arxiv](https://arxiv.org/abs/2108.08420)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.08420.md)]
 - A good body is all you need: avoiding catastrophic interference via   agent architecture search - [[Arxiv](https://arxiv.org/abs/2108.08398)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.08398.md)]
 - On the Opportunities and Risks of Foundation Models - [[Arxiv](https://arxiv.org/abs/2108.07258)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.07258.md)]
 - MMChat: Multi-Modal Chat Dataset on Social Media - [[Arxiv](https://arxiv.org/abs/2108.07154)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2108.07154.md)]

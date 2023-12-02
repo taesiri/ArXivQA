@@ -277,6 +277,7 @@
 
 ### March 2020
 - How Useful is Self-Supervised Pretraining for Visual Tasks? - [[Arxiv](https://arxiv.org/abs/2003.14323)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.14323.md)]
+- Learning Human-Object Interaction Detection using Interaction Points - [[Arxiv](https://arxiv.org/abs/2003.14023)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.14023.md)]
 - InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining - [[Arxiv](https://arxiv.org/abs/2003.13198)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.13198.md)]
 - VIOLIN: A Large-Scale Dataset for Video-and-Language Inference - [[Arxiv](https://arxiv.org/abs/2003.11618)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.11618.md)]
 - Rethinking Few-Shot Image Classification: a Good Embedding Is All You   Need? - [[Arxiv](https://arxiv.org/abs/2003.11539)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2003.11539.md)]

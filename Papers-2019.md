@@ -9,6 +9,7 @@
 - ClusterFit: Improving Generalization of Visual Representations - [[Arxiv](https://arxiv.org/abs/1912.03330)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.03330.md)]
 - Self-Supervised Visual Terrain Classification from Unsupervised Acoustic   Feature Learning - [[Arxiv](https://arxiv.org/abs/1912.03227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.03227.md)]
 - Infinite products and zero-one laws in categorical probability - [[Arxiv](https://arxiv.org/abs/1912.02769)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.02769.md)]
+- Generating Videos of Zero-Shot Compositions of Actions and Objects - [[Arxiv](https://arxiv.org/abs/1912.02401)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.02401.md)]
 - 15 Keypoints Is All You Need - [[Arxiv](https://arxiv.org/abs/1912.02323)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.02323.md)]
 - 12-in-1: Multi-Task Vision and Language Representation Learning - [[Arxiv](https://arxiv.org/abs/1912.02315)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.02315.md)]
 - Prioritized Unit Propagation with Periodic Resetting is (Almost) All You   Need for Random SAT Solving - [[Arxiv](https://arxiv.org/abs/1912.05906)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.05906.md)]

@@ -48,6 +48,7 @@
 - Representation Learning by Learning to Count - [[Arxiv](https://arxiv.org/abs/1708.06734)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.06734.md)]
 - SMASH: One-Shot Model Architecture Search through HyperNetworks - [[Arxiv](https://arxiv.org/abs/1708.05344)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.05344.md)]
 - Transitive Invariance for Self-supervised Visual Representation Learning - [[Arxiv](https://arxiv.org/abs/1708.02901)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.02901.md)]
+- PPR-FCN: Weakly Supervised Visual Relation Detection via Parallel   Pairwise R-FCN - [[Arxiv](https://arxiv.org/abs/1708.01956)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.01956.md)]
 - Localizing Moments in Video with Natural Language - [[Arxiv](https://arxiv.org/abs/1708.01641)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.01641.md)]
 - CASSL: Curriculum Accelerated Self-Supervised Learning - [[Arxiv](https://arxiv.org/abs/1708.01354)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.01354.md)]
 - Unsupervised Representation Learning by Sorting Sequences - [[Arxiv](https://arxiv.org/abs/1708.01246)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1708.01246.md)]

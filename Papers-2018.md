@@ -2,6 +2,7 @@
 ### December 2018
 - Improving the Interpretability of Deep Neural Networks with Knowledge   Distillation - [[Arxiv](https://arxiv.org/abs/1812.10924)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.10924.md)]
 - Adaptive Confidence Smoothing for Generalized Zero-Shot Learning - [[Arxiv](https://arxiv.org/abs/1812.09903)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.09903.md)]
+- Grounded Human-Object Interaction Hotspots from Video - [[Arxiv](https://arxiv.org/abs/1812.04558)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.04558.md)]
 - Face Completion with Semantic Knowledge and Collaborative Adversarial   Learning - [[Arxiv](https://arxiv.org/abs/1812.03252)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.03252.md)]
 - Generalized Zero- and Few-Shot Learning via Aligned Variational   Autoencoders - [[Arxiv](https://arxiv.org/abs/1812.01784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.01784.md)]
 - Playing Text-Adventure Games with Graph-Based Deep Reinforcement   Learning - [[Arxiv](https://arxiv.org/abs/1812.01628)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1812.01628.md)]
