@@ -871,6 +871,7 @@
 - Towards Understanding Why Mask-Reconstruction Pretraining Helps in   Downstream Tasks - [[Arxiv](https://arxiv.org/abs/2206.03826)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.03826.md)]
 - Detection Hub: Unifying Object Detection Datasets via Query Adaptation   on Language Embedding - [[Arxiv](https://arxiv.org/abs/2206.03484)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.03484.md)]
 - Unsupervised Context Aware Sentence Representation Pretraining for   Multi-lingual Dense Retrieval - [[Arxiv](https://arxiv.org/abs/2206.03281)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.03281.md)]
+- Spatial Parsing and Dynamic Temporal Pooling networks for Human-Object   Interaction detection - [[Arxiv](https://arxiv.org/abs/2206.03061)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.03061.md)]
 - TriBYOL: Triplet BYOL for Self-Supervised Representation Learning - [[Arxiv](https://arxiv.org/abs/2206.03012)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.03012.md)]
 - Self-Knowledge Distillation based Self-Supervised Learning for Covid-19   Detection from Chest X-Ray Images - [[Arxiv](https://arxiv.org/abs/2206.03009)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.03009.md)]
 - Self-supervised Learning for Human Activity Recognition Using 700,000   Person-days of Wearable Data - [[Arxiv](https://arxiv.org/abs/2206.02909)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.02909.md)]
@@ -882,6 +883,7 @@
 - Making Large Language Models Better Reasoners with Step-Aware Verifier - [[Arxiv](https://arxiv.org/abs/2206.02336)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.02336.md)]
 - PIDNet: A Real-time Semantic Segmentation Network Inspired by PID   Controllers - [[Arxiv](https://arxiv.org/abs/2206.02066)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.02066.md)]
 - Delving into the Openness of CLIP - [[Arxiv](https://arxiv.org/abs/2206.01986)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01986.md)]
+- Video-based Human-Object Interaction Detection from Tubelet Tokens - [[Arxiv](https://arxiv.org/abs/2206.01908)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01908.md)]
 - Revisiting the "Video" in Video-Language Understanding - [[Arxiv](https://arxiv.org/abs/2206.01720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01720.md)]
 - PROMISSING: Pruning Missing Values in Neural Networks - [[Arxiv](https://arxiv.org/abs/2206.01640)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01640.md)]
 - A Survey on Computationally Efficient Neural Architecture Search - [[Arxiv](https://arxiv.org/abs/2206.01520)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2206.01520.md)]
@@ -1053,6 +1055,7 @@
 - What to look at and where: Semantic and Spatial Refined Transformer for   detecting human-object interactions - [[Arxiv](https://arxiv.org/abs/2204.00746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.00746.md)]
 - Implicit Feedback for Dense Passage Retrieval: A Counterfactual Approach - [[Arxiv](https://arxiv.org/abs/2204.00718)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.00718.md)]
 - Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language - [[Arxiv](https://arxiv.org/abs/2204.00598)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.00598.md)]
+- End-to-End Zero-Shot HOI Detection via Vision and Language Knowledge   Distillation - [[Arxiv](https://arxiv.org/abs/2204.03541)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.03541.md)]
 - Distill-VQ: Learning Retrieval Oriented Vector Quantization By   Distilling Knowledge from Dense Embeddings - [[Arxiv](https://arxiv.org/abs/2204.00185)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2204.00185.md)]
 
 ### March 2022
@@ -1078,6 +1081,7 @@
 - MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction   Detection - [[Arxiv](https://arxiv.org/abs/2203.14709)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.14709.md)]
 - STaR: Bootstrapping Reasoning With Reasoning - [[Arxiv](https://arxiv.org/abs/2203.14465)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.14465.md)]
 - UV Volumes for Real-time Rendering of Editable Free-view Human   Performance - [[Arxiv](https://arxiv.org/abs/2203.14402)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.14402.md)]
+- Discovering Human-Object Interaction Concepts via Self-Compositional   Learning - [[Arxiv](https://arxiv.org/abs/2203.14272)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.14272.md)]
 - How Severe is Benchmark-Sensitivity in Video Self-Supervised Learning? - [[Arxiv](https://arxiv.org/abs/2203.14221)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.14221.md)]
 - GEN-VLKT: Simplify Association and Enhance Interaction Understanding for   HOI Detection - [[Arxiv](https://arxiv.org/abs/2203.13954)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.13954.md)]
 - AutoML for Deep Recommender Systems: A Survey - [[Arxiv](https://arxiv.org/abs/2203.13922)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2203.13922.md)]

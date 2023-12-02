@@ -1,5 +1,6 @@
 
 ### December 2019
+- PPDM: Parallel Point Detection and Matching for Real-time Human-Object   Interaction Detection - [[Arxiv](https://arxiv.org/abs/1912.12898)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.12898.md)]
 - RC-DARTS: Resource Constrained Differentiable Architecture Search - [[Arxiv](https://arxiv.org/abs/1912.12814)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.12814.md)]
 - NAS evaluation is frustratingly hard - [[Arxiv](https://arxiv.org/abs/1912.12522)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.12522.md)]
 - Something-Else: Compositional Action Recognition with Spatial-Temporal   Interaction Networks - [[Arxiv](https://arxiv.org/abs/1912.09930)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1912.09930.md)]
@@ -66,6 +67,7 @@
 - On Model Stability as a Function of Random Seed - [[Arxiv](https://arxiv.org/abs/1909.10447)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.10447.md)]
 - Understanding and Robustifying Differentiable Architecture Search - [[Arxiv](https://arxiv.org/abs/1909.09656)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.09656.md)]
 - Self-Training for End-to-End Speech Recognition - [[Arxiv](https://arxiv.org/abs/1909.09116)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.09116.md)]
+- Pose-aware Multi-level Feature Network for Human Object Interaction   Detection - [[Arxiv](https://arxiv.org/abs/1909.08453)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.08453.md)]
 - Megatron-LM: Training Multi-Billion Parameter Language Models Using   Model Parallelism - [[Arxiv](https://arxiv.org/abs/1909.08053)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.08053.md)]
 - An Internal Learning Approach to Video Inpainting - [[Arxiv](https://arxiv.org/abs/1909.07957)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.07957.md)]
 - Learning to Deceive with Attention-Based Explanations - [[Arxiv](https://arxiv.org/abs/1909.07913)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1909.07913.md)]
@@ -177,6 +179,7 @@
 - On zero-shot recognition of generic objects - [[Arxiv](https://arxiv.org/abs/1904.04957)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.04957.md)]
 - Leveraging the Invariant Side of Generative Zero-Shot Learning - [[Arxiv](https://arxiv.org/abs/1904.04092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.04092.md)]
 - Self-supervised Spatio-temporal Representation Learning for Videos by   Predicting Motion and Appearance Statistics - [[Arxiv](https://arxiv.org/abs/1904.03597)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.03597.md)]
+- Detecting Human-Object Interactions via Functional Generalization - [[Arxiv](https://arxiv.org/abs/1904.03181)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.03181.md)]
 - Data Shapley: Equitable Valuation of Data for Machine Learning - [[Arxiv](https://arxiv.org/abs/1904.02868)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.02868.md)]
 - VideoBERT: A Joint Model for Video and Language Representation Learning - [[Arxiv](https://arxiv.org/abs/1904.01766)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.01766.md)]
 - Creativity Inspired Zero-Shot Learning - [[Arxiv](https://arxiv.org/abs/1904.01109)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1904.01109.md)]
@@ -190,6 +193,7 @@
 - sharpDARTS: Faster and More Accurate Differentiable Architecture Search - [[Arxiv](https://arxiv.org/abs/1903.09900)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.09900.md)]
 - Learning Correspondence from the Cycle-Consistency of Time - [[Arxiv](https://arxiv.org/abs/1903.07593)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.07593.md)]
 - A Deep Look into Neural Ranking Models for Information Retrieval - [[Arxiv](https://arxiv.org/abs/1903.06902)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.06902.md)]
+- Turbo Learning Framework for Human-Object Interactions Recognition and   Human Pose Estimation - [[Arxiv](https://arxiv.org/abs/1903.06355)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.06355.md)]
 - All You Need is a Few Shifts: Designing Efficient Convolutional Neural   Networks for Image Classification - [[Arxiv](https://arxiv.org/abs/1903.05285)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.05285.md)]
 - Pluralistic Image Completion - [[Arxiv](https://arxiv.org/abs/1903.04227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.04227.md)]
 - Deep Reinforcement Learning of Volume-guided Progressive View Inpainting   for 3D Point Scene Completion from a Single Depth Image - [[Arxiv](https://arxiv.org/abs/1903.04019)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.04019.md)]

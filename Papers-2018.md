@@ -14,6 +14,7 @@
 - Self-Supervised Video Representation Learning with Space-Time Cubic   Puzzles - [[Arxiv](https://arxiv.org/abs/1811.09795)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1811.09795.md)]
 - Bytes are All You Need: End-to-End Multilingual Speech Recognition and   Synthesis with Bytes - [[Arxiv](https://arxiv.org/abs/1811.09021)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1811.09021.md)]
 - Causal Inference by String Diagram Surgery - [[Arxiv](https://arxiv.org/abs/1811.08338)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1811.08338.md)]
+- Transferable Interactiveness Knowledge for Human-Object Interaction   Detection - [[Arxiv](https://arxiv.org/abs/1811.08264)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1811.08264.md)]
 - Generalized Zero-Shot Recognition based on Visually Semantic Embedding - [[Arxiv](https://arxiv.org/abs/1811.07993)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1811.07993.md)]
 - Scalable agent alignment via reward modeling: a research direction - [[Arxiv](https://arxiv.org/abs/1811.07871)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1811.07871.md)]
 - On Hallucinating Context and Background Pixels from a Face Mask using   Multi-scale GANs - [[Arxiv](https://arxiv.org/abs/1811.07104)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1811.07104.md)]
@@ -40,8 +41,10 @@
 
 ### August 2018
 - AISHELL-2: Transforming Mandarin ASR Research Into Industrial Scale - [[Arxiv](https://arxiv.org/abs/1808.10583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.10583.md)]
+- iCAN: Instance-Centric Attention Network for Human-Object Interaction   Detection - [[Arxiv](https://arxiv.org/abs/1808.10437)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.10437.md)]
 - Discriminative Deep Dyna-Q: Robust Planning for Dialogue Policy Learning - [[Arxiv](https://arxiv.org/abs/1808.09442)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.09442.md)]
 - All You Need is "Love": Evading Hate-speech Detection - [[Arxiv](https://arxiv.org/abs/1808.09115)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.09115.md)]
+- Learning Human-Object Interactions by Graph Parsing Neural Networks - [[Arxiv](https://arxiv.org/abs/1808.07962)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.07962.md)]
 - Everybody Dance Now - [[Arxiv](https://arxiv.org/abs/1808.07371)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.07371.md)]
 - Pervasive Attention: 2D Convolutional Neural Networks for   Sequence-to-Sequence Prediction - [[Arxiv](https://arxiv.org/abs/1808.03867)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.03867.md)]
 - Self-Supervised Model Adaptation for Multimodal Semantic Segmentation - [[Arxiv](https://arxiv.org/abs/1808.03833)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.03833.md)]
