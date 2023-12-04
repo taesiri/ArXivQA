@@ -1,5 +1,14 @@
 
+### December 2023
+- Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized   Model Responses - [[Arxiv](https://arxiv.org/abs/2312.00763)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00763.md)]
+- SeaLLMs -- Large Language Models for Southeast Asia - [[Arxiv](https://arxiv.org/abs/2312.00738)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00738.md)]
+- Instruction-tuning Aligns LLMs to the Human Brain - [[Arxiv](https://arxiv.org/abs/2312.00575)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00575.md)]
+- Dolphins: Multimodal Language Model for Driving - [[Arxiv](https://arxiv.org/abs/2312.00438)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00438.md)]
+- StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style   Adapter - [[Arxiv](https://arxiv.org/abs/2312.00330)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00330.md)]
+
 ### November 2023
+- Towards Accurate Differential Diagnosis with Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.00164)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00164.md)]
+- GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs - [[Arxiv](https://arxiv.org/abs/2312.00093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00093.md)]
 - Dataset Distillation in Large Data Era - [[Arxiv](https://arxiv.org/abs/2311.18838)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18838.md)]
 - TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex   Traffic Scenarios - [[Arxiv](https://arxiv.org/abs/2311.18839)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18839.md)]
 - Just Add $π$! Pose Induced Video Transformers for Understanding   Activities of Daily Living - [[Arxiv](https://arxiv.org/abs/2311.18840)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18840.md)]
@@ -43,6 +52,7 @@
 - Can training neural language models on a curriculum with developmentally   plausible data improve alignment with human reading behavior? - [[Arxiv](https://arxiv.org/abs/2311.18761)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18761.md)]
 - TaskBench: Benchmarking Large Language Models for Task Automation - [[Arxiv](https://arxiv.org/abs/2311.18760)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18760.md)]
 - Semi-supervised Semantic Segmentation via Boosting Uncertainty on   Unlabeled Data - [[Arxiv](https://arxiv.org/abs/2311.18758)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18758.md)]
+- Merlin:Empowering Multimodal LLMs with Foresight Minds - [[Arxiv](https://arxiv.org/abs/2312.00589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00589.md)]
 - Language Model Agents Suffer from Compositional Generalization in Web   Automation - [[Arxiv](https://arxiv.org/abs/2311.18751)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18751.md)]
 - TransCORALNet: A Two-Stream Transformer CORAL Networks for Supply Chain   Credit Assessment Cold Start - [[Arxiv](https://arxiv.org/abs/2311.18749)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18749.md)]
 - A data-science pipeline to enable the Interpretability of Many-Objective   Feature Selection - [[Arxiv](https://arxiv.org/abs/2311.18746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18746.md)]
@@ -214,6 +224,7 @@
 - SCOPE-RL: A Python Library for Offline Reinforcement Learning and   Off-Policy Evaluation - [[Arxiv](https://arxiv.org/abs/2311.18206)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18206.md)]
 - INarIG: Iterative Non-autoregressive Instruct Generation Model For   Word-Level Auto Completion - [[Arxiv](https://arxiv.org/abs/2311.18200)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18200.md)]
 - Hy-Tracker: A Novel Framework for Enhancing Efficiency and Accuracy of   Object Tracking in Hyperspectral Videos - [[Arxiv](https://arxiv.org/abs/2311.18199)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18199.md)]
+- HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion   Models - [[Arxiv](https://arxiv.org/abs/2312.00079)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00079.md)]
 - S-T CRF: Spatial-Temporal Conditional Random Field for Human Trajectory   Prediction - [[Arxiv](https://arxiv.org/abs/2311.18198)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18198.md)]
 - COVID-19 Vaccine Misinformation in Middle Income Countries - [[Arxiv](https://arxiv.org/abs/2311.18195)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18195.md)]
 - Positional Information Matters for Invariant In-Context Learning: A Case   Study of Simple Function Classes - [[Arxiv](https://arxiv.org/abs/2311.18194)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18194.md)]

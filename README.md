@@ -1,6 +1,15 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized
+  Model Responses - [[Arxiv](https://arxiv.org/abs/2312.00763)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00763.md)]
+- SeaLLMs -- Large Language Models for Southeast Asia - [[Arxiv](https://arxiv.org/abs/2312.00738)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00738.md)]
+- Instruction-tuning Aligns LLMs to the Human Brain - [[Arxiv](https://arxiv.org/abs/2312.00575)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00575.md)]
+- Dolphins: Multimodal Language Model for Driving - [[Arxiv](https://arxiv.org/abs/2312.00438)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00438.md)]
+- StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style
+  Adapter - [[Arxiv](https://arxiv.org/abs/2312.00330)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00330.md)]
+- Towards Accurate Differential Diagnosis with Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.00164)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00164.md)]
+- GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs - [[Arxiv](https://arxiv.org/abs/2312.00093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00093.md)]
 - Dataset Distillation in Large Data Era - [[Arxiv](https://arxiv.org/abs/2311.18838)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18838.md)]
 - TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex
   Traffic Scenarios - [[Arxiv](https://arxiv.org/abs/2311.18839)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18839.md)]
@@ -28,15 +37,6 @@
 - ElasticDiffusion: Training-free Arbitrary Size Image Generation - [[Arxiv](https://arxiv.org/abs/2311.18822)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18822.md)]
 - Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce
   Grokking - [[Arxiv](https://arxiv.org/abs/2311.18817)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18817.md)]
-- IMMA: Immunizing text-to-image Models against Malicious Adaptation - [[Arxiv](https://arxiv.org/abs/2311.18815)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18815.md)]
-- Is Underwater Image Enhancement All Object Detectors Need? - [[Arxiv](https://arxiv.org/abs/2311.18814)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18814.md)]
-- What Do Llamas Really Think? Revealing Preference Biases in Language
-  Model Representations - [[Arxiv](https://arxiv.org/abs/2311.18812)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18812.md)]
-- Convergence of Nonconvex PnP-ADMM with MMSE Denoisers - [[Arxiv](https://arxiv.org/abs/2311.18810)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18810.md)]
-- FoundPose: Unseen Object Pose Estimation with Foundation Features - [[Arxiv](https://arxiv.org/abs/2311.18809)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18809.md)]
-- Pre-registration for Predictive Modeling - [[Arxiv](https://arxiv.org/abs/2311.18807)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18807.md)]
-- Efficient Baseline for Quantitative Precipitation Forecasting in
-  Weather4cast 2023 - [[Arxiv](https://arxiv.org/abs/2311.18806)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2311.18806.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
