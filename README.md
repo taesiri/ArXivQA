@@ -24,6 +24,7 @@
   Capabilities in Multi-Agent Mystery Games - [[Arxiv](https://arxiv.org/abs/2312.00746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00746.md)]
 - Scalable Meta-Learning with Gaussian Processes - [[Arxiv](https://arxiv.org/abs/2312.00742)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00742.md)]
 - Adversarial Score Distillation: When score distillation meets GAN - [[Arxiv](https://arxiv.org/abs/2312.00739)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00739.md)]
+- SeaLLMs -- Large Language Models for Southeast Asia - [[Arxiv](https://arxiv.org/abs/2312.00738)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00738.md)]
 - Gaussian Grouping: Segment and Edit Anything in 3D Scenes - [[Arxiv](https://arxiv.org/abs/2312.00732)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00732.md)]
 - Safe Reinforcement Learning in Tensor Reproducing Kernel Hilbert Space - [[Arxiv](https://arxiv.org/abs/2312.00727)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00727.md)]
 - Removing Biases from Molecular Representations via Information
@@ -36,7 +37,6 @@
 - Object Detector Differences when using Synthetic and Real Training Data - [[Arxiv](https://arxiv.org/abs/2312.00694)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00694.md)]
 - VisionaryVR: An Optical Simulation Tool for Evaluating and Optimizing
   Vision Correction Solutions in Virtual Reality - [[Arxiv](https://arxiv.org/abs/2312.00692)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00692.md)]
-- Open-vocabulary object 6D pose estimation - [[Arxiv](https://arxiv.org/abs/2312.00690)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.00690.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
