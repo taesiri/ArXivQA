@@ -758,6 +758,7 @@
 - Less is More: Consistent Video Depth Estimation with Masked Frames   Modeling - [[Arxiv](https://arxiv.org/abs/2208.00380)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2208.00380.md)]
 - MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient   Neural Field Rendering on Mobile Architectures - [[Arxiv](https://arxiv.org/abs/2208.00277)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2208.00277.md)]
 - A Survey on Masked Autoencoder for Self-supervised Learning in Vision   and Beyond - [[Arxiv](https://arxiv.org/abs/2208.00173)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2208.00173.md)]
+- Language Models Can Teach Themselves to Program Better - [[Arxiv](https://arxiv.org/abs/2207.14502)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.14502.md)]
 - Visual Recognition by Request - [[Arxiv](https://arxiv.org/abs/2207.14227)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.14227.md)]
 - Contrastive Masked Autoencoders are Stronger Vision Learners - [[Arxiv](https://arxiv.org/abs/2207.13532)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.13532.md)]
 - Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment - [[Arxiv](https://arxiv.org/abs/2207.13085)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2207.13085.md)]
