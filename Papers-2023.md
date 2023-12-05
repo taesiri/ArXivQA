@@ -28,6 +28,7 @@
 - VerA: Versatile Anonymization Fit for Clinical Facial Images - [[Arxiv](https://arxiv.org/abs/2312.02124)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02124.md)]
 - Mathematical Supplement for the $\texttt{gsplat}$ Library - [[Arxiv](https://arxiv.org/abs/2312.02121)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02121.md)]
 - Magicoder: Source Code Is All You Need - [[Arxiv](https://arxiv.org/abs/2312.02120)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02120.md)]
+- Tree of Attacks: Jailbreaking Black-Box LLMs Automatically - [[Arxiv](https://arxiv.org/abs/2312.02119)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02119.md)]
 - When it Rains, it Pours: Modeling Media Storms and the News Ecosystem - [[Arxiv](https://arxiv.org/abs/2312.02118)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02118.md)]
 - GIVT: Generative Infinite-Vocabulary Transformers - [[Arxiv](https://arxiv.org/abs/2312.02116)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02116.md)]
 - TriDeNT: Triple Deep Network Training for Privileged Knowledge   Distillation in Histopathology - [[Arxiv](https://arxiv.org/abs/2312.02111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02111.md)]
