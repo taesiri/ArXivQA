@@ -140,6 +140,7 @@
 - Fast and accurate sparse-view CBCT reconstruction using meta-learned   neural attenuation field and hash-encoding regularization - [[Arxiv](https://arxiv.org/abs/2312.01689)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.01689.md)]
 - ResEnsemble-DDPM: Residual Denoising Diffusion Probabilistic Models for   Ensemble Learning - [[Arxiv](https://arxiv.org/abs/2312.01682)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.01682.md)]
 - Adversarial Medical Image with Hierarchical Feature Hiding - [[Arxiv](https://arxiv.org/abs/2312.01679)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.01679.md)]
+- Jellyfish: A Large Language Model for Data Preprocessing - [[Arxiv](https://arxiv.org/abs/2312.01678)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.01678.md)]
 - Multi-task Image Restoration Guided By Robust DINO Features - [[Arxiv](https://arxiv.org/abs/2312.01677)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.01677.md)]
 - EDALearn: A Comprehensive RTL-to-Signoff EDA Benchmark for Democratized   and Reproducible ML for EDA Research - [[Arxiv](https://arxiv.org/abs/2312.01674)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.01674.md)]
 - STADEE: STAtistics-based DEEp Detection of Machine Generated Text - [[Arxiv](https://arxiv.org/abs/2312.01672)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.01672.md)]
