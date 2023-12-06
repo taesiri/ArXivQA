@@ -162,6 +162,7 @@
 - Time-Relative RTK-GNSS: GNSS Loop Closure in Pose Graph Optimization - [[Arxiv](https://arxiv.org/abs/2312.02448)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02448.md)]
 - E4SRec: An Elegant Effective Efficient Extensible Solution of Large   Language Models for Sequential Recommendation - [[Arxiv](https://arxiv.org/abs/2312.02443)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02443.md)]
 - MedDM:LLM-executable clinical guidance tree for clinical decision-making - [[Arxiv](https://arxiv.org/abs/2312.02441)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02441.md)]
+- Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language   Models with Creative Humor Generation - [[Arxiv](https://arxiv.org/abs/2312.02439)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02439.md)]
 - Adaptive Instrument Design for Indirect Experiments - [[Arxiv](https://arxiv.org/abs/2312.02438)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02438.md)]
 - MUFFIN: Curating Multi-Faceted Instructions for Improving   Instruction-Following - [[Arxiv](https://arxiv.org/abs/2312.02436)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02436.md)]
 - FINER: Flexible spectral-bias tuning in Implicit NEural Representation   by Variable-periodic Activation Functions - [[Arxiv](https://arxiv.org/abs/2312.02434)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.02434.md)]
