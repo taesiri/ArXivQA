@@ -55,6 +55,7 @@
 
 ### July 2017
 - Bottom-Up and Top-Down Attention for Image Captioning and Visual   Question Answering - [[Arxiv](https://arxiv.org/abs/1707.07998)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1707.07998.md)]
+- Reinforcement Learning for Bandit Neural Machine Translation with   Simulated Human Feedback - [[Arxiv](https://arxiv.org/abs/1707.07402)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1707.07402.md)]
 - Zero-Shot Learning -- A Comprehensive Evaluation of the Good, the Bad   and the Ugly - [[Arxiv](https://arxiv.org/abs/1707.00600)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1707.00600.md)]
 - A Channel-Based Perspective on Conjugate Priors - [[Arxiv](https://arxiv.org/abs/1707.00269)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1707.00269.md)]
 
@@ -77,6 +78,7 @@
 - DeepArchitect: Automatically Designing and Training Deep Architectures - [[Arxiv](https://arxiv.org/abs/1704.08792)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.08792.md)]
 - Unsupervised Learning of Depth and Ego-Motion from Video - [[Arxiv](https://arxiv.org/abs/1704.07813)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.07813.md)]
 - Detecting and Recognizing Human-Object Interactions - [[Arxiv](https://arxiv.org/abs/1704.07333)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.07333.md)]
+- Bandit Structured Prediction for Neural Sequence-to-Sequence Learning - [[Arxiv](https://arxiv.org/abs/1704.06497)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.06497.md)]
 - Equivalence Between Policy Gradients and Soft Q-Learning - [[Arxiv](https://arxiv.org/abs/1704.06440)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.06440.md)]
 - Learning to Fly by Crashing - [[Arxiv](https://arxiv.org/abs/1704.05588)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.05588.md)]
 - Unsupervised Learning by Predicting Noise - [[Arxiv](https://arxiv.org/abs/1704.05310)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1704.05310.md)]

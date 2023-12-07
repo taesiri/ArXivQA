@@ -7,6 +7,7 @@
 
 ### November 2015
 - A Type Theory for Probabilistic and Bayesian Reasoning - [[Arxiv](https://arxiv.org/abs/1511.09230)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1511.09230.md)]
+- Sequence Level Training with Recurrent Neural Networks - [[Arxiv](https://arxiv.org/abs/1511.06732)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1511.06732.md)]
 - All you need is a good init - [[Arxiv](https://arxiv.org/abs/1511.06422)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1511.06422.md)]
 - Unsupervised Deep Embedding for Clustering Analysis - [[Arxiv](https://arxiv.org/abs/1511.06335)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1511.06335.md)]
 

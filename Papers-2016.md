@@ -22,6 +22,7 @@
 
 ### July 2016
 - Improving Semantic Embedding Consistency by Metric Learning for   Zero-Shot Classification - [[Arxiv](https://arxiv.org/abs/1607.08085)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1607.08085.md)]
+- An Actor-Critic Algorithm for Sequence Prediction - [[Arxiv](https://arxiv.org/abs/1607.07086)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1607.07086.md)]
 
 ### June 2016
 - A Taxonomy and Library for Visualizing Learned Features in Convolutional   Neural Networks - [[Arxiv](https://arxiv.org/abs/1606.07757)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1606.07757.md)]
@@ -51,3 +52,6 @@
 - Visual Genome: Connecting Language and Vision Using Crowdsourced Dense   Image Annotations - [[Arxiv](https://arxiv.org/abs/1602.07332)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.07332.md)]
 - A Probabilistic Dependent Type System based on Non-Deterministic Beta   Reduction - [[Arxiv](https://arxiv.org/abs/1602.06420)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.06420.md)]
 - "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [[Arxiv](https://arxiv.org/abs/1602.04938)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.04938.md)]
+
+### January 2016
+- Bandit Structured Prediction for Learning from Partial Feedback in   Statistical Machine Translation - [[Arxiv](https://arxiv.org/abs/1601.04468)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1601.04468.md)]
