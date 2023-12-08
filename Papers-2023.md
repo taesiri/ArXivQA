@@ -171,6 +171,7 @@
 - Reconstruction of dynamical systems from data without time labels - [[Arxiv](https://arxiv.org/abs/2312.04038)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.04038.md)]
 - A Survey on Radar-Based Fall Detection - [[Arxiv](https://arxiv.org/abs/2312.04037)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.04037.md)]
 - DiffusionPhase: Motion Diffusion in Frequency Domain - [[Arxiv](https://arxiv.org/abs/2312.04036)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.04036.md)]
+- RoAST: Robustifying Language Models via Adversarial Perturbation with   Selective Training - [[Arxiv](https://arxiv.org/abs/2312.04032)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.04032.md)]
 - The Importance of Coordinate Frames in Dynamic SLAM - [[Arxiv](https://arxiv.org/abs/2312.04031)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.04031.md)]
 - Modeling Boundedly Rational Agents with Latent Inference Budgets - [[Arxiv](https://arxiv.org/abs/2312.04030)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.04030.md)]
 - Improved Face Representation via Joint Label Classification and   Supervised Contrastive Clustering - [[Arxiv](https://arxiv.org/abs/2312.04029)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.04029.md)]
