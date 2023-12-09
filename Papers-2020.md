@@ -53,6 +53,7 @@
 - Multimodal Pretraining for Dense Video Captioning - [[Arxiv](https://arxiv.org/abs/2011.11760)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.11760.md)]
 - Topological properties of basins of attraction and expressiveness of   width bounded neural networks - [[Arxiv](https://arxiv.org/abs/2011.04923)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.04923.md)]
 - A Broad Dataset is All You Need for One-Shot Object Detection - [[Arxiv](https://arxiv.org/abs/2011.04267)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.04267.md)]
+- Long Range Arena: A Benchmark for Efficient Transformers - [[Arxiv](https://arxiv.org/abs/2011.04006)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.04006.md)]
 - Feature Removal Is a Unifying Principle for Model Explanation Methods - [[Arxiv](https://arxiv.org/abs/2011.03623)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.03623.md)]
 - Language Model is All You Need: Natural Language Understanding as   Question Answering - [[Arxiv](https://arxiv.org/abs/2011.03023)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.03023.md)]
 - This Looks Like That, Because ... Explaining Prototypes for   Interpretable Image Recognition - [[Arxiv](https://arxiv.org/abs/2011.02863)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2011.02863.md)]
