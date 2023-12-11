@@ -26,6 +26,8 @@
   from Monocular Videos via Explicit Ray Tracing - [[Arxiv](https://arxiv.org/abs/2312.05210)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05210.md)]
 - HALO: An Ontology for Representing Hallucinations in Generative Models - [[Arxiv](https://arxiv.org/abs/2312.05209)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05209.md)]
 - ControlRoom3D: Room Generation using Semantic Proxy Rooms - [[Arxiv](https://arxiv.org/abs/2312.05208)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05208.md)]
+- DelucionQA: Detecting Hallucinations in Domain-specific Question
+  Answering - [[Arxiv](https://arxiv.org/abs/2312.05200)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05200.md)]
 - Fluidic FlowBots: Intelligence embodied in the characteristics of
   recirculating fluid flow - [[Arxiv](https://arxiv.org/abs/2312.05198)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05198.md)]
 - Conformal Prediction in Multi-User Settings: An Evaluation - [[Arxiv](https://arxiv.org/abs/2312.05195)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05195.md)]
@@ -35,7 +37,6 @@
 - AI Competitions and Benchmarks: Competition platforms - [[Arxiv](https://arxiv.org/abs/2312.05185)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05185.md)]
 - TENPLEX: Changing Resources of Deep Learning Jobs using Parallelizable
   Tensor Collections - [[Arxiv](https://arxiv.org/abs/2312.05181)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05181.md)]
-- PathFinder: Guided Search over Multi-Step Reasoning Paths - [[Arxiv](https://arxiv.org/abs/2312.05180)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05180.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
