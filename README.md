@@ -13,8 +13,8 @@
 - Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage
   or Technical Possibility? - [[Arxiv](https://arxiv.org/abs/2312.06652)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.06652.md)]
 - Nuvo: Neural UV Mapping for Unruly 3D Representations - [[Arxiv](https://arxiv.org/abs/2312.05283)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.05283.md)]
-- Dense X Retrieval: What Retrieval Granularity Should We Use? - [[Arxiv](https://arxiv.org/abs/2312.06648)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.06648.md)]
 - 4M: Massively Multimodal Masked Modeling - [[Arxiv](https://arxiv.org/abs/2312.06647)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.06647.md)]
+- Dense X Retrieval: What Retrieval Granularity Should We Use? - [[Arxiv](https://arxiv.org/abs/2312.06648)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.06648.md)]
 - Computational Copyright: Towards A Royalty Model for AI Music Generation
   Platforms - [[Arxiv](https://arxiv.org/abs/2312.06646)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.06646.md)]
 - Beyond Classification: Definition and Density-based Estimation of
