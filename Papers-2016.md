@@ -12,13 +12,13 @@
 - Learning a Deep Embedding Model for Zero-Shot Learning - [[Arxiv](https://arxiv.org/abs/1611.05088)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1611.05088.md)]
 
 ### October 2016
-- Safety Verification of Deep Neural Networks - [[Arxiv](https://arxiv.org/abs/1610.06940)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1610.06940.md)]
 - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based   Localization - [[Arxiv](https://arxiv.org/abs/1610.02391)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1610.02391.md)]
 - Supervision via Competition: Robot Adversaries for Learning Tasks - [[Arxiv](https://arxiv.org/abs/1610.01685)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1610.01685.md)]
+- Effects of Orthogonal Rotating Electric Fields on Electrospinning   Process - [[Arxiv](https://arxiv.org/abs/1610.0694)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1610.0694.md)]
 
 ### September 2016
 - Multi-view Self-supervised Deep Learning for 6D Pose Estimation in the   Amazon Picking Challenge - [[Arxiv](https://arxiv.org/abs/1609.09475)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1609.09475.md)]
-- Discrete Variational Autoencoders - [[Arxiv](https://arxiv.org/abs/1609.02200)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1609.02200.md)]
+- Pseudodoping of Metallic Two-Dimensional Materials - [[Arxiv](https://arxiv.org/abs/1609.0220)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1609.0220.md)]
 
 ### July 2016
 - Improving Semantic Embedding Consistency by Metric Learning for   Zero-Shot Classification - [[Arxiv](https://arxiv.org/abs/1607.08085)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1607.08085.md)]
@@ -28,7 +28,7 @@
 - A Taxonomy and Library for Visualizing Learned Features in Convolutional   Neural Networks - [[Arxiv](https://arxiv.org/abs/1606.07757)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1606.07757.md)]
 - Learning to Poke by Poking: Experiential Learning of Intuitive Physics - [[Arxiv](https://arxiv.org/abs/1606.07419)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1606.07419.md)]
 - Concrete Problems in AI Safety - [[Arxiv](https://arxiv.org/abs/1606.06565)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1606.06565.md)]
-- The Mythos of Model Interpretability - [[Arxiv](https://arxiv.org/abs/1606.03490)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1606.03490.md)]
+- Uniformization by square domains - [[Arxiv](https://arxiv.org/abs/1606.0349)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1606.0349.md)]
 
 ### May 2016
 - Adversarial Feature Learning - [[Arxiv](https://arxiv.org/abs/1605.09782)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1605.09782.md)]
@@ -40,7 +40,7 @@
 - Context Encoders: Feature Learning by Inpainting - [[Arxiv](https://arxiv.org/abs/1604.07379)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.07379.md)]
 - Learning Models for Actions and Person-Object Interactions with Transfer   to Question Answering - [[Arxiv](https://arxiv.org/abs/1604.04808)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.04808.md)]
 - Joint Unsupervised Learning of Deep Representations and Image Clusters - [[Arxiv](https://arxiv.org/abs/1604.03628)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.03628.md)]
-- The Curious Robot: Learning Visual Representations via Physical   Interactions - [[Arxiv](https://arxiv.org/abs/1604.01360)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.01360.md)]
+- It's Moving! A Probabilistic Model for Causal Motion Segmentation in   Moving Camera Videos - [[Arxiv](https://arxiv.org/abs/1604.0136)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1604.0136.md)]
 
 ### March 2016
 - Colorful Image Colorization - [[Arxiv](https://arxiv.org/abs/1603.08511)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1603.08511.md)]
@@ -50,8 +50,8 @@
 
 ### February 2016
 - Visual Genome: Connecting Language and Vision Using Crowdsourced Dense   Image Annotations - [[Arxiv](https://arxiv.org/abs/1602.07332)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.07332.md)]
-- A Probabilistic Dependent Type System based on Non-Deterministic Beta   Reduction - [[Arxiv](https://arxiv.org/abs/1602.06420)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.06420.md)]
 - "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [[Arxiv](https://arxiv.org/abs/1602.04938)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.04938.md)]
 
 ### January 2016
 - Bandit Structured Prediction for Learning from Partial Feedback in   Statistical Machine Translation - [[Arxiv](https://arxiv.org/abs/1601.04468)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1601.04468.md)]
+- Directed percolation process in the presence of velocity fluctuations:   Effect of compressibility and finite correlation time - [[Arxiv](https://arxiv.org/abs/1602.0642)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1602.0642.md)]

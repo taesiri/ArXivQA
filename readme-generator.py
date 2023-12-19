@@ -51,7 +51,7 @@ class ArxivHelper:
         return xml_content[start_idx:end_idx].strip()
 
 
-def df_to_markdown(df, arxiv_helper):
+def df_to_markdown(df, paper_id, arxiv_helper):
     paper_title, _ = arxiv_helper.fetch_paper_details(paper_id)
     # remove new lines from title
     paper_title = paper_title.replace("\n", " ").replace("\r", "")
@@ -74,6 +74,7 @@ def create_parent_md(
     header_file="HF/HEADER.md",
     new_readme_file="HF/README.md",
 ):
+    print("Creating parent markdown file...")
     # Fetch and sort the paper details
     paper_details = [
         (pid, *arxiv_helper.fetch_paper_details(pid))
@@ -156,7 +157,25 @@ def get_missing_paper_ids_from_cache(paper_ids, cache_db):
 
 def generate_readme():
     arxiv_dataset = load_dataset("taesiri/arxiv_qa", split="train")
-    paper_ids = list(set(arxiv_dataset["paper_id"]))
+    paper_ids_raw = list(set(arxiv_dataset["paper_id"]))
+    # all paper ids must be 10 characters long, if not add trailing zeros
+    # if the paper starts with 21,22,23 to shuld be 10 characters long
+    # otherwise it should be 9
+
+    paper_ids = []
+    pid_mapper = {}
+
+    for pid in paper_ids_raw:
+        if pid.startswith("21") or pid.startswith("22") or pid.startswith("23"):
+            # make sure it is 10 characters long, or add 0 to the end
+            padded_zero = (10 - len(pid)) * "0"
+            paper_ids.append(pid + padded_zero)
+            pid_mapper[pid + padded_zero] = pid
+        else:
+            # make sure it is 9 characters long, or add 0 to the end
+            padded_zero = (9 - len(pid)) * "0"
+            paper_ids.append(pid + padded_zero)
+            pid_mapper[pid + padded_zero] = pid
 
     arxiv_helper = ArxivHelper()
 
@@ -177,16 +196,27 @@ def generate_readme():
             # bad paper or bad internet connection
             print(f"Error fetching paper details for {pid}: {e}")
 
+    valid_paper_ids = []
+
+    dataset_pandas = arxiv_dataset.to_pandas()
+
     # Generate markdown for all papers
     for pid in tqdm(paper_ids, desc="Generating Markdown", ncols=100):
         # skip if the paper is not cached
         if not arxiv_helper.cache_db.get(pid.encode()):
             continue
+        else:
+            valid_paper_ids.append(pid)
 
-        tdf = arxiv_dataset.filter(lambda x: x["paper_id"] == pid).to_pandas()
-        df_to_markdown(tdf, arxiv_helper)
+        # tdf = arxiv_dataset.filter(
+        #     lambda x: x["paper_id"] == pid_mapper[pid]
+        # ).to_pandas()
 
-    create_parent_md(paper_ids, arxiv_helper)
+        tdf = dataset_pandas[dataset_pandas["paper_id"] == pid_mapper[pid]]
+
+        df_to_markdown(tdf, pid, arxiv_helper)
+
+    create_parent_md(valid_paper_ids, arxiv_helper)
 
     with open("paper_ids.txt", "w") as f:
         for pid in sorted(paper_ids):
