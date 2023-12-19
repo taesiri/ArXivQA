@@ -8,6 +8,7 @@ import rocksdb
 from bs4 import BeautifulSoup
 from datetime import datetime
 from tqdm import tqdm
+from datasets import load_dataset
 
 
 class ArxivHelper:
@@ -50,34 +51,7 @@ class ArxivHelper:
         return xml_content[start_idx:end_idx].strip()
 
 
-def get_paper_ids_from_repo(repo_path):
-    # Get the list of CSV files in the papers directory of the cloned repository
-    csv_files = [
-        filename
-        for filename in os.listdir(os.path.join(repo_path, "papers"))
-        if filename.endswith(".csv")
-    ]
-
-    # Extract paper IDs from filenames
-    paper_ids = [filename.replace(".csv", "") for filename in csv_files]
-
-    # Extract base IDs and ensure only one version of each paper is included
-    base_ids = {paper_id.split("v")[0] for paper_id in paper_ids}
-    unique_paper_ids = []
-    for base_id in base_ids:
-        versions = [pid for pid in paper_ids if pid.startswith(base_id)]
-        unique_paper_ids.append(sorted(versions)[0])  # Add the earliest version
-
-    return unique_paper_ids
-
-
-def csv_to_markdown(paper_id, repo_path, arxiv_helper):
-    df_path = os.path.join(repo_path, "papers", f"{paper_id}.csv")
-    if not os.path.exists(df_path):
-        print(f"No CSV found for paper ID: {paper_id}")
-        return
-
-    df = pd.read_csv(df_path)
+def df_to_markdown(df, arxiv_helper):
     paper_title, _ = arxiv_helper.fetch_paper_details(paper_id)
     # remove new lines from title
     paper_title = paper_title.replace("\n", " ").replace("\r", "")
@@ -181,16 +155,9 @@ def get_missing_paper_ids_from_cache(paper_ids, cache_db):
 
 
 def generate_readme():
-    # MAIN EXECUTION
-    REPO_URL = "https://huggingface.co/datasets/taesiri/arxiv_qa.git"
-    REPO_PATH = "./arxiv_qa_repo"
-    if not os.path.exists(REPO_PATH):
-        git.Repo.clone_from(REPO_URL, REPO_PATH)
-    else:
-        repo = git.Repo(REPO_PATH)
-        repo.remotes.origin.pull()
+    arxiv_dataset = load_dataset("taesiri/arxiv_qa", split="train")
+    paper_ids = arxiv_dataset["paper_id"]
 
-    paper_ids = get_paper_ids_from_repo(REPO_PATH)
     arxiv_helper = ArxivHelper()
 
     # Check which paper_ids are missing from the cache
@@ -208,7 +175,8 @@ def generate_readme():
 
     # Generate markdown for all papers
     for pid in tqdm(paper_ids, desc="Generating Markdown", ncols=100):
-        csv_to_markdown(pid, REPO_PATH, arxiv_helper)
+        tdf = arxiv_dataset.filter(lambda x: x["paper_id"] == pid).to_pandas()
+        df_to_markdown(tdf, arxiv_helper)
 
     create_parent_md(paper_ids, arxiv_helper)
 
@@ -218,10 +186,11 @@ def generate_readme():
 
 
 if __name__ == "__main__":
-    while True:
-        try:
-            generate_readme()
-        except Exception as e:
-            print(e)
-        print("Sleeping for 1 hour...")
-        time.sleep(60 * 60)
+    generate_readme()
+    # while True:
+    #     try:
+    #         generate_readme()
+    #     except Exception as e:
+    #         print(e)
+    #     print("Sleeping for 1 hour...")
+    #     time.sleep(60 * 60)
