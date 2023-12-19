@@ -156,7 +156,7 @@ def get_missing_paper_ids_from_cache(paper_ids, cache_db):
 
 def generate_readme():
     arxiv_dataset = load_dataset("taesiri/arxiv_qa", split="train")
-    paper_ids = arxiv_dataset["paper_id"]
+    paper_ids = list(set(arxiv_dataset["paper_id"]))
 
     arxiv_helper = ArxivHelper()
 
@@ -171,10 +171,18 @@ def generate_readme():
         tqdm(missing_paper_ids, desc="Fetching missing paper details", ncols=100)
     ):
         time.sleep(3)  # Sleep for 2 minutes
-        arxiv_helper.fetch_paper_details(pid)
+        try:
+            arxiv_helper.fetch_paper_details(pid)
+        except Exception as e:
+            # bad paper or bad internet connection
+            print(f"Error fetching paper details for {pid}: {e}")
 
     # Generate markdown for all papers
     for pid in tqdm(paper_ids, desc="Generating Markdown", ncols=100):
+        # skip if the paper is not cached
+        if not arxiv_helper.cache_db.get(pid.encode()):
+            continue
+
         tdf = arxiv_dataset.filter(lambda x: x["paper_id"] == pid).to_pandas()
         df_to_markdown(tdf, arxiv_helper)
 
