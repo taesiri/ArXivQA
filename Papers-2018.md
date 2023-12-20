@@ -53,6 +53,7 @@
 - Efficient Progressive Neural Architecture Search - [[Arxiv](https://arxiv.org/abs/1808.00391)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1808.00391.md)]
 
 ### July 2018
+- Regional Multi-scale Approach for Visually Pleasing Explanations of Deep   Neural Networks - [[Arxiv](https://arxiv.org/abs/1807.11720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.11720.md)]
 - Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning - [[Arxiv](https://arxiv.org/abs/1807.11293)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.11293.md)]
 - Diverse feature visualizations reveal invariances in early layers of   deep neural networks - [[Arxiv](https://arxiv.org/abs/1807.10589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.10589.md)]
 - Cross-lingual Argumentation Mining: Machine Translation (and a bit of   Projection) is All You Need! - [[Arxiv](https://arxiv.org/abs/1807.08998)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.08998.md)]
@@ -63,7 +64,6 @@
 - Talk the Walk: Navigating New York City through Grounded Dialogue - [[Arxiv](https://arxiv.org/abs/1807.03367)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.03367.md)]
 - A Tutorial on Bayesian Optimization - [[Arxiv](https://arxiv.org/abs/1807.02811)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.02811.md)]
 - Seq2RDF: An end-to-end application for deriving Triples from Natural   Language Text - [[Arxiv](https://arxiv.org/abs/1807.01763)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.01763.md)]
-- Accurate Weakly-Supervised Deep Lesion Segmentation using Large-Scale   Clinical Annotations: Slice-Propagated 3D Mask Generation from 2D RECIST - [[Arxiv](https://arxiv.org/abs/1807.1172)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1807.1172.md)]
 
 ### June 2018
 - A Benchmark for Interpretability Methods in Deep Neural Networks - [[Arxiv](https://arxiv.org/abs/1806.10758)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.10758.md)]
@@ -71,15 +71,15 @@
 - Video Inpainting by Jointly Learning Temporal Structure and Spatial   Details - [[Arxiv](https://arxiv.org/abs/1806.08482)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.08482.md)]
 - RISE: Randomized Input Sampling for Explanation of Black-box Models - [[Arxiv](https://arxiv.org/abs/1806.07421)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.07421.md)]
 - Self-Supervised Feature Learning by Learning to Spot Artifacts - [[Arxiv](https://arxiv.org/abs/1806.05024)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.05024.md)]
+- Polynomial Regression As an Alternative to Neural Nets - [[Arxiv](https://arxiv.org/abs/1806.06850)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.06850.md)]
 - Resource-Efficient Neural Architect - [[Arxiv](https://arxiv.org/abs/1806.07912)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.07912.md)]
 - Auto-Meta: Automated Gradient Based Meta Learner Search - [[Arxiv](https://arxiv.org/abs/1806.06927)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.06927.md)]
 - Free-Form Image Inpainting with Gated Convolution - [[Arxiv](https://arxiv.org/abs/1806.03589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.03589.md)]
+- Dank Learning: Generating Memes Using Deep Neural Networks - [[Arxiv](https://arxiv.org/abs/1806.04510)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.04510.md)]
 - A Peek Into the Hidden Layers of a Convolutional Neural Network Through   a Factorization Lens - [[Arxiv](https://arxiv.org/abs/1806.02012)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.02012.md)]
-- Hierarchical Attention-Based Recurrent Highway Networks for Time Series   Prediction - [[Arxiv](https://arxiv.org/abs/1806.0685)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.0685.md)]
-- Do CIFAR-10 Classifiers Generalize to CIFAR-10? - [[Arxiv](https://arxiv.org/abs/1806.0451)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.0451.md)]
+- Soccer on Your Tabletop - [[Arxiv](https://arxiv.org/abs/1806.00890)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.00890.md)]
 
 ### May 2018
-- Cascading Citation Expansion - [[Arxiv](https://arxiv.org/abs/1806.0089)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.0089.md)]
 - Explaining Explanations: An Overview of Interpretability of Machine   Learning - [[Arxiv](https://arxiv.org/abs/1806.00069)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1806.00069.md)]
 - How Important Is a Neuron? - [[Arxiv](https://arxiv.org/abs/1805.12233)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1805.12233.md)]
 - Rethinking Knowledge Graph Propagation for Zero-Shot Learning - [[Arxiv](https://arxiv.org/abs/1805.11724)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1805.11724.md)]
@@ -105,10 +105,10 @@
 - Audio-Visual Scene Analysis with Self-Supervised Multisensory Features - [[Arxiv](https://arxiv.org/abs/1804.03641)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.03641.md)]
 - Bimonoidal Structure of Probability Monads - [[Arxiv](https://arxiv.org/abs/1804.03527)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.03527.md)]
 - Deep Painterly Harmonization - [[Arxiv](https://arxiv.org/abs/1804.03189)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.03189.md)]
+- The Sound of Pixels - [[Arxiv](https://arxiv.org/abs/1804.03160)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.03160.md)]
 - Learning to Separate Object Sounds by Watching Unlabeled Video - [[Arxiv](https://arxiv.org/abs/1804.01665)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.01665.md)]
 - Self-supervised Learning of Geometrically Stable Features Through   Probabilistic Introspection - [[Arxiv](https://arxiv.org/abs/1804.01552)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.01552.md)]
 - The simple essence of automatic differentiation - [[Arxiv](https://arxiv.org/abs/1804.00746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.00746.md)]
-- Completely Unsupervised Phoneme Recognition by Adversarially Learning   Mapping Relationships from Audio Embeddings - [[Arxiv](https://arxiv.org/abs/1804.0316)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.0316.md)]
 
 ### March 2018
 - Meta-Learning Update Rules for Unsupervised Representation Learning - [[Arxiv](https://arxiv.org/abs/1804.00222)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1804.00222.md)]
@@ -123,14 +123,15 @@
 ### February 2018
 - Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda   Calculus - [[Arxiv](https://arxiv.org/abs/1802.09787)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.09787.md)]
 - Machine Theory of Mind - [[Arxiv](https://arxiv.org/abs/1802.07740v2)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.07740v2.md)]
+- Machine Theory of Mind - [[Arxiv](https://arxiv.org/abs/1802.07740)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.07740.md)]
+- Diversity is All You Need: Learning Skills without a Reward Function - [[Arxiv](https://arxiv.org/abs/1802.06070)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.06070.md)]
 - Multimodal Explanations: Justifying Decisions and Pointing to the   Evidence - [[Arxiv](https://arxiv.org/abs/1802.08129)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.08129.md)]
+- DVAE++: Discrete Variational Autoencoders with Overlapping   Transformations - [[Arxiv](https://arxiv.org/abs/1802.04920)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.04920.md)]
 - On Characterizing the Capacity of Neural Networks using Algebraic   Topology - [[Arxiv](https://arxiv.org/abs/1802.04443)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.04443.md)]
 - A Survey Of Methods For Explaining Black Box Models - [[Arxiv](https://arxiv.org/abs/1802.01933)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.01933.md)]
+- Learning Image Representations by Completing Damaged Jigsaw Puzzles - [[Arxiv](https://arxiv.org/abs/1802.01880)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.01880.md)]
 - The Matrix Calculus You Need For Deep Learning - [[Arxiv](https://arxiv.org/abs/1802.01528)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.01528.md)]
 - Singularities in Einstein-conformally coupled Higgs cosmological models - [[Arxiv](https://arxiv.org/abs/1802.0774)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.0774.md)]
-- Macroscopic direct observation of optical spin-dependent lateral forces   and left-handed torques - [[Arxiv](https://arxiv.org/abs/1802.0607)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.0607.md)]
-- Nonmetricity formulation of general relativity and its scalar-tensor   extension - [[Arxiv](https://arxiv.org/abs/1802.0492)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.0492.md)]
-- Enhancing photon squeezing one Leviton at a time - [[Arxiv](https://arxiv.org/abs/1802.0188)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.0188.md)]
 - Interpreting CNNs via Decision Trees - [[Arxiv](https://arxiv.org/abs/1802.00121)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.00121.md)]
 
 ### January 2018

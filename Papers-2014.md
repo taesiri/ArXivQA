@@ -13,6 +13,9 @@
 - Computable Stochastic Processes - [[Arxiv](https://arxiv.org/abs/1409.4667)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1409.4667.md)]
 - On the Properties of Neural Machine Translation: Encoder-Decoder   Approaches - [[Arxiv](https://arxiv.org/abs/1409.1259)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1409.1259.md)]
 
+### June 2014
+- Recurrent Models of Visual Attention - [[Arxiv](https://arxiv.org/abs/1406.6247)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1406.6247.md)]
+
 ### May 2014
 - Microsoft COCO: Common Objects in Context - [[Arxiv](https://arxiv.org/abs/1405.0312)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1405.0312.md)]
 

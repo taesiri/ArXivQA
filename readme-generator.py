@@ -156,7 +156,8 @@ def get_missing_paper_ids_from_cache(paper_ids, cache_db):
 
 
 def generate_readme():
-    arxiv_dataset = load_dataset("taesiri/arxiv_qa", split="train")
+    arxiv_dataset = load_dataset("taesiri/arxiv_qa")
+    arxiv_dataset = arxiv_dataset["train"]
     paper_ids_raw = list(set(arxiv_dataset["paper_id"]))
     # all paper ids must be 10 characters long, if not add trailing zeros
     # if the paper starts with 21,22,23 to shuld be 10 characters long
