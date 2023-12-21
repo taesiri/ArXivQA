@@ -1,46 +1,48 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
-- VolumeDiffusion: Flexible Text-to-3D Generation with Efficient
-  Volumetric Encoder - [[Arxiv](https://arxiv.org/abs/2312.11459)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11459.md)]
-- Social Learning: Towards Collaborative Learning with Large Language
-  Models - [[Arxiv](https://arxiv.org/abs/2312.11441)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11441.md)]
-- 3D exploration-based search for multiple targets using a UAV - [[Arxiv](https://arxiv.org/abs/2312.11424)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11424.md)]
-- Counting Reward Automata: Sample Efficient Reinforcement Learning
-  Through the Exploitation of Reward Function Structure - [[Arxiv](https://arxiv.org/abs/2312.11364)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11364.md)]
-- Online Vertical Federated Learning for Cooperative Spectrum Sensing - [[Arxiv](https://arxiv.org/abs/2312.11363)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11363.md)]
-- NoMIRACL: Knowing When You Don't Know for Robust Multilingual
-  Retrieval-Augmented Generation - [[Arxiv](https://arxiv.org/abs/2312.11361)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11361.md)]
-- Density Descent for Diversity Optimization - [[Arxiv](https://arxiv.org/abs/2312.11331)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11331.md)]
-- CaRe-CNN: Cascading Refinement CNN for Myocardial Infarct Segmentation
-  with Microvascular Obstructions - [[Arxiv](https://arxiv.org/abs/2312.11315)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11315.md)]
-- Solving the swing-up and balance task for the Acrobot and Pendubot with
-  SAC - [[Arxiv](https://arxiv.org/abs/2312.11311)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11311.md)]
-- Towards Fairness in Online Service with k Servers and its Application on
-  Fair Food Delivery - [[Arxiv](https://arxiv.org/abs/2312.11280)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11280.md)]
-- Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with
-  Spherical Representation - [[Arxiv](https://arxiv.org/abs/2312.11269)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11269.md)]
-- Challenges in Multi-centric Generalization: Phase and Step Recognition
-  in Roux-en-Y Gastric Bypass Surgery - [[Arxiv](https://arxiv.org/abs/2312.11250)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11250.md)]
-- MAC-SQL: Multi-Agent Collaboration for Text-to-SQL - [[Arxiv](https://arxiv.org/abs/2312.11242)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11242.md)]
-- Global Feature Pyramid Network - [[Arxiv](https://arxiv.org/abs/2312.11231)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11231.md)]
-- Decoupled Knowledge with Ensemble Learning for Online Distillation - [[Arxiv](https://arxiv.org/abs/2312.11218)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11218.md)]
-- Cross-Age Contrastive Learning for Age-Invariant Face Recognition - [[Arxiv](https://arxiv.org/abs/2312.11195)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11195.md)]
-- View Transition based Dual Camera Image Fusion - [[Arxiv](https://arxiv.org/abs/2312.11184)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11184.md)]
-- Harnessing the Power of Neural Operators with Automatically Encoded
-  Conservation Laws - [[Arxiv](https://arxiv.org/abs/2312.11176)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11176.md)]
-- The Good, The Bad, and Why: Unveiling Emotions in Generative AI - [[Arxiv](https://arxiv.org/abs/2312.11111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11111.md)]
-- Change points detection in crime-related time series: an on-line fuzzy
-  approach based on a shape space representation - [[Arxiv](https://arxiv.org/abs/2312.11097)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11097.md)]
-- Patterns of Closeness and Abstractness in Colexifications: The Case of
-  Indigenous Languages in the Americas - [[Arxiv](https://arxiv.org/abs/2312.11069)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11069.md)]
-- TDeLTA: A Light-weight and Robust Table Detection Method based on
-  Learning Text Arrangement - [[Arxiv](https://arxiv.org/abs/2312.11043)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11043.md)]
-- Learning Top-k Subtask Planning Tree based on Discriminative
-  Representation Pre-training for Decision Making - [[Arxiv](https://arxiv.org/abs/2312.11027)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11027.md)]
-- Multi-Goal Optimal Route Planning Using the Cell Mapping Technique - [[Arxiv](https://arxiv.org/abs/2312.11025)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11025.md)]
-- Frequency Spectrum is More Effective for Multimodal Representation and
-  Fusion: A Multimodal Spectrum Rumor Detector - [[Arxiv](https://arxiv.org/abs/2312.11023)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11023.md)]
+- Benchmarks for Retrospective Automated Driving System Crash Rate
+  Analysis Using Police-Reported Crash Data - [[Arxiv](https://arxiv.org/abs/2312.13228)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13228.md)]
+- Interactive Visual Task Learning for Robots - [[Arxiv](https://arxiv.org/abs/2312.13219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13219.md)]
+- FiFAR: A Fraud Detection Dataset for Learning to Defer - [[Arxiv](https://arxiv.org/abs/2312.13218)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13218.md)]
+- NodeMixup: Tackling Under-Reaching for Graph Neural Networks - [[Arxiv](https://arxiv.org/abs/2312.13032)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13032.md)]
+- Stability of Graph Convolutional Neural Networks through the lens of
+  small perturbation analysis - [[Arxiv](https://arxiv.org/abs/2312.12934)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12934.md)]
+- Energy-efficient Spiking Neural Network Equalization for IM/DD Systems
+  with Optimized Neural Encoding - [[Arxiv](https://arxiv.org/abs/2312.12909)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12909.md)]
+- Turning Dust into Gold: Distilling Complex Reasoning Capabilities from
+  LLMs by Leveraging Negative Data - [[Arxiv](https://arxiv.org/abs/2312.12832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12832.md)]
+- ChatFDA: Medical Records Risk Assessment - [[Arxiv](https://arxiv.org/abs/2312.12746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12746.md)]
+- Locally Optimal Fixed-Budget Best Arm Identification in Two-Armed
+  Gaussian Bandits with Unknown Variances - [[Arxiv](https://arxiv.org/abs/2312.12741)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12741.md)]
+- Learning and Forgetting Unsafe Examples in Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.12736)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12736.md)]
+- Discovering Malicious Signatures in Software from Structural
+  Interactions - [[Arxiv](https://arxiv.org/abs/2312.12667)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12667.md)]
+- Incremental Semi-supervised Federated Learning for Health Inference via
+  Mobile Sensing - [[Arxiv](https://arxiv.org/abs/2312.12666)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12666.md)]
+- On Alternating-time Temporal Logic, Hyperproperties, and Strategy
+  Sharing - [[Arxiv](https://arxiv.org/abs/2312.12403)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12403.md)]
+- PowMix: A Versatile Regularizer for Multimodal Sentiment Analysis - [[Arxiv](https://arxiv.org/abs/2312.12334)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12334.md)]
+- Geo-located Aspect Based Sentiment Analysis (ABSA) for Crowdsourced
+  Evaluation of Urban Environments - [[Arxiv](https://arxiv.org/abs/2312.12253)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12253.md)]
+- Towards Balanced Alignment: Modal-Enhanced Semantic Modeling for Video
+  Moment Retrieval - [[Arxiv](https://arxiv.org/abs/2312.12155)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12155.md)]
+- Best Arm Identification with Fixed Budget: A Large Deviation Perspective - [[Arxiv](https://arxiv.org/abs/2312.12137)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12137.md)]
+- Mindful Explanations: Prevalence and Impact of Mind Attribution in XAI
+  Research - [[Arxiv](https://arxiv.org/abs/2312.12119)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12119.md)]
+- Diffusing More Objects for Semi-Supervised Domain Adaptation with Less
+  Labeling - [[Arxiv](https://arxiv.org/abs/2312.12000)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12000.md)]
+- Large Language Models Empowered Agent-based Modeling and Simulation: A
+  Survey and Perspectives - [[Arxiv](https://arxiv.org/abs/2312.11970)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11970.md)]
+- Multi-Granularity Information Interaction Framework for Incomplete
+  Utterance Rewriting - [[Arxiv](https://arxiv.org/abs/2312.11945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11945.md)]
+- Empowering Dual-Level Graph Self-Supervised Pretraining with Motif
+  Discovery - [[Arxiv](https://arxiv.org/abs/2312.11927)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11927.md)]
+- Self-supervised Learning for Enhancing Geometrical Modeling in 3D-Aware
+  Generative Adversarial Network - [[Arxiv](https://arxiv.org/abs/2312.11856)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11856.md)]
+- Multi-agent reinforcement learning using echo-state network and its
+  application to pedestrian dynamics - [[Arxiv](https://arxiv.org/abs/2312.11834)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11834.md)]
+- An effective image copy-move forgery detection using entropy image - [[Arxiv](https://arxiv.org/abs/2312.11793)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11793.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
