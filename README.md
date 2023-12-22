@@ -25,24 +25,24 @@
 - PowMix: A Versatile Regularizer for Multimodal Sentiment Analysis - [[Arxiv](https://arxiv.org/abs/2312.12334)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12334.md)]
 - Geo-located Aspect Based Sentiment Analysis (ABSA) for Crowdsourced
   Evaluation of Urban Environments - [[Arxiv](https://arxiv.org/abs/2312.12253)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12253.md)]
+- On the Parameterization of Second-Order Optimization Effective Towards
+  the Infinite Width - [[Arxiv](https://arxiv.org/abs/2312.12226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12226.md)]
 - Towards Balanced Alignment: Modal-Enhanced Semantic Modeling for Video
   Moment Retrieval - [[Arxiv](https://arxiv.org/abs/2312.12155)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12155.md)]
 - Best Arm Identification with Fixed Budget: A Large Deviation Perspective - [[Arxiv](https://arxiv.org/abs/2312.12137)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12137.md)]
 - Mindful Explanations: Prevalence and Impact of Mind Attribution in XAI
   Research - [[Arxiv](https://arxiv.org/abs/2312.12119)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12119.md)]
+- Active Preference Inference using Language Models and Probabilistic
+  Reasoning - [[Arxiv](https://arxiv.org/abs/2312.12009)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12009.md)]
 - Diffusing More Objects for Semi-Supervised Domain Adaptation with Less
   Labeling - [[Arxiv](https://arxiv.org/abs/2312.12000)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12000.md)]
+- Coreference Graph Guidance for Mind-Map Generation - [[Arxiv](https://arxiv.org/abs/2312.11997)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11997.md)]
 - Large Language Models Empowered Agent-based Modeling and Simulation: A
   Survey and Perspectives - [[Arxiv](https://arxiv.org/abs/2312.11970)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11970.md)]
 - Multi-Granularity Information Interaction Framework for Incomplete
   Utterance Rewriting - [[Arxiv](https://arxiv.org/abs/2312.11945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11945.md)]
-- Empowering Dual-Level Graph Self-Supervised Pretraining with Motif
-  Discovery - [[Arxiv](https://arxiv.org/abs/2312.11927)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11927.md)]
-- Self-supervised Learning for Enhancing Geometrical Modeling in 3D-Aware
-  Generative Adversarial Network - [[Arxiv](https://arxiv.org/abs/2312.11856)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11856.md)]
-- Multi-agent reinforcement learning using echo-state network and its
-  application to pedestrian dynamics - [[Arxiv](https://arxiv.org/abs/2312.11834)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11834.md)]
-- An effective image copy-move forgery detection using entropy image - [[Arxiv](https://arxiv.org/abs/2312.11793)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11793.md)]
+- Stability of Multi-Agent Learning in Competitive Networks: Delaying the
+  Onset of Chaos - [[Arxiv](https://arxiv.org/abs/2312.11943)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11943.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
