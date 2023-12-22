@@ -1,48 +1,45 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Learning Human-like Representations to Enable Learning Human Values - [[Arxiv](https://arxiv.org/abs/2312.14106)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14106.md)]
+- GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration
+  Method using Ground Plane Motion Constraints - [[Arxiv](https://arxiv.org/abs/2312.14035)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14035.md)]
+- Multi-Agent Probabilistic Ensembles with Trajectory Sampling for
+  Connected Autonomous Vehicles - [[Arxiv](https://arxiv.org/abs/2312.13910)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13910.md)]
+- Evaluating Task-oriented Dialogue Systems: A Systematic Review of
+  Measures, Constructs and their Operationalisations - [[Arxiv](https://arxiv.org/abs/2312.13871)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13871.md)]
+- Meta-control of Dialogue Systems Using Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.13715)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13715.md)]
+- Understanding and Estimating Domain Complexity Across Domains - [[Arxiv](https://arxiv.org/abs/2312.13487)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13487.md)]
+- Position Paper: Bridging the Gap Between Machine Learning and
+  Sensitivity Analysis - [[Arxiv](https://arxiv.org/abs/2312.13234)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13234.md)]
 - Benchmarks for Retrospective Automated Driving System Crash Rate
   Analysis Using Police-Reported Crash Data - [[Arxiv](https://arxiv.org/abs/2312.13228)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13228.md)]
 - Interactive Visual Task Learning for Robots - [[Arxiv](https://arxiv.org/abs/2312.13219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13219.md)]
 - FiFAR: A Fraud Detection Dataset for Learning to Defer - [[Arxiv](https://arxiv.org/abs/2312.13218)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13218.md)]
+- Contextual Code Switching for Machine Translation using Language Models - [[Arxiv](https://arxiv.org/abs/2312.13179)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13179.md)]
+- Retrieval-augmented Multilingual Knowledge Editing - [[Arxiv](https://arxiv.org/abs/2312.13040)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13040.md)]
 - NodeMixup: Tackling Under-Reaching for Graph Neural Networks - [[Arxiv](https://arxiv.org/abs/2312.13032)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13032.md)]
+- EMG-based Control Strategies of a Supernumerary Robotic Hand for the
+  Rehabilitation of Sub-Acute Stroke Patients: Proof of Concept - [[Arxiv](https://arxiv.org/abs/2312.13009)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13009.md)]
+- Concept-based Explainable Artificial Intelligence: A Survey - [[Arxiv](https://arxiv.org/abs/2312.12936)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12936.md)]
 - Stability of Graph Convolutional Neural Networks through the lens of
   small perturbation analysis - [[Arxiv](https://arxiv.org/abs/2312.12934)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12934.md)]
+- Assaying on the Robustness of Zero-Shot Machine-Generated Text Detectors - [[Arxiv](https://arxiv.org/abs/2312.12918)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12918.md)]
 - Energy-efficient Spiking Neural Network Equalization for IM/DD Systems
   with Optimized Neural Encoding - [[Arxiv](https://arxiv.org/abs/2312.12909)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12909.md)]
+- MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft
+  Worlds - [[Arxiv](https://arxiv.org/abs/2312.12891)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12891.md)]
+- Rule-Extraction Methods From Feedforward Neural Networks: A Systematic
+  Literature Review - [[Arxiv](https://arxiv.org/abs/2312.12878)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12878.md)]
+- CORECODE: A Common Sense Annotated Dialogue Dataset with Benchmark Tasks
+  for Chinese Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.12853)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12853.md)]
 - Turning Dust into Gold: Distilling Complex Reasoning Capabilities from
   LLMs by Leveraging Negative Data - [[Arxiv](https://arxiv.org/abs/2312.12832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12832.md)]
+- Segmenting Messy Text: Detecting Boundaries in Text Derived from
+  Historical Newspaper Images - [[Arxiv](https://arxiv.org/abs/2312.12773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12773.md)]
 - ChatFDA: Medical Records Risk Assessment - [[Arxiv](https://arxiv.org/abs/2312.12746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12746.md)]
 - Locally Optimal Fixed-Budget Best Arm Identification in Two-Armed
   Gaussian Bandits with Unknown Variances - [[Arxiv](https://arxiv.org/abs/2312.12741)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12741.md)]
-- Learning and Forgetting Unsafe Examples in Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.12736)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12736.md)]
-- Discovering Malicious Signatures in Software from Structural
-  Interactions - [[Arxiv](https://arxiv.org/abs/2312.12667)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12667.md)]
-- Incremental Semi-supervised Federated Learning for Health Inference via
-  Mobile Sensing - [[Arxiv](https://arxiv.org/abs/2312.12666)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12666.md)]
-- On Alternating-time Temporal Logic, Hyperproperties, and Strategy
-  Sharing - [[Arxiv](https://arxiv.org/abs/2312.12403)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12403.md)]
-- PowMix: A Versatile Regularizer for Multimodal Sentiment Analysis - [[Arxiv](https://arxiv.org/abs/2312.12334)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12334.md)]
-- Geo-located Aspect Based Sentiment Analysis (ABSA) for Crowdsourced
-  Evaluation of Urban Environments - [[Arxiv](https://arxiv.org/abs/2312.12253)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12253.md)]
-- On the Parameterization of Second-Order Optimization Effective Towards
-  the Infinite Width - [[Arxiv](https://arxiv.org/abs/2312.12226)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12226.md)]
-- Towards Balanced Alignment: Modal-Enhanced Semantic Modeling for Video
-  Moment Retrieval - [[Arxiv](https://arxiv.org/abs/2312.12155)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12155.md)]
-- Best Arm Identification with Fixed Budget: A Large Deviation Perspective - [[Arxiv](https://arxiv.org/abs/2312.12137)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12137.md)]
-- Mindful Explanations: Prevalence and Impact of Mind Attribution in XAI
-  Research - [[Arxiv](https://arxiv.org/abs/2312.12119)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12119.md)]
-- Active Preference Inference using Language Models and Probabilistic
-  Reasoning - [[Arxiv](https://arxiv.org/abs/2312.12009)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12009.md)]
-- Diffusing More Objects for Semi-Supervised Domain Adaptation with Less
-  Labeling - [[Arxiv](https://arxiv.org/abs/2312.12000)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12000.md)]
-- Coreference Graph Guidance for Mind-Map Generation - [[Arxiv](https://arxiv.org/abs/2312.11997)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11997.md)]
-- Large Language Models Empowered Agent-based Modeling and Simulation: A
-  Survey and Perspectives - [[Arxiv](https://arxiv.org/abs/2312.11970)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11970.md)]
-- Multi-Granularity Information Interaction Framework for Incomplete
-  Utterance Rewriting - [[Arxiv](https://arxiv.org/abs/2312.11945)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11945.md)]
-- Stability of Multi-Agent Learning in Competitive Networks: Delaying the
-  Onset of Chaos - [[Arxiv](https://arxiv.org/abs/2312.11943)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.11943.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
