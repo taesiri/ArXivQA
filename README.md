@@ -9,6 +9,10 @@
 - Evaluating Task-oriented Dialogue Systems: A Systematic Review of
   Measures, Constructs and their Operationalisations - [[Arxiv](https://arxiv.org/abs/2312.13871)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13871.md)]
 - Meta-control of Dialogue Systems Using Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.13715)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13715.md)]
+- Text2Analysis: A Benchmark of Table Question Answering with Advanced
+  Data Analysis and Unclear Queries - [[Arxiv](https://arxiv.org/abs/2312.13671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13671.md)]
+- The Truth is in There: Improving Reasoning in Language Models with
+  Layer-Selective Rank Reduction - [[Arxiv](https://arxiv.org/abs/2312.13558)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13558.md)]
 - Understanding and Estimating Domain Complexity Across Domains - [[Arxiv](https://arxiv.org/abs/2312.13487)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13487.md)]
 - Position Paper: Bridging the Gap Between Machine Learning and
   Sensitivity Analysis - [[Arxiv](https://arxiv.org/abs/2312.13234)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13234.md)]
@@ -21,6 +25,9 @@
 - NodeMixup: Tackling Under-Reaching for Graph Neural Networks - [[Arxiv](https://arxiv.org/abs/2312.13032)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13032.md)]
 - EMG-based Control Strategies of a Supernumerary Robotic Hand for the
   Rehabilitation of Sub-Acute Stroke Patients: Proof of Concept - [[Arxiv](https://arxiv.org/abs/2312.13009)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13009.md)]
+- Benchmarking and Analyzing In-context Learning, Fine-tuning and
+  Supervised Learning for Biomedical Knowledge Curation: a focused study on
+  chemical entities of biological interest - [[Arxiv](https://arxiv.org/abs/2312.12989)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12989.md)]
 - Concept-based Explainable Artificial Intelligence: A Survey - [[Arxiv](https://arxiv.org/abs/2312.12936)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12936.md)]
 - Stability of Graph Convolutional Neural Networks through the lens of
   small perturbation analysis - [[Arxiv](https://arxiv.org/abs/2312.12934)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12934.md)]
@@ -35,11 +42,6 @@
   for Chinese Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.12853)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12853.md)]
 - Turning Dust into Gold: Distilling Complex Reasoning Capabilities from
   LLMs by Leveraging Negative Data - [[Arxiv](https://arxiv.org/abs/2312.12832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12832.md)]
-- Segmenting Messy Text: Detecting Boundaries in Text Derived from
-  Historical Newspaper Images - [[Arxiv](https://arxiv.org/abs/2312.12773)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12773.md)]
-- ChatFDA: Medical Records Risk Assessment - [[Arxiv](https://arxiv.org/abs/2312.12746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12746.md)]
-- Locally Optimal Fixed-Budget Best Arm Identification in Two-Armed
-  Gaussian Bandits with Unknown Variances - [[Arxiv](https://arxiv.org/abs/2312.12741)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.12741.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
