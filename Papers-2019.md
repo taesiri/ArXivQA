@@ -55,8 +55,8 @@
 - Probability, valuations, hyperspace: Three monads on Top and the support   as a morphism - [[Arxiv](https://arxiv.org/abs/1910.03752)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.03752.md)]
 - Bayesian open games - [[Arxiv](https://arxiv.org/abs/1910.03656)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.03656.md)]
 - MelGAN: Generative Adversarial Networks for Conditional Waveform   Synthesis - [[Arxiv](https://arxiv.org/abs/1910.06711)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.06711.md)]
-- Continual Learning in Neural Networks - [[Arxiv](https://arxiv.org/abs/1910.02718v2)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.02718v2.md)]
 - Continual Learning in Neural Networks - [[Arxiv](https://arxiv.org/abs/1910.02718)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.02718.md)]
+- Continual Learning in Neural Networks - [[Arxiv](https://arxiv.org/abs/1910.02718v2)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.02718v2.md)]
 - ZeRO: Memory Optimizations Toward Training Trillion Parameter Models - [[Arxiv](https://arxiv.org/abs/1910.02054)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.02054.md)]
 - Is Fast Adaptation All You Need? - [[Arxiv](https://arxiv.org/abs/1910.01705)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.01705.md)]
 
@@ -87,8 +87,8 @@
 - Accelerating Large-Scale Inference with Anisotropic Vector Quantization - [[Arxiv](https://arxiv.org/abs/1908.10396)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.10396.md)]
 - Onion-Peel Networks for Deep Video Completion - [[Arxiv](https://arxiv.org/abs/1908.08718)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.08718.md)]
 - VL-BERT: Pre-training of Generic Visual-Linguistic Representations - [[Arxiv](https://arxiv.org/abs/1908.08530)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.08530.md)]
-- Efficient Deep Neural Networks - [[Arxiv](https://arxiv.org/abs/1908.08926)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.08926.md)]
 - Efficient Deep Neural Networks - [[Arxiv](https://arxiv.org/abs/1908.08926v1)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.08926v1.md)]
+- Efficient Deep Neural Networks - [[Arxiv](https://arxiv.org/abs/1908.08926)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.08926.md)]
 - A synthetic approach to Markov kernels, conditional independence and   theorems on sufficient statistics - [[Arxiv](https://arxiv.org/abs/1908.07021)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.07021.md)]
 - Unsupervised Learning of Landmarks by Descriptor Vector Exchange - [[Arxiv](https://arxiv.org/abs/1908.06427)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.06427.md)]
 - Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal   Pre-training - [[Arxiv](https://arxiv.org/abs/1908.06066)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1908.06066.md)]
@@ -138,6 +138,7 @@
 
 ### May 2019
 - Attention Is (not) All You Need for Commonsense Reasoning - [[Arxiv](https://arxiv.org/abs/1905.13497)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1905.13497.md)]
+- MathQA: Towards Interpretable Math Word Problem Solving with   Operation-Based Formalisms - [[Arxiv](https://arxiv.org/abs/1905.13319)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1905.13319.md)]
 - Align-and-Attend Network for Globally and Locally Coherent Video   Inpainting - [[Arxiv](https://arxiv.org/abs/1905.13066)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1905.13066.md)]
 - Let's Agree to Agree: Neural Networks Share Classification Order on Real   Datasets - [[Arxiv](https://arxiv.org/abs/1905.10854)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1905.10854.md)]
 - Why do These Match? Explaining the Behavior of Image Similarity Models - [[Arxiv](https://arxiv.org/abs/1905.10797)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1905.10797.md)]
@@ -207,8 +208,8 @@
 - High-Fidelity Image Generation With Fewer Labels - [[Arxiv](https://arxiv.org/abs/1903.02271)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.02271.md)]
 - Learning Latent Plans from Play - [[Arxiv](https://arxiv.org/abs/1903.01973)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01973.md)]
 - Lenses and Learners - [[Arxiv](https://arxiv.org/abs/1903.03671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.03671.md)]
-- Stabilizing the Lottery Ticket Hypothesis - [[Arxiv](https://arxiv.org/abs/1903.01611v3)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01611v3.md)]
 - Stabilizing the Lottery Ticket Hypothesis - [[Arxiv](https://arxiv.org/abs/1903.01611)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01611.md)]
+- Stabilizing the Lottery Ticket Hypothesis - [[Arxiv](https://arxiv.org/abs/1903.01611v3)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01611v3.md)]
 - Differentiable Causal Computations via Delayed Trace - [[Arxiv](https://arxiv.org/abs/1903.01093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01093.md)]
 - Semantic-Guided Multi-Attention Localization for Zero-Shot Learning - [[Arxiv](https://arxiv.org/abs/1903.00502)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.00502.md)]
 
