@@ -5,6 +5,7 @@
 - Learning Human-like Representations to Enable Learning Human Values - [[Arxiv](https://arxiv.org/abs/2312.14106)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14106.md)]
 - GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration
   Method using Ground Plane Motion Constraints - [[Arxiv](https://arxiv.org/abs/2312.14035)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14035.md)]
+- T-Eval: Evaluating the Tool Utilization Capability Step by Step - [[Arxiv](https://arxiv.org/abs/2312.14033)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14033.md)]
 - Typhoon: Thai Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.13951)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13951.md)]
 - Multi-Agent Probabilistic Ensembles with Trajectory Sampling for
   Connected Autonomous Vehicles - [[Arxiv](https://arxiv.org/abs/2312.13910)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13910.md)]
@@ -25,11 +26,15 @@
 - Text2Analysis: A Benchmark of Table Question Answering with Advanced
   Data Analysis and Unclear Queries - [[Arxiv](https://arxiv.org/abs/2312.13671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13671.md)]
 - Structure-Aware Path Inference for Neural Finite State Transducers - [[Arxiv](https://arxiv.org/abs/2312.13614)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13614.md)]
+- Argue with Me Tersely: Towards Sentence-Level Counter-Argument
+  Generation - [[Arxiv](https://arxiv.org/abs/2312.13608)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13608.md)]
 - The Truth is in There: Improving Reasoning in Language Models with
   Layer-Selective Rank Reduction - [[Arxiv](https://arxiv.org/abs/2312.13558)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13558.md)]
 - Understanding and Estimating Domain Complexity Across Domains - [[Arxiv](https://arxiv.org/abs/2312.13487)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13487.md)]
 - Neural feels with neural fields: Visuo-tactile perception for in-hand
   manipulation - [[Arxiv](https://arxiv.org/abs/2312.13469)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13469.md)]
+- Shared Affordance-awareness via Augmented Reality for Proactive
+  Assistance in Human-robot Collaboration - [[Arxiv](https://arxiv.org/abs/2312.13410)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13410.md)]
 - Enhancing Optimization Through Innovation: The Multi-Strategy Improved
   Black Widow Optimization Algorithm (MSBWOA) - [[Arxiv](https://arxiv.org/abs/2312.13395)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13395.md)]
 - Position Paper: Bridging the Gap Between Machine Learning and
@@ -37,10 +42,6 @@
 - Benchmarks for Retrospective Automated Driving System Crash Rate
   Analysis Using Police-Reported Crash Data - [[Arxiv](https://arxiv.org/abs/2312.13228)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13228.md)]
 - Interactive Visual Task Learning for Robots - [[Arxiv](https://arxiv.org/abs/2312.13219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13219.md)]
-- FiFAR: A Fraud Detection Dataset for Learning to Defer - [[Arxiv](https://arxiv.org/abs/2312.13218)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13218.md)]
-- LlaMaVAE: Guiding Large Language Model Generation via Continuous Latent
-  Sentence Spaces - [[Arxiv](https://arxiv.org/abs/2312.13208)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13208.md)]
-- Contextual Code Switching for Machine Translation using Language Models - [[Arxiv](https://arxiv.org/abs/2312.13179)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13179.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
