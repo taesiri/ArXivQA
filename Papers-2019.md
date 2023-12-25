@@ -19,8 +19,8 @@
 ### November 2019
 - ASR is all you need: cross-modal distillation for lip reading - [[Arxiv](https://arxiv.org/abs/1911.12747)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1911.12747.md)]
 - Single Headed Attention RNN: Stop Thinking With Your Head - [[Arxiv](https://arxiv.org/abs/1911.11423)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1911.11423.md)]
-- Binarized Neural Architecture Search - [[Arxiv](https://arxiv.org/abs/1911.10862)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1911.10862.md)]
 - Binarized Neural Architecture Search - [[Arxiv](https://arxiv.org/abs/1911.10862v2)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1911.10862v2.md)]
+- Binarized Neural Architecture Search - [[Arxiv](https://arxiv.org/abs/1911.10862)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1911.10862.md)]
 - Breaking the cycle -- Colleagues are all you need - [[Arxiv](https://arxiv.org/abs/1911.10538)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1911.10538.md)]
 - Region Normalization for Image Inpainting - [[Arxiv](https://arxiv.org/abs/1911.10375)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1911.10375.md)]
 - All You Need Is Boundary: Toward Arbitrary-Shaped Text Spotting - [[Arxiv](https://arxiv.org/abs/1911.09550)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1911.09550.md)]
@@ -245,5 +245,5 @@
 - A Comprehensive Survey on Graph Neural Networks - [[Arxiv](https://arxiv.org/abs/1901.00596)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00596.md)]
 - Visualizing Deep Similarity Networks - [[Arxiv](https://arxiv.org/abs/1901.00536)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00536.md)]
 - EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning - [[Arxiv](https://arxiv.org/abs/1901.00212)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00212.md)]
-- A Theoretical Analysis of Deep Q-Learning - [[Arxiv](https://arxiv.org/abs/1901.00137)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00137.md)]
 - A Theoretical Analysis of Deep Q-Learning - [[Arxiv](https://arxiv.org/abs/1901.00137v3)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00137v3.md)]
+- A Theoretical Analysis of Deep Q-Learning - [[Arxiv](https://arxiv.org/abs/1901.00137)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00137.md)]
