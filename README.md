@@ -1,46 +1,47 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
-- Fast and Knowledge-Free Deep Learning for General Game Playing (Student
-  Abstract) - [[Arxiv](https://arxiv.org/abs/2312.14121)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14121.md)]
-- LingoQA: Video Question Answering for Autonomous Driving - [[Arxiv](https://arxiv.org/abs/2312.14115)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14115.md)]
-- Learning Human-like Representations to Enable Learning Human Values - [[Arxiv](https://arxiv.org/abs/2312.14106)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14106.md)]
-- GRIL-Calib: Targetless Ground Robot IMU-LiDAR Extrinsic Calibration
-  Method using Ground Plane Motion Constraints - [[Arxiv](https://arxiv.org/abs/2312.14035)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14035.md)]
-- T-Eval: Evaluating the Tool Utilization Capability Step by Step - [[Arxiv](https://arxiv.org/abs/2312.14033)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14033.md)]
-- Modular Neural Network Policies for Learning In-Flight Object Catching
-  with a Robot Hand-Arm System - [[Arxiv](https://arxiv.org/abs/2312.13987)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13987.md)]
-- Typhoon: Thai Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.13951)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13951.md)]
-- Structured Probabilistic Coding - [[Arxiv](https://arxiv.org/abs/2312.13933)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13933.md)]
-- AsyncMLD: Asynchronous Multi-LLM Framework for Dialogue Recommendation
-  System - [[Arxiv](https://arxiv.org/abs/2312.13925)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13925.md)]
-- Solving Long-run Average Reward Robust MDPs via Stochastic Games - [[Arxiv](https://arxiv.org/abs/2312.13912)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13912.md)]
-- Multi-Agent Probabilistic Ensembles with Trajectory Sampling for
-  Connected Autonomous Vehicles - [[Arxiv](https://arxiv.org/abs/2312.13910)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13910.md)]
-- Domain-Specific Fine-Tuning of Large Language Models for Interactive
-  Robot Programming - [[Arxiv](https://arxiv.org/abs/2312.13905)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13905.md)]
-- A Summarized History-based Dialogue System for Amnesia-Free Prompt
-  Updates - [[Arxiv](https://arxiv.org/abs/2312.13891)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13891.md)]
-- Diversifying Knowledge Enhancement of Biomedical Language Models using
-  Adapter Modules and Knowledge Graphs - [[Arxiv](https://arxiv.org/abs/2312.13881)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13881.md)]
-- Capture the Flag: Uncovering Data Insights with Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.13876)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13876.md)]
-- Evaluating Task-oriented Dialogue Systems: A Systematic Review of
-  Measures, Constructs and their Operationalisations - [[Arxiv](https://arxiv.org/abs/2312.13871)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13871.md)]
-- Manipulating Trajectory Prediction with Backdoors - [[Arxiv](https://arxiv.org/abs/2312.13863)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13863.md)]
-- Team Flow at DRC2023: Building Common Ground and Text-based Turn-taking
-  in a Travel Agent Spoken Dialogue System - [[Arxiv](https://arxiv.org/abs/2312.13816)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13816.md)]
-- Open-Source Reinforcement Learning Environments Implemented in MuJoCo
-  with Franka Manipulator - [[Arxiv](https://arxiv.org/abs/2312.13788)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13788.md)]
-- Benchmarking Evolutionary Community Detection Algorithms in Dynamic
-  Networks - [[Arxiv](https://arxiv.org/abs/2312.13784)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13784.md)]
-- On Task Performance and Model Calibration with Supervised and
-  Self-Ensembled In-Context Learning - [[Arxiv](https://arxiv.org/abs/2312.13772)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13772.md)]
-- Exploiting Contextual Target Attributes for Target Sentiment
-  Classification - [[Arxiv](https://arxiv.org/abs/2312.13766)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13766.md)]
-- Team Irisapu Project Description for DRC2023 - [[Arxiv](https://arxiv.org/abs/2312.13765)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13765.md)]
-- Meta-control of Dialogue Systems Using Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.13715)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13715.md)]
-- Data Transformation to Construct a Dataset for Generating
-  Entity-Relationship Model from Natural Language - [[Arxiv](https://arxiv.org/abs/2312.13694)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.13694.md)]
+- Strong anti-Hebbian plasticity alters the convexity of network attractor
+  landscapes - [[Arxiv](https://arxiv.org/abs/2312.14896)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14896.md)]
+- NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language
+  Models via Complexity Classes - [[Arxiv](https://arxiv.org/abs/2312.14890)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14890.md)]
+- Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning - [[Arxiv](https://arxiv.org/abs/2312.14878)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14878.md)]
+- Automating the Design of Multigrid Methods with Evolutionary Program
+  Synthesis - [[Arxiv](https://arxiv.org/abs/2312.14875)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14875.md)]
+- Numerical Reasoning for Financial Reports - [[Arxiv](https://arxiv.org/abs/2312.14870)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14870.md)]
+- YAYI 2: Multilingual Open-Source Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.14862)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14862.md)]
+- TACO: Topics in Algorithmic COde generation dataset - [[Arxiv](https://arxiv.org/abs/2312.14852)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14852.md)]
+- On the Use of Metaphor Translation in Psychiatry - [[Arxiv](https://arxiv.org/abs/2312.14845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14845.md)]
+- An investigation of belief-free DRL and MCTS for inspection and
+  maintenance planning - [[Arxiv](https://arxiv.org/abs/2312.14824)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14824.md)]
+- A Tricycle Model to Accurately Control an Autonomous Racecar with Locked
+  Differential - [[Arxiv](https://arxiv.org/abs/2312.14808)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14808.md)]
+- Semantic Parsing for Complex Data Retrieval: Targeting Query Plans vs.
+  SQL for No-Code Access to Relational Databases - [[Arxiv](https://arxiv.org/abs/2312.14798)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14798.md)]
+- ROS package search for robot software development: a knowledge
+  graph-based approach - [[Arxiv](https://arxiv.org/abs/2312.14781)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14781.md)]
+- Integration Of Evolutionary Automated Machine Learning With Structural
+  Sensitivity Analysis For Composite Pipelines - [[Arxiv](https://arxiv.org/abs/2312.14770)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14770.md)]
+- Computational Semantics and Evaluation Benchmark for Interrogative
+  Sentences via Combinatory Categorial Grammar - [[Arxiv](https://arxiv.org/abs/2312.14737)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14737.md)]
+- To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for
+  Aerial Robots - [[Arxiv](https://arxiv.org/abs/2312.14730)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14730.md)]
+- Inverse Transfer Multiobjective Optimization - [[Arxiv](https://arxiv.org/abs/2312.14713)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14713.md)]
+- BonnBeetClouds3D: A Dataset Towards Point Cloud-based Organ-level
+  Phenotyping of Sugar Beet Plants under Field Conditions - [[Arxiv](https://arxiv.org/abs/2312.14706)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14706.md)]
+- Kernel Heterogeneity Improves Sparseness of Natural Images
+  Representations - [[Arxiv](https://arxiv.org/abs/2312.14685)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14685.md)]
+- Engineered Ordinary Differential Equations as Classification Algorithm
+  (EODECA): thorough characterization and testing - [[Arxiv](https://arxiv.org/abs/2312.14681)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14681.md)]
+- Zero-shot Causal Graph Extrapolation from Text via LLMs - [[Arxiv](https://arxiv.org/abs/2312.14670)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14670.md)]
+- Hierarchical Multi-Agent Reinforcement Learning for Assessing False-Data
+  Injection Attacks on Transportation Networks - [[Arxiv](https://arxiv.org/abs/2312.14625)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14625.md)]
+- BLSTM-Based Confidence Estimation for End-to-End Speech Recognition - [[Arxiv](https://arxiv.org/abs/2312.14609)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14609.md)]
+- Efficient Discrete Physics-informed Neural Networks for Addressing
+  Evolutionary Partial Differential Equations - [[Arxiv](https://arxiv.org/abs/2312.14608)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14608.md)]
+- Reasons to Reject? Aligning Language Models with Judgments - [[Arxiv](https://arxiv.org/abs/2312.14591)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14591.md)]
+- Aurora:Activating Chinese chat capability for Mistral-8x7B sparse
+  Mixture-of-Experts through Instruction-Tuning - [[Arxiv](https://arxiv.org/abs/2312.14557)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.14557.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)

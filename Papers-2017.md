@@ -71,6 +71,7 @@
 - Self-supervised learning of visual features through embedding images   into text topic spaces - [[Arxiv](https://arxiv.org/abs/1705.08631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.08631.md)]
 - Look, Listen and Learn - [[Arxiv](https://arxiv.org/abs/1705.08168)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.08168.md)]
 - Learning how to explain neural networks: PatternNet and   PatternAttribution - [[Arxiv](https://arxiv.org/abs/1705.05598)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.05598.md)]
+- Program Induction by Rationale Generation : Learning to Solve and   Explain Algebraic Word Problems - [[Arxiv](https://arxiv.org/abs/1705.04146)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.04146.md)]
 - TALL: Temporal Activity Localization via Language Query - [[Arxiv](https://arxiv.org/abs/1705.02101)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.02101.md)]
 - Dense-Captioning Events in Videos - [[Arxiv](https://arxiv.org/abs/1705.00754)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1705.00754.md)]
 
