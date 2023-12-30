@@ -1,6 +1,7 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
+- Do Androids Know They're Only Dreaming of Electric Sheep? - [[Arxiv](https://arxiv.org/abs/2312.17249)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17249.md)]
 - The LLM Surgeon - [[Arxiv](https://arxiv.org/abs/2312.17244)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17244.md)]
 - Learning to Generate Text in Arbitrary Writing Styles - [[Arxiv](https://arxiv.org/abs/2312.17242)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17242.md)]
 - SparseProp: Efficient Event-Based Simulation and Training of Sparse
@@ -19,6 +20,7 @@
   Believability of Human Behavior Simulation - [[Arxiv](https://arxiv.org/abs/2312.17115)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17115.md)]
 - Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of
   Plants - [[Arxiv](https://arxiv.org/abs/2312.17110)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17110.md)]
+- MIVC: Multiple Instance Visual Component for Visual-Language Models - [[Arxiv](https://arxiv.org/abs/2312.17109)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17109.md)]
 - Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined
   Levels - [[Arxiv](https://arxiv.org/abs/2312.17090)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17090.md)]
 - Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil
@@ -35,10 +37,6 @@
 - OmniDialog: An Omnipotent Pre-training Model for Task-Oriented Dialogue
   System - [[Arxiv](https://arxiv.org/abs/2312.16864)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16864.md)]
 - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones - [[Arxiv](https://arxiv.org/abs/2312.16862)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16862.md)]
-- Evaluating the Performance of Large Language Models for Spanish Language
-  in Undergraduate Admissions Exams - [[Arxiv](https://arxiv.org/abs/2312.16845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16845.md)]
-- Similar but Different: A Survey of Ground Segmentation and
-  Traversability Estimation for Terrestrial Robots - [[Arxiv](https://arxiv.org/abs/2312.16839)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16839.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
