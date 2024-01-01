@@ -1,42 +1,46 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
-- Do Androids Know They're Only Dreaming of Electric Sheep? - [[Arxiv](https://arxiv.org/abs/2312.17249)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17249.md)]
-- The LLM Surgeon - [[Arxiv](https://arxiv.org/abs/2312.17244)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17244.md)]
-- Learning to Generate Text in Arbitrary Writing Styles - [[Arxiv](https://arxiv.org/abs/2312.17242)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17242.md)]
-- SparseProp: Efficient Event-Based Simulation and Training of Sparse
-  Recurrent Spiking Neural Networks - [[Arxiv](https://arxiv.org/abs/2312.17216)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17216.md)]
-- Control Barrier Function Based UAV Safety Controller in Autonomous
-  Airborne Tracking and Following Systems - [[Arxiv](https://arxiv.org/abs/2312.17215)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17215.md)]
-- Virtual Scientific Companion for Synchrotron Beamlines: A Prototype - [[Arxiv](https://arxiv.org/abs/2312.17180)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17180.md)]
-- Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision,
-  Language, Audio, and Action - [[Arxiv](https://arxiv.org/abs/2312.17172)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17172.md)]
-- InsActor: Instruction-driven Physics-based Characters - [[Arxiv](https://arxiv.org/abs/2312.17135)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17135.md)]
-- Large Language Model for Causal Decision Making - [[Arxiv](https://arxiv.org/abs/2312.17122)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17122.md)]
-- Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale
-  Pretraining Corpus for Math - [[Arxiv](https://arxiv.org/abs/2312.17120)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17120.md)]
-- Generalizable Visual Reinforcement Learning with Segment Anything Model - [[Arxiv](https://arxiv.org/abs/2312.17116)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17116.md)]
-- How Far Are We from Believable AI Agents? A Framework for Evaluating the
-  Believability of Human Behavior Simulation - [[Arxiv](https://arxiv.org/abs/2312.17115)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17115.md)]
-- Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of
-  Plants - [[Arxiv](https://arxiv.org/abs/2312.17110)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17110.md)]
-- MIVC: Multiple Instance Visual Component for Visual-Language Models - [[Arxiv](https://arxiv.org/abs/2312.17109)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17109.md)]
-- Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined
-  Levels - [[Arxiv](https://arxiv.org/abs/2312.17090)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17090.md)]
-- Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil
-  Cognitive Depth in LLMs - [[Arxiv](https://arxiv.org/abs/2312.17080)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17080.md)]
-- Minimally-intrusive Navigation in Dense Crowds with Integrated Macro and
-  Micro-level Dynamics - [[Arxiv](https://arxiv.org/abs/2312.17076)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17076.md)]
-- Improving In-context Learning via Bidirectional Alignment - [[Arxiv](https://arxiv.org/abs/2312.17055)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17055.md)]
-- Length Extrapolation of Transformers: A Survey from the Perspective of
-  Position Encoding - [[Arxiv](https://arxiv.org/abs/2312.17044)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17044.md)]
-- Experiential Co-Learning of Software-Developing Agents - [[Arxiv](https://arxiv.org/abs/2312.17025)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17025.md)]
-- Unified Lattice Graph Fusion for Chinese Named Entity Recognition - [[Arxiv](https://arxiv.org/abs/2312.16917)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16917.md)]
-- Spike No More: Stabilizing the Pre-training of Large Language Models - [[Arxiv](https://arxiv.org/abs/2312.16903)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16903.md)]
-- BBScore: A Brownian Bridge Based Metric for Assessing Text Coherence - [[Arxiv](https://arxiv.org/abs/2312.16893)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16893.md)]
-- OmniDialog: An Omnipotent Pre-training Model for Task-Oriented Dialogue
-  System - [[Arxiv](https://arxiv.org/abs/2312.16864)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16864.md)]
-- TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones - [[Arxiv](https://arxiv.org/abs/2312.16862)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.16862.md)]
+- MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with
+  Constrained Communications in 3D Environments - [[Arxiv](https://arxiv.org/abs/2312.17731)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17731.md)]
+- Principled Gradient-based Markov Chain Monte Carlo for Text Generation - [[Arxiv](https://arxiv.org/abs/2312.17710)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17710.md)]
+- Jatmo: Prompt Injection Defense by Task-Specific Finetuning - [[Arxiv](https://arxiv.org/abs/2312.17673)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17673.md)]
+- Vocalics in Human-Drone Interaction - [[Arxiv](https://arxiv.org/abs/2312.17668)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17668.md)]
+- Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language
+  Models - [[Arxiv](https://arxiv.org/abs/2312.17661)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17661.md)]
+- Normalization of Lithuanian Text Using Regular Expressions - [[Arxiv](https://arxiv.org/abs/2312.17660)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17660.md)]
+- Grasping, Part Identification, and Pose Refinement in One Shot with a
+  Tactile Gripper - [[Arxiv](https://arxiv.org/abs/2312.17650)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17650.md)]
+- b-it-bots RoboCup@Work Team Description Paper 2023 - [[Arxiv](https://arxiv.org/abs/2312.17643)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17643.md)]
+- Developing Flying Explorer for Autonomous Digital Modelling in Wild
+  Unknowns - [[Arxiv](https://arxiv.org/abs/2312.17634)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17634.md)]
+- Large Language Models for Generative Information Extraction: A Survey - [[Arxiv](https://arxiv.org/abs/2312.17617)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17617.md)]
+- Adaptive Control Strategy for Quadruped Robots in Actuator Degradation
+  Scenarios - [[Arxiv](https://arxiv.org/abs/2312.17606)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17606.md)]
+- Unified Task and Motion Planning using Object-centric Abstractions of
+  Motion Constraints - [[Arxiv](https://arxiv.org/abs/2312.17605)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17605.md)]
+- Towards Faithful Explanations for Text Classification with Robustness
+  Improvement and Explanation Guided Training - [[Arxiv](https://arxiv.org/abs/2312.17591)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17591.md)]
+- Enhancing the Performance of DeepReach on High-Dimensional Systems
+  through Optimizing Activation Functions - [[Arxiv](https://arxiv.org/abs/2312.17583)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17583.md)]
+- Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip
+  Learning - [[Arxiv](https://arxiv.org/abs/2312.17582)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17582.md)]
+- Action-Item-Driven Summarization of Long Meeting Transcripts - [[Arxiv](https://arxiv.org/abs/2312.17581)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17581.md)]
+- Exploring Deep Reinforcement Learning for Robust Target Tracking using
+  Micro Aerial Vehicles - [[Arxiv](https://arxiv.org/abs/2312.17552)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17552.md)]
+- Building Efficient Universal Classifiers with Natural Language Inference - [[Arxiv](https://arxiv.org/abs/2312.17543)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17543.md)]
+- Olapa-MCoT: Enhancing the Chinese Mathematical Reasoning Capability of
+  LLMs - [[Arxiv](https://arxiv.org/abs/2312.17535)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17535.md)]
+- Enhancing Quantitative Reasoning Skills of Large Language Models through
+  Dimension Perception - [[Arxiv](https://arxiv.org/abs/2312.17532)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17532.md)]
+- Overview of the PromptCBLUE Shared Task in CHIP2023 - [[Arxiv](https://arxiv.org/abs/2312.17522)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17522.md)]
+- Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in
+  the Avalon Game - [[Arxiv](https://arxiv.org/abs/2312.17515)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17515.md)]
+- Actuator-Constrained Reinforcement Learning for High-Speed Quadrupedal
+  Locomotion - [[Arxiv](https://arxiv.org/abs/2312.17507)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17507.md)]
+- Leveraging Open-Vocabulary Diffusion to Camouflaged Instance
+  Segmentation - [[Arxiv](https://arxiv.org/abs/2312.17505)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17505.md)]
+- LiDAR Odometry Survey: Recent Advancements and Remaining Challenges - [[Arxiv](https://arxiv.org/abs/2312.17487)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.17487.md)]
 
 ## List of Papers by Year
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
