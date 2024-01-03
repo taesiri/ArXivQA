@@ -13,6 +13,8 @@
 - Multi-Lattice Sampling of Quantum Field Theories via Neural Operators - [[Arxiv](https://arxiv.org/abs/2401.00828)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2401.00828.md)]
 - Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using
   Sharpness Prior - [[Arxiv](https://arxiv.org/abs/2401.00825)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2401.00825.md)]
+- Graph-Convolutional Autoencoder Ensembles for the Humanities,
+  Illustrated with a Study of the American Slave Trade - [[Arxiv](https://arxiv.org/abs/2401.00824)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2401.00824.md)]
 - A Computational Framework for Behavioral Assessment of LLM Therapists - [[Arxiv](https://arxiv.org/abs/2401.00820)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2401.00820.md)]
 - GLIMPSE: Generalized Local Imaging with MLPs - [[Arxiv](https://arxiv.org/abs/2401.00816)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2401.00816.md)]
 - If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code
@@ -39,7 +41,6 @@
   Models - [[Arxiv](https://arxiv.org/abs/2401.00757)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2401.00757.md)]
 - MPRE: Multi-perspective Patient Representation Extractor for Disease
   Prediction - [[Arxiv](https://arxiv.org/abs/2401.00756)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2401.00756.md)]
-- Saliency-Aware Regularized Graph Neural Network - [[Arxiv](https://arxiv.org/abs/2401.00755)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2401.00755.md)]
 
 ## List of Papers by Year
 - [Papers for 2024](https://github.com/taesiri/ArXivQA/blob/main/Papers-2024.md)
