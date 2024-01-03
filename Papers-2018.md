@@ -122,8 +122,8 @@
 
 ### February 2018
 - Relational Reasoning for Markov Chains in a Probabilistic Guarded Lambda   Calculus - [[Arxiv](https://arxiv.org/abs/1802.09787)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.09787.md)]
-- Machine Theory of Mind - [[Arxiv](https://arxiv.org/abs/1802.07740)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.07740.md)]
 - Machine Theory of Mind - [[Arxiv](https://arxiv.org/abs/1802.07740v2)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.07740v2.md)]
+- Machine Theory of Mind - [[Arxiv](https://arxiv.org/abs/1802.07740)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.07740.md)]
 - Diversity is All You Need: Learning Skills without a Reward Function - [[Arxiv](https://arxiv.org/abs/1802.06070)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.06070.md)]
 - Multimodal Explanations: Justifying Decisions and Pointing to the   Evidence - [[Arxiv](https://arxiv.org/abs/1802.08129)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.08129.md)]
 - DVAE++: Discrete Variational Autoencoders with Overlapping   Transformations - [[Arxiv](https://arxiv.org/abs/1802.04920)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1802.04920.md)]
