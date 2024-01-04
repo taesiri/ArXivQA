@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# Change directory to /Users/m/Github/ArXivQA
+cd /Users/m/Github/ArXivQA || {
+    echo "Error: Failed to change directory to /Users/m/Github/ArXivQA. Please make sure the directory exists and try again."
+    exit 1
+}
+
 source ~/miniconda3/bin/activate
 
 # Check if conda is installed
