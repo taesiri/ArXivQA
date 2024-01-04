@@ -7,4 +7,4 @@ rm -fr  ~/.cache/huggingface/datasets/taesiri___arxiv_qa
 # perform git commit and push
 git add .
 git commit -m "update dataset"
-git push origin master
+git push origin main
