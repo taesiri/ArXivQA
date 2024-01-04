@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 rm -fr  ~/.cache/huggingface/datasets/taesiri___arxiv_qa
 /opt/homebrew/Caskroom/miniforge/base/envs/torch2/bin/python update_dataset.py
