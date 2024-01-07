@@ -14,10 +14,10 @@
   Models - [[Arxiv](https://arxiv.org/abs/2312.09256)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09256.md)]
 - Revisiting Depth Completion from a Stereo Matching Perspective for
   Cross-domain Generalization - [[Arxiv](https://arxiv.org/abs/2312.09254)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09254.md)]
-- FineControlNet: Fine-level Text Control for Image Generation with
-  Spatially Aligned Text Control Injection - [[Arxiv](https://arxiv.org/abs/2312.09252)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09252.md)]
 - VL-GPT: A Generative Pre-trained Transformer for Vision and Language
   Understanding and Generation - [[Arxiv](https://arxiv.org/abs/2312.09251)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09251.md)]
+- FineControlNet: Fine-level Text Control for Image Generation with
+  Spatially Aligned Text Control Injection - [[Arxiv](https://arxiv.org/abs/2312.09252)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09252.md)]
 - Single Mesh Diffusion Models with Field Latents for Texture Generation - [[Arxiv](https://arxiv.org/abs/2312.09250)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09250.md)]
 - ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining - [[Arxiv](https://arxiv.org/abs/2312.09249)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09249.md)]
 - SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds - [[Arxiv](https://arxiv.org/abs/2312.09246)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09246.md)]
