@@ -720,3 +720,8 @@ Error fetching paper details for 909.09100: 400 Client Error: Bad Request for ur
 Creating parent markdown file...
 Fetching paper details:   0%|                                             | 0/10021 [00:00<?, ?it/s]Fetching paper details:  98%|██████████████████████████████▍| 9853/10021 [00:00<00:00, 98521.17it/s]Fetching paper details: 100%|██████████████████████████████| 10021/10021 [00:00<00:00, 98596.09it/s]
 Performing git commit and push
+[main 9e9d9946a] update dataset
+ 7 files changed, 240 insertions(+), 160 deletions(-)
+To https://github.com/taesiri/ArXivQA.git
+   3abeea3cd..9e9d9946a  main -> main
+Script completed successfully.
