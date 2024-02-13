@@ -33,6 +33,8 @@ df = df.drop_duplicates(subset=["question", "answer"])
 df = df.astype(str)
 
 print(f"Total number of QA pairs: {len(df)}")
+# total number of unique papers:
+print(f"Total number of unique papers: {len(df['paper_id'].unique())}")
 
 arxiv_qa_dataset = Dataset.from_pandas(df, preserve_index=False)
 arxiv_qa_dataset.push_to_hub("taesiri/arxiv_qa")
