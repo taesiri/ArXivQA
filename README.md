@@ -1,46 +1,45 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
-- Learning Distributions on Manifolds with Free-form Flows - [[Arxiv](https://arxiv.org/abs/2312.09852)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09852.md)]
-- Fragility, Robustness and Antifragility in Deep Learning - [[Arxiv](https://arxiv.org/abs/2312.09821)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09821.md)]
-- Deep Event Visual Odometry - [[Arxiv](https://arxiv.org/abs/2312.09800)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09800.md)]
-- RJUA-QA: A Comprehensive QA Dataset for Urology - [[Arxiv](https://arxiv.org/abs/2312.09785)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09785.md)]
-- HEAR: Hearing Enhanced Audio Response for Video-grounded Dialogue - [[Arxiv](https://arxiv.org/abs/2312.09736)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09736.md)]
-- Multiscale Vision Transformer With Deep Clustering-Guided Refinement for
-  Weakly Supervised Object Localization - [[Arxiv](https://arxiv.org/abs/2312.09584)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09584.md)]
-- iOn-Profiler: intelligent Online multi-objective VNF Profiling with
-  Reinforcement Learning - [[Arxiv](https://arxiv.org/abs/2312.09355)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09355.md)]
-- LIME: Localized Image Editing via Attention Regularization in Diffusion
-  Models - [[Arxiv](https://arxiv.org/abs/2312.09256)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09256.md)]
-- Revisiting Depth Completion from a Stereo Matching Perspective for
-  Cross-domain Generalization - [[Arxiv](https://arxiv.org/abs/2312.09254)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09254.md)]
-- VL-GPT: A Generative Pre-trained Transformer for Vision and Language
-  Understanding and Generation - [[Arxiv](https://arxiv.org/abs/2312.09251)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09251.md)]
-- FineControlNet: Fine-level Text Control for Image Generation with
-  Spatially Aligned Text Control Injection - [[Arxiv](https://arxiv.org/abs/2312.09252)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09252.md)]
-- Single Mesh Diffusion Models with Field Latents for Texture Generation - [[Arxiv](https://arxiv.org/abs/2312.09250)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09250.md)]
-- ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining - [[Arxiv](https://arxiv.org/abs/2312.09249)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09249.md)]
-- SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds - [[Arxiv](https://arxiv.org/abs/2312.09246)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09246.md)]
-- DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral
-  Planning States for Autonomous Driving - [[Arxiv](https://arxiv.org/abs/2312.09245)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09245.md)]
-- Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate
-  Reward Hacking - [[Arxiv](https://arxiv.org/abs/2312.09244)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09244.md)]
-- OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural
-  Radiance Fields - [[Arxiv](https://arxiv.org/abs/2312.09243)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09243.md)]
-- Text2Immersion: Generative Immersive Scene with 3D Gaussians - [[Arxiv](https://arxiv.org/abs/2312.09242)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09242.md)]
-- TinyGSM: achieving &gt;80% on GSM8k with small language models - [[Arxiv](https://arxiv.org/abs/2312.09241)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09241.md)]
-- Auto MC-Reward: Automated Dense Reward Design with Large Language Models
-  for Minecraft - [[Arxiv](https://arxiv.org/abs/2312.09238)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09238.md)]
-- Pixel Aligned Language Models - [[Arxiv](https://arxiv.org/abs/2312.09237)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09237.md)]
-- A framework for conditional diffusion modelling with applications in
-  motif scaffolding for protein design - [[Arxiv](https://arxiv.org/abs/2312.09236)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09236.md)]
-- Let's do the time-warp-attend: Learning topological invariants of
-  dynamical systems - [[Arxiv](https://arxiv.org/abs/2312.09234)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09234.md)]
-- DVQI: A Multi-task, Hardware-integrated Artificial Intelligence System
-  for Automated Visual Inspection in Electronics Manufacturing - [[Arxiv](https://arxiv.org/abs/2312.09232)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09232.md)]
-- Reliability in Semantic Segmentation: Can We Use Synthetic Data? - [[Arxiv](https://arxiv.org/abs/2312.09231)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2312.09231.md)]
+- Mitigating Object Hallucination in Large Vision-Language Models via
+  Classifier-Free Guidance - [[Arxiv](https://arxiv.org/abs/2402.08680)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08680.md)]
+- COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability - [[Arxiv](https://arxiv.org/abs/2402.08679)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08679.md)]
+- Target Score Matching - [[Arxiv](https://arxiv.org/abs/2402.08667)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08667.md)]
+- Learning Continuous 3D Words for Text-to-Image Generation - [[Arxiv](https://arxiv.org/abs/2402.08654)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08654.md)]
+- Two Tales of Single-Phase Contrastive Hebbian Learning - [[Arxiv](https://arxiv.org/abs/2402.08573)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08573.md)]
+- Glass Segmentation with Multi Scales and Primary Prediction Guiding - [[Arxiv](https://arxiv.org/abs/2402.08571)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08571.md)]
+- Artificial Intelligence for Literature Reviews: Opportunities and
+  Challenges - [[Arxiv](https://arxiv.org/abs/2402.08565)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08565.md)]
+- Counterfactual Influence in Markov Decision Processes - [[Arxiv](https://arxiv.org/abs/2402.08514)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08514.md)]
+- A PAC-Bayesian Link Between Generalisation and Flat Minima - [[Arxiv](https://arxiv.org/abs/2402.08508)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08508.md)]
+- Lying Blindly: Bypassing ChatGPT's Safeguards to Generate Hard-to-Detect
+  Disinformation Claims at Scale - [[Arxiv](https://arxiv.org/abs/2402.08467)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08467.md)]
+- MAVRL: Learn to Fly in Cluttered Environments with Varying Speed - [[Arxiv](https://arxiv.org/abs/2402.08381)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08381.md)]
+- RBF-PINN: Non-Fourier Positional Embedding in Physics-Informed Neural
+  Networks - [[Arxiv](https://arxiv.org/abs/2402.08367)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08367.md)]
+- Visual Question Answering Instruction: Unlocking Multimodal Large
+  Language Model To Domain-Specific Visual Multitasks - [[Arxiv](https://arxiv.org/abs/2402.08360)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08360.md)]
+- Exploration by Optimization with Hybrid Regularizers: Logarithmic Regret
+  with Adversarial Robustness in Partial Monitoring - [[Arxiv](https://arxiv.org/abs/2402.08321)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08321.md)]
+- A Logical Approach to Criminal Case Investigation - [[Arxiv](https://arxiv.org/abs/2402.08284)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08284.md)]
+- Pix2Code: Learning to Compose Neural Visual Concepts as Programs - [[Arxiv](https://arxiv.org/abs/2402.08280)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08280.md)]
+- BBox-Adapter: Lightweight Adapting for Black-Box Large Language Models - [[Arxiv](https://arxiv.org/abs/2402.08219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08219.md)]
+- BBSEA: An Exploration of Brain-Body Synchronization for Embodied Agents - [[Arxiv](https://arxiv.org/abs/2402.08212)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08212.md)]
+- Thresholding Data Shapley for Data Cleansing Using Multi-Armed Bandits - [[Arxiv](https://arxiv.org/abs/2402.08209)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08209.md)]
+- Inherent Diverse Redundant Safety Mechanisms for AI-based Software
+  Elements in Automotive Applications - [[Arxiv](https://arxiv.org/abs/2402.08208)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08208.md)]
+- Translating Images to Road Network:A Non-Autoregressive
+  Sequence-to-Sequence Approach - [[Arxiv](https://arxiv.org/abs/2402.08207)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08207.md)]
+- THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic
+  Manipulation - [[Arxiv](https://arxiv.org/abs/2402.08191)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08191.md)]
+- Variational Continual Test-Time Adaptation - [[Arxiv](https://arxiv.org/abs/2402.08182)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08182.md)]
+- Verified Multi-Step Synthesis using Large Language Models and Monte
+  Carlo Tree Search - [[Arxiv](https://arxiv.org/abs/2402.08147)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08147.md)]
+- H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object
+  Surface Fields - [[Arxiv](https://arxiv.org/abs/2402.08138)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.08138.md)]
 
 ## List of Papers by Year
+- [Papers for 2024](https://github.com/taesiri/ArXivQA/blob/main/Papers-2024.md)
 - [Papers for 2023](https://github.com/taesiri/ArXivQA/blob/main/Papers-2023.md)
 - [Papers for 2022](https://github.com/taesiri/ArXivQA/blob/main/Papers-2022.md)
 - [Papers for 2021](https://github.com/taesiri/ArXivQA/blob/main/Papers-2021.md)

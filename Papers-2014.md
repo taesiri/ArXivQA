@@ -9,6 +9,9 @@
 - Frequentism and Bayesianism: A Python-driven Primer - [[Arxiv](https://arxiv.org/abs/1411.5018)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1411.5018.md)]
 - Show and Tell: A Neural Image Caption Generator - [[Arxiv](https://arxiv.org/abs/1411.4555)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1411.4555.md)]
 
+### October 2014
+- ACE Bounds; SEMs with Equilibrium Conditions - [[Arxiv](https://arxiv.org/abs/1410.0470)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1410.0470.md)]
+
 ### September 2014
 - Computable Stochastic Processes - [[Arxiv](https://arxiv.org/abs/1409.4667)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1409.4667.md)]
 - On the Properties of Neural Machine Translation: Encoder-Decoder   Approaches - [[Arxiv](https://arxiv.org/abs/1409.1259)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1409.1259.md)]
