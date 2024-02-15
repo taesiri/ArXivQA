@@ -55,8 +55,8 @@
 - Probability, valuations, hyperspace: Three monads on Top and the support   as a morphism - [[Arxiv](https://arxiv.org/abs/1910.03752)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.03752.md)]
 - Bayesian open games - [[Arxiv](https://arxiv.org/abs/1910.03656)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.03656.md)]
 - MelGAN: Generative Adversarial Networks for Conditional Waveform   Synthesis - [[Arxiv](https://arxiv.org/abs/1910.06711)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.06711.md)]
-- Continual Learning in Neural Networks - [[Arxiv](https://arxiv.org/abs/1910.02718)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.02718.md)]
 - Continual Learning in Neural Networks - [[Arxiv](https://arxiv.org/abs/1910.02718v2)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.02718v2.md)]
+- Continual Learning in Neural Networks - [[Arxiv](https://arxiv.org/abs/1910.02718)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.02718.md)]
 - ZeRO: Memory Optimizations Toward Training Trillion Parameter Models - [[Arxiv](https://arxiv.org/abs/1910.02054)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.02054.md)]
 - Is Fast Adaptation All You Need? - [[Arxiv](https://arxiv.org/abs/1910.01705)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1910.01705.md)]
 
