@@ -1,5 +1,6 @@
 
 ### December 2014
+- Semantic Image Segmentation with Deep Convolutional Nets and Fully   Connected CRFs - [[Arxiv](https://arxiv.org/abs/1412.7062)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1412.7062.md)]
 - Adam: A Method for Stochastic Optimization - [[Arxiv](https://arxiv.org/abs/1412.6980)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1412.6980.md)]
 - Object Detectors Emerge in Deep Scene CNNs - [[Arxiv](https://arxiv.org/abs/1412.6856)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1412.6856.md)]
 - Empirical Evaluation of Gated Recurrent Neural Networks on Sequence   Modeling - [[Arxiv](https://arxiv.org/abs/1412.3555)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1412.3555.md)]

@@ -210,8 +210,8 @@
 - High-Fidelity Image Generation With Fewer Labels - [[Arxiv](https://arxiv.org/abs/1903.02271)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.02271.md)]
 - Learning Latent Plans from Play - [[Arxiv](https://arxiv.org/abs/1903.01973)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01973.md)]
 - Lenses and Learners - [[Arxiv](https://arxiv.org/abs/1903.03671)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.03671.md)]
-- Stabilizing the Lottery Ticket Hypothesis - [[Arxiv](https://arxiv.org/abs/1903.01611v3)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01611v3.md)]
 - Stabilizing the Lottery Ticket Hypothesis - [[Arxiv](https://arxiv.org/abs/1903.01611)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01611.md)]
+- Stabilizing the Lottery Ticket Hypothesis - [[Arxiv](https://arxiv.org/abs/1903.01611v3)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01611v3.md)]
 - Differentiable Causal Computations via Delayed Trace - [[Arxiv](https://arxiv.org/abs/1903.01093)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.01093.md)]
 - Semantic-Guided Multi-Attention Localization for Zero-Shot Learning - [[Arxiv](https://arxiv.org/abs/1903.00502)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1903.00502.md)]
 

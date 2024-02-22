@@ -15,6 +15,7 @@
 - Safety Verification of Deep Neural Networks - [[Arxiv](https://arxiv.org/abs/1610.06940)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1610.06940.md)]
 - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based   Localization - [[Arxiv](https://arxiv.org/abs/1610.02391)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1610.02391.md)]
 - Supervision via Competition: Robot Adversaries for Learning Tasks - [[Arxiv](https://arxiv.org/abs/1610.01685)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1610.01685.md)]
+- Funneled Bayesian Optimization for Design, Tuning and Control of   Autonomous Systems - [[Arxiv](https://arxiv.org/abs/1610.00366)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1610.00366.md)]
 
 ### September 2016
 - Multi-view Self-supervised Deep Learning for 6D Pose Estimation in the   Amazon Picking Challenge - [[Arxiv](https://arxiv.org/abs/1609.09475)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1609.09475.md)]
