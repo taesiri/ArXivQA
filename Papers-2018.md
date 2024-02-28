@@ -35,6 +35,7 @@
 - Image Inpainting via Generative Multi-column Convolutional Neural   Networks - [[Arxiv](https://arxiv.org/abs/1810.08771)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1810.08771.md)]
 - Graph HyperNetworks for Neural Architecture Search - [[Arxiv](https://arxiv.org/abs/1810.05749)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1810.05749.md)]
 - BERT: Pre-training of Deep Bidirectional Transformers for Language   Understanding - [[Arxiv](https://arxiv.org/abs/1810.04805)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1810.04805.md)]
+- Batch Active Preference-Based Learning of Reward Functions - [[Arxiv](https://arxiv.org/abs/1810.04303)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1810.04303.md)]
 - Robustness via Retrying: Closed-Loop Robotic Manipulation with   Self-Supervised Learning - [[Arxiv](https://arxiv.org/abs/1810.03043)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1810.03043.md)]
 
 ### September 2018
