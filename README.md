@@ -4,12 +4,14 @@
 - InterroGate: Learning to Share, Specialize, and Prune Representations
   for Multi-task Learning - [[Arxiv](https://arxiv.org/abs/2402.16848)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16848.md)]
 - GROUNDHOG: Grounding Large Language Models to Holistic Segmentation - [[Arxiv](https://arxiv.org/abs/2402.16846)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16846.md)]
+- Neural Operators with Localized Integral and Differential Kernels - [[Arxiv](https://arxiv.org/abs/2402.16845)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16845.md)]
 - Think Big, Generate Quick: LLM-to-SLM for Fast Autoregressive Decoding - [[Arxiv](https://arxiv.org/abs/2402.16844)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16844.md)]
 - Asymmetry in Low-Rank Adapters of Foundation Models - [[Arxiv](https://arxiv.org/abs/2402.16842)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16842.md)]
 - MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT - [[Arxiv](https://arxiv.org/abs/2402.16840)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16840.md)]
 - Do Large Language Models Latently Perform Multi-Hop Reasoning? - [[Arxiv](https://arxiv.org/abs/2402.16837)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16837.md)]
 - PhyGrasp: Generalizing Robotic Grasping with Physics-informed Large
   Multimodal Models - [[Arxiv](https://arxiv.org/abs/2402.16836)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16836.md)]
+- Eight Methods to Evaluate Robust Unlearning in LLMs - [[Arxiv](https://arxiv.org/abs/2402.16835)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16835.md)]
 - Mysterious Projections: Multimodal LLMs Gain Domain-Specific Visual
   Capabilities Without Richer Cross-Modal Projections - [[Arxiv](https://arxiv.org/abs/2402.16832)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16832.md)]
 - SKILL: Similarity-aware Knowledge distILLation for Speech
@@ -24,19 +26,15 @@
 - Nemotron-4 15B Technical Report - [[Arxiv](https://arxiv.org/abs/2402.16819)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16819.md)]
 - Investigating the Effectiveness of HyperTuning via Gisting - [[Arxiv](https://arxiv.org/abs/2402.16817)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16817.md)]
 - Multi-Human Mesh Recovery with Transformers - [[Arxiv](https://arxiv.org/abs/2402.16806)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16806.md)]
+- Set the Clock: Temporal Alignment of Pretrained Language Models - [[Arxiv](https://arxiv.org/abs/2402.16797)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16797.md)]
 - Why Transformers Need Adam: A Hessian Perspective - [[Arxiv](https://arxiv.org/abs/2402.16788)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16788.md)]
+- Political Compass or Spinning Arrow? Towards More Meaningful Evaluations
+  for Values and Opinions in Large Language Models - [[Arxiv](https://arxiv.org/abs/2402.16786)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16786.md)]
 - CARTE: pretraining and transfer for tabular learning - [[Arxiv](https://arxiv.org/abs/2402.16785)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16785.md)]
 - On the Growth of Mistakes in Differentially Private Online Learning: A
   Lower Bound Perspective - [[Arxiv](https://arxiv.org/abs/2402.16778)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16778.md)]
 - A Comprehensive Evaluation of Quantization Strategies for Large Language
   Models - [[Arxiv](https://arxiv.org/abs/2402.16775)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16775.md)]
-- Video-Based Autism Detection with Deep Learning - [[Arxiv](https://arxiv.org/abs/2402.16774)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16774.md)]
-- Unifying Latent and Lexicon Representations for Effective Video-Text
-  Retrieval - [[Arxiv](https://arxiv.org/abs/2402.16769)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16769.md)]
-- CorpusBrain++: A Continual Generative Pre-Training Framework for
-  Knowledge-Intensive Language Tasks - [[Arxiv](https://arxiv.org/abs/2402.16767)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16767.md)]
-- The Door and Drawer Reset Mechanisms: Automated Mechanisms for Testing
-  and Data Collection - [[Arxiv](https://arxiv.org/abs/2402.16759)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2402.16759.md)]
 
 ## List of Papers by Year
 - [Papers for 2024](https://github.com/taesiri/ArXivQA/blob/main/Papers-2024.md)
