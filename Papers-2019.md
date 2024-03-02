@@ -247,5 +247,5 @@
 - A Comprehensive Survey on Graph Neural Networks - [[Arxiv](https://arxiv.org/abs/1901.00596)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00596.md)]
 - Visualizing Deep Similarity Networks - [[Arxiv](https://arxiv.org/abs/1901.00536)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00536.md)]
 - EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning - [[Arxiv](https://arxiv.org/abs/1901.00212)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00212.md)]
-- A Theoretical Analysis of Deep Q-Learning - [[Arxiv](https://arxiv.org/abs/1901.00137)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00137.md)]
 - A Theoretical Analysis of Deep Q-Learning - [[Arxiv](https://arxiv.org/abs/1901.00137v3)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00137v3.md)]
+- A Theoretical Analysis of Deep Q-Learning - [[Arxiv](https://arxiv.org/abs/1901.00137)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/1901.00137.md)]
