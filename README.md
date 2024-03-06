@@ -1,44 +1,41 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
-- Point Could Mamba: Point Cloud Learning via State Space Model - [[Arxiv](https://arxiv.org/abs/2403.00762)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00762.md)]
-- Primal-Dual iLQR - [[Arxiv](https://arxiv.org/abs/2403.00748)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00748.md)]
-- A time-stepping deep gradient flow method for option pricing in (rough)
-  diffusion models - [[Arxiv](https://arxiv.org/abs/2403.00746)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00746.md)]
-- AtP*: An efficient and scalable method for localizing LLM behaviour to
-  components - [[Arxiv](https://arxiv.org/abs/2403.00745)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00745.md)]
-- Dialect prejudice predicts AI decisions about people's character,
-  employability, and criminality - [[Arxiv](https://arxiv.org/abs/2403.00742)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00742.md)]
-- Few-Shot Relation Extraction with Hybrid Visual Evidence - [[Arxiv](https://arxiv.org/abs/2403.00724)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00724.md)]
-- Subhomogeneous Deep Equilibrium Models - [[Arxiv](https://arxiv.org/abs/2403.00720)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00720.md)]
-- Adaptive Learning Rate for Follow-the-Regularized-Leader: Competitive
-  Ratio Analysis and Best-of-Both-Worlds - [[Arxiv](https://arxiv.org/abs/2403.00715)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00715.md)]
-- Path Tracking using Echoes in an Unknown Environment: the Issue of
-  Symmetries and How to Break Them - [[Arxiv](https://arxiv.org/abs/2403.00698)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00698.md)]
-- Self-Consistent Decoding for More Factual Open Responses - [[Arxiv](https://arxiv.org/abs/2403.00696)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00696.md)]
-- Defining Expertise: Applications to Treatment Effect Estimation - [[Arxiv](https://arxiv.org/abs/2403.00694)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00694.md)]
-- Playing NetHack with LLMs: Potential &amp; Limitations as Zero-Shot Agents - [[Arxiv](https://arxiv.org/abs/2403.00690)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00690.md)]
-- Hydra: Computer Vision for Data Quality Monitoring - [[Arxiv](https://arxiv.org/abs/2403.00689)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00689.md)]
-- A Bit of a Problem: Measurement Disparities in Dataset Sizes Across
-  Languages - [[Arxiv](https://arxiv.org/abs/2403.00686)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00686.md)]
-- Know your exceptions: Towards an Ontology of Exceptions in Knowledge
-  Representation - [[Arxiv](https://arxiv.org/abs/2403.00685)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00685.md)]
-- Reusing Historical Trajectories in Natural Policy Gradient via
-  Importance Sampling: Convergence and Convergence Rate - [[Arxiv](https://arxiv.org/abs/2403.00675)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00675.md)]
-- Snapshot Reinforcement Learning: Leveraging Prior Trajectories for
-  Efficiency - [[Arxiv](https://arxiv.org/abs/2403.00673)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00673.md)]
-- Advancing Additive Manufacturing through Deep Learning: A Comprehensive
-  Review of Current Progress and Future Challenges - [[Arxiv](https://arxiv.org/abs/2403.00669)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00669.md)]
-- Modeling the Quality of Dialogical Explanations - [[Arxiv](https://arxiv.org/abs/2403.00662)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00662.md)]
-- Stability-Certified Learning of Control Systems with Quadratic
-  Nonlinearities - [[Arxiv](https://arxiv.org/abs/2403.00646)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00646.md)]
-- Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks - [[Arxiv](https://arxiv.org/abs/2403.00644)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00644.md)]
-- Robust Online Epistemic Replanning of Multi-Robot Missions - [[Arxiv](https://arxiv.org/abs/2403.00641)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00641.md)]
-- Region-Adaptive Transform with Segmentation Prior for Image Compression - [[Arxiv](https://arxiv.org/abs/2403.00628)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00628.md)]
-- Bias Mitigation in Fine-tuning Pre-trained Models for Enhanced Fairness
-  and Efficiency - [[Arxiv](https://arxiv.org/abs/2403.00625)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00625.md)]
-- Advancing dermatological diagnosis: Development of a hyperspectral
-  dermatoscope for enhanced skin imaging - [[Arxiv](https://arxiv.org/abs/2403.00612)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.00612.md)]
+- FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation - [[Arxiv](https://arxiv.org/abs/2403.03221)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03221.md)]
+- LC-Tsalis-INF: Generalized Best-of-Both-Worlds Linear Contextual Bandits - [[Arxiv](https://arxiv.org/abs/2403.03219)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03219.md)]
+- The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning - [[Arxiv](https://arxiv.org/abs/2403.03218)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03218.md)]
+- Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion - [[Arxiv](https://arxiv.org/abs/2403.03217)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03217.md)]
+- A Safety-Critical Framework for UGVs in Complex Environments: A
+  Data-Driven Discrepancy-Aware Approach - [[Arxiv](https://arxiv.org/abs/2403.03215)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03215.md)]
+- Active Statistical Inference - [[Arxiv](https://arxiv.org/abs/2403.03208)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03208.md)]
+- Scaling Rectified Flow Transformers for High-Resolution Image Synthesis - [[Arxiv](https://arxiv.org/abs/2403.03206)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03206.md)]
+- CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially
+  Observable Environments - [[Arxiv](https://arxiv.org/abs/2403.03203)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03203.md)]
+- MAGID: An Automated Pipeline for Generating Synthetic Multi-modal
+  Datasets - [[Arxiv](https://arxiv.org/abs/2403.03194)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03194.md)]
+- Triple-CFN: Restructuring Conceptual Spaces for Enhancing Abstract
+  Reasoning process - [[Arxiv](https://arxiv.org/abs/2403.03190)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03190.md)]
+- Reliable, Adaptable, and Attributable Language Models with Retrieval - [[Arxiv](https://arxiv.org/abs/2403.03187)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03187.md)]
+- Towards General Computer Control: A Multimodal Agent for Red Dead
+  Redemption II as a Case Study - [[Arxiv](https://arxiv.org/abs/2403.03186)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03186.md)]
+- How Well Can Transformers Emulate In-context Newton's Method? - [[Arxiv](https://arxiv.org/abs/2403.03183)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03183.md)]
+- Behavior Generation with Latent Actions - [[Arxiv](https://arxiv.org/abs/2403.03181)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03181.md)]
+- Shuffling Momentum Gradient Algorithm for Convex Optimization - [[Arxiv](https://arxiv.org/abs/2403.03180)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03180.md)]
+- Unifying and Certifying Top-Quality Planning - [[Arxiv](https://arxiv.org/abs/2403.03176)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03176.md)]
+- MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual
+  Prompting - [[Arxiv](https://arxiv.org/abs/2403.03174)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03174.md)]
+- Solving the bongard-logo problem by modeling a probabilistic model - [[Arxiv](https://arxiv.org/abs/2403.03173)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03173.md)]
+- Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning
+  with Goal Imagination - [[Arxiv](https://arxiv.org/abs/2403.03172)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03172.md)]
+- SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context
+  Misinformation Detection - [[Arxiv](https://arxiv.org/abs/2403.03170)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03170.md)]
+- Learning Explicitly Conditioned Sparsifying Transforms - [[Arxiv](https://arxiv.org/abs/2403.03168)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03168.md)]
+- Design2Code: How Far Are We From Automating Front-End Engineering? - [[Arxiv](https://arxiv.org/abs/2403.03163)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03163.md)]
+- PalmProbNet: A Probabilistic Approach to Understanding Palm
+  Distributions in Ecuadorian Tropical Forest via Transfer Learning - [[Arxiv](https://arxiv.org/abs/2403.03161)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03161.md)]
+- Rethinking Clustered Federated Learning in NOMA Enhanced Wireless
+  Networks - [[Arxiv](https://arxiv.org/abs/2403.03157)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03157.md)]
+- Quantum Many-Body Physics Calculations with Large Language Models - [[Arxiv](https://arxiv.org/abs/2403.03154)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.03154.md)]
 
 ## List of Papers by Year
 - [Papers for 2024](https://github.com/taesiri/ArXivQA/blob/main/Papers-2024.md)
