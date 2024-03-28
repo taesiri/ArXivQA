@@ -1,49 +1,46 @@
 # Automated Question Answering with ArXiv Papers
 
 ## Latest 25 Papers
-- Transfer Learning Beyond Bounded Density Ratios - [[Arxiv](https://arxiv.org/abs/2403.11963)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11963.md)]
-- QueryAgent: A Reliable and Efficient Reasoning Framework with
-  Environmental Feedback based Self-Correction - [[Arxiv](https://arxiv.org/abs/2403.11886)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11886.md)]
-- How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming
-  Ability in Multi-Agent Environments - [[Arxiv](https://arxiv.org/abs/2403.11807)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11807.md)]
-- Better (pseudo-)labels for semi-supervised instance segmentation - [[Arxiv](https://arxiv.org/abs/2403.11675)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11675.md)]
-- LocalStyleFool: Regional Video Style Transfer Attack Using Segment
-  Anything Model - [[Arxiv](https://arxiv.org/abs/2403.11656)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11656.md)]
-- Frontier-Based Exploration for Multi-Robot Rendezvous in
-  Communication-Restricted Unknown Environments - [[Arxiv](https://arxiv.org/abs/2403.11617)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11617.md)]
-- UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures
-  for Human Avatar Modeling - [[Arxiv](https://arxiv.org/abs/2403.11589)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11589.md)]
-- DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface
-  Reconstruction - [[Arxiv](https://arxiv.org/abs/2403.11586)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11586.md)]
-- State-Separated SARSA: A Practical Sequential Decision-Making Algorithm
-  with Recovering Rewards - [[Arxiv](https://arxiv.org/abs/2403.11520)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11520.md)]
-- Boosting Order-Preserving and Transferability for Neural Architecture
-  Search: a Joint Architecture Refined Search and Fine-tuning Approach - [[Arxiv](https://arxiv.org/abs/2403.11380)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11380.md)]
-- Driving Style Alignment for LLM-powered Driver Agent - [[Arxiv](https://arxiv.org/abs/2403.11368)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11368.md)]
-- Ensembling and Test Augmentation for Covid-19 Detection and Covid-19
-  Domain Adaptation from 3D CT-Scans - [[Arxiv](https://arxiv.org/abs/2403.11338)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11338.md)]
-- SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant - [[Arxiv](https://arxiv.org/abs/2403.11299)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11299.md)]
-- FORCE: Dataset and Method for Intuitive Physics Guided Human-object
-  Interaction - [[Arxiv](https://arxiv.org/abs/2403.11237)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11237.md)]
-- THOR: Text to Human-Object Interaction Diffusion via Relation
-  Intervention - [[Arxiv](https://arxiv.org/abs/2403.11208)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11208.md)]
-- Neural Markov Random Field for Stereo Matching - [[Arxiv](https://arxiv.org/abs/2403.11193)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11193.md)]
-- 3D Human Reconstruction in the Wild with Synthetic Data Using Generative
-  Models - [[Arxiv](https://arxiv.org/abs/2403.11111)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11111.md)]
-- ProgGen: Generating Named Entity Recognition Datasets Step-by-step with
-  Self-Reflexive Large Language Models - [[Arxiv](https://arxiv.org/abs/2403.11103)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11103.md)]
-- Lost in Translation? Translation Errors and Challenges for Fair
-  Assessment of Text-to-Image Models on Multilingual Concepts - [[Arxiv](https://arxiv.org/abs/2403.11092)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.11092.md)]
-- Quaternion-Based Sliding Mode Control for Six Degrees of Freedom Flight
-  Control of Quadrotors - [[Arxiv](https://arxiv.org/abs/2403.10934)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.10934.md)]
-- Interpretable Machine Learning for TabPFN - [[Arxiv](https://arxiv.org/abs/2403.10923)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.10923.md)]
-- SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data
-  Augmentation - [[Arxiv](https://arxiv.org/abs/2403.10834)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.10834.md)]
-- Enhancing Out-of-Distribution Detection with Multitesting-based
-  Layer-wise Feature Fusion - [[Arxiv](https://arxiv.org/abs/2403.10803)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.10803.md)]
-- From Words to Routes: Applying Large Language Models to Vehicle Routing - [[Arxiv](https://arxiv.org/abs/2403.10795)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.10795.md)]
-- P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap
-  Priors - [[Arxiv](https://arxiv.org/abs/2403.10521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.10521.md)]
+- SLEDGE: Synthesizing Simulation Environments for Driving Agents with
+  Generative Models - [[Arxiv](https://arxiv.org/abs/2403.17933)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17933.md)]
+- The Need for Speed: Pruning Transformers with One Recipe - [[Arxiv](https://arxiv.org/abs/2403.17921)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17921.md)]
+- AgentStudio: A Toolkit for Building General Virtual Agents - [[Arxiv](https://arxiv.org/abs/2403.17918)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17918.md)]
+- CMP: Cooperative Motion Prediction with Multi-Agent Communication - [[Arxiv](https://arxiv.org/abs/2403.17916)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17916.md)]
+- The Unreasonable Ineffectiveness of the Deeper Layers - [[Arxiv](https://arxiv.org/abs/2403.17887)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17887.md)]
+- Empowering Data Mesh with Federated Learning - [[Arxiv](https://arxiv.org/abs/2403.17878)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17878.md)]
+- Addressing Social Misattributions of Large Language Models: An
+  HCXAI-based Approach - [[Arxiv](https://arxiv.org/abs/2403.17873)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17873.md)]
+- ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on
+  Historical American Newspaper Pages - [[Arxiv](https://arxiv.org/abs/2403.17859)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17859.md)]
+- Multi Agent Pathfinding for Noise Restricted Hybrid Fuel Unmanned Aerial
+  Vehicles - [[Arxiv](https://arxiv.org/abs/2403.17849)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17849.md)]
+- ArabicaQA: A Comprehensive Dataset for Arabic Question Answering - [[Arxiv](https://arxiv.org/abs/2403.17848)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17848.md)]
+- Climate Downscaling: A Deep-Learning Based Super-resolution Model of
+  Precipitation Data with Attention Block and Skip Connections - [[Arxiv](https://arxiv.org/abs/2403.17847)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17847.md)]
+- Mechanistic Design and Scaling of Hybrid Architectures - [[Arxiv](https://arxiv.org/abs/2403.17844)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17844.md)]
+- GPFL: A Gradient Projection-Based Client Selection Framework for
+  Efficient Federated Learning - [[Arxiv](https://arxiv.org/abs/2403.17833)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17833.md)]
+- Optical Flow Based Detection and Tracking of Moving Objects for
+  Autonomous Vehicles - [[Arxiv](https://arxiv.org/abs/2403.17779)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17779.md)]
+- SciNews: From Scholarly Complexities to Public Narratives -- A Dataset
+  for Scientific News Report Generation - [[Arxiv](https://arxiv.org/abs/2403.17768)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17768.md)]
+- CCDSReFormer: Traffic Flow Prediction with a Criss-Crossed Dual-Stream
+  Enhanced Rectified Transformer Model - [[Arxiv](https://arxiv.org/abs/2403.17753)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17753.md)]
+- Can multiple-choice questions really be useful in detecting the
+  abilities of LLMs? - [[Arxiv](https://arxiv.org/abs/2403.17752)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17752.md)]
+- UCxn: Typologically Informed Annotation of Constructions Atop Universal
+  Dependencies - [[Arxiv](https://arxiv.org/abs/2403.17748)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17748.md)]
+- Leave No Patient Behind: Enhancing Medication Recommendation for Rare
+  Disease Patients - [[Arxiv](https://arxiv.org/abs/2403.17745)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17745.md)]
+- Masked Autoencoders are PDE Learners - [[Arxiv](https://arxiv.org/abs/2403.17728)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17728.md)]
+- FastPerson: Enhancing Video Learning through Effective Video
+  Summarization that Preserves Linguistic and Visual Contexts - [[Arxiv](https://arxiv.org/abs/2403.17727)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17727.md)]
+- Tiny Models are the Computational Saver for Large Models - [[Arxiv](https://arxiv.org/abs/2403.17726)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17726.md)]
+- Enhanced Short Text Modeling: Leveraging Large Language Models for Topic
+  Refinement - [[Arxiv](https://arxiv.org/abs/2403.17706)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17706.md)]
+- MEP: Multiple Kernel Learning Enhancing Relative Positional Encoding
+  Length Extrapolation - [[Arxiv](https://arxiv.org/abs/2403.17698)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17698.md)]
+- S+t-SNE -- Bringing dimensionality reduction to data streams - [[Arxiv](https://arxiv.org/abs/2403.17643)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.17643.md)]
 
 ## List of Papers by Year
 - [Papers for 2024](https://github.com/taesiri/ArXivQA/blob/main/Papers-2024.md)
