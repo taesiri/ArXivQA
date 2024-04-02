@@ -11,9 +11,12 @@
   Challenge Task 2 - [[Arxiv](https://arxiv.org/abs/2403.19634)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19634.md)]
 - Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in
   Language Models - [[Arxiv](https://arxiv.org/abs/2403.19631)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19631.md)]
+- Metric Learning from Limited Pairwise Preference Comparisons - [[Arxiv](https://arxiv.org/abs/2403.19629)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19629.md)]
 - Top-$k$ Classification and Cardinality-Aware Prediction - [[Arxiv](https://arxiv.org/abs/2403.19625)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19625.md)]
 - RH20T-P: A Primitive-Level Robotic Dataset Towards Composable
   Generalization Agents - [[Arxiv](https://arxiv.org/abs/2403.19622)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19622.md)]
+- Collaborative Interactive Evolution of Art in the Latent Space of Deep
+  Generative Models - [[Arxiv](https://arxiv.org/abs/2403.19620)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19620.md)]
 - SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent
   Objects - [[Arxiv](https://arxiv.org/abs/2403.19607)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19607.md)]
 - Semantic Map-based Generation of Navigation Instructions - [[Arxiv](https://arxiv.org/abs/2403.19603)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19603.md)]
@@ -35,10 +38,6 @@
 - Croissant: A Metadata Format for ML-Ready Datasets - [[Arxiv](https://arxiv.org/abs/2403.19546)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19546.md)]
 - Lamarckian Inheritance Improves Robot Evolution in Dynamic Environments - [[Arxiv](https://arxiv.org/abs/2403.19545)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19545.md)]
 - Model Stock: All we need is just a few fine-tuned models - [[Arxiv](https://arxiv.org/abs/2403.19522)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19522.md)]
-- Interpreting Key Mechanisms of Factual Recall in Transformer-Based
-  Language Models - [[Arxiv](https://arxiv.org/abs/2403.19521)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19521.md)]
-- SineNet: Learning Temporal Dynamics in Time-Dependent Partial
-  Differential Equations - [[Arxiv](https://arxiv.org/abs/2403.19507)] [[QA](https://github.com/taesiri/ArXivQA/blob/main/papers/2403.19507.md)]
 
 ## List of Papers by Year
 - [Papers for 2024](https://github.com/taesiri/ArXivQA/blob/main/Papers-2024.md)
