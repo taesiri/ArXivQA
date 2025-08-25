@@ -65,3 +65,13 @@
 
 ## Acknowledgements
 This project is made possible through the generous support of [Anthropic](https://www.anthropic.com/), who provided free access to the `Claude-2.1` API.
+
+## License
+
+## License Map
+
+| Scope | What | License |
+| --- | --- | --- |
+| Code | Automation code | **Apache-2.0** |
+| Generated text (`summaries/`, `qa/`) | Summaries & Q&A (AI-assisted) | **CC BY 4.0** |
+| Third-party papers (e.g., arXiv) | Metadata + links only | **Original authors’ terms** |
